@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Culture of Excellence/.keep
       - Principal's Welcome.md
