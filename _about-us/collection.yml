@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - Culture of Excellence/History of Victoria.md
       - Culture of Excellence/.keep
       - Principal's Welcome.md
