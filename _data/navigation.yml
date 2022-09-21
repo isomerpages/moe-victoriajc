@@ -4,3 +4,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: Menu Title
+    collection: our-staff
