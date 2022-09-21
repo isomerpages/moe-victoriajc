@@ -2,5 +2,6 @@ collections:
   learn-like-a-victorian:
     output: true
     order:
+      - Talent Development Programme/Talent Development Programme.md
       - Talent Development Programme/.keep
       - Academic Disciplines.md
