@@ -2,9 +2,9 @@ collections:
   admissions:
     output: true
     order:
-      - International Students & Returning Singaporeans.md
-      - Victoria & Cedar Alliance.md
-      - Direct School Admissions Applications.md
-      - Direct School Admissions (DSA).md
-      - Joint Admissions Exercise (JAE).md
       - Admissions.md
+      - Joint Admissions Exercise (JAE).md
+      - Direct School Admissions (DSA).md
+      - Direct School Admissions Applications.md
+      - Victoria & Cedar Alliance.md
+      - International Students & Returning Singaporeans.md
