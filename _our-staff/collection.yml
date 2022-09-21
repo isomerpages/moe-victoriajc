@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Administration.md
       - Our Staff.md
