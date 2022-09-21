@@ -1,4 +1,5 @@
 collections:
   learn-like-a-victorian:
     output: true
-    order: []
+    order:
+      - Academic Disciplines.md
