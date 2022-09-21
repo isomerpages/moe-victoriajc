@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - JC 2 Civics Tutors.md
       - JC 1 Civics Tutors.md
       - Key Appointment Holders.md
       - Administration.md
