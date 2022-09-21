@@ -1,4 +1,5 @@
 collections:
   our-staff:
     output: true
-    order: []
+    order:
+      - Our Staff.md
