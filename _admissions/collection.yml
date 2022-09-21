@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Joint Admissions Exercise (JAE).md
       - Admissions.md
