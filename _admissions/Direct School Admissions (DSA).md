@@ -32,3 +32,11 @@ The DSA talent areas for the 2022 DSA-JC Admission Exercise are listed below. Th
 *   Track & Field
 *   Volleyball
 *   Wushu
+
+### Niche Academic Programmes
+
+*   Drama Elective Programme (DEP)
+*   Humanities Programme
+*   Infocomm Technology (Computing)
+*   Science Research
+
