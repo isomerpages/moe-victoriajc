@@ -51,3 +51,9 @@ We are holding Tea Sessions for the new Niche Academic Programmes DSA! Attendanc
   </tr>
 </thead>
 </table>
+
+### Performing Arts
+
+Selection will be based on a basket of criteria for the respective talent area.
+
+Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact applicants to confirm the date and time allocated.
