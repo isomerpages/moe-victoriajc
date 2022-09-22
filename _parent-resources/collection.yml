@@ -1,4 +1,5 @@
 collections:
   parent-resources:
     output: true
-    order: []
+    order:
+      - A Level Timetable.md
