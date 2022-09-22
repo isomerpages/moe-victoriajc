@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Leadership.md
-      - Student Leadership/.keep
       - Live like a Victorian.md
       - Co Curricular activities/.keep
       - Co Curricular activities/Co Curricular Activities.md
