@@ -1,0 +1,4 @@
+collections:
+  a-level-timetable:
+    output: true
+    order: []
