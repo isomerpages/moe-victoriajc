@@ -2,6 +2,7 @@ collections:
   live-like-a-victorian:
     output: true
     order:
+      - Student Leadership.md
       - Student Leadership/.keep
       - Live like a Victorian.md
       - Co Curricular activities/.keep
