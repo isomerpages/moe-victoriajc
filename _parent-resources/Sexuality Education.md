@@ -17,3 +17,13 @@ iii. Make responsible decisions for yourself, your family and society; and <br>
 iv. Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+
+### OVERVIEW OF VICTORIA JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2022
+
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
+
+### Sexuality Education:
+
+5.  The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.
+
+**At Victoria Junior College, the following Sexuality Education lessons will be taught in 2022:**
