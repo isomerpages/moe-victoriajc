@@ -29,10 +29,20 @@ Having the critical and inventive thinking to set strategic direction and break 
  
 At VJC, leadership development is opportunities can be found in the following domains:
 
-### Student Council
+**Student Council**
 
-### CCA Leaders
+Student Councillors are at the forefront of service and leadership among the student body, and serve the college and community in various ways. They carry out initiatives to better student life, organise collegewide activities, and keep the Victorian spirit at a constant high. The Student Councillor’s journey is one that is challenging, yet extremely fulfilling.
 
-### Class Leaders
+**CCA Leaders**
 
-### Other Opportunities 
+Our CCA leaders also play a big part in enhancing student life. They not only forge meaningful networks with their peers but also learn how to overcome challenges, craft creative solutions, and undertake decisions that will shape the experiences of the college community.
+
+**Class Leaders**
+
+At the heart of all interactions in the College is the classroom, and class leaders play a very important role in promoting a dynamic and caring class culture. Students step forward readily to perform the role of class, subject, or Active Citizenry representatives to complete the Victorian experience.
+
+**Other Opportunities**
+
+At VJC, we believe in experiential learning in developing leaders. Many opportunities are created for Victorians to develop themselves. These include the FACES during Open House, Orientation Group Leaders, as well as the Peer Support Leaders. Students also lead in various projects, be these self-initiated, class or college-wide projects.
+
+VJC organises an annual Leadership Week which comprises a series of talks and activities to help students gain a more holistic understanding of leadership. We also believe in encouraging students to share their leadership experiences and insights with their peers through Personal Voice sharings at assemblies.
