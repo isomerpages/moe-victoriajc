@@ -1,4 +1,5 @@
 collections:
   live-like-a-victorian:
     output: true
-    order: []
+    order:
+      - Live like a Victorian.md
