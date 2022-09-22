@@ -5,6 +5,11 @@ description: ""
 ---
 Visit these websites for more useful information to support your child's learning and growth. Click here to equip yourself with skills and knowledge to parent confidently!
 
+<strong> more than 5MB</strong>
+<a href="">
+<img src="/images/Post%20A%20level%20guide.png" style="width:25%">
+</a>
+
 <a href="/files/Resilience-Resources_for-parents_final.pdf">
 <img src="/images/resilience.png" style="width:25%">
 </a>
@@ -39,3 +44,9 @@ Visit these websites for more useful information to support your child's learnin
 <a href="/parents/sexuality-education-in-schools/">
 <img src="/images/sexuality%20education%201.png" style="width:25%">
 </a>
+
+<strong> more than 5MB</strong>
+<a href="/parents/parent-gateway-mobile-app/">
+<img src="/images/student%20handbook.png" style="width:25%">
+</a>
+
