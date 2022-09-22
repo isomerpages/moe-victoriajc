@@ -48,4 +48,24 @@ Bandung, Indonesia </strong> </figcaption>
 
 </figure>
 
+### CCA Learning Journeys
+
+
+<figure>
+
+<img src="/images/Astronomy-Field-Trip-2.jpg">
+
+<figcaption> <strong>Astronomy Field Trip<br>
+Mersing, Malaysia</strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Hockey-Trip-2.jpg">
+
+<figcaption> <strong>Hockey Exchange Trip<br>
+Penang, Malaysia</strong> </figcaption>
+
+</figure>
 
