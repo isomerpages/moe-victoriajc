@@ -28,3 +28,24 @@ Hiroshima & Kyoto, Japan </strong> </figcaption>
 Suzhou & Shanghai, China </strong> </figcaption>
 
 </figure>
+
+
+<figure>
+
+<img src="/images/Hangzhou-Learning-Journey-2.jpg">
+
+<figcaption> <strong> Learning Journey to China<br>
+Hangzhou & Shanghai, China </strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Regional-Studies-Programme-2.jpg">
+
+<figcaption> <strong> Regional Studies Programme<br>
+Bandung, Indonesia </strong> </figcaption>
+
+</figure>
+
+
