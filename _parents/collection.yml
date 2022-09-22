@@ -2,5 +2,5 @@ collections:
   parents:
     output: true
     order:
-      - Parents Support Group.md
       - Parents.md
+      - Parents Support Group.md
