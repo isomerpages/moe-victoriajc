@@ -20,4 +20,3 @@ Visit these websites for more useful information to support your child's learnin
 <a href="https://www.instagram.com/parentingwith.moesg/">
 <img src="/images/instagram.png" style="width:25%">
 </a>
-
