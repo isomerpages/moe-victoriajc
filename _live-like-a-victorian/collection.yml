@@ -2,11 +2,11 @@ collections:
   live-like-a-victorian:
     output: true
     order:
-      - Character Development/Beyond Borders.md
-      - Character Development/Active Citizenry.md
-      - Character Development/Civics.md
-      - Character Development/Character Development Programme.md
       - Character Development/.keep
+      - Character Development/Character Development Programme.md
+      - Character Development/Civics.md
+      - Character Development/Active Citizenry.md
+      - Character Development/Beyond Borders.md
       - Co Curricular activities/.keep
       - Co Curricular activities/Co Curricular Activities.md
       - Co Curricular activities/Clubs & Socities.md
