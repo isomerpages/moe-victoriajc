@@ -28,7 +28,17 @@ Visit these websites for more useful information to support your child's learnin
 </a>
 
 
+<a href="/parents/a-level-timetable/">
+<img src="/images/a%20level%20timetable.png" style="width:25%">
+</a>
+
+<a href="/parents/a-level-timetable/">
+<img src="/images/parent%20gateway.png" style="width:25%">
+</a>
 
 <a href="/parents/a-level-timetable/">
 <img src="/images/a%20level%20timetable.png" style="width:25%">
 </a>
+
+
+
