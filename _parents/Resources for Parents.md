@@ -16,3 +16,7 @@ Visit these websites for more useful information to support your child's learnin
 <a href="/files/GPA-Product-Fact-Sheet-2022.pdf">
 <img src="/images/insurance%20plan.png" style="width:25%">
 </a>
+
+<a href="https://www.instagram.com/parentingwith.moesg/">
+<img src="/images/instagram.png" style="width:25%">
+</a>
