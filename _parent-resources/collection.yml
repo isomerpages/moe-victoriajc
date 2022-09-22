@@ -2,5 +2,5 @@ collections:
   parent-resources:
     output: true
     order:
-      - Watching for Distress.md
       - A Level Timetable.md
+      - Watching for Distress.md
