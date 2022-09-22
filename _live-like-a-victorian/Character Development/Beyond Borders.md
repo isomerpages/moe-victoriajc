@@ -86,3 +86,25 @@ Taichung, Taiwan</strong> </figcaption>
 Bangkok, Thailand</strong> </figcaption>
 
 </figure>
+
+### Overseas Values-in-action
+
+<figure>
+
+<img src="/images/Overseas-VIA-2.jpg">
+
+<figcaption> <strong>Overseas VIA<br>
+Kampung Cham, Cambodia</strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Students-Council-OVIA.jpg">
+
+<figcaption> <strong>Students’ Council OVIA<br>
+Siem Reap, Cambodia</strong> </figcaption>
+
+</figure>
+
+
