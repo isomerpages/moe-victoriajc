@@ -69,3 +69,20 @@ Penang, Malaysia</strong> </figcaption>
 
 </figure>
 
+<figure>
+
+<img src="/images/ODAC-Taiwan-2.jpg">
+
+<figcaption> <strong>ODAC Expedition<br>
+Taichung, Taiwan</strong> </figcaption>
+
+</figure>
+
+<figure>
+
+<img src="/images/Volleyball-Trip-2.jpg">
+
+<figcaption> <strong>Volleyball Exchange Trip<br>
+Bangkok, Thailand</strong> </figcaption>
+
+</figure>
