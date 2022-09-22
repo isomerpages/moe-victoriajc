@@ -2,6 +2,7 @@ collections:
   live-like-a-victorian:
     output: true
     order:
+      - Character Development/.keep
       - Co Curricular activities/.keep
       - Co Curricular activities/Co Curricular Activities.md
       - Co Curricular activities/Clubs & Socities.md
