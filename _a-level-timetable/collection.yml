@@ -1,5 +1,4 @@
 collections:
   a-level-timetable:
     output: true
-    order:
-      - A Level Timetable.md
+    order: []
