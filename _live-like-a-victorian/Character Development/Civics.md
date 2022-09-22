@@ -26,3 +26,15 @@ Possible discussion topics for Connect 2
 		 
 At VJC, Civics lessons are time-tabled curriculum time for Character and Citizenship Education (CCE) lessons. It aims to promote dialogue through a wide range of discussion topics.
 
+<img src="/images/feeling%20fab%20day.png" 
+     style="width:50%">
+		 
+Feeling Fab is a day of fun, learning and enjoyment organised by the Civics Committee for JC1 students. Students get to select from a range of activities and participate in the activity of their choice as a class. This is an excellent opportunity for class bonding. Feeling Fab provides an avenue where the school supports and encourages them to go beyond their zone of experience and try things they normally would not do.
+
+<img src="/images/sexuality%20education.png" 
+     style="width:50%">
+
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law
+
+You may click [here](https://victoriajc.moe.edu.sg/parents/sexuality-education-in-schools/) for more information on MOE Sexuality Education.
+
