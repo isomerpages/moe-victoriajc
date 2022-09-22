@@ -75,3 +75,82 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-2k4o{background-color:#F5F6F5;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold;font-style:inherit">Junior College 2</span><br><br><span style="font-weight:inherit;font-style:inherit">“Love Matters (2nd Edition)” Teaching &amp; Learning resource package</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:700">UNIT</span></td>
+    <td class="tg-apyk"><span style="font-weight:700">LESSONS / DURATION</span></td>
+    <td class="tg-apyk"><span style="font-weight:700">LESSON OBJECTIVES</span><br><span style="font-weight:700">At the end of the lesson, students will be able to:</span></td>
+    <td class="tg-apyk"><span style="font-weight:700">TIME PERIOD</span><br><span style="font-weight:700">(e.g. Term 1 Week 4)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2k4o" rowspan="2"><span style="font-weight:400;font-style:inherit">Lessons about Love (Part 7)</span></td>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">4</span><br><span style="font-weight:400;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">- identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship</span><br><span style="font-weight:inherit;font-style:inherit">- appreciate that one can emerge stronger despite having gone through a breakup</span><br><span style="font-weight:inherit;font-style:inherit">- explore beliefs about marriage</span><br><span style="font-weight:inherit;font-style:inherit">- know the possible psychological impact on children experiencing parental separation or divorce</span><br><span style="font-weight:inherit;font-style:inherit">- recognise the importance of having family support for a relationship</span><br><span style="font-weight:inherit;font-style:inherit">- aspire to develop similar enduring character traits and qualities that one would consider in a life partner</span><br><span style="font-weight:inherit;font-style:inherit">- appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</span></td>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">Term 2 Week 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">5</span><br><span style="font-weight:400;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">- recognise that personal decisions on how one displays own affections in public can affect others</span><br><span style="font-weight:inherit;font-style:inherit">- discern the impact of new media on relationship building</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Term 2 Week 9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">NA</span></td>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">6</span><br><span style="font-weight:400;font-style:inherit">(60 mins)</span></td>
+    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</span></td>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">Term 2 Week 10</span></td>
+  </tr>
+</tbody>
+</table>
+
+### eTeens Programme:
+
+6.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+
+7.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Victoria Junior College, the eTeens programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-6lna{background-color:#F5F6F5;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-2k4o{background-color:#F5F6F5;color:#3A3A3A;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-apyk"><span style="font-weight:700">Topics/Lessons</span></th>
+    <th class="tg-apyk"><span style="font-weight:700">Programme Learning Objectives</span></th>
+    <th class="tg-apyk"><span style="font-weight:bold;font-style:inherit">Time Period</span><br><span style="font-weight:bold;font-style:inherit">(e.g. Term 3 Week 2)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2k4o"><span style="font-weight:400;font-style:inherit">Mass Talk by HPB appointed vendor </span></td>
+    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">- Awareness of the different STI and HIV</span><br><span style="font-weight:inherit;font-style:inherit">- Modes of transmission for STI and HIV</span><br><span style="font-weight:inherit;font-style:inherit">- Modes of protection against infection, specifically abstinence and the correct use of condom</span><br><span style="font-weight:inherit;font-style:inherit">- Consequences and impact of STI/HIV</span><br><span style="font-weight:inherit;font-style:inherit">- State the ways of managing the impact</span></td>
+    <td class="tg-6lna"><span style="font-weight:inherit;font-style:inherit">Term 2 Week 6</span></td>
+  </tr>
+</tbody>
+</table>
