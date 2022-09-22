@@ -36,7 +36,6 @@ Visit these websites for more useful information to support your child's learnin
 <img src="/images/parent%20gateway.png" style="width:25%">
 </a>
 
-<a href="/parents/a-level-timetable/">
+<a href="/parents/sexuality-education-in-schools/">
 <img src="/images/sexuality%20education%201.png" style="width:25%">
 </a>
-
