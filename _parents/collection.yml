@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Resources for Parents.md
       - Parents.md
       - Parents Support Group.md
