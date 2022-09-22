@@ -37,4 +37,3 @@ Feeling Fab is a day of fun, learning and enjoyment organised by the Civics Comm
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law
 
 You may click [here](https://victoriajc.moe.edu.sg/parents/sexuality-education-in-schools/) for more information on MOE Sexuality Education.
-
