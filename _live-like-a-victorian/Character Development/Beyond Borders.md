@@ -20,3 +20,11 @@ Hiroshima & Kyoto, Japan </strong> </figcaption>
 
 </figure>
 
+<figure>
+
+<img src="/images/Suzhou-Learning-Journey-2.jpg">
+
+<figcaption> <strong> Learning Journey to China<br>
+Suzhou & Shanghai, China </strong> </figcaption>
+
+</figure>
