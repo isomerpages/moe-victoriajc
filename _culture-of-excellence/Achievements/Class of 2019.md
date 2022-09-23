@@ -25,3 +25,7 @@ _Nil Sine_ _Labore_!
 ### Outstanding Students
 
 _Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_ **_V_**_isionary_ _leadership and_ **_E_**_xtraordinary service”._
+
+<span style="font-size: 34px;"><strong>Legendary Spirit (Sporting Excellence)<br>Mikail Sumono Ramli, 19S44<br>Deseree Khor You Li, 19S35
+</strong></span>
+
