@@ -1,5 +1,4 @@
 collections:
   our-staff:
     output: true
-    order:
-      - JC 2 Civics Tutors.md
+    order: []
