@@ -45,3 +45,55 @@ Kiran served on the Students’ Council’s Executive Committee as General Secre
 Both Gilda and Kiran shared the belief that VJC is more than the sum of its parts. They were unstinting in their mentorship of their juniors during CLiC (Connecting Leaders in Camp), in hopes of supporting the next generation of student leaders.
 
 In the course of their dedicated service to the College, they wholeheartedly supported others in their endeavours, and have inspired succeeding batches of student-leaders. For their dedication in serving the college and community, they have both been recently awarded the Goh Chok Tong NextGen Outstanding Leader Award. Indeed, they have shown why Victoria is truly something more.
+
+*****
+
+<span style="font-size: 34px;"><strong>Lukas Ho, 20S47<br>
+(Victoria School)</strong></span>
+
+<img src="/images/Lukas.png" 
+     style="width:75%">
+
+With a keen eye for detail and passion for cinematography, Lukas produced videos that his schoolmates found inspiring. Leading his peers in StudioV, Lukas worked tirelessly to capture the vibrant highlights of College life, such as the Singapore Youth Festival Arts Presentation performances and Open House publicity videos. Lukas also led the production of Virtuosity, a virtual concert stitched together to showcase performances of all the performing arts groups.
+
+As Chairperson of StudioV, Lukas took it upon himself to help and galvanised his peers, as he truly believed much more could be achieved as a team. He led by example by arriving early for shoots to ensure filming started on time, and was always the last person to leave. Lukas was not just an aspiring videographer, he dared to push his boundaries. He started his own media company while juggling his studies and transferred the skills he learnt to help uplift his CCA.
+
+Driven by an innate desire to empower others, Lukas initiated Project UNITE, a campaign to allow Victorians to show their appreciation and respect for COVID-19 frontline workers. Lukas also joined the Singapore Civil Defence Force Community First Responder Programme, as he wanted to be a part of a community that responds to fire outbreaks and cardiac arrest cases, further showcasing his inherent motivation to help others in the community.
+
+Lukas demonstrated tremendous grit and determination in balancing his academics, CCA and his media company, while also looking for opportunities to serve the community.
+
+*****
+
+<span style="font-size: 34px;"><strong>Ayesha Faizal Ashral, 20A14<br>
+(Tanjong Katong Girls’ School)</strong></span>
+
+<img src="/images/Ayesha.png" 
+     style="width:75%">
+		 
+In 2019, Ayesha sat for the O-Level examinations for the second time. Trepidation turned to joy when she received a stellar set of results which got her into Victoria Junior College. Her achievement was testament to her resilience and hard work, and sweet reward for her supportive family.
+
+Ayesha had a finger on the pulse of College life as the Chairperson of the Harmonica Band. During the weeks leading up to their performance at the 2021 Singapore Youth Festival Arts Presentation, she rallied her team together and inspired them to give a performance that they could all be proud of. In addition, she led her class in activities, such as Chinese New Year celebrations and Victorian Affair. Ayesha was thus selected to be a facilitator at CLiC (Connecting Leaders in Camp), to share her leadership experiences and insights with her juniors.
+
+A strong-minded individual with a warm heart, Ayesha contributed to the community. Along with her classmates, she participated in the National Youth Upcycling Movement in 2020. She also participated in the Chinese New Year Food Drive in 2021.  
+Ayesha was truly a leader whom her peers looked to for direction and leadership.
+
+*** 
+
+<span style="font-size: 34px;"><strong>Amsyar bin Rohaizan, 20S52<br>
+(Ngee Ann Secondary School)</strong></span>
+
+<span style="font-size: 34px;"><strong>Aw Shuo Jie, 20S51<br>
+(Victoria School)</strong></span>
+
+<img src="/images/Amsyar-Shuo-Jie.png" 
+     style="width:75%">
+		 
+As sports captains, Amsyar and Shuo Jie led their respective teams with purpose and conviction.
+
+Amsyar was the gregarious and charismatic Captain of the Basketball Boys’ Team and played an integral role in building team camaraderie. Though the pandemic deprived them of competition opportunities, he was determined to maintain the rigour of training, so as to improve on the team’s technique, tactics and dynamics. In addition, Amsyar was the Chairperson of the Malay Cultural Society (MCS), whose 50-strong members devoted themselves to promoting appreciation for Malay Culture. Under his helmsmanship, MCS taught the Victorian community more about the Jawi script, silat, traditional Malay dance and music, thus facilitating cross-cultural awareness. An MCS values-in-action project also saw Amsyar and his team using ingenious methods, such as Minecraft and wayang kulit, to tell stories to the beneficiaries of Jamiyah Children’s Home, bringing joy in the midst of the pandemic.
+
+Shuo Jie was the dedicated Captain of the Volleyball Boys’ Team and always placed the needs of others before himself. Although he sustained an injury that prevented him from playing in the 2021 National School Games, he maintained a cheerful disposition, was present for trainings and motivated his teammates throughout the competition season. As Captain, Shuo Jie adopted an inclusive approach to leadership, ensuring the team was well-bonded regardless of seniority and experience. He leveraged on each player’s individual strengths to create greater synergy within the team during their matches. His leadership was seen on and off court, as he was always a reliable captain and friend. Shuo Jie's compassionate nature was also evident in his involvement in the College’s Pets and Animal Welfare Society, primarily in raising awareness of animal welfare to the student population.
+
+While the pandemic placed many constraints on our student athletes, Amsyar and Shuo Jie demonstrated the grit and endurance of the finest sportsmen.
+
+
