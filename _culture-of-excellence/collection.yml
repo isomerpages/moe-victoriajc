@@ -2,6 +2,7 @@ collections:
   culture-of-excellence:
     output: true
     order:
+      - Achievements/Achievements.md
       - Achievements/.keep
       - School Awards.md
       - History of Victoria.md
