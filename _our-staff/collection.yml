@@ -2,7 +2,6 @@ collections:
   our-staff:
     output: true
     order:
-      - Administration.md
       - Key Appointment Holders.md
       - Departments.md
       - JC 1 Civics Tutors.md
