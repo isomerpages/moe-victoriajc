@@ -2,4 +2,5 @@ collections:
   culture-of-excellence:
     output: true
     order:
+      - School Awards.md
       - History of Victoria.md
