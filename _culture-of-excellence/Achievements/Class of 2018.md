@@ -73,3 +73,34 @@ As the Vice-Chairperson of iGlobe, Ge Shu helped to organise the 2019 Singapore 
 A modern Renaissance woman cultivated in the laboratories of VJC and who has gone on to paint the world’s canvas in bold hues, Ge Shu is a Victorian who has kept our college flag unfurled.
 
 *“My teachers were always very patient and my peers cheered me on when I felt tired and wanted to give up. At VJC, it was like having a huge family with me, giving me the support I needed to continue my venture forward!”*
+
+***
+
+
+<span style="font-size: 34px;"><strong>The Fleet-Footed Sportsman<br>Amir Hafiz B Rohaimi, 18S61<br>(St. Patrick’s School)
+</strong></span>
+
+<img src="/images/VJC_Amir_9852-768x1152.jpg" 
+     style="width:60%">
+		 
+Amir entered VJC via the Direct School Admissions Exercise and became an integral member of the VJC sporting community. A member of the Cross Country Team, he participated in the 2019 WINGS Cross Country Championships and achieved a third runner-up team placing at the 2019 National School Games ‘A’ Division Cross Country Championships.
+
+Amir also made the starting line-up for the National School Games ‘A’ Division Football Championships. The boys soccer team did the college proud by emerging champion in 2018 and first runner-up in 2019.
+
+A warm and kind-hearted individual, Amir believed in the importance of giving back to the community. Together with his class, he completed a Values-in-Action project at the Tembusu Senior Activity Centre.
+
+*“VJC and Mr Tan Yew Hwee played a significant role in my growth as a student and more importantly as a person. Grades are important, of course, and we see this in the college’s consistently excellent results. But I will also always remember the great emphasis placed on character, too.”*
+
+*** 
+
+<span style="font-size: 34px;"><strong>The Critical Thinker<br>Benedict Chang Yew Kit, 18A13<br>(Anglican High School)
+</strong></span>
+
+<img src="/images/VJC_Benedict_9716-768x1152.jpg" 
+     style="width:60%">
+		 
+A recipient of the MOE Humanities Scholarship, Benedict is a man of the arts. He was Chairperson of Writers’ Circle, organising many of the club’s key events to promote a love of the literary arts. He was a thoughtful leader who was humble and honest in his dealings with peers and teachers.
+
+As a member of iGlobe, Benedict also participated in different Model United Nations conferences and chaired the Singapore Model Cabinet in 2019. His involvement in such activities helped him to grow as a critical and inventive thinker and develop as a global citizen.
+
+*“The friends and teachers I’ve had the privilege of interacting with over these two years have sharpened my thinking and expanded my outlook, serving as irreplaceable catalysts for personal growth and insight.”*
