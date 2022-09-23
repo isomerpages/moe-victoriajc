@@ -55,3 +55,21 @@ At the 2019 National School Games Championship, Kampton broke the U19/U20/U23 na
 Kampton is truly an inspiring athlete who sets high standards for himself and strives to achieve them each time. His biggest aspiration is to compete in the Olympic Games and he has already set his sights on Paris 2024!
 
 *“I want to thank Ms Ek who was supportive once she knew of my decision to compete at the Youth Olympic Games and the ASEAN School Games, Mrs Cindy Loh and my Project Work teammates who were so understanding, Mr Aaron Lim who took personal time out to coach me in Chemistry, Ms Evelyn Teoh who helped me arrange for extra help and make-up lessons and Mr Ho Wei Kang who helped me with Mathematics.”*
+
+***
+
+<span style="font-size: 34px;"><strong>The Modern Renaissance Woman<br>Ge Shu, 18S55 <br>(Singapore Chinese Girls’ School)
+</strong></span>
+
+<img src="/images/VJC_GeShu_9784-768x1152.jpg" 
+     style="width:60%">
+		 
+A passionate young scientist, Ge Shu participated in the Nanyang Research Programme in 2019, where she attained a Gold Award. She was also an accomplished contestant at national and international science and mathematics competitions, including the 2019 Asian Physics Olympiad, where she was recognised as the Best Female Performer.
+
+At the same time, Ge Shu is a talented artist whose beautiful masterpiece won her the First Prize at the 2018 Yan Yuan Bei International Youth Chinese Calligraphy and Painting Competition.
+
+As the Vice-Chairperson of iGlobe, Ge Shu helped to organise the 2019 Singapore Model Cabinet. Desirous to give back to society and advocate for change, she embarked on a Citi-YMCA Youth for Causes project to raise awareness for the Children’s Cancer Society.
+
+A modern Renaissance woman cultivated in the laboratories of VJC and who has gone on to paint the world’s canvas in bold hues, Ge Shu is a Victorian who has kept our college flag unfurled.
+
+*“My teachers were always very patient and my peers cheered me on when I felt tired and wanted to give up. At VJC, it was like having a huge family with me, giving me the support I needed to continue my venture forward!”*
