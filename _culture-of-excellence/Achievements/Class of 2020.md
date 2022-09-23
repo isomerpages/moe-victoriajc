@@ -96,4 +96,26 @@ Shuo Jie was the dedicated Captain of the Volleyball Boys’ Team and always pla
 
 While the pandemic placed many constraints on our student athletes, Amsyar and Shuo Jie demonstrated the grit and endurance of the finest sportsmen.
 
+***
 
+<span style="font-size: 34px;"><strong>Tian Jiarui, 20S44<br>
+(Anglican High School)</strong></span>
+
+<span style="font-size: 34px;"><strong>Mok Siew Yen Kayleigh, 20A14<br>
+(Tanjong Katong Girls’ School)</strong></span>
+
+<span style="font-size: 34px;"><strong>Lim Lyn-Zhou, 20S61<br>
+(Victoria School)</strong></span>
+
+<img src="/images/Jiarui-Lyn-Zhou-Kayleigh.png" 
+     style="width:75%">
+
+As the Ad-Hoc heads for VJC’s e-Open House in 2021, both Kayleigh and Lyn-Zhou had the mammoth task of producing an Open House that was very different from the past, in that it had to go online. However, far beyond simply organising a virtual school tour, the duo led their team to design a virtual experience that was truly “Something More” – an innovative, interactive and “ridiculously detailed” replica of the school campus on Minecraft, which even caught the attention of local news outlets.
+
+e-Open House was also made possible by VJC FACEs, such as House Captain Tian Jiarui. His candid sharing about his experiences added a personal touch to a socially-distanced virtual affair. Jiarui was also a key member of the VJC’s badminton team, whose technical skills impressed and whose positive vibes helped keep their spirits high.
+
+A well-respected member of the Student’s Council, Kayleigh worked with her fellow councillors on countless other school-wide initiatives beyond her Open House exploits, such as Orientation, MusicFest and the Seniors’ Farewell Assembly. While excelling academically in the prestigious MOE Humanities Scholarship Programme, Kayleigh never shied away from doing more for her community too, participating in projects like the 2020 National Youth Upcycling Movement to turn used products into new everyday items.
+
+Lyn-Zhou shouldered heavy responsibilities as Chief Photographer in the Photography Society, and as a member of both the Malay Cultural Society and Student Council’s Welfare Committee. In addition to serving the student body, Lyn-Zhou also carved out time to embark on numerous VIA projects, which allowed him to apply his learning to help address the needs of the real world. For his academic excellence and outstanding co-curricular achievements, Lyn-Zhou was awarded the VJC Scholarship in 2021.
+
+Going above and beyond, and putting others before themselves, Kayleigh, Lyn-Zhou and Jiarui have truly served with their heads, hearts and hands.
