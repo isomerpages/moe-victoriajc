@@ -2,6 +2,7 @@ collections:
   culture-of-excellence:
     output: true
     order:
+      - Achievements/Class of 2020.md
       - Achievements/Achievements.md
       - Achievements/.keep
       - School Awards.md
