@@ -1,4 +1,5 @@
 collections:
   culture-of-excellence:
     output: true
-    order: []
+    order:
+      - History of Victoria.md
