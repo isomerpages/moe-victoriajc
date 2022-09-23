@@ -2,11 +2,11 @@ collections:
   our-people:
     output: true
     order:
-      - Victoria Advisory Committee.md
+      - Our Staff/.keep
       - Our Staff/JC 2 Civics Tutors.md
       - Our Staff/JC 1 Civics Tutors.md
       - Our Staff/Departments.md
       - Our Staff/Key Appointment Holders.md
       - Our Staff/Administration.md
       - Our Staff/Our Staff.md
-      - Our Staff/.keep
+      - Victoria Advisory Committee.md
