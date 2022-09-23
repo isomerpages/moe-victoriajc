@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Culture of Excellence/.keep
-      - Culture of Excellence/School Awards.md
       - Principal's Welcome.md
