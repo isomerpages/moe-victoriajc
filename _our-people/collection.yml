@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Our Staff/Key Appointment Holders.md
       - Our Staff/Administration.md
       - Our Staff/Our Staff.md
       - Our Staff/.keep
