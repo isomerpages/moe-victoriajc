@@ -2,7 +2,6 @@ collections:
   our-staff:
     output: true
     order:
-      - Our Staff.md
       - Administration.md
       - Key Appointment Holders.md
       - Departments.md
