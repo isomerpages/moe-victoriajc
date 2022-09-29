@@ -2,5 +2,6 @@ collections:
   alumni:
     output: true
     order:
+      - Organising a Reunion.md
       - Old Victorians’ Association (OVA).md
       - Alumni.md
