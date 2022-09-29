@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 B
 
-<ul>
+<ul class="jekyllcodex_accordion">
 
 <li>
 
