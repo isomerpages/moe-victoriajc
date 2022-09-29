@@ -2,6 +2,7 @@ collections:
   alumni:
     output: true
     order:
+      - Alumni Feature.md
       - Passing the Torch.md
       - Organising a Reunion.md
       - Old Victorians’ Association (OVA).md
