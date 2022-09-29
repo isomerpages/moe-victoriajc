@@ -2,6 +2,12 @@ collections:
   our-people:
     output: true
     order:
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/Administration.md
+      - Our Staff/Key Appointment Holders.md
+      - Our Staff/JC 1 Civics Tutors.md
+      - Our Staff/JC 2 Civics Tutors.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Economics.md
@@ -10,10 +16,4 @@ collections:
       - Departments/Mother Tongue (MTL).md
       - Departments/Physical Education (PE).md
       - Departments/Science.md
-      - Our Staff/.keep
-      - Our Staff/Our Staff.md
-      - Our Staff/Administration.md
-      - Our Staff/Key Appointment Holders.md
-      - Our Staff/JC 1 Civics Tutors.md
-      - Our Staff/JC 2 Civics Tutors.md
       - Victoria Advisory Committee.md
