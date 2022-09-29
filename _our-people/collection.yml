@@ -2,14 +2,14 @@ collections:
   our-people:
     output: true
     order:
-      - Departments/Science.md
-      - Departments/Physical Education (PE).md
-      - Departments/Mother Tongue (MTL).md
-      - Departments/Mathematics.md
-      - Departments/English.md
-      - Departments/Economics.md
-      - Departments/Arts.md
       - Departments/.keep
+      - Departments/Arts.md
+      - Departments/Economics.md
+      - Departments/English.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue (MTL).md
+      - Departments/Physical Education (PE).md
+      - Departments/Science.md
       - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/Administration.md
