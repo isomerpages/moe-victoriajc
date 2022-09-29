@@ -37,3 +37,37 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
      style="width:40%">
 		 
 <center>Mr Kelvin Wong</center>
+
+<img src="/images/Mr-Loke-Swee-Leong.jpg" 
+     style="width:40%">
+		
+<center>Mr Loke Swee Leong</center>
+
+<img src="/images/Mr-Phua-Tien-Beng.jpg" 
+     style="width:40%">
+		 
+<center>Mr Phua Tien Beng</center>
+
+<img src="/images/Dr-Shahul-Hameed.jpg" 
+     style="width:40%">
+		 
+<center>Dr Shahul Hameed</center>
+
+<img src="/images/Mr-Tan-Choon-Seng.jpg" 
+     style="width:40%">
+		 
+<center>Mr Tan Choon Seng</center>
+
+### Secretary (Principal/VS)
+
+<img src="/images/Mr-Chow-Weisi.jpg" 
+     style="width:40%">
+
+<center>Mr Chow Weisi</center>
+
+### Secretary (Principal/VJC)
+
+<img src="/images/Mr-Low-Swee-Heng-Jeffrey.jpg" 
+     style="width:40%">
+
+<center>Mr Jeffrey Low</center>
