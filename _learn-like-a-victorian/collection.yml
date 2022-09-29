@@ -2,11 +2,11 @@ collections:
   learn-like-a-victorian:
     output: true
     order:
+      - Academic Disciplines.md
       - Talent Development Programme/.keep
       - Talent Development Programme/Talent Development Programme.md
       - Talent Development Programme/VSMART.md
       - Talent Development Programme/Humanities Scholarship & Programme (HSP).md
       - Talent Development Programme/TSD | Drama Elective Programme (DEP).md
       - Talent Development Programme/Regional Studies Programme (RSP).md
-      - Academic Disciplines.md
       - Higher Education & Career Guidance.md
