@@ -1,8 +1,21 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Menu Title 2
+  - title: About Us
+    url: /about/principals-welcome/
+    sublinks:
+      - title: Principals Welcome
+        url: /about/principals-welcome/
+      - title: Our Staff
+        url: /about/our-staff/
+      - title: Culture of Excellence
+        url: /about/culture-of-excellence/student-achievements/class-of-2018/
+  - title: Admissions
+    collection: admissions
+  - title: Learn like a Victorian
     collection: learn-like-a-victorian
+  - title: Live like a Victorian
+    collection: live-like-a-victorian
+  - title: Parents
+    collection: parents
+  - title: Alumni
+    collection: alumni
