@@ -2,4 +2,5 @@ collections:
   alumni:
     output: true
     order:
+      - Old Victorians’ Association (OVA).md
       - Alumni.md
