@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Departments/Mother Tongue.md
       - Departments/Mathematics.md
       - Departments/English.md
       - Departments/Economics.md
