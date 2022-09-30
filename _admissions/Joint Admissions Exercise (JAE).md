@@ -104,8 +104,6 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
 </li>
 	
 <li>
-	
-<li>
 
     <input type="checkbox" id="accordion5">
 
