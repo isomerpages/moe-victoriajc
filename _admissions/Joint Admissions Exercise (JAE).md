@@ -65,19 +65,19 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
 
     <div>
 
-      <p>We urge students to choose a subject combination based on their interests and strengths, as well as their preferred course of study at university.
+      <p>We urge students to choose a subject combination based on their interests and strengths, as well as their preferred course of study at university.</p>
 
-Some courses offered in university have pre-requisites, and students are strongly encouraged to visit the university websites to find out more.
+<p>Some courses offered in university have pre-requisites, and students are strongly encouraged to visit the university websites to find out more.</p>
 
-For more information on subjects offered in VJC, do check our website<a href="https://staging.d31hymonz16767.amplifyapp.com/learn-like-a-victorian/academic-disciplines/">/learn-like-a-victorian/academic-disciplines/</a>. You may also find out more from our teacher advisors. Please write to:
+<p>For more information on subjects offered in VJC, do check our website<a href="https://staging.d31hymonz16767.amplifyapp.com/learn-like-a-victorian/academic-disciplines/">/learn-like-a-victorian/academic-disciplines/</a>. You may also find out more from our teacher advisors. Please write to:</p>
 
-Ms Toh Chui Hoon, Head of Dept/Science at: 
-<a href="toh.chuihoon@vjc.sg">toh.chuihoon@vjc.sg</a>
+<p>Ms Toh Chui Hoon, Head of Dept/Science at: 
+	<a href="toh.chuihoon@vjc.sg">toh.chuihoon@vjc.sg</a></p>
 				
-Ms Goh Hui Hua, Head of Dept/Arts at: 
-<a href="goh.huihua@vjc.sg">goh.huihua@vjc.sg</a>
+<p>Ms Goh Hui Hua, Head of Dept/Arts at: 
+<a href="goh.huihua@vjc.sg">goh.huihua@vjc.sg</a></p>
 				
-Mr Ivan Toh, Subject Head/Higher Education at: 
+<p>Mr Ivan Toh, Subject Head/Higher Education at: 
 <a href="ivan.toh.chun.siong@vjc.sg">ivan.toh.chun.siong@vjc.sg</a></p>
     </div>
 
@@ -91,13 +91,13 @@ Mr Ivan Toh, Subject Head/Higher Education at: 
 
     <div>
 
-      <p>Students who did not take Higher Mother Tongue at O-Levels must take H1 MTL.
+      <p>Students who did not take Higher Mother Tongue at O-Levels must take H1 MTL.</p>
 
-Students who have obtained at least D7 in the O-Level Higher Mother Tongue examination would have met the minimum requirement for University Admission.
+<p>Students who have obtained at least D7 in the O-Level Higher Mother Tongue examination would have met the minimum requirement for University Admission.</p>
 
-However, students who wish to improve their MTL grade can continue to take Higher 1 MTL and sit for the exam at the end of JC1.
+<p>However, students who wish to improve their MTL grade can continue to take Higher 1 MTL and sit for the exam at the end of JC1.</p>
 
-The H1 MTL grade will be included in the computation of UAS for admission to local universities and for admission to MTL-related courses if the applicant has done well in it. Please refer to the university websites for more information.</p>
+<p>The H1 MTL grade will be included in the computation of UAS for admission to local universities and for admission to MTL-related courses if the applicant has done well in it. Please refer to the university websites for more information.</p>
 
     </div>
 
@@ -113,7 +113,7 @@ The H1 MTL grade will be included in the computation of UAS for admission to loc
 
     <div>
 
-      <p>Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at
+      <p>Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at <br>
 <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">https://www.seab.gov.sg/home/examinations/gce-a-level</a>
 				
 </p>
