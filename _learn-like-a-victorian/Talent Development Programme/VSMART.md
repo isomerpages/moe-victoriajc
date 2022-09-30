@@ -53,7 +53,7 @@ VJC has a strong research culture among the science teachers and students and ha
 
 The college has established strong ties with local tertiary institutions (e.g. NUS, NTU and SUTD) and A\*STAR Research Institutes, allowing students to embark on scientific works that will be mentored by eminent scientists of the various fields. These works will usually be submitted to the Singapore Science and Engineering Fair (SSEF) and many other science fairs at national and international level.
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
 
@@ -97,3 +97,5 @@ NRP offers a variety of research topics from NTU’s four Colleges – College o
 
 </li>
 </ul>
+
+![](/images/enrichment.png)
