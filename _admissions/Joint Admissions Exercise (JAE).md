@@ -82,3 +82,25 @@ Mr Ivan Toh, Subject Head/Higher Education at: 
     </div>
 
 </li>
+	
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">2. Must I take Mother Tongue at VJC?</label>
+
+    <div>
+
+      <p>Students who did not take Higher Mother Tongue at O-Levels must take H1 MTL.
+
+Students who have obtained at least D7 in the O-Level Higher Mother Tongue examination would have met the minimum requirement for University Admission.
+
+However, students who wish to improve their MTL grade can continue to take Higher 1 MTL and sit for the exam at the end of JC1.
+
+The H1 MTL grade will be included in the computation of UAS for admission to local universities and for admission to MTL-related courses if the applicant has done well in it. Please refer to the university websites for more information.</p>
+
+    </div>
+
+</li>
+	
+<li>
