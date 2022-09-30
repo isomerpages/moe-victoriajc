@@ -3,7 +3,6 @@ title: Direct School Admissions (DSA)
 permalink: /admissions/direct-school-admissions/
 description: ""
 ---
-
 ### DSA-JC Admission
 
 
@@ -41,3 +40,10 @@ The DSA talent areas for the 2022 DSA-JC Admission Exercise are listed below. Th
 *   Infocomm Technology (Computing)
 *   Science Research
 
+Click on the link below to start your DSA journey with VJC!
+
+
+
+<a href="https://staging.d31hymonz16767.amplifyapp.com/admissions/direct-school-admissions/direct-school-admissions-applications/">
+<img src="/images/join%20us.png" width="100" height="132">
+</a>
