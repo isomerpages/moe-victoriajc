@@ -87,7 +87,7 @@ Mr Ivan Toh, Subject Head/Higher Education at: 
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">2. Must I take Mother Tongue at VJC?</label>
+    <label for="accordion4">4. Must I take Mother Tongue at VJC?</label>
 
     <div>
 
