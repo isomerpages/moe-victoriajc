@@ -1,9 +1,9 @@
-title: Title
-url: ""
-favicon: /images/favicon-isomer.ico
+title: Victoria Junior College
+url: https://victoriajc.moe.edu.sg
+favicon: /images/VJCCrest.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#000000"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,8 @@ plugins:
 staging: https://staging.d31hymonz16767.amplifyapp.com
 prod: https://master.d31hymonz16767.amplifyapp.com
 resources_name: vjc-news
+shareicon: /images/VJCCrest.png
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
