@@ -35,9 +35,9 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
 
 <p>Students who obtained an 'A' grade in CCA can enjoy 2 bonus points for all their choices. Those who obtained a 'B' or 'C' grade in CCA are given 1 bonus point for all their choices.</p>
 
-<p>Students from Victoria School will be given 2 bonus points for affiliation ONLY IF they choose VJC as their first choice, or as their first and second choices.</p>
+<p>Students from Victoria School will be given 2 bonus points for affiliation ONLY IF they choose VJC as their <u>first</u> choice, or as <u>their first and second choices</u>.</p>
 
-<p>Students are allowed a maximum of 4 bonus points in the computation of their net aggregate score.</p>
+<p>Students are allowed a <u>maximum of 4 bonus points</u> in the computation of their net aggregate score.</p>
 
     </div>
 
