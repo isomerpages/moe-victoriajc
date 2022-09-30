@@ -16,7 +16,7 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
 **New!** We have added H2 Computing and H2 Chinese Language and Literature to the list of subjects on offer in 2021.
 
 <ul class="jekyllcodex_accordion">
-  **<li>
+<li>
 
     <input type="checkbox" id="accordion1">
 
@@ -80,7 +80,7 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
 </li>
 
 
- <li>
+<li>
 
     <input type="checkbox" id="accordion2">
 
@@ -179,6 +179,8 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
   </div>
 
 </li>
+
+
 
 ### Higher 3 (H3) Subjects
 
