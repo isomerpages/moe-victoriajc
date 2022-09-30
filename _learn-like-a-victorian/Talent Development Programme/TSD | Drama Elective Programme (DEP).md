@@ -25,7 +25,7 @@ TSD is designed to be part of a balanced A-Level programme and it is not a caree
     </div>
 
 </li>
-<ul>
+</ul>
 	
 	
 ### Contact Information
