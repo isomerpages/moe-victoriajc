@@ -179,7 +179,7 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
   </div>
 
 </li>
-
+</ul>
 
 
 ### Higher 3 (H3) Subjects
