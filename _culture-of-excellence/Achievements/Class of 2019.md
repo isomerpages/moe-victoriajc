@@ -38,3 +38,5 @@ _Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, 
 
 <img src="/images/Deseree-scaled.jpg" 
      style="width:50%" align="right">
+		 
+![](/images/name.png)
