@@ -159,11 +159,31 @@ VJC offers several STEM-based clubs and societies as part of its co-curricular (
 
     <div>
 
-<p><strong>Astronomy Club</strong></p>
+<strong>Astronomy Club</strong>
 
 <p>The Astronomy Club serves to promote the study of Astronomy and allow members the opportunity to learn more about areas such as Practical Astronomy, Celestial Mechanics, Nuclear Astrophysics and Cosmology. Under the supervision of teachers, the student-led and passion-driven sessions will include theory and night observation sessions using different telescopes. There will also be a field trip to see the Milk Way. Members in the CCA also help to organize science workshops and carnivals and occasionally outreach activities to the public.</p>
 
-<p><strong>Earth Watch</strong></p>
+<strong>Earth Watch</strong>
+
+<p>Earth Watch aims to raise awareness of how important it is to care for and preserve the environment. In this cause, members plan and initiate events and projects to promote green living, address climate change and build a greener College campus. Members in this CCA learn about cultivating various flowers and crops, managing e-waste and running projects to reduce, reuse and recycle. Platforms include VJC Earthweek, E-Waste Collection Drive, environmental competitions, workshops and talks organized by Sembcorp Greenwave and NParks Nature Outreach.</p>
+			
+<strong>Mathematics Society</strong>
+			
+<p>The Mathematics Society provides the platform for students to develop critical and strategic thinking skills through solving recreational puzzles, playing logic-reasoning games and the exploration of mathematics concepts in daily applications. Some of the possible activities include computer coding to expose members to programming languages such as Python, training for Mathematics Olympiad and A-Level applications and exploration of Rubik’s cube. Members will also promote the interest in the subject to others using fun intellectual activities for both internal and external events.</p>
+			
+<strong>Medical Society</strong>
+
+<p>The Medical Society comprises students who share an interest in the medicine and healthcare industry. Through various activities, members deepen their understanding about various diseases, medical knowledge and current development in these areas. Students lead in the sharing on medical topic and discussions, and organize talks by medical and healthcare professionals. There will also be periodical visits to various medical institutions, as well as participate in VIAs. In addition, members will also get to take part in the annual International Biomedical Quiz.</p>
+			
+<strong>Robotics and Makers Club</strong>
+
+<p>The Robotics and Makers Club allows members to turn their ideas into reality. Under external professional trainers, members focus in areas such as Vex robot building, learn programming languages such as Python and Arduino micro-controller and others. With these engineering and programming skills, members take part in competitions such as the S'pore National Vex Robotics Championship, Hackathons (NUS Hack & Roll, NTU hackathon), the Singapore Amazing Flying Machine Competition, Cyberthon (cyber-security competition) and the Singapore Vex Robotics Championship.</p>
+			
+<strong>Science Society</strong>
+			
+<p>The Science Society serves as a platform for students who are passionate about the sciences to try out novel science experiments which are not within their science curriculum. Under the supervision of teachers, members get to use the well-equipped S&T Centre to conduct outreach events for participants within and those outside the College. Members get to organize the Science Challenge for students in VJC and also to organize and facilitate science workshops during the VCA Science Explore and the STEM Festival@VJC.</p>
+
     </div>
 
 </li>
+</ul>
