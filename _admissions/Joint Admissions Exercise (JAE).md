@@ -3,7 +3,6 @@ title: Joint Admissions Exercise (JAE)
 permalink: /admissions/joint-admissions-exercise/
 description: ""
 ---
-
 ### Joint Admissions Exercise
 
 
@@ -21,3 +20,25 @@ We thank the many students who have shown interest in applying to our College. W
 If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mailto:victoria_jc@moe.edu.sg), or call our General Office at 64485011.
 
 ### Frequently Asked Questions
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">1. How are bonus points computed?</label>
+
+    <div>
+
+      <p>Students with A1 to C6 in both their first languages (English and Higher Mother Tongue) enjoy 2 bonus points for all their choices.</p>
+
+<p>Students who obtained an 'A' grade in CCA can enjoy 2 bonus points for all their choices. Those who obtained a 'B' or 'C' grade in CCA are given 1 bonus point for all their choices.</p>
+
+<p>Students from Victoria School will be given 2 bonus points for affiliation ONLY IF they choose VJC as their first choice, or as their first and second choices.</p>
+
+<p>Students are allowed a maximum of 4 bonus points in the computation of their net aggregate score.</p>
+
+    </div>
+
+</li>
