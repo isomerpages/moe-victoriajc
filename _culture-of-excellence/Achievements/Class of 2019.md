@@ -70,19 +70,6 @@ Keith and Miri have exemplified the importance of team spirit and community spir
 <span style="font-size: 34px;"><strong>Visionary Leadership<br>Arunmozhi Varman Shanmugaram, 19S46<br>Cheok May Anne, 19A11<br>Ng Jin Han, Ashton, 19S35
 </strong></span>
 
-
-<img src="/images/Arunmoszhi-scaled.jpg" 
-     style="width:50%" align="left">
-
-		 
-<img src="/images/Ashton-scaled.jpg" 
-     style="width:50%" align="right">
-		 
-<img src="/images/May-Anne-scaled.jpg" 
-     style="width:50%">
-
-![](/images/name3.png)
-
 ![](/images/image1.png)
 
 As visionary leaders who made significant contributions during their time in the 36th Students’ Council, Shanmugaram, May Anne and Ashton worked resiliently towards their personal goals and also empowered their fellow councillors to lead with passion and conviction. In their term of office, they adapted to rapidly changing circumstances with poise and composure, especially in light of the COVID-19 situation.
