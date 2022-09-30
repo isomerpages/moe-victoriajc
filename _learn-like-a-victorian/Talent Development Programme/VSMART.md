@@ -42,3 +42,39 @@ In a special collaboration with the National University of Singapore (NUS) and A
 
 </li>
 </ul>
+
+![](/images/science%20research.png)
+
+Beyond the examinable H3 NUS-A\*STAR-VJC (H3-NAV) track, the college offers a comprehensive non-examinable science research programme: the Young Scientists Development (YSD) track.
+
+**Young Scientists Development Track**
+
+VJC has a strong research culture among the science teachers and students and has continuously supported the various research programmes of the Ministry of Education (e.g. Local and Overseas Student Attachment Programmes) and other research initiatives of the local tertiary institutions.
+
+The college has established strong ties with local tertiary institutions (e.g. NUS, NTU and SUTD) and A\*STAR Research Institutes, allowing students to embark on scientific works that will be mentored by eminent scientists of the various fields. These works will usually be submitted to the Singapore Science and Engineering Fair (SSEF) and many other science fairs at national and international level.
+
+<ul class="jekyllcodex\_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Learn More</label>
+
+    <div>
+
+      <p>There is a range of projects offered under the YSD track in collaboration with external research institutes and local universities. These include:</p>
+
+<strong>NUS Science Research Programme</strong>
+
+<p>The NUS Science Research Programme is offered in collaboration with NUS and the Gifted Education Branch of the Ministry of Education. It aims to enable very capable students who aspire to a higher level of challenge to undertake projects under the supervision of academics and scientists in a real research environment. This programme comprises 2 parts:</p>
+
+<p>1.Mentorship Attachment</p>
+			
+<p>The Mentorship Attachment offers students the chance to work on research projects in Science, Medicine and Engineering under the guidance of mentors from NUS and established research centres. Students work in a real-world research environment. During the mentorship attachment in May/June, the student spends at least 2 weeks working full-time on the research project.<br>
+
+Thereafter, the student meets with the mentor on a regular basis to complete the research work. Every student writes a scientific paper at the end of the Attachment. The papers will be published as Proceedings during the annual Research Congress to be held in Apr each year.</p>
+			
+    </div>
+
+</li>
