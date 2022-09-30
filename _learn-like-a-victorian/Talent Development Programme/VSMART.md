@@ -99,3 +99,41 @@ NRP offers a variety of research topics from NTU’s four Colleges – College o
 </ul>
 
 ![](/images/enrichment.png)
+
+At VJC, we constantly seek learning opportunities for students to pursue their interests in Science, Technology, Engineering and Mathematics (STEM). Students can sign up for a variety of STEM-related activities including competitions and events offered by MOE, statutory boards and institutions of higher learning.  We strongly believe that participation in such activities would be helpful in broadening the knowledge of students in STEM and allow them to learn new skills.
+
+The enrichment activities include:
+
+*   Biology, Chemistry, Physics, Mathematics & Informatics Olympiads
+*   Science & Mathematics competitions such as International Biomedical Quiz, Graphic calculator design competition, Australian Mathematics competition
+*   Science conventions such as International Science Youth Forum
+*   Science Centre events such as Singapore Science Festival
+*   Learning journeys such as visits to NUS Physics demonstration lab, local food and agriculture industries
+*   Science camps such as STEP-NUS Sunburst BrainCamp
+*   Science shows & talks by scientists
+
+![](/images/outreach.png)
+
+As the East Zone Centre of Excellence in Science & Technology, VJC organises workshops, seminars and competitions for primary, secondary and pre-university students, attracting more than 1100 participants yearly from 50 schools nationwide.
+
+These sessions not only provide enrichment opportunities for the participating schools, they are also a platform for Victorians to plan, lead and run activities for other students, thus spreading their passion and interest in science and technology.
+
+This year the centre once again is organising the annual STEM Festival@VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events. This is part of the Centre’s efforts to inspire and foster greater interest amongst participants in STEM and our participants can develop a better appreciation of the connections and impact of STEM on their life, environment and society.
+
+The centre is proud to partner with various organisations (DSTA-DSO, A\*STAR and SUTD) and present the following STEM-related competitions for the schools to participate.
+
+All the competitions will take place virtually.
+
+Click on the following links for details and registration:
+
+1.  East Zone A\*STAR Science Fair  
+    [https://go.gov.sg/2021vjcsciencefair](https://go.gov.sg/2021vjcsciencefair)
+
+2.  East Zone DSTA-DSO Robotics Challenge  
+    [https://go.gov.sg/2021vjcroboticschallenge](https://go.gov.sg/2021vjcroboticschallenge)
+
+3.  East Zone 3D Modelling Competition (for east zone schools only)  
+    [https://go.gov.sg/2021vjc3dmodelling](https://go.gov.sg/2021vjc3dmodelling)
+
+4.  East Zone Amazing Science Race (for east zone schools only)  
+    [https://go.gov.sg/2021vjcamazingrace](https://go.gov.sg/2021vjcamazingrace)
