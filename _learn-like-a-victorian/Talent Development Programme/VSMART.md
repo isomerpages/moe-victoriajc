@@ -30,10 +30,11 @@ In a special collaboration with the National University of Singapore (NUS) and A
 
 <p>Students will undertake one science research project with the following components.</p>
 
+<ul>
 <li>Research plan and research journal</li>
 <li>Research paper</li>
 <li>Oral presentation</li> 
-			
+</ul>		
 
 <p>For students who want to offer two H3, the commitment is spread out over the two years</p>
 
