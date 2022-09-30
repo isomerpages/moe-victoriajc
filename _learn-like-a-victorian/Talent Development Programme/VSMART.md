@@ -137,3 +137,33 @@ Click on the following links for details and registration:
 
 4.  East Zone Amazing Science Race (for east zone schools only)  
     [https://go.gov.sg/2021vjcamazingrace](https://go.gov.sg/2021vjcamazingrace)
+		
+![](/images/stem-based.png)
+
+VJC offers several STEM-based clubs and societies as part of its co-curricular (CCA) offerings. These CCAs provide a diverse set of learning, collaboration, competition and enrichment activities, with the aim of promoting wider appreciation and critical awareness of innovative, exploratory and impactful science and technology. These CCAs are:
+
+*   Astronomy Club
+*   Earth Watch
+*   Mathematics Society
+*   Medical Society
+*   Robotics and Makers Club
+*   Science Society
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Learn More</label>
+
+    <div>
+
+<p><strong>Astronomy Club</strong></p>
+
+<p>The Astronomy Club serves to promote the study of Astronomy and allow members the opportunity to learn more about areas such as Practical Astronomy, Celestial Mechanics, Nuclear Astrophysics and Cosmology. Under the supervision of teachers, the student-led and passion-driven sessions will include theory and night observation sessions using different telescopes. There will also be a field trip to see the Milk Way. Members in the CCA also help to organize science workshops and carnivals and occasionally outreach activities to the public.</p>
+
+<p><strong>Earth Watch</strong></p>
+    </div>
+
+</li>
