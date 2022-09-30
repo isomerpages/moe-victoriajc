@@ -73,6 +73,7 @@ Keith and Miri have exemplified the importance of team spirit and community spir
 
 <img src="/images/Arunmoszhi-scaled.jpg" 
      style="width:50%" align="left">
+
 		 
 <img src="/images/Ashton-scaled.jpg" 
      style="width:50%" align="right">
@@ -81,6 +82,8 @@ Keith and Miri have exemplified the importance of team spirit and community spir
      style="width:50%">
 
 ![](/images/name3.png)
+
+![](/images/image1.png)
 
 As visionary leaders who made significant contributions during their time in the 36th Students’ Council, Shanmugaram, May Anne and Ashton worked resiliently towards their personal goals and also empowered their fellow councillors to lead with passion and conviction. In their term of office, they adapted to rapidly changing circumstances with poise and composure, especially in light of the COVID-19 situation.
 
@@ -92,9 +95,22 @@ Heading the Orientation Group Leaders (OGLs) during the 2020 Orientation, Ashton
 
 As exemplary leaders, Shanmugaram, May Anne and Ashton have left a legacy in VJC. Their passion for life and care for the community challenges others to step out and lead from the heart.
 
-***
 
-**Extraordinary Service  
-****Charmaine Sew Fan Ning, 19A11  
-Heather Tan Yung Yu, 19A11**
-------------------------------------------------------------------------------------------
+<span style="font-size: 34px;"><strong>Extraordinary Service<br>Charmaine Sew Fan Ning, 19A11<br>Heather Tan Yung Yu, 19A11
+</strong></span>
+
+<img src="/images/Charmaine-scaled.jpg" 
+     style="width:50%" align="left">
+
+<img src="/images/Heather-scaled.jpg" 
+     style="width:50%" align="right">
+		 
+![](/images/name4.png)
+
+As recipients of the MOE Humanities Scholarship, Charmaine and Heather had many opportunities to critically evaluate social issues and government policies, both in and out of the classroom. However, merely talking about problems did not help solve them. Both wanted to go out into the real world to interact with people, in order to better understand their predicaments and needs.
+
+Although Charmaine had heavy responsibilities as Chairperson of ODAC and as a member of both the Cross Country and Track & Field teams, she found time to embark on many VIA projects which sensitised her to the problems faced by a wide range of beneficiaries. For her academic excellence and her outstanding co-curricular achievements, Charmaine was awarded the VJC Scholarship in 2020.
+
+As a Home Group Leader in Interact Club, Heather had regular commitments to an eldercare services organisation. Yet, as she wanted to do more for the community, she became a frequent volunteer with several non-profit and grassroots organisations. Heather was awarded the Victoria Pioneer Award 2020, in recognition of her enterprising mind, innovative spirit and courage for a worthy cause.
+
+Charmaine and Heather have served with their heads, hearts and hands for the good of others. They have transformed lives and inspired others to do likewise.
