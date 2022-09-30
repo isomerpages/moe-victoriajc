@@ -29,3 +29,17 @@ _Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, 
 <span style="font-size: 34px;"><strong>Legendary Spirit (Sporting Excellence)<br>Mikail Sumono Ramli, 19S44<br>Deseree Khor You Li, 19S35
 </strong></span>
 
+
+<figure>
+<img src="/images/Mikail-scaled.jpg" 
+     style="width:50%" align="left">
+<figcaption> <strong>Mikail Sumono Ramli
+</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/Deseree-scaled.jpg" 
+     style="width:50%" align="right">
+<figcaption> <strong>Deseree Khor You Li
+</strong> </figcaption>
+</figure>
