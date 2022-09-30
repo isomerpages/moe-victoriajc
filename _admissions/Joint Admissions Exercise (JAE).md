@@ -104,3 +104,20 @@ The H1 MTL grade will be included in the computation of UAS for admission to loc
 </li>
 	
 <li>
+	
+<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">5. Where can I get more information about the subjects examined at GCE-A levels? </label>
+
+    <div>
+
+      <p>Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at
+<a href="https://www.seab.gov.sg/home/examinations/gce-a-level">https://www.seab.gov.sg/home/examinations/gce-a-level</a>
+				
+</p>
+
+    </div>
+
+</li>
