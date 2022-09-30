@@ -80,7 +80,105 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
 </li>
 
 
-** Accordion 2 **
+ <li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Science</label>
+
+    <div>
+
+      <p>
+
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-mr6d{background-color:#000000;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fvls{background-color:#E12726;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mr6d" colspan="2"><span style="font-weight:700">Course</span></th>
+    <th class="tg-mr6d" colspan="3"><span style="font-weight:700">Subjects offered in the Science Course</span></th>
+    <th class="tg-mr6d"><span style="font-weight:700">Contrasting Subjects</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fvls" rowspan="9"><span style="font-weight:700">SCIENCE</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S2</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Physics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S3</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Biology</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Art | China Studies in English | Chinese Language and Literature | Economics | Geography | History | Literature in English | Tamil Language and Literature | Theatre Studies and Drama</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S4</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Physics</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:400;font-style:inherit">Art | China Studies in English | Chinese Language and Literature | Geography | History | Literature in English | Tamil Language and Literature | Theatre Studies and Drama</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S5</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Physics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S6</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Chemistry</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S7</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Biology</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Geography  | History | Literature in English</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S8</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Further Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Physics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S9</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Computing</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Chemistry</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">S10</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Computing</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Physics</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+</tbody>
+</table>
+
+</p>
+
+  </div>
+
+</li>
 
 ### Higher 3 (H3) Subjects
 
