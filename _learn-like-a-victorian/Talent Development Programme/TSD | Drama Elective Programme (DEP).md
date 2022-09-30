@@ -8,8 +8,26 @@ Theatre Studies and Drama (TSD) is a demanding yet rewarding A-Level subject aim
 
 TSD is designed to be part of a balanced A-Level programme and it is not a career-oriented training programme. Many students have actually gone on to pursue film/theatre/performing arts at a higher level but the course offers openings to a wide range of careers. The course emphasises the skills of independent, imaginative and lateral thinking. At the same time, the course demands and rewards teamwork, resilience, and problem-solving approaches to shared targets. These skills help prepare students for any career that requires effective communication, imagination, initiative and a cooperative mindset – all the skills that are currently in demand, both in the government and the private sectors (in areas such as law, media, sales, teaching, advertising and management).
 
-** Accordion **
+<ul class="jekyllcodex_accordion">
 
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Curriculum</label>
+
+    <div>
+
+      <p>Students study key texts in different genres and examine ways of approaching scripts from the point of view of a theatre maker. The theoretical side concerns aspects such as social, cultural and historical influences.</p>
+
+<p>There are weekly practical workshops where the students explore the elements of drama, approaches to performance and different conventions and theatre styles. This includes areas such as mask, technical design (set, costume, and makeup), Physical Theatre, Experimental Theatre and the work of practitioners such as Brecht, Artaud, Boal and Stanislavski.</p>
+
+    </div>
+
+</li>
+<ul>
+	
+	
 ### Contact Information
 
 If you have any questions about the Theatre Studies and Drama programme at Victoria Junior College, and/or the aptitude tests and interviews please contact Ms Michelle Lim: [michelle.lim@vjc.sg](mailto:michelle.lim@vjc.sg) or Ms Cheryl Lee: [lee.wen.zhi.cheryl@vjc.sg](mailto:lee.wen.zhi.cheryl@vjc.sg)
