@@ -15,8 +15,70 @@ Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any o
 
 **New!** We have added H2 Computing and H2 Chinese Language and Literature to the list of subjects on offer in 2021.
 
+<ul class="jekyllcodex_accordion">
+  **<li>
 
-** Accordion 1 **
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Arts</label>
+
+    <div>
+
+      <p>
+
+      <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-mr6d{background-color:#000000;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fvls{background-color:#E12726;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mr6d" colspan="2"><span style="font-weight:700">Course</span></th>
+    <th class="tg-mr6d" colspan="3"><span style="font-weight:700">Subjects offered in the Arts Course</span></th>
+    <th class="tg-mr6d"><span style="font-weight:700">Contrasting Subject</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fvls" rowspan="5"><span style="font-weight:700">ARTS</span></td>
+    <td class="tg-dox4" rowspan="5"><span style="font-weight:400;font-style:inherit">A1</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Literature in English</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">History</span></td>
+    <td class="tg-dox4" rowspan="2"><span style="font-weight:400;font-style:inherit">Art | China Studies in English |</span><br><span style="font-weight:400;font-style:inherit">Chinese Language and Literature | Economics | Tamil Language and Literature | Theatre Studies and Drama</span></td>
+    <td class="tg-dox4" rowspan="5"><span style="font-weight:400;font-style:inherit">Mathematics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Literature in English</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Geography</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Literature in English</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+    <td class="tg-dox4" rowspan="3"><span style="font-weight:400;font-style:inherit">Art | China Studies in English |</span><br><span style="font-weight:400;font-style:inherit">Chinese Language and Literature | Tamil Language and Literature | Theatre Studies and Drama</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">History</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Geography</span></td>
+    <td class="tg-dox4"><span style="font-weight:400;font-style:inherit">Economics</span></td>
+  </tr>
+</tbody>
+</table>
+
+</p>
+
+  </div>
+
+</li>
+
 
 ** Accordion 2 **
 
@@ -34,5 +96,3 @@ The Singapore Examinations and Assessment Board (SEAB) provides comprehensive in
 
 
 Download our 2022 Academic Information booklet [here](/files/VJCAcademicInformation2022.pdf), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
-
-
