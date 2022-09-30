@@ -69,7 +69,7 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
 
 Some courses offered in university have pre-requisites, and students are strongly encouraged to visit the university websites to find out more.
 
-For more information on subjects offered in VJC, do check our website. You may also find out more from our teacher advisors. Please write to:
+For more information on subjects offered in VJC, do check our website<a href="https://staging.d31hymonz16767.amplifyapp.com/learn-like-a-victorian/academic-disciplines/">/learn-like-a-victorian/academic-disciplines/</a>. You may also find out more from our teacher advisors. Please write to:
 
 Ms Toh Chui Hoon, Head of Dept/Science at: 
 <a href="toh.chuihoon@vjc.sg">toh.chuihoon@vjc.sg</a>
