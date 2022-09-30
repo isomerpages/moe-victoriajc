@@ -65,3 +65,19 @@ On the academic front, Keith was a recipient of both the MOE Pre-University Scho
 Always on the lookout for opportunities to challenge himself, Keith became a member of the College Track and Field team, on top of his commitment to Dance. The team attained an overall third placing in the A Division Boys Championship. Similarly, Miri was active beyond Choir. Having an ardent wish to improve the lives of others, she volunteered every Friday through Tembusu Elderly Centre. Miri would visit elderly residents who lived alone, extending a warm hand of friendship to let them know they are cared for.
 
 Keith and Miri have exemplified the importance of team spirit and community spirit,inspiring others to likewise serve and care for others.
+
+
+<span style="font-size: 34px;"><strong>Visionary Leadership<br>Arunmozhi Varman Shanmugaram, 19S46<br>Cheok May Anne, 19A11<br>Ng Jin Han, Ashton, 19S35
+</strong></span>
+
+
+<img src="/images/Arunmoszhi-scaled.jpg" 
+     style="width:50%" align="left">
+		 
+<img src="/images/Ashton-scaled.jpg" 
+     style="width:50%" align="right">
+		 
+<img src="/images/May-Anne-scaled.jpg" 
+     style="width:50%">
+
+![](/images/name3.png)
