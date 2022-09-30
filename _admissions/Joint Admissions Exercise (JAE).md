@@ -121,3 +121,31 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
     </div>
 
 </li>
+	
+<li>
+
+    <input type="checkbox" id="accordion6">
+
+    <label for="accordion6">6. Is CCA compulsory in JC?</label>
+
+    <div>
+
+      <p>CCAs are not compulsory. However, we urge students to take up at least one CCA so that they can have a balance of academic and non-academic activities. CCAs are a great platform to pursue your talent and interests, take on new challenges, and foster strong relationships with peers.</p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion7">
+
+    <label for="accordion7">7. I am not an IP student.Is there any disadvantage if I join VJC from the JAE?</label>
+
+    <div>
+
+      <p>There is no disadvantage to being a JAE student in VJC. In fact, JAE students form the majority in VJC (more than 60%). JC1 students (IP & JAE) will choose their subject combinations and start their academic lessons only <u>after</u> the JAE students report. There is no separation of classes either - Victorians are put in mixed classes regardless of background. All Victorians have equal opportunity for leadership and equal access to our wide range of programmes and awards.</p>
+
+    </div>
+
+</li>
