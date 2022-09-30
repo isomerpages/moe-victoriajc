@@ -84,6 +84,15 @@ Thereafter, the student meets with the mentor on a regular basis to complete the
 <p>The Nanyang Research Programme (NRP) is an NTU outreach programme for first year Junior College students. Participants in the programme will undertake eight months of research activities, either individually or in a pair, under the charge of an NTU faculty member. This programme will culminate in the submission of a Research Paper and an Oral Presentation carried out during the NRP Oral Presentation Assessment, held in March annually.<br>
 
 NRP offers a variety of research topics from NTU’s four Colleges – College of Engineering, College of Science, College of Humanities, Arts, & Social Sciences, and College of Business – as well as the National Institute of Education.</p>
+			
+<strong>SUTD Research Mentorship Programme</strong>
+			
+<p>SUTD offers research project opportunities and provides mentorship to selected pre-university students every year under this programme. Beyond giving the participants some experiential learning opportunities in research, SUTD offers participants special consideration for admissions and scholarships, should they apply to SUTD subsequently.</p>
+			
+<strong>Research @YDSP</strong>
+
+<p>Defence Science Organisation (DSO) and Defence Science & Technology Agency (DSTA) offer the Young Defence Scientists Programme (YDSP) that will stimulate and spur student's interest in science and technology. Under the mentorship of DSO's scientists and engineers, students will gain insightful research experience as they work on interesting defence related projects in a real laboratory environment.</p>
+	
     </div>
 
 </li>
