@@ -75,6 +75,15 @@ The college has established strong ties with local tertiary institutions (e.g. N
 
 Thereafter, the student meets with the mentor on a regular basis to complete the research work. Every student writes a scientific paper at the end of the Attachment. The papers will be published as Proceedings during the annual Research Congress to be held in Apr each year.</p>
 			
+<p>2.Science Research Congress</p>
+			
+<p>The Science Research Congress offers students an opportunity to communicate their research findings to an audience of mentors and interested JC students. On the successful completion of the Attachment, certificates of participation will be presented to the students at the Congress.</p>
+
+<strong>NTU Nanyang Research Programme</strong>
+			
+<p>The Nanyang Research Programme (NRP) is an NTU outreach programme for first year Junior College students. Participants in the programme will undertake eight months of research activities, either individually or in a pair, under the charge of an NTU faculty member. This programme will culminate in the submission of a Research Paper and an Oral Presentation carried out during the NRP Oral Presentation Assessment, held in March annually.<br>
+
+NRP offers a variety of research topics from NTU’s four Colleges – College of Engineering, College of Science, College of Humanities, Arts, & Social Sciences, and College of Business – as well as the National Institute of Education.</p>
     </div>
 
 </li>
