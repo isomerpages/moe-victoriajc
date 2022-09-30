@@ -81,3 +81,20 @@ Keith and Miri have exemplified the importance of team spirit and community spir
      style="width:50%">
 
 ![](/images/name3.png)
+
+As visionary leaders who made significant contributions during their time in the 36th Students’ Council, Shanmugaram, May Anne and Ashton worked resiliently towards their personal goals and also empowered their fellow councillors to lead with passion and conviction. In their term of office, they adapted to rapidly changing circumstances with poise and composure, especially in light of the COVID-19 situation.
+
+In recognition of his leadership qualities, Shanmugaram was presented with the Singapore Armed Forces Young Leader Award. His empathy and care for others was also seen in his regular voluntary work. He was committed to community service beyond the school, apart from leading and serving in the Students’ Council.
+
+A recipient of the Humanities Scholarship, May Anne similarly saw the need to empower people around her. Together with fellow Victorians, she set up Access Victoria, a peer-to-peer platform, providing academic and moral support to schoolmates at the height of the circuit breaker.
+
+Heading the Orientation Group Leaders (OGLs) during the 2020 Orientation, Ashton was undaunted by the daily changes made to the programme’s schedule necessitated by growing concerns over Covid19. A quick thinker, he proposed innovative ideas to accommodate the increasingly strict safety measures, while still ensuring his newly-minted juniors would have a memorable Orientation experience.
+
+As exemplary leaders, Shanmugaram, May Anne and Ashton have left a legacy in VJC. Their passion for life and care for the community challenges others to step out and lead from the heart.
+
+***
+
+**Extraordinary Service  
+****Charmaine Sew Fan Ning, 19A11  
+Heather Tan Yung Yu, 19A11**
+------------------------------------------------------------------------------------------
