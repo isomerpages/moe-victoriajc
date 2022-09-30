@@ -2,10 +2,10 @@ collections:
   culture-of-excellence:
     output: true
     order:
+      - History of Victoria.md
       - Achievements/.keep
       - Achievements/Achievements.md
       - Achievements/Class of 2020.md
       - Achievements/Class of 2019.md
       - Achievements/Class of 2018.md
       - School Awards.md
-      - History of Victoria.md
