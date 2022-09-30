@@ -30,16 +30,11 @@ _Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, 
 </strong></span>
 
 
-<figure>
+
 <img src="/images/Mikail-scaled.jpg" 
      style="width:50%" align="left">
-<figcaption> <strong>Mikail Sumono Ramli
-</strong> </figcaption>
-</figure>
 
-<figure>
+
+
 <img src="/images/Deseree-scaled.jpg" 
      style="width:50%" align="right">
-<figcaption> <strong>Deseree Khor You Li
-</strong> </figcaption>
-</figure>
