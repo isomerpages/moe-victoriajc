@@ -2,8 +2,8 @@ title: Victoria Junior College
 url: https://victoriajc.moe.edu.sg
 favicon: /images/VJCCrest.png
 colors:
-  primary-color: "#000000"
-  secondary-color: "#ffffff"
+  primary-color: "#ffffff"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
