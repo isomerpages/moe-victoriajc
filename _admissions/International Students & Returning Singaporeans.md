@@ -3,6 +3,7 @@ title: International Students & Returning Singaporeans
 permalink: /admissions/international-students-returning-singaporeans-content/
 description: ""
 ---
+![](/images/International-Students-_-Returning-Singaporeans-2-1024x487.jpg)
 ### International Students
 
 International students seeking admission are to apply directly to the college from October to December. Interested students should send in their cover letter and relevant education certificates to [**victoria_jc@moe.edu.sg**](mailto:victoria_jc@moe.edu.sg)
