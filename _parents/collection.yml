@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Watching for Distress.md
       - A Level Timetable.md
       - Accessing the Parents Gateway.md
       - Sexuality Education.md
