@@ -23,6 +23,9 @@ links:
       - title: Resources for Parents
         url: /parents/resources-for-parents-content/
   - title: Alumni
-    collection: alumni
+    url: /alumni/
+    sublinks:
+      - title: Old Victorians’ Association
+        url: /alumni/old-victorians-association-content/
   - title: Contact Us
     url: /contact-us
