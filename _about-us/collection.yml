@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Principal's Welcome.md
-      - Our Staff/.keep
-      - Our Staff/Our Staff.md
+      - Our People/.keep
+      - Our People/Our Staff.md
