@@ -58,3 +58,18 @@ We are holding Tea Sessions for the new Niche Academic Programmes DSA! Attendanc
 Selection will be based on a basket of criteria for the respective talent area.
 
 Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact applicants to confirm the date and time allocated.
+
+### Sports
+
+Selection will be considered on a basket of criteria for the respective talent area.
+
+Physical trials will be conducted at Victoria Junior College. No trials will be conducted for applicants to Cross-Country, Track & Field and Wushu (see details below).
+
+Note the dates and times for trials. Applicants should be suitably attired for their respective sports trials.
+
+### Niche Academic Programmes
+
+
+Applicants for the respective Talent Area must submit their application (including Personal Statement and supporting documents) by **20 June 2022**.
+
+VJC is hosting Tea Sessions in May for students interested in our Niche Academic Programmes. Please register for the Tea Sessions at least _3 days before the date of the session_. More details can be found in the respective Talent Area segment.
