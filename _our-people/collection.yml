@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/.keep
-      - Our Staff/JC 2 Civics Tutors.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Economics.md
