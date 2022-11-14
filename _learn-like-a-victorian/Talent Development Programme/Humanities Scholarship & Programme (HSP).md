@@ -4,6 +4,7 @@ permalink: /learn-like-a-victorian/talent-development-programme/humanities-progr
 description: ""
 third_nav_title: Talent Development Programme
 ---
+![](/images/hsp-banner-1024x365.jpg)
 VJC is one of the centres for the MOE Humanities Scholarship & Programme (HSP).  The HSP offers scholars with the opportunity to immerse themselves in various disciplines which study aspects of human society and culture.  Apart from the inter-disciplinary overseas enrichment programme (OEP) which HSP Scholars will have an active role in planning, scholars also attend performances, extra-curricular talks, lectures and workshops. The objective of this is to widen scholars' exposure to the humanities and develop your appreciation and understanding of the arts across a variety of contexts.  In return, HSP Scholars are encouraged to share their learning with their juniors and the wider college community through various college and self-initiated platforms, including the VJC HSP Symposium.
 
 ### Eligibility
@@ -62,4 +63,4 @@ Besides offering General, a Mother Tongue Language (MTL) (students offering Moth
 Note: Last subject must be Mathematics at either H1 or H2 level
 
 Contact Information <br> 
-If you have any enquires, you can contact Mr James Ho at [james.ho@vjc.sg](mailto:james.ho@vjc.sg)
+If you have any enquires, you can contact Mr James Ho at [james.ho@vjc.edu.sg](mailto:james.ho@vjc.edu.sg)
