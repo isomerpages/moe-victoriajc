@@ -3,6 +3,7 @@ title: Alumni Feature
 permalink: /alumni/alumni-feature/
 description: ""
 ---
+![](/images/Pass-the-torch-1024x445.jpg)
 ### Douglas Foo | 87S46
 
 <img src="/images/DouglasFoo_HalfBody-2.jpg" 
