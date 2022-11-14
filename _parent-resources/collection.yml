@@ -2,6 +2,5 @@ collections:
   parent-resources:
     output: true
     order:
-      - Accessing the Parents Gateway.md
       - A Level Timetable.md
       - Watching for Distress.md
