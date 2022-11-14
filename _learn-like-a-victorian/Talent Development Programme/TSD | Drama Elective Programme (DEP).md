@@ -4,6 +4,7 @@ permalink: /learn-like-a-victorian/talent-development-programme/drama-elective-p
 description: ""
 third_nav_title: Talent Development Programme
 ---
+![](/images/Drama-Elective-Programme-banner-1024x433.jpg)
 Theatre Studies and Drama (TSD) is a demanding yet rewarding A-Level subject aimed at students with a genuine interest in Theatre and Drama. Students need to conduct their own research and select material for monologues, duologues and group performances. Students also need to have a good level of spoken and written English and be able to work with initiative both as an individual and as part of a collaborative team.
 
 TSD is designed to be part of a balanced A-Level programme and it is not a career-oriented training programme. Many students have actually gone on to pursue film/theatre/performing arts at a higher level but the course offers openings to a wide range of careers. The course emphasises the skills of independent, imaginative and lateral thinking. At the same time, the course demands and rewards teamwork, resilience, and problem-solving approaches to shared targets. These skills help prepare students for any career that requires effective communication, imagination, initiative and a cooperative mindset – all the skills that are currently in demand, both in the government and the private sectors (in areas such as law, media, sales, teaching, advertising and management).
@@ -30,4 +31,4 @@ TSD is designed to be part of a balanced A-Level programme and it is not a caree
 	
 ### Contact Information
 
-If you have any questions about the Theatre Studies and Drama programme at Victoria Junior College, and/or the aptitude tests and interviews please contact Ms Michelle Lim: [michelle.lim@vjc.sg](mailto:michelle.lim@vjc.sg) or Ms Cheryl Lee: [lee.wen.zhi.cheryl@vjc.sg](mailto:lee.wen.zhi.cheryl@vjc.sg)
+If you have any questions about the Theatre Studies and Drama programme at Victoria Junior College, and/or the aptitude tests and interviews please contact Ms Michelle Lim: [michelle.lim@vjc.edu.sg](mailto:michelle.lim@vjc.edu.sg) or Ms Cheryl Lee: [lee.wen.zhi.cheryl@vjc.edu.sg](mailto:lee.wen.zhi.cheryl@vjc.edu.sg)
