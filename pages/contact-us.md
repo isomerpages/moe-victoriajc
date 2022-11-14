@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Victoria Junior College
 locations:
   - address:
-      - " 20 "
-      - "Marine Vista "
+      - " 20 Marine Vista "
       - Singapore 449035
+      - ""
     operating_hours: []
     maps_link: https://www.google.com/maps?ll=1.30607,103.919872&z=13&t=m&hl=en-US&gl=US&mapclient=embed&cid=4950609394833304505
     title: Our Location
