@@ -4,6 +4,7 @@ permalink: /live-like-a-victorian/co-curricular-activities/sports/
 description: ""
 third_nav_title: Co Curricular activities
 ---
+![](/images/Sports-banner-1024x365.jpg)
 Yo VJC! What’s up? The ever –familiar cheer is heard loud and clear during sports season at VJC.
 
 If Performing Arts is the heart of VJC, then Sports is its soul. One of the most exciting times of any given year falls during sports season. Many of our teams have a legacy of victory, ensuring that Victorians carry it on game after game, season after season. Always fired-up, Victorians play with passion and pride that comes naturally to them. In a similar vein, the rest of the college turns up behind them in full force supporting them with all their might. 
