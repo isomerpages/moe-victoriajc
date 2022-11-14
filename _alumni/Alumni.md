@@ -3,6 +3,7 @@ title: Alumni
 permalink: /alumni/
 description: ""
 ---
+![](/images/Alumni-Page-Banner--1024x404.jpg)
 ### Keeping In Contact
 
 
