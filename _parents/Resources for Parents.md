@@ -55,10 +55,10 @@ Visit these websites for more useful information to support your child's learnin
 <img src="/images/student%20handbook.png" style="width:25%">
 </a>
 
-<a href="">
+<a href="/about/our-staff/jc-1-civics-tutors/">
 <img src="/images/JC1%20Civics%20Tutors.png" style="width:25%">
 </a>
 
-<a href="">
+<a href="/about/our-staff/jc-2-civics-tutors/">
 <img src="/images/JC2%20Civics%20Tutors.png" style="width:25%">
 </a>
