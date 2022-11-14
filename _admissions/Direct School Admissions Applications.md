@@ -3,6 +3,7 @@ title: Direct School Admissions Applications
 permalink: /admissions/direct-school-admissions/direct-school-admissions-applications/
 description: ""
 ---
+![](/images/DSA-2-1024x487.jpg)
 ### DSA-JC Application Process
 
 Welcome to the application page for the 2022 DSA-JC exercise, for admission in year 2023.
