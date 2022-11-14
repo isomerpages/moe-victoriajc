@@ -10,6 +10,8 @@ links:
       - title: Culture of Excellence
         url: /culture-of-excellence/permalink/
   - title: Admissions
+    collection: admissions
+  - title: Admissions
     url: /admissions
     sublinks:
       - title: Joint Admissions Exercise
