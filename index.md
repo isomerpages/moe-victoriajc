@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Victoria Junior College
-      background: /images/hero-banner.png
+      background: /images/2023 OH Temp Web Banner.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
