@@ -3,6 +3,7 @@ title: Old Victorians’ Association (OVA)
 permalink: /alumni/old-victorians-association-content/
 description: ""
 ---
+![](/images/Old-Victorians-Association.jpg)
 The Old Victorians’ Association (OVA) was established in 1941 as a formal channel for alumni to continue to associate with their alma mater after having left the school or the college. These include Victoria Afternoon School, Victoria Bridge School, Victoria Pre-University, Victoria School and Victoria Junior College.
 
 The  OVA endeavours to keep alumni in close touch with the achievements of their alma mater, as well as to provide opportunities for OVA members to maintain and renew ties with past teachers and fellow Victorians.
