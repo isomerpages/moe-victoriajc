@@ -4,6 +4,7 @@ permalink: /learn-like-a-victorian/Talent-Development-Programme/
 description: ""
 third_nav_title: Talent Development Programme
 ---
+![](/images/Talent-Development-Programme-banner-1024x365%20(1).jpg)
 The VJC Talent Development Programme provides opportunities for outstanding students in the domain of intellect, leadership and service to community to realise their potential with excellence.
 
 **The various components of the programme aim to:** 
