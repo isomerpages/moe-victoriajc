@@ -21,13 +21,6 @@ links:
       - title: Int. Students & Returning Sg
         url: /admissions/international-students-returning-singaporeans-content/
   - title: Learn like a Victorian
-    url: /learn-like-a-Victorian/permalink/
-    sublinks:
-      - title: Academic Disciplines
-        url: /learn-like-a-victorian/academic-disciplines/
-      - title: Higher Ed & Career Guidance
-        url: /learn-like-a-victorian/higher-education-career-guidance/
-  - title: Learn like a Victorian
     collection: learn-like-a-victorian
   - title: Live like a Victorian
     collection: live-like-a-victorian
