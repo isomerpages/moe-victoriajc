@@ -3,9 +3,7 @@ title: A Level Timetable
 permalink: /parents/a-level-timetable/
 description: ""
 ---
-
-
-
+![](/images/Resources-for-Parents-2-1024x425.jpg)
 ### 2021 SINGAPORE-CAMBRIDGE GCE A-LEVEL EXAMINATION CALENDAR
 
 <style type="text/css">
