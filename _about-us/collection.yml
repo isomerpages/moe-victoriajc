@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Principal's Welcome.md
+      - Our People/Key Appointment Holders.md
       - Our People/Administration.md
       - Our People/.keep
       - Our People/Our Staff.md
