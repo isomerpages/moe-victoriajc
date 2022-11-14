@@ -3,6 +3,7 @@ title: Education and Career Guidance
 permalink: /education-and-career-guidance-ecg/
 description: ""
 ---
+![](/images/Education-and-Career-Guidance-banner-1024x365.jpg)
 Is your child clear about his/her interests, abilities and passion? Is he/she about to make an important decision regarding his/her education and career pathways?
 
 At the Budget Debate 2016, MOE highlighted the importance of education and career guidance (ECG) and that greater support would be given to help our children make better informed education and career choices through the provision of ECG counsellors and increased opportunities to raise our children’s awareness of specific industries. We recognise that for our children to thrive in a globalised economy and navigate meaningfully through life, they would benefit from having sound values and learning to seize every opportunity to develop transferable soft skills such as cross-cultural communication skills, problem-solving skills, and team work; and continually developing workplace readiness skills such as literacy, numeracy, and technical skills throughout life.
