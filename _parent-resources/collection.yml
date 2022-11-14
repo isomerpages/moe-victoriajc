@@ -2,7 +2,6 @@ collections:
   parent-resources:
     output: true
     order:
-      - Sexuality Education.md
       - Accessing the Parents Gateway.md
       - A Level Timetable.md
       - Watching for Distress.md
