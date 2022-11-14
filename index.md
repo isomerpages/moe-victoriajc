@@ -10,11 +10,11 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Victoria Junior College
-      background: /images/2023 OH Temp Web Banner.jpg
+      background: /images/Crest-and-Anthem-Banner-1-1024x394.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: Open House 2023
           description: Important highlight A is important
           url: https://google.com
         - title: Highlight B
@@ -30,4 +30,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
