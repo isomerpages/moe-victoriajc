@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Education and Career Guidance.md
       - Parents.md
       - Parents Support Group.md
       - Resources for Parents.md
+      - Education and Career Guidance.md
       - Watching for Distress.md
       - A Level Timetable.md
       - Accessing the Parents Gateway.md
