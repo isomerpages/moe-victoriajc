@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Victoria Advisory Committee.md
       - Principal's Welcome.md
       - Our People/JC 2 Civics Tutors.md
       - Our People/JC 1 Civics Tutors.md
