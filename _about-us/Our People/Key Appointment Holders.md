@@ -4,7 +4,7 @@ permalink: /about/our-staff/key-appointment-holders/
 description: ""
 third_nav_title: Our People
 ---
-
+![](/images/Key-Appointment-Holders-banner-1024x365.jpg)
 <ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
