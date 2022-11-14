@@ -4,6 +4,13 @@ permalink: /learn-like-a-victorian/talent-development-programme/vsmart/
 description: ""
 third_nav_title: Talent Development Programme
 ---
+![](/images/VSMART-banner-1024x594.jpg)
+Students who have a strong interest in STEM (Science, Technology, Engineering & Mathematics) can look forward to various opportunities and programmes available under the VSMART Framework to develop their passion. The VSMART framework allows interested students to participate in Mathematics and Science Olympiads and be part of ground-breaking research in collaboration with A\*STAR and tertiary institutions. We also provide opportunities for students to take part in events organised by the various research institutions and organisations throughout the year to enable students to gain a deeper understanding of the applications of STEM.
+
+VSMART seeks to harness the talents of students in Science and Mathematics to enable them to create an impact on society. Through this framework, we hope to spark our students’ love for STEM and develop their passion into possible careers in the future.
+
+VSMART comprises the following:
+
 ![](/images/VSMART.png)
 
 In a special collaboration with the National University of Singapore (NUS) and A\*STAR, VJC offers the H3 NUS-A\*STAR-VJC (NAV) Science Research programme. Students in this unique programme can look forward to an individual Investigative Study in Physics, Chemistry or Biology under the guidance of VJC teachers and the mentorship of research practitioners from NUS and research institutes at A\*STAR. This robust programme provides ample opportunities to deepen learning and engage in the intricacies of scientific research that takes place in universities and industry.
