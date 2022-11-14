@@ -3,72 +3,56 @@ title: Victoria Advisory Committee
 permalink: /about/the-victoria-advisory-committee/
 description: ""
 ---
-
 The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support the College’s programmes and activities. The committee also sponsors awards to recognise the accomplishments and contributions of outstanding students.
 
 ### Chairman
 
-<img src="/images/Dr%20Sim%20Hong%20Gee.jpg" 
+<img src="/images/VAC%202023/Dr%20Sim%20Hong%20Gee.jpg" 
      style="width:40%">
-			 
+		 					 
 <center>Dr Sim Hong Gee</center>
 
 ### Vice-Chairman
 
-<img src="/images/Ms-Trina-Neo-Liang-Zhen.jpg" 
-     style="width:40%" >
-		 
-<center>Ms Trina Neo Liang Zhen</center>
-		 
-<img src="/images/Mr-Loh-Wai-Keong.jpg" 
-     style="width:40%">
-		 
-<center>Mr Loh Wai Keong</center>
+
+| ![](/images/VAC%202023/Mr%20Loh%20Wai%20Keong.jpg) | ![](/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg) | ![](/images/VAC%202023/Mr%20Loke%20Swee%20Leong.jpg) |
+| -------- | -------- | -------- |
+| Mr Loh Wai Keong    | Mr Phua Tien Beng    |  Mr Loke Swee Leong   |
+
+
 
 ### Treasurer 
 
-<img src="/images/Mr-James-Ho-Peng-Heng.jpg" 
-     style="width:40%">
-		 
-<center>Mr James Ho Peng Heng</center>
-
-### Member
-
-<img src="/images/Mr-Kelvin-Wong.jpg" 
-     style="width:40%">
-		 
-<center>Mr Kelvin Wong</center>
-
-<img src="/images/Mr-Loke-Swee-Leong.jpg" 
-     style="width:40%">
-		
-<center>Mr Loke Swee Leong</center>
-
-<img src="/images/Mr-Phua-Tien-Beng.jpg" 
-     style="width:40%">
-		 
-<center>Mr Phua Tien Beng</center>
-
-<img src="/images/Dr-Shahul-Hameed.jpg" 
-     style="width:40%">
-		 
-<center>Dr Shahul Hameed</center>
-
-<img src="/images/Mr-Tan-Choon-Seng.jpg" 
+<img src="/images/VAC%202023/Mr%20Tan%20Choon%20Seng.jpg" 
      style="width:40%">
 		 
 <center>Mr Tan Choon Seng</center>
 
+### Member
+
+
+| ![](/images/VAC%202023/Mr%20Kelvin%20Wong.jpg) | ![](/images/VAC%202023/Mr%20Lim%20Han%20Feng.jpg) | ![](/images/VAC%202023/Mr%20Lim%20Siang%20Chin.jpg) |
+| -------- | -------- | -------- |
+| Mr Kelvin Wong     | Mr Lim Han Feng     | Mr Lim Siang Chin     |
+
+
+
+| ![](/images/VAC%202023/Mr%20Tan%20Pei-San.jpg) | ![](/images/VAC%202023/Miss%20Gwenda%20Fong.jpg) | ![](/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg) |
+| -------- | -------- | -------- |
+| Mr Tan Pei-San     | Miss Gwenda Fong     | Mr Tang Shiuh Huei     |
+
+
 ### Secretary (Principal/VS)
 
-<img src="/images/Mr-Chow-Weisi.jpg" 
+<img src="/images/VAC%202023/Mr%20Chow%20Weisi.jpg" 
      style="width:40%">
+		 
 
 <center>Mr Chow Weisi</center>
 
 ### Secretary (Principal/VJC)
 
-<img src="/images/Mr-Low-Swee-Heng-Jeffrey.jpg" 
+<img src="/images/VAC%202023/Mr%20Jeffrey%20Low2.jpg" 
      style="width:40%">
 
 <center>Mr Jeffrey Low</center>
