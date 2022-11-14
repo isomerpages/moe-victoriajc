@@ -1,5 +1,4 @@
 collections:
   parent-resources:
     output: true
-    order:
-      - Watching for Distress.md
+    order: []
