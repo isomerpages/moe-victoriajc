@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Staff/.keep
-      - Our Staff/Administration.md
       - Our Staff/Key Appointment Holders.md
       - Our Staff/JC 1 Civics Tutors.md
       - Our Staff/JC 2 Civics Tutors.md
