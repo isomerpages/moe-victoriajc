@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Departments/.keep
-      - Departments/Physical Education (PE).md
       - Departments/Science.md
