@@ -15,10 +15,12 @@ links:
     collection: learn-like-a-victorian
   - title: Live like a Victorian
     collection: live-like-a-victorian
+  - title: Parents
+    url: /parents/
+    sublinks:
+      - title: Parent Support Group
+        url: /parents/parent-support-group-content/
   - title: Alumni
     collection: alumni
   - title: Contact Us
     url: /contact-us
-  - title: Parents
-    url: /parents/
-    sublinks: []
