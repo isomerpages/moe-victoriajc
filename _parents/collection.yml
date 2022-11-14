@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
+      - Parents.md
+      - Parents Support Group.md
+      - Resources for Parents.md
       - Watching for Distress.md
       - A Level Timetable.md
       - Accessing the Parents Gateway.md
       - Sexuality Education.md
-      - Parents.md
-      - Parents Support Group.md
-      - Resources for Parents.md
