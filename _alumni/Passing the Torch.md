@@ -3,6 +3,7 @@ title: Passing the Torch
 permalink: /alumni/passing-the-torch-content/
 description: ""
 ---
+![](/images/Pass-the-torch-2-1024x346.jpg)
 “Nothing without labour”
 
 We would not have the Victoria we know today without the labour of our predecessors. When you make a gift to Victoria, know that you will in turn, make a difference, and keep our flag unfurled.
