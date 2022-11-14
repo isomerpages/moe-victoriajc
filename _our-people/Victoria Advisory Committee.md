@@ -7,9 +7,9 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 
 ### Chairman
 
-<img src="/images/Dr-Sim-Hong-Gee.jpg" 
+<img src="/images/Dr%20Sim%20Hong%20Gee.jpg" 
      style="width:40%">
-		 
+			 
 <center>Dr Sim Hong Gee</center>
 
 ### Vice-Chairman
