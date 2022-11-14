@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff.md
       - Principal's Welcome.md
+      - Our Staff.md
