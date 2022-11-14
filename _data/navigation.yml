@@ -19,3 +19,5 @@ links:
     collection: parents
   - title: Alumni
     collection: alumni
+  - title: Contact Us
+    url: /contact-us
