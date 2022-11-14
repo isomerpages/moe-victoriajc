@@ -21,3 +21,6 @@ links:
     collection: alumni
   - title: Contact Us
     url: /contact-us
+  - title: Parents
+    url: /parents/
+    sublinks: []
