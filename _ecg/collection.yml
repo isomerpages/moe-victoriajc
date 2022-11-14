@@ -1,4 +1,0 @@
-collections:
-  ecg:
-    output: true
-    order: []
