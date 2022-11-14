@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/Our Staff.md
-      - Our Staff/.keep
       - Principal's Welcome.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
