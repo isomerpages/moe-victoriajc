@@ -4,6 +4,7 @@ permalink: /live-like-a-victorian/character-development-programme/civics/
 description: ""
 third_nav_title: Character Development
 ---
+![](/images/Civics-banner-1024x365.jpg)
 Civics at VJC aims to equip our students with the skills to navigate the turbulent waters of adolescence and also to prepare them for life beyond the classroom. It strives to help students develop  a strong set of values, an entire suite of intra-personal and inter-personal skills centred around 21st century competencies, as well as mapping out their future through a structured and comprehensive programme of higher education and career guidance.
 
 ### CIVICS @ VJC
