@@ -46,11 +46,6 @@ Visit these websites for more useful information to support your child's learnin
 <img src="/images/sexuality%20education%201.png" style="width:25%">
 </a>
 
-
-<a href="/parents/parent-gateway-mobile-app/">
-<img src="/images/student%20handbook.png" style="width:25%">
-</a>
-
 <a href="/parents/parent-gateway-mobile-app/">
 <img src="/images/student%20handbook.png" style="width:25%">
 </a>
