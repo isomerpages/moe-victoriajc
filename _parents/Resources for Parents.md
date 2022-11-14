@@ -3,6 +3,7 @@ title: Resources for Parents
 permalink: /parents/resources-for-parents-content/
 description: ""
 ---
+![](/images/Resources-for-Parents-2-1024x425.jpg)
 Visit these websites for more useful information to support your child's learning and growth. Click here to equip yourself with skills and knowledge to parent confidently!
 
 <strong> more than 5MB</strong>
