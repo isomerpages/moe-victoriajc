@@ -4,6 +4,7 @@ permalink: /live-like-a-victorian/character-development-programme/active-citizen
 description: ""
 third_nav_title: Character Development
 ---
+![](/images/Active-Citizenry-banner-1024x365.jpg)
 The Active Citizenry programme in VJC aims to develop in our students an understanding of what it means to be a Singaporean and a global citizen. This objective is achieved through both the National Education programme and Values-in-Action (VIA) projects. Through a framework of 'Expose, Inspire and Lead', experiences are designed in a manner to enable students to progressively deepen their involvement as active citizens in their communities. Together with other co-curricular programmes, these experiences complement the development of 21st century competencies needed for Victorians to be future-ready citizens.
 
 ### ACTIVE CITIZENRY FRAMEWORK
