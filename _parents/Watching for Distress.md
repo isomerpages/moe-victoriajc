@@ -3,8 +3,7 @@ title: Watching for Distress
 permalink: /parents/watching-for-distress/
 description: ""
 ---
-
-
+![](/images/Watching-for-Distress-banner-1024x365.jpg)
 Watching for Signs of Distress in Children
 ------------------------------------------
 
