@@ -4,7 +4,7 @@ permalink: /about/our-staff/departments/arts-content/
 description: ""
 third_nav_title: Our Departments
 ---
-
+![](/images/d-arts-1024x455.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
