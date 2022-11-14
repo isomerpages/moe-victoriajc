@@ -3,7 +3,7 @@ title: School Awards
 permalink: /about/culture-of-excellence/school-awards/
 description: ""
 ---
-
+![](/images/School-Awards-2-1024x637.jpg)
 The high quality of education Victoria Junior College (VJC) provides its students, that has stayed responsive to changing times since the college first began in 1984, has been made possible by its commitment to excellence as an organisation. The equal attention she has paid to people, programmes and processes has allowed her to deliver good student outcomes. These achievements of the school as an organisation have been affirmed through her attainment of the Singapore Quality Class and key awards recognising school excellence.
 
 <img src="/images/Singapore-Quality-Class.jpg" 
