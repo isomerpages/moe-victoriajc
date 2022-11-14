@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Departments/.keep
       - Principal's Welcome.md
       - Our People/.keep
       - Our People/Our Staff.md
@@ -10,4 +9,5 @@ collections:
       - Our People/Key Appointment Holders.md
       - Our People/JC 1 Civics Tutors.md
       - Our People/JC 2 Civics Tutors.md
+      - Our Departments/.keep
       - Victoria Advisory Committee.md
