@@ -3,7 +3,7 @@ title: Principal's Welcome
 permalink: /about/principals-welcome/
 description: ""
 ---
-<img src="/images/JeffreyLow-1365x2048.jpeg" style="width:40%" align = "left">
+<img src="/images/JeffreyLow-1365x2048.jpeg" style="width:40%" align = "right">
 
 _Victoria is something more  
 The school that watch’d us grow_
