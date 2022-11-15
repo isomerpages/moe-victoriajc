@@ -17,10 +17,21 @@ third_nav_title: Our People
 #### Administration
 |  |  | 
 | -------- | -------- |
+|Administration Manager	|Mrs Teo Bock Huay Jancy<br>[TEO_Bock_Huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
+Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
 
 #### Student Development
 |  |  | 
 | -------- | -------- |
+|Cohort and Information & Communication Technology Head	|Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)|
+|Cohort Head	|Ms Yang Chunxiu<br>[yang.chunxiu@vjc.edu.sg](mailto:yang.chunxiu@vjc.edu.sg)|
+|Head of Student Development|	Mr Seet Kok Wah<br>[seet.kokwah@vjc.edu.sg](mailto:seet.kokwah@vjc.edu.sg)|
+|Head of Talent Development & Education and Career Guidance|	Mr Ivan Toh<br>[ivan.toh.chun.siong@vjc.edu.sg](mailto:ivan.toh.chun.siong@vjc.edu.sg)|
+|Subject Head Active Citizenry|	Ms Jaclyn Ng<br>[ng.yenyen.jaclyn@vjc.edu.sg](mailto:ng.yenyen.jaclyn@vjc.edu.sg)|
+|Subject Head Character & Citizenship Education|	Ms Michelle Goh<br>[michelle.goh@vjc.edu.sg](mailto:michelle.goh@vjc.edu.sg)|
+|Subject Head Student Leadership|	Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg)|
+|Subject Head Student Well-Being|	Ms Ong Li Bing<br>[ong.li.bing@vjc.edu.sg](mailto:ong.li.bing@vjc.edu.sg)|
+|Subject Head Special Projects|	Ms Valerie Tan Jiahui<br>[tan.jiahui.valerie@vjc.edu.sg](mailto:tan.jiahui.valerie@vjc.edu.sg)|
 
 #### Arts Department
 |  |  | 
