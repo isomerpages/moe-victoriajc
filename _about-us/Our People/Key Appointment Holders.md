@@ -20,7 +20,7 @@ third_nav_title: Our People
 |  |  | 
 | -------- | -------- | 
 |Administration Manager	|Mrs Teo Bock Huay Jancy<br>[TEO_Bock_Huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
-Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
+|Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
 
 #### Student Development
 
