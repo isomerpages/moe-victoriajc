@@ -6,7 +6,7 @@ description: Founded in 1984, Victoria Junior College aims to ignite the
   and compassion. An Isomer site of the Singapore Government
 image: /images/VJCCrest.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Victoria Junior College
@@ -15,13 +15,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: Open House 2023
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+          description: 14 January 2023
+          url: ""
+        - title: Happenings at VJC
+          description: Featured News
+          url: /vjc-news/
+        - title: Upcoming Events
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
