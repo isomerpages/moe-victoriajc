@@ -36,31 +36,58 @@ Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:te
 #### Arts Department
 |  |  | 
 | -------- | -------- |
+|Head of Arts|	Ms Goh Hui Hua<br>[goh.huihua@vjc.edu.sg](mailto:goh.huihua@vjc.edu.sg)|
+|Subject Head Geography	|Ms Audrey Ngerng Xiuru<br>[ngerng.xiuru.audrey@vjc.edu.sg](mailto:ngerng.xiuru.audrey@vjc.edu.sg)|
+|Senior Teacher Art|	Mr Tang Li Jen<br>[tang.lijen@vjc.edu.sg](mailto:tang.lijen@vjc.edu.sg)|
+|Senior Teacher History	|Ms Loh Ver-May<br>[loh.ver-may@vjc.edu.sg](mailto:loh.ver-may@vjc.edu.sg)|
 
 #### Economics Department
 |  |  | 
 | -------- | -------- |
+|Head of Economics	|Ms Yip Oei Lin Anne<br>[yip.oeilin.anne@vjc.edu.sg](mailto:yip.oeilin.anne@vjc.edu.sg)|
+|Level Head (Year 1)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
 
 #### English Department
 |  |  | 
 | -------- | -------- |
+|Head of English|	Mr James Ho<br>[james.ho@vjc.edu.sg](mailto:james.ho@vjc.edu.sg)|
+|School Staff Developer	|Mr Nazrul Rashidi B Mohd<br>[nazrul.rashidi.mohd@vjc.edu.sg](mailto:nazrul.rashidi.mohd@vjc.edu.sg)|
+|Subject Head Literature	|Mr Teo Gene En<br>[teo.geneen@vjc.edu.sg](mailto:teo.geneen@vjc.edu.sg)|
+|Level Head (Year 1) General Paper|	Mr Teo Aik Cher<br>[teo.aikcher@vjc.edu.sg](mailto:teo.aikcher@vjc.edu.sg)|
+|Level Head (Year 2) General Paper	|Mrs Celine Leow<br>[cheong.siewyin.celine@vjc.edu.sg](mailto:cheong.siewyin.celine@vjc.edu.sg)|
 
 #### Mathematics Department
 |  |  | 
 | -------- | -------- |
+|Head of Mathematics|	Mrs Ang Chiou Lian<br>[tong.chioulian@vjc.edu.sg](mailto:tong.chioulian@vjc.edu.sg)|
+|Level Head (Year 1)|	Mrs Jean Chong<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)|
+|Level Head (Year 2)|	Mrs Koh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
 
 #### Mother Tongue Department
 |  |  | 
 | -------- | -------- |
+|Head of Mother Tongue Languages|	Ms Ho Kar Hui<br>[ho.kar.hui@vjc.edu.sg](mailto:ho.kar.hui@vjc.edu.sg)|
+|Subject Head Mother Tongue Languages| Mr Ng Kok Hwa<br>[ng.kok.hwa@vjc.edu.sg](mailto:ng.kok.hwa@vjc.edu.sg)|
 
 #### Physical Department & CCA
 |  |  | 
 | -------- | -------- |
+|Head of Physical Education & CCA|	Mr Tan Yew Hwee<br>[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)|
+|Subject Head CCA|	Mr Lim Peng Yeow<br>[lim.pengyeow@vjc.edu.sg](mailto:lim.pengyeow@vjc.edu.sg)|
+|Subject Head Aesthetics|	Ms Ding Yih<br>[ding.yih@vjc.edu.sg](mailto:ding.yih@vjc.edu.sg)|
 
 #### Project Work Department
 |  |  | 
 | -------- | -------- |
+|Senior Teacher |	Mrs Ting Siang Leng<br>[goh.siangleng@vjc.edu.sg](mailto:goh.siangleng@vjc.edu.sg)|
 
 #### Science Department
 |  |  | 
 | -------- | -------- |
+|Head of Science| Ms Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)|
+|Head of Science| Mrs Toh Chin Ling<br>[leong.chinling@vjc.edu.sg](mailto:leong.chinling@vjc.edu.sg)|
+|Subject Head Biology|	Mr Heman Kwok Ho Man<br>[kwok.ho.man.heman@vjc.edu.sg](mailto:kwok.ho.man.heman@vjc.edu.sg)|
+|Subject Head Physics|	Mr Lee Keng Hua<br>[lee.kenghua@vjc.edu.sg](mailto:lee.kenghua@vjc.edu.sg)|
+|Subject Head Science Research	|Dr Wu Jiang<br>[wu.jiang@vjc.edu.sg](mailto:wu.jiang@vjc.edu.sg)|
+|Senior Teacher Chemistry|	Mr Lim Cher Chuan Edwin<br>[lim.cherchuan@vjc.edu.sg](mailto:lim.cherchuan@vjc.edu.sg)|
+|Senior Teacher Physics|	Mr Chan Soo Heong Julius<br>[chan.sooheong.julius@vjc.edu.sg](mailto:chan.sooheong.julius@vjc.edu.sg)|
