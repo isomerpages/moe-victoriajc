@@ -26,4 +26,5 @@ sections:
   - infopic:
       title: Late Start EVERYDAY
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
+      alt: Late Start Banner
 ---
