@@ -24,7 +24,8 @@ sections:
           description: ""
           url: /privacy/
   - infopic:
-      title: Late Start EVERYDAY
+      title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
       alt: Late Start Banner
+      description: Late Start EVERYDAY
 ---
