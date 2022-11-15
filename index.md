@@ -21,7 +21,7 @@ sections:
           description: Featured News
           url: /vjc-news/
         - title: Upcoming Events
-          description: ""
+          description: Calendar Of Events
           url: /calendar/
   - infopic:
       title: Time to LiVE it up!
