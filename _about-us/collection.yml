@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Upcoming Events.md
       - Principal's Welcome.md
       - Our People/.keep
       - Our People/Our Staff.md
@@ -19,3 +18,4 @@ collections:
       - Our Departments/Physical Education (PE).md
       - Our Departments/Science.md
       - Victoria Advisory Committee.md
+      - Upcoming Events.md
