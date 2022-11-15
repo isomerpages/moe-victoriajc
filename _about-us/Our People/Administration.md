@@ -8,81 +8,21 @@ third_nav_title: Our People
 
 #### Administration
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-h3gn{background-color:#F5F6F5;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-2k4o{background-color:#F5F6F5;color:#3A3A3A;text-align:left;vertical-align:top}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Administration</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">Administration Manager</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mrs Jancy Lee-Teo</span><br><a href="mailto:TEO_Bock_Huay@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">TEO_Bock_Huay@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Operation Manager</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Teo Hung Meng</span><br><a href="mailto:teo_hung_meng@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">teo_hung_meng@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">Administrative Executives</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mdm Koh Seow Chin</span><br><a href="mailto:koh_seow_chin@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">koh_seow_chin@schools.gov.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Rosnah Bte Abdul Rahman</span><br><a href="mailto:Rosnah_Abdul_rahman@schools.gov.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">Rosnah_Abdul_rahman@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Administrative Staff (General Office)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Chin Choon Fong May</span><br><a href="mailto:chin.choon.fong.may@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">chin.choon.fong.may@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Fauziah bte Mohd Zin</span><br><a href="mailto:fauziah.binte.mohd.zin@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">fauziah.binte.mohd.zin@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Massumarni bte Awi</span><br><a href="mailto:massumarni.bteawi@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">massumarni.bteawi@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mr Morgan Kanapathy</span><br><a href="mailto:morgan.kanapathy@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">morgan.kanapathy@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mr Lee Hwa Seng</span><br><a href="mailto:lee.hwa.seng@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">lee.hwa.seng@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Koh Seok Tin Linda</span><br><a href="mailto:koh.seok.tin.linda@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">koh.seok.tin.linda@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">AV Technician</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mr Ho Teck Huat</span><br><a href="mailto:ho.teckhuat@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ho.teckhuat@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">ICT Manager</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Asrio Bin Buhari</span><br><a href="mailto:asrio.buhari@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">asrio.buhari@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">Librarian</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mr Tan Lye Aik</span><br><a href="mailto:tan.lye.aik@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">tan.lye.aik@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">School Counsellor</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Ms Sangeetha Segar</span><br><a href="mailto:sangeetha.segar@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">sangeetha.segar@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">ECG Counsellor</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Ms</span> <span style="font-weight:inherit;font-style:inherit">Poon Kim Choo</span><br><a href="mailto:poon.kim.choo@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">poon.kim.choo@vjc.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:bold;font-style:inherit">Science Laboratory Technicians</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mr Ramzan Bin Jantan</span><br><a href="mailto:ramzan.binjantan@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ramzan.binjantan@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Mas Diana Bte Abdul Malek</span><br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">mas.diana.abdulmalek@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Ms Sim Yi Jing</span><br><a href="mailto:sim.yi.jing@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">sim.yi.jing@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Ms Nurul Syafiqah Binte Ismail</span><br><a href="mailto:nurul.syafiqah.ismail@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">nurul.syafiqah.ismail@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mr Irmady Khalid</span><br><a href="mailto:irmady.khalid@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">irmady.khalid@vjc.edu.sg</span></a>		
-		</td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:bold;font-style:inherit">NCS Desktop Engineers</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mr Hamzah Bin Rahmathulla</span><br><a href="mailto:hamzah.rahmathulla@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">hamzah.rahmathulla@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Win Lei Thu</span><br><a href="mailto:win.lei.thu@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">win.lei.thu@vjc.edu.sg</span></a></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:700">Operations Support Officers (Science Laboratory)</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Aslinda binte Salom</span><br><a href="mailto:aslinda.bintesalom@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">aslinda.bintesalom@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Habsah Binte Aripin</span><br><a href="mailto:habsah.bintearipin@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">habsah.bintearipin@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Ng Siok Har Veronica</span><br><a href="mailto:ng.siokhar.veronica@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">ng.siokhar.veronica@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Ms Ong Siok Wah Mary</span><br><a href="mailto:mary.ong@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">mary.ong@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Rohani Binte Sulaimi</span><br><a href="mailto:rohani.bintesulaimi@vjc.edu.sg" ><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">rohani.bintesulaimi@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-h3gn"><span style="font-weight:700">Operations Support Officers (Estate)</span></td>
-    <td class="tg-2k4o"><span style="font-weight:inherit;font-style:inherit">Mdm Rahmah Bte Ahmad</span><br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">rahmah.bte.ahmad@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mr Roslan Bin Mat Lasa</span><br><a href="mailto:roslan.bin.mat.lasa@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">roslan.bin.mat.lasa@vjc.edu.sg</span></a><br><span style="font-weight:inherit;font-style:inherit">Mdm Sabariah Hussin</span><br><a href="mailto:riah.hussin@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">riah.hussin@vjc.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c1uv"><span style="font-weight:700">Receptionist</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Mdm Kok Poh Chun</span><br><a href="mailto:kok.poh.chun@vjc.edu.sg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#FF0202;background-color:transparent">kok.poh.chun@vjc.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+
+
+|  |  | 
+| -------- | -------- |
+|Administration Manager	|Mrs Teo Bock Huay Jancy<br>[TEO_Bock_Huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
+|Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
+|Administrative Executives|	Mdm Koh Seow Chin<br>[koh_seow_chin@schools.gov.sg](mailto:koh_seow_chin@schools.gov.sg)<br>Mdm Rosnah Bte Abdul Rahman<br>[Rosnah_Abdul_rahman@schools.gov.sg](mailto:Rosnah_Abdul_rahman@schools.gov.sg)
+|Administrative Staff (General Office)|	Mdm Chin Choon Fong May<br>[chin.choon.fong.may@vjc.edu.sg](mailto:chin.choon.fong.may@vjc.edu.sg)<br><Mdm Fauziah bte Mohd Zin<br>[fauziah.binte.mohd.zin@vjc.edu.sg](mailto:fauziah.binte.mohd.zin@vjc.edu.sg)<br>Mdm Massumarni bte Awi<br>[massumarni.bteawi@vjc.edu.sg](mailto:massumarni.bteawi@vjc.edu.sg)<br>Mr Morgan Kanapathy<br>[morgan.kanapathy@vjc.edu.sg](mailto:morgan.kanapathy@vjc.edu.sg)<br>Mr Lee Hwa Seng<br>[lee.hwa.seng@vjc.edu.sg](mailto:lee.hwa.seng@vjc.edu.sg)<br>Mdm Koh Seok Tin Linda<br>[koh.seok.tin.linda@vjc.edu.sg](mailto:koh.seok.tin.linda@vjc.edu.sg)|
+|AV Technician|	Mr Ho Teck Huat<br>[ho.teckhuat@vjc.edu.sg](mailto:ho.teckhuat@vjc.edu.sg)|
+|ICT Manager|	Mr Asrio Bin Buhari<br>[asrio.buhari@vjc.edu.sg](mailto:asrio.buhari@vjc.edu.sg)|
+|Librarian|	Mr Tan Lye Aik<br>[tan.lye.aik@vjc.edu.sg](mailto:tan.lye.aik@vjc.edu.sg)|
+|School Counsellor|	Ms Sangeetha Segar<br>[sangeetha.segar@vjc.edu.sg](mailto:sangeetha.segar@vjc.edu.sg)|
+|ECG Counsellor|	Ms Poon Kim Choo<br>[poon.kim.choo@vjc.edu.sg](mailto:poon.kim.choo@vjc.edu.sg)|
+|Science Laboratory Technicians|	Mr Ramzan Bin Jantan<br>[ramzan.binjantan@vjc.edu.sg](mailto:ramzan.binjantan@vjc.edu.sg)<br>Mdm Mas Diana Bte Abdul Malek<br>[mas.diana.abdulmalek@vjc.edu.sg](mailto:mas.diana.abdulmalek@vjc.edu.sg)<br>Ms Sim Yi Jing<br>[sim.yi.jing@vjc.edu.sg](mailto:sim.yi.jing@vjc.edu.sg)<br>Ms Nurul Syafiqah Binte Ismail<br>[nurul.syafiqah.ismail@vjc.edu.sg](mailto:nurul.syafiqah.ismail@vjc.edu.sg)<br>Mr Irmady Khalid<br>[irmady.khalid@vjc.edu.sg](mailto:irmady.khalid@vjc.edu.sg)|
+|NCS Desktop Engineers|	Mr Hamzah Bin Rahmathulla<br>[hamzah.rahmathulla@vjc.edu.sg](mailto:hamzah.rahmathulla@vjc.edu.sg)<br>Mdm Win Lei Thu<br>[win.lei.thu@vjc.edu.sg](mailto:win.lei.thu@vjc.edu.sg)|
+|Operations Support Officers (Science Laboratory)|	Mdm Aslinda binte Salom<br>[aslinda.bintesalom@vjc.edu.sg](mailto:aslinda.bintesalom@vjc.edu.sg)<br>Mdm Habsah Binte Aripin<br>[habsah.bintearipin@vjc.edu.sg](mailto:habsah.bintearipin@vjc.edu.sg)<br>Mdm Ng Siok Har Veronica<br>[ng.siokhar.veronica@vjc.edu.sg](mailto:ng.siokhar.veronica@vjc.edu.sg)<br>Ms Ong Siok Wah Mary<br>[mary.ong@vjc.edu.sg](mailto:mary.ong@vjc.edu.sg)<br>Mdm Rohani Binte Sulaimi<br>[rohani.bintesulaimi@vjc.edu.sg](mailto:rohani.bintesulaimi@vjc.edu.sg)|
+|Operations Support Officers (Estate)|	Mdm Rahmah Bte Ahmad<br>[rahmah.bte.ahmad@vjc.edu.sg](mailto:rahmah.bte.ahmad@vjc.edu.sg)<br>Mr Roslan Bin Mat Lasa<br>[roslan.bin.mat.lasa@vjc.edu.sg](mailto:roslan.bin.mat.lasa@vjc.edu.sg)<br>Mdm Sabariah Hussin<br>[riah.hussin@vjc.edu.sg](mailto:riah.hussin@vjc.edu.sg)|
+|Receptionist|	Mdm Kok Poh Chun<br>[kok.poh.chun@vjc.edu.sg](mailto:kok.poh.chun@vjc.edu.sg)|
