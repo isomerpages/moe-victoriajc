@@ -4,8 +4,7 @@ permalink: /parents/watching-for-distress/
 description: ""
 ---
 ![](/images/Watching-for-Distress-banner-1024x365.jpg)
-Watching for Signs of Distress in Children
-------------------------------------------
+### Watching for Signs of Distress in Children
 
 When our children are going through distress, they send out warning signs through their behaviour, but do we know what to watch for? Are we catching the signals for help being sent out?
 
