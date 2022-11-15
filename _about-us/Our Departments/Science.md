@@ -5,6 +5,17 @@ description: ""
 third_nav_title: Our Departments
 ---
 ![](/images/d-sci-1024x455.jpg)
+
+
+|  |  | 
+| -------- | -------- | 
+|Head of Department Science<br>Mdm Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)<br><br>Head of Department Science<br>Mrs Toh Chin Ling<br>[leong.chinling@vjc.edu.sg](mailto:leong.chinling@vjc.edu.sg)<br>| |
+| Mr Heman Kwok<br>(Subject Head Biology)<br>[kwok.ho.man.heman@vjc.edu.sg](mailto:kwok.ho.man.heman@vjc.edu.sg)|Mr Lee Keng Hua<br>(Subject Head Physics)<br>[lee.kenghua@vjc.edu.sg](mailto:lee.kenghua@vjc.edu.sg)|
+|Mr Julius Chan<br>(Senior Teacher Physics)<br>[chan.sooheong.julius@vjc.edu.sg](mailto:chan.sooheong.julius@vjc.edu.sg)|Dr Wu Jiang<br>(Subject Head Science Research)<br>[wu.jiang@vjc.edu.sg](mailto:wu.jiang@vjc.edu.sg)|
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
