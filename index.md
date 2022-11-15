@@ -22,7 +22,7 @@ sections:
           url: /vjc-news/
         - title: Upcoming Events
           description: ""
-          url: /privacy/
+          url: /calendar/
   - infopic:
       title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
