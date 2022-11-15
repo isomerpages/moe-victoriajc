@@ -23,10 +23,7 @@ sections:
         - title: Upcoming Events
           description: ""
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Late Start EVERYDAY
+      image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
 ---
