@@ -11,9 +11,7 @@ Visit these websites for more useful information to support your child's learnin
 <img src="/images/Post%20A%20level%20guide.png" style="width:25%">
 </a>
 
-<a href="/files/Resilience-Resources_for-parents_final.pdf">
-<img src="/images/resilience.png" style="width:25%">
-</a>
+
 
 <a href="/education-and-career-guidance-ecg/">
 <img src="/images/ECG.png" style="width:25%">
