@@ -19,7 +19,7 @@ third_nav_title: Our People
 |22S35|	Ms Geraldine Tay<br>geraldine.tay.rou.jun@vjc.edu.sg<br>Mr Kwok Pang Keat<br>kwok.pangkeat@vjc.edu.sg|
 |22S36|	Ms Meenachi<br>meenachi.rohini@vjc.edu.sg<br>Mr Nicholas Ng<br>ng.wei.zhi.nicholas@vjc.edu.sg|
 |22S37|	Ms Celeste Teo<br>teo.celeste@vjc.edu.sg|
-|22S38|	Mrs Jacinth Judahjacinth.rajan@vjc.edu.sg|
+|22S38|	Mrs Jacinth Judah<br>jacinth.rajan@vjc.edu.sg|
 |22S39|	Ms Frances Lee<br>lee.dunlin@vjc.edu.sg<br>Ms June Tan<br>tan.siew.hwee.june@vjc.edu.sg
 |22S41|	Mr Tan Wee Yong<br>tan.wee.yong@vjc.edu.sg<br>Mdm Marliza Muhamad<br>marliza.bte.muhamad@vjc.edu.sg|
 |22S42|	Mr Kan Chien Yi<br>kan.chien-yi@vjc.edu.sg<br>Ms Kok Ye Hong<br>kok.ye.hong@vjc.edu.sg|
