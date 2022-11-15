@@ -2,4 +2,4 @@ collections:
   upcoming-events:
     output: true
     order:
-      - Calendar of Events.md
+      - Upcoming Events.md
