@@ -3,7 +3,7 @@ layout: homepage
 title: Victoria Junior College
 description: Founded in 1984, Victoria Junior College aims to ignite the
   imagination of all Victorians to create the future with conviction, courage
-  and compassion. An Isomer site of the Singapore Government
+  and compassion.
 image: /images/VJCCrest.png
 permalink: /
 notification: ""
@@ -29,3 +29,4 @@ sections:
       alt: Late Start Banner
       description: Late Start EVERYDAY
 ---
+
