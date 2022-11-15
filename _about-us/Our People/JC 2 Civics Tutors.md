@@ -7,7 +7,7 @@ third_nav_title: Our People
 ![](/images/JC-2-Civics-Tutors-banner-1024x365.jpg)
 | Class | Civic Tutors |
 | -------- | -------- |
-|22A11 |	Ms Bernice Khoo<br>khoo.hui.ching.bernice@vjc.edu.sg|
+|22A11 |	Ms Bernice Khoo<br>[khoo.hui.ching.bernice@vjc.edu.sg](khoo.hui.ching.bernice@vjc.edu.sg)|
 |22A12|	Ms Cheryl Lee<br>lee.wen.zhi.cheryl@vjc.edu.sg<br>Ms Lin Danwei<br>lin.danwei@vjc.edu.sg
 |22A13|	Ms Cheri Hu<br>hu.cheri@vjc.edu.sg<br>Mrs Deborah Tan<br>law.deborah@vjc.edu.sg|
 |22A14|	Mr Najib Medina<br>najib.madina@vjc.edu.sg<br>Ms Tan Xing Ying<br>tan.xinying@vjc.edu.sg|
