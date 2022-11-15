@@ -6,7 +6,8 @@ third_nav_title: Our People
 ---
 ![](/images/JC-1-Civics-Tutors-banner-1024x365.jpg)
 
-| Class | Civic Tutors |
+
+>| Class | Civic Tutors |
 | -------- | -------- |
 |22A11 |	Ms Bernice Khoo<br>khoo.hui.ching.bernice@vjc.edu.sg|
 |22A12|	Ms Cheryl Lee<br>lee.wen.zhi.cheryl@vjc.edu.sg<br>Ms Lin Danwei<br>lin.danwei@vjc.edu.sg
