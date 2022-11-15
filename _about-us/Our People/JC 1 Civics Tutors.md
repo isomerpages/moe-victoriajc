@@ -15,7 +15,7 @@ third_nav_title: Our People
 |22S31|	Ms Audrey Tay<br>tay.weili.audrey@vjc.edu.sg|
 |22S32|	Mrs Lim Siew Mee<br>chin.siewmee@vjc.edu.sg|
 |22S33|	Ms Tiffany Yeo<br>tiffany.yeo@vjc.edu.sg<br>Ms Susan Toh<br>toh.yee.suan.susan@vjc.edu.sg|
-|22S34|	Ms Elinor Chiachia.elinor.trudy@vjc.edu.sg|
+|22S34|	Ms Elinor Chia<br>chia.elinor.trudy@vjc.edu.sg|
 |22S35|	Ms Geraldine Tay<br>geraldine.tay.rou.jun@vjc.edu.sg<br>Mr Kwok Pang Keat<br>kwok.pangkeat@vjc.edu.sg|
 |22S36|	Ms Meenachi<br>meenachi.rohini@vjc.edu.sg<br>Mr Nicholas Ng<br>ng.wei.zhi.nicholas@vjc.edu.sg|
 |22S37|	Ms Celeste Teo<br>teo.celeste@vjc.edu.sg|
