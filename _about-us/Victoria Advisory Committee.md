@@ -15,11 +15,10 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 
 ### Vice-Chairman
 
-
-| ![](/images/VAC%202023/Mr%20Loh%20Wai%20Keong.jpg) | ![](/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg) | ![](/images/VAC%202023/Mr%20Loke%20Swee%20Leong.jpg) |
-| -------- | -------- | -------- |
-| Mr Loh Wai Keong    | Mr Phua Tien Beng    |  Mr Loke Swee Leong   |
-
+<img src="/images/VAC%202023/Mr%20Loh%20Wai%20Keong.jpg" 
+     style="width:40%">
+		 					 
+<center>Mr Loh Wai Keong</center>
 
 
 ### Treasurer 
@@ -32,15 +31,23 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 ### Member
 
 
-| ![](/images/VAC%202023/Mr%20Kelvin%20Wong.jpg) | ![](/images/VAC%202023/Mr%20Lim%20Han%20Feng.jpg) | ![](/images/VAC%202023/Mr%20Lim%20Siang%20Chin.jpg) |
-| -------- | -------- | -------- |
-| Mr Kelvin Wong     | Mr Lim Han Feng     | Mr Lim Siang Chin     |
+| ![](/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg)| ![](/images/VAC%202023/Mr%20Loke%20Swee%20Leong.jpg)|
+| - | - | 
+| Mr Phua Tien Beng    |  Mr Loke Swee Leong   | 
+
+|![](/images/VAC%202023/Mr%20Kelvin%20Wong.jpg) | ![](/images/VAC%202023/Mr%20Lim%20Han%20Feng.jpg) |
+| - |  - | 
+|  Mr Kelvin Wong     | Mr Lim Han Feng     | 
 
 
+|![](/images/VAC%202023/Mr%20Lim%20Siang%20Chin.jpg) | ![](/images/VAC%202023/Mr%20Tan%20Pei-San.jpg) |
+| --------| -------- | 
+| Mr Lim Siang Chin    | Mr Tan Pei-San     | 
 
-| ![](/images/VAC%202023/Mr%20Tan%20Pei-San.jpg) | ![](/images/VAC%202023/Miss%20Gwenda%20Fong.jpg) | ![](/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg) |
-| -------- | -------- | -------- |
-| Mr Tan Pei-San     | Miss Gwenda Fong     | Mr Tang Shiuh Huei     |
+| ![](/images/VAC%202023/Miss%20Gwenda%20Fong.jpg) | ![](/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg) |
+| --------| -------- | 
+| Miss Gwenda Fong     | Mr Tang Shiuh Huei     | 
+
 
 
 ### Secretary (Principal/VS)
