@@ -22,7 +22,7 @@ Candidate should:
 ### Terms and Conditions
 
 
-Besides offering General, a Mother Tongue Language (MTL) (students offering Mother Tongue Language and Literature (MTLL) need not offer Mother Tongue Language (MTL)) and Project Work at H1 level, Humanities scholars on the GCE A-Level track must **offer H2 Literature in English** and a **second H2 Humanities** subject chosen from China Studies, Economics, Geography and History. The choice of the **third H2 subject** is listed in Table 1.  In addition to three H2 subjects, Humanities Scholars have to offer a contrasting subject which may be from the Maths/Science group.
+Besides offering General Paper, a Mother Tongue Language (MTL) (students offering Mother Tongue Language and Literature (MTLL) need not offer Mother Tongue Language (MTL)) and Project Work at H1 level, Humanities scholars on the GCE A-Level track must **offer H2 Literature in English** and a **second H2 Humanities** subject chosen from China Studies, Economics, Geography and History. The choice of the **third H2 subject** is listed in Table 1.  In addition to three H2 subjects, Humanities Scholars have to offer a contrasting subject which may be from the Maths/Science group.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -63,4 +63,4 @@ Besides offering General, a Mother Tongue Language (MTL) (students offering Moth
 Note: Last subject must be Mathematics at either H1 or H2 level
 
 Contact Information <br> 
-If you have any enquires, you can contact Mr James Ho at [james.ho@vjc.edu.sg](mailto:james.ho@vjc.edu.sg)
+If you have any enquires, you can contact Ms Audrey Ngerng at [ngerng.xiuru.audrey@vjc.edu.sg](mailto:ngerng.xiuru.audrey@vjc.edu.sg)
