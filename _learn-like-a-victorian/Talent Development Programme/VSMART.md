@@ -121,29 +121,24 @@ The enrichment activities include:
 
 ![](/images/outreach.png)
 
-As the East Zone Centre of Excellence in Science & Technology, VJC organises workshops, seminars and competitions for primary, secondary and pre-university students, attracting more than 1100 participants yearly from 50 schools nationwide.
+VJC Science & Technology Centre organises workshops, seminars and competitions for secondary students, attracting more than 1100 participants yearly from 60 schools nationwide.
+
+This is part of the Centre’s efforts to inspire and foster greater interest amongst participants in Science, Technology, Engineering and Math (STEM) and our participants can develop a better appreciation of the connections and impact of STEM on their life, environment and society.
 
 These sessions not only provide enrichment opportunities for the participating schools, they are also a platform for Victorians to plan, lead and run activities for other students, thus spreading their passion and interest in science and technology.
 
-This year the centre once again is organising the annual STEM Festival@VJC to encourage students from schools to be actively engaged in the learning and applications of Science, Technology, Engineering and Math (STEM) through a series of activities and events. This is part of the Centre’s efforts to inspire and foster greater interest amongst participants in STEM and our participants can develop a better appreciation of the connections and impact of STEM on their life, environment and society.
+To encourage students from schools to be actively engaged in the learning and applications of STEM, the Centre is proud to partner with various organisations (A\*STAR, DSTA-DSO, SIT, SUTD and TP) and present the following STEM-related competitions for the schools to participate.
 
-The centre is proud to partner with various organisations (DSTA-DSO, A\*STAR and SUTD) and present the following STEM-related competitions for the schools to participate.
+*   VJC STEM In Community Learning Series
+*   STEM Connect
+    *   Project Inspire
+    *   Data Science Hackathon
+*   A\*STAR-VJC Science Fair
+*   DSTA-DSO-VJC Robotics Challenge
+*   SUTD-VJC 3D Modelling Competition
+*   VJC Amazing eco-STEM Race
 
-All the competitions will take place virtually.
-
-Click on the following links for details and registration:
-
-1.  East Zone A\*STAR Science Fair  
-    [https://go.gov.sg/2021vjcsciencefair](https://go.gov.sg/2021vjcsciencefair)
-
-2.  East Zone DSTA-DSO Robotics Challenge  
-    [https://go.gov.sg/2021vjcroboticschallenge](https://go.gov.sg/2021vjcroboticschallenge)
-
-3.  East Zone 3D Modelling Competition (for east zone schools only)  
-    [https://go.gov.sg/2021vjc3dmodelling](https://go.gov.sg/2021vjc3dmodelling)
-
-4.  East Zone Amazing Science Race (for east zone schools only)  
-    [https://go.gov.sg/2021vjcamazingrace](https://go.gov.sg/2021vjcamazingrace)
+To find out more about our Centre and our activities, please visit our website.
 		
 ![](/images/stem-based.png)
 
