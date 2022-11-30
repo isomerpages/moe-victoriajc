@@ -9,7 +9,7 @@ description: ""
 
 We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you have outstanding ability and strong passion for one of our DSA areas on offer, you just might be the candidate we are looking for!
 
-The DSA talent areas for the 2022 DSA-JC Admission Exercise are listed below. This could be Your Golden Break!
+The DSA talent areas for the 2022 DSA-JC Admission Exercise are listed below. Do check back for talent areas for the 2023 DSA-JC Admission Exercise in April.
 
 ### Performing Arts
 
@@ -40,11 +40,3 @@ The DSA talent areas for the 2022 DSA-JC Admission Exercise are listed below. Th
 *   Humanities Programme
 *   Infocomm Technology (Computing)
 *   Science Research
-
-Click on the link below to start your DSA journey with VJC!
-
-
-
-<a href="https://staging.d31hymonz16767.amplifyapp.com/admissions/direct-school-admissions/direct-school-admissions-applications/">
-<img src="/images/join%20us.png" width="100" height="132">
-</a>
