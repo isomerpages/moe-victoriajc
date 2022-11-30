@@ -73,13 +73,13 @@ If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mai
 <p>For more information on subjects offered in VJC, do check our website<a href="https://staging.d31hymonz16767.amplifyapp.com/learn-like-a-victorian/academic-disciplines/">/learn-like-a-victorian/academic-disciplines/</a>. You may also find out more from our teacher advisors. Please write to:</p>
 
 <p>Ms Toh Chui Hoon, Head of Dept/Science at: 
-	<a href="toh.chuihoon@vjc.sg">toh.chuihoon@vjc.sg</a></p>
+	<a href="toh.chuihoon@vjc.edu.sg">toh.chuihoon@vjc.edu.sg</a></p>
 				
 <p>Ms Goh Hui Hua, Head of Dept/Arts at: 
-<a href="goh.huihua@vjc.sg">goh.huihua@vjc.sg</a></p>
+<a href="goh.huihua@vjc.edu.sg">goh.huihua@vjc.edu.sg</a></p>
 				
-<p>Mr Ivan Toh, Subject Head/Higher Education at: 
-<a href="ivan.toh.chun.siong@vjc.sg">ivan.toh.chun.siong@vjc.sg</a></p>
+<p>Mr Ivan Toh, Head of Talent Development & Education and Career Guidance at: 
+<a href="ivan.toh.chun.siong@vjc.edu.sg">ivan.toh.chun.siong@vjc.edu.sg</a></p>
     </div>
 
 </li>
