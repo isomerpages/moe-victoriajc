@@ -14,8 +14,7 @@ The 8P Character Development Programme is part of the college’s overall holist
 1.  **Aesthetics**
 2.  **Active Citizenry** 
 3.  **Beyond Borders**
-4.  **Civics & Life skills**
-5.  **Co-curricular Activities**
-6.  **Higher Education**
-7.  **Scholarships & Career Guidance**
-8.  **Student Leadership**
+4.  **Co-curricular Activities**
+5.  **Higher Education**
+6.  **Scholarships & Career Guidance**
+7.  **Student Leadership**
