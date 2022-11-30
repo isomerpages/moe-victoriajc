@@ -14,7 +14,7 @@ To experience a broad-based education, all students in a junior college must off
 
 Students in VJC can offer a Foreign Language as a Higher 2 (H2) subject in any of the subject combinations.
 
-**New!** We have added H2 Computing and H2 Chinese Language and Literature to the list of subjects on offer in 2021.
+Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to the list of subjects on offer.
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -193,7 +193,7 @@ There is a range of H3 offerings that are either taught by VJC teachers in colle
 
 The Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at [https://www.seab.gov.sg/home/examinations/gce-a-level](https://www.seab.gov.sg/home/examinations/gce-a-level)
 
-### VJC Academic Information 2022
+### VJC Academic Information 2023
 
 
-Download our 2022 Academic Information booklet [here](/files/VJCAcademicInformation2022.pdf), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2023 Academic Information booklet [here](/files/VJCAcademicInformation2022.pdf), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
