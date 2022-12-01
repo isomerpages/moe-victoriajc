@@ -10,21 +10,21 @@ Being Victorian is about becoming part of a bigger fraternity and a broader shar
 
 Categories of CCAs that we offer:
 
-### Club and Societies 
+### [Club and Societies ](/live-like-a-victorian/co-curricular-activities/clubs-societies/)
 
 Whether to deepen a passion or find a new hobby there is definitely a club that suits your fancy. With many an award-winner amongst its members, our clubs and societies provide Victorians with myriad ways and means to extend their knowledge on global issues, the latest technological trends or medical breakthroughs.
 
 
-### Performing Arts
+### [Performing Arts](/live-like-a-victorian/co-curricular-activities/performing-arts/)
 
 At its heart, our performing arts CCAs offer Victorians an avenue to express themselves and stage their talents in various concerts and events throughout the year. VJC’s talent is rich and diverse with Victorians performing on internationally-renowned stages both locally and overseas.
 
 
 
-### Sports
+### [Sports](/live-like-a-victorian/co-curricular-activities/sports/)
 
 If Performing Arts is the heart of VJC, then Sports is its soul. One of the most exciting times of any given year falls during sports season. Many of our teams have a legacy of victory, ensuring that Victorians carry it on game after game, season after season. Always fired-up, Victorians play with passion and pride that comes naturally to them.
 
-### Student Interest Groups
+### [Student Interest Groups](/live-like-a-victorian/Co-Curricular-activities/SIG/)
 
 Beyond the CCAs, Victorians have the opportunity to rally like-minded peers and establish their interest groups. These vary with every cohort and reflect Victorians’ interests, passion and causes close to their hearts.
