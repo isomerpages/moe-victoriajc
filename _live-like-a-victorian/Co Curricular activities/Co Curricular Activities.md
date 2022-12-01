@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Co Curricular activities
 ---
 ![](/images/Co-curricular-Activities-Banner-2-1024x683.jpg)
+
+[!\[Everything Is AWESOME\](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)\](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+[!\[](https://youtu.be/vIl1K-0cBWg)](https://youtu.be/vIl1K-0cBWg)
+
 Being Victorian is about becoming part of a bigger fraternity and a broader shared experience. Co-curricular activities (CCAs) are integral to a balanced and holistic learning experience. Here in VJC, we provide students with exciting opportunities for character building and nurture life skills and attributes such as leadership, teamwork and empathy. At the same time, students can pursue their interests and pick up specific skills, forge strong bonds and of course have a great deal of fun!
 
 Categories of CCAs that we offer:
@@ -23,3 +28,7 @@ At its heart, our performing arts CCAs offer Victorians an avenue to express the
 ### Sports
 
 If Performing Arts is the heart of VJC, then Sports is its soul. One of the most exciting times of any given year falls during sports season. Many of our teams have a legacy of victory, ensuring that Victorians carry it on game after game, season after season. Always fired-up, Victorians play with passion and pride that comes naturally to them.
+
+### Student Interest Groups
+
+Beyond the CCAs, Victorians have the opportunity to rally like-minded peers and establish their interest groups. These vary with every cohort and reflect Victorians’ interests, passion and causes close to their hearts.
