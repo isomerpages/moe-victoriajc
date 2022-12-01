@@ -4,11 +4,7 @@ permalink: /live-like-a-victorian/Co-Curricular-activities/
 description: ""
 third_nav_title: Co Curricular activities
 ---
-![](/images/Co-curricular-Activities-Banner-2-1024x683.jpg)
-
-[!\[Everything Is AWESOME\](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)\](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-[!\[](https://youtu.be/vIl1K-0cBWg)](https://youtu.be/vIl1K-0cBWg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vIl1K-0cBWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Being Victorian is about becoming part of a bigger fraternity and a broader shared experience. Co-curricular activities (CCAs) are integral to a balanced and holistic learning experience. Here in VJC, we provide students with exciting opportunities for character building and nurture life skills and attributes such as leadership, teamwork and empathy. At the same time, students can pursue their interests and pick up specific skills, forge strong bonds and of course have a great deal of fun!
 
