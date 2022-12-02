@@ -3,9 +3,7 @@ title: Education & Career Guidance
 permalink: /learn-like-a-Victorian/education-career-guidance/
 description: ""
 ---
-
-
-![](/images/Higher-Education-Career-Guidance-banner-1024x365.jpg)
+![](/images/Sub%20Page%20Banners%202023/Education%20and%20Career%20Guidance.jpg)
 Victoria Junior College’s comprehensive higher education, career guidance and scholarships programme is designed to assist Victorians as they explore and refine their education and career goals, so that they are able to plan their future with confidence.
 
 The various components of the programme aim to:
