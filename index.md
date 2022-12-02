@@ -42,7 +42,7 @@ sections:
       title: Level Up
       subtitle: Lead, Serve and Excel
       button: Find out more
-      url: /permanent/
+      url: /level-up/talent-development-programme/
       alt: Image alt text
   - infopic:
       title: Time to LiVE it up!
