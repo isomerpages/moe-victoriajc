@@ -44,6 +44,8 @@ sections:
       button: Find out more
       url: /level-up/talent-development-programme/
       alt: Image alt text
+      description: Stretch your potential, deepen your intellectual engagement, hone
+        your leadership skills and serve the community.
   - infopic:
       title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
