@@ -13,8 +13,8 @@ links:
     collection: admissions
   - title: Learn
     collection: learn
-  - title: Live like a Victorian
-    collection: live-like-a-victorian
+  - title: Live
+    collection: live
   - title: Parents
     url: /parents/
     sublinks:
