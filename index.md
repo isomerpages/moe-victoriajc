@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Victoria Junior College
-      background: /images/Crest-and-Anthem-Banner-1-1024x394.jpg
+      background: /images/Main banner 2023/1 Dec Home Page.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -29,4 +29,3 @@ sections:
       alt: Late Start Banner
       description: Late Start EVERYDAY
 ---
-
