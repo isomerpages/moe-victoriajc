@@ -29,6 +29,7 @@ sections:
       button: Find out more
       url: /learn-like-a-victorian/
       alt: Image alt text
+      image: /images/Sub Page Banners 2023/Learn Like a Victorian.jpg
   - infopic:
       title: Live
       subtitle: Expand Your Horizons
@@ -37,6 +38,7 @@ sections:
       alt: Image alt text
       description: Get inspired, deepen your passion, learn a new skill and embark on
         new experiences. The possibilities are endless.
+      image: /images/Sub Page Banners 2023/Live Like a Victorian.jpg
   - infopic:
       title: Level Up
       subtitle: Lead, Serve and Excel
