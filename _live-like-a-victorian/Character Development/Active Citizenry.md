@@ -27,6 +27,6 @@ td, th {
 
 
 
-|  **Project V**| **VJCares** | **School Wide VIAs** |
-| --------| -------- | --------|
+|  **Project V**| **VJCares** | **School-Wide VIAs** |
+| :--------:| :--------: | :--------:|
 | The aim of Project V is to enable Victorians to meaningfully engage with the community, so as to better understand their needs and begin considering ways to empower the under-served and make their lives better. Project V’s community partners are devoted to a range of causes and serve diverse needs, from environmental conservation to eldercare, special needs and end-of-life care.     | At VJC, we believe in empowering students to give back to their community. VJCares are self-initiated and /or community led projects by students based on their own interests and passions.     | School-wide VIAs involve the entire Victorian community, which comes out in full force to participate in events and special projects such as Walk for Rainbows and the 2018 Step Up challenge. Our staff also engage in VIAs such as activities like food distribution to the under-privileged and outings with the elderly! |
