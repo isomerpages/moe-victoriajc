@@ -1,5 +1,5 @@
 collections:
-  learn-like-a-victorian:
+  learn:
     output: true
     order:
       - Learn Like A Victorian.md
