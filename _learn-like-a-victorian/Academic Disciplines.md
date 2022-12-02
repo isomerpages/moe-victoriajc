@@ -3,7 +3,8 @@ title: Academic Disciplines
 permalink: /learn-like-a-victorian/academic-disciplines/
 description: ""
 ---
-![](/images/Academic-Disciplines-banner-1024x365.jpg)
+![](/images/Sub%20Page%20Banners%202023/Academic%20Disciplines.jpg)
+
 ### Subject Combinations
 
 VJC offers a total of 67 standard subject combinations in the Arts and Science courses.  All combinations include General Paper, Project Work and Mother Tongue at Higher 1 (H1) level.
