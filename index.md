@@ -26,4 +26,16 @@ sections:
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
       alt: Late Start Banner
       description: Late Start EVERYDAY
+  - infopic:
+      title: Live
+      subtitle: Expand Your Horizons
+      button: Find out more
+      url: /live-like-a-victorian/
+      alt: Image alt text
+  - infopic:
+      title: Level Up
+      subtitle: Lead, Serve and Excel
+      button: Find out more
+      url: /permanent/
+      alt: Image alt text
 ---
