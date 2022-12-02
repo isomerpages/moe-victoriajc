@@ -3,7 +3,8 @@ title: Joint Admissions Exercise (JAE)
 permalink: /admissions/joint-admissions-exercise/
 description: ""
 ---
-![](/images/JAE-2-1024x487.jpg)
+![](/images/Sub%20Page%20Banners%202023/Admissions%20JAE.jpg)
+
 ### Joint Admissions Exercise
 
 
