@@ -137,8 +137,6 @@ To encourage students from schools to be actively engaged in the learning and ap
 *   DSTA-DSO-VJC Robotics Challenge
 *   SUTD-VJC 3D Modelling Competition
 *   VJC Amazing eco-STEM Race
-
-To find out more about our Centre and our activities, please visit our website.
 		
 ![](/images/stem-based.png)
 
