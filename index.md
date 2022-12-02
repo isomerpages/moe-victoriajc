@@ -11,8 +11,6 @@ sections:
   - hero:
       title: Victoria Junior College
       background: /images/Main banner 2023/1 Dec Home Page.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Open House 2023
           description: 14 January 2023
