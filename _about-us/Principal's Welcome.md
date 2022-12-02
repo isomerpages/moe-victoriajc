@@ -3,7 +3,7 @@ title: Principal's Welcome
 permalink: /about/principals-welcome/
 description: ""
 ---
-![](/images/Principals-Welcome-Banner-2-1024x391.jpg)
+![](/images/Sub%20Page%20Banners%202023/Principal's%20Message.jpg)
 
 <img src="/images/JeffreyLow-1365x2048.jpeg" style="width:30%" align = "right">
 
