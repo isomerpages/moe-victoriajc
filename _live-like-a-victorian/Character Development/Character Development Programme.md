@@ -4,7 +4,7 @@ permalink: /live-like-a-victorian/Character-Development-programme/
 description: ""
 third_nav_title: Character Development
 ---
-![](/images/Character-Development-Banner-2-1024x572.jpg)
+![](/images/Sub%20Page%20Banners%202023/Character%20Development%20Programme.jpg)
 Our college places a strong emphasis on character development as we believe that it is an important part of holistic development. Our various character development programmes provide platforms for students to be strengthened in R3ICH (Respect, Responsibility, Resilience, Integrity, Care and Harmony) values at the core of the 21CCs, and allow them to develop social and emotional competencies.
 
 ### Programmes
