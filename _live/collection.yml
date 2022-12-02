@@ -1,5 +1,5 @@
 collections:
-  live-like-a-victorian:
+  live:
     output: true
     order:
       - Live like a Victorian.md
