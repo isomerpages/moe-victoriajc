@@ -2,5 +2,4 @@ collections:
   level-up:
     output: true
     order:
-      - Talent Development Programme.md
       - Education & Career Guidance.md
