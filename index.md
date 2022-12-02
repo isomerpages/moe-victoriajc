@@ -28,7 +28,7 @@ sections:
         dizzying array of choices. And to top it off, you will experience the
         best of both worlds.
       button: Find out more
-      url: /learn-like-a-Victorian/permalink/
+      url: /learn-like-a-Victorian/
       alt: Image alt text
   - infopic:
       title: Live
