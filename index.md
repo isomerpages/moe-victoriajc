@@ -22,20 +22,31 @@ sections:
           description: Calendar Of Events
           url: /calendar/
   - infopic:
-      title: Time to LiVE it up!
-      image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
-      alt: Late Start Banner
-      description: Late Start EVERYDAY
+      title: Learn
+      subtitle: Feed Your Curiosity
+      description: Whether you are inclined to the Arts or the Sciences, there is a
+        dizzying array of choices. And to top it off, you will experience the
+        best of both worlds.
+      button: Find out more
+      url: /learn-like-a-Victorian/permalink/
+      alt: Image alt text
   - infopic:
       title: Live
       subtitle: Expand Your Horizons
       button: Find out more
       url: /live-like-a-victorian/
       alt: Image alt text
+      description: Get inspired, deepen your passion, learn a new skill and embark on
+        new experiences. The possibilities are endless.
   - infopic:
       title: Level Up
       subtitle: Lead, Serve and Excel
       button: Find out more
       url: /permanent/
       alt: Image alt text
+  - infopic:
+      title: Time to LiVE it up!
+      image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
+      alt: Late Start Banner
+      description: Late Start EVERYDAY
 ---
