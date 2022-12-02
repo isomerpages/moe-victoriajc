@@ -9,7 +9,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Victoria Junior College
       background: /images/Main banner 2023/1 Dec Home Page.jpg
       key_highlights:
         - title: Open House 2023
