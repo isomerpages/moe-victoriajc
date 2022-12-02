@@ -4,7 +4,7 @@ permalink: /live-like-a-victorian/co-curricular-activities/performing-arts/
 description: ""
 third_nav_title: Co Curricular activities
 ---
-![](/images/Performing-Arts-banner-1024x365.jpg)
+![](/images/Sub%20Page%20Banners%202023/Performing%20Arts.jpg)
 Known for its world-class performing arts groups, VJC nurtures and develops Victorians through music, theatre and dance. Our performing arts CCAs offer Victorians an avenue to showcase their talents in various concerts and events throughout the year. Our Choir and Dance Club have participated in international competitions and came home with championship trophies. The Symphonic Band and the Drama Club have also performed at the Esplanade - Theatres on the Bay. VJC is also home to a full-sized Performance Theatre, which serves as the venue for our annual Concert Series. 
 
 Victorians also get their aesthetic fix through exposure to various local and international arts performances, and annual showcase events like MusicFest. Victorians perform regularly at public venues such as the Esplanade and the amphitheatre at Vivo City.
