@@ -13,7 +13,7 @@ td, th {
   border: none!important;
  }
 </style>
-| ![](/images/expose.jpg =339x154)|![](/images/inspire.jpg  =339x154) | ![](/images/lead.jpg  =339x154)|
+| ![](/images/expose.jpg)|![](/images/inspire.jpg) | ![](/images/lead.jpg)|
 | :------: | :------:  | :------:  |
 | Aims to EXPOSE Victorians to experiences and opportunities within and beyond the school context to heighten awareness of national and global issues     | Aims to INSPIRE Victorians to take the step in involving themselves in community volunteerism and national and/or global events    | Aims to empower Victorians to LEAD other Victorians through self-initiated community-led projects and national and/or global discourses     |
 
