@@ -3,7 +3,7 @@ title: Student Leadership
 permalink: /live-like-a-victorian/Student-Leadership/
 description: ""
 ---
-![](/images/Victorian-Spirit-1024x683.jpg)
+![](/images/Sub%20Page%20Banners%202023/Student%20Leadership.jpg)
 At VJC, we believe that leadership is about making choices to positively influence others. All Victorians have the potential to be leaders and have the capacity to bring about change for the betterment of others.  Indeed, our Victorian leaders strive beyond personal growth and fulfilment – they work towards creating a vibrant Victorian community and keeping our Victorian spirit alive.
 
 ### Leadership Framework
