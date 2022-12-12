@@ -49,6 +49,7 @@ sections:
       description: Stretch your potential, deepen your intellectual engagement, hone
         your leadership skills and serve the community. Level up and create the
         future.
+      image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
   - infopic:
       title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
