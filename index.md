@@ -25,9 +25,8 @@ sections:
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
-      description: Whether you are inclined to the Arts or the Sciences, there is a
-        dizzying array of choices. And to top it off, you will experience the
-        best of both worlds.
+      description: With more than 60 subject combinations, whether you are inclined to
+        the Arts or Sciences, you will be spoilt for choice.
       button: Find out more
       url: /learn-like-a-victorian/
       alt: Image alt text
@@ -38,8 +37,8 @@ sections:
       button: Find out more
       url: /live-like-a-victorian/
       alt: Image alt text
-      description: Get inspired, deepen your passion, learn a new skill and embark on
-        new experiences. The possibilities are endless.
+      description: Get inspired, deepen your passion or learn a new skill. We’re
+        certain you’ll find something, or more, to explore!
       image: /images/Sub Page Banners 2023/Live Like a Victorian.jpg
   - infopic:
       title: Level Up
@@ -48,7 +47,8 @@ sections:
       url: /level-up/talent-development-programme/
       alt: Image alt text
       description: Stretch your potential, deepen your intellectual engagement, hone
-        your leadership skills and serve the community.
+        your leadership skills and serve the community. Level up and create the
+        future.
   - infopic:
       title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
