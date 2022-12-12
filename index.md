@@ -55,4 +55,8 @@ sections:
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
       alt: Late Start Banner
       description: Late Start EVERYDAY
+  - resources:
+      title: Happenings at VJC
+      subtitle: EXPLORE
+      button: SEE ALL
 ---
