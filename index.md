@@ -46,9 +46,8 @@ sections:
       button: Find out more
       url: /level-up/talent-development-programme/
       alt: Image alt text
-      description: Stretch your potential, deepen your intellectual engagement, hone
-        your leadership skills and serve the community. Level up and create the
-        future.
+      description: Stretch your potential, lead, serve and excel. Level up with our
+        programmes and create the future.
       image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
   - resources:
       title: Happenings at VJC
