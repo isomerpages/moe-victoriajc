@@ -50,13 +50,13 @@ sections:
         your leadership skills and serve the community. Level up and create the
         future.
       image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
+  - resources:
+      title: Happenings at VJC
+      subtitle: EXPLORE
+      button: SEE ALL
   - infopic:
       title: Time to LiVE it up!
       image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
       alt: Late Start Banner
       description: Late Start EVERYDAY
-  - resources:
-      title: Happenings at VJC
-      subtitle: EXPLORE
-      button: SEE ALL
 ---
