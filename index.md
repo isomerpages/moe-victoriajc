@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: 14 January 2023
-          url: ""
+          url: /openhouse2023/
         - title: Happenings at VJC
           description: Featured News
           url: /vjc-news/
@@ -21,7 +21,7 @@ sections:
           description: Calendar Of Events
           url: /calendar/
       button: Join Us
-      url: /permanentlink
+      url: /openhouse2023/
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
