@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/1 Dec Home Page.jpg
+      background: /images/Main banner 2023/10 Dec Home Page Hero Banner.png
       key_highlights:
         - title: Open House 2023
           description: 14 January 2023
@@ -20,6 +20,8 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /calendar/
+      button: Join Us
+      url: /permanentlink
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
