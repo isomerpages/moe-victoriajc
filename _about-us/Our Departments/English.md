@@ -21,5 +21,4 @@ third_nav_title: Our Departments
 |Mr Mark Lee<br>[lee.tzeming.mark@vjc.edu.sg](mailto:lee.tzeming.mark@vjc.edu.sg)|Ms Michelle Lim<br>[michelle.lim@vjc.edu.sg](mailto:michelle.lim@vjc.edu.sg) |
 |Ms Sandhya Perryn Singh<br>[sandhya@vjc.edu.sg](mailto:sandhya@vjc.edu.sg)|Ms Sarah Choy<br>[sarah.choy.hui.min@vjc.edu.sg](mailto:sarah.choy.hui.min@vjc.edu.sg)|
 |Ms Sarah Christian<br>[sarah.christian@vjc.edu.sg](mailto:sarah.christian@vjc.edu.sg)|Ms Susan Toh<br>[toh.yee.suan.susan@vjc.edu.sg](mailto:toh.yee.suan.susan@vjc.edu.sg)|
-|Mr Tan Han Zong<br>[tan.han.zong@vjc.edu.sg](mailto:tan.han.zong@vjc.edu.sg)|Ms Tiffany Yeo<br>[tiffany.yeo@vjc.edu.sg](mailto:tiffany.yeo@vjc.edu.sg)|
-|Ms Wong Duan Rong<br>[wong.duan.rong@vjc.edu.sg](mailto:wong.duan.rong@vjc.edu.sg)||
+|Mr Tan Han Zong<br>[tan.han.zong@vjc.edu.sg](mailto:tan.han.zong@vjc.edu.sg)|Ms Wong Duan Rong<br>[wong.duan.rong@vjc.edu.sg](mailto:wong.duan.rong@vjc.edu.sg)|
