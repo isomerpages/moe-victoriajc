@@ -8,9 +8,9 @@ third_nav_title: Our People
 
 #### School Leaders
 
-|  | | 
-| -------- | -------- | 
-|Principal|	Mr Jeffrey Low<br>[Jeffrey_Low@schools.gov.sg](mailto:Jeffrey_Low@schools.gov.sg)|
+|  |  |
+| -------- | -------- |
+| Principal|	Mr Jeffrey Low<br>[Jeffrey_Low@schools.gov.sg](mailto:Jeffrey_Low@schools.gov.sg)|
 |Vice-Principal|	Ms Grace Lee Yun Yun<br>[LEE_Yun_Yun_Grace@schools.gov.sg](mailto:LEE_Yun_Yun_Grace@schools.gov.sg)|
 |Vice-Principal|	Mr Koh Weining<br>[koh_weining@schools.gov.sg](mailto:koh_weining@schools.gov.sg)|
 |Vice-Principal (Administration)|Mr Kyle Lim Kwee Hong<br>[Kyle_lim@schools.gov.sg](mailto:Kyle_lim@schools.gov.sg)|
@@ -33,9 +33,12 @@ third_nav_title: Our People
 |Head of Talent Development & Education and Career Guidance|	Mr Ivan Toh<br>[ivan.toh.chun.siong@vjc.edu.sg](mailto:ivan.toh.chun.siong@vjc.edu.sg)|
 |Subject Head Active Citizenry|	Ms Jaclyn Ng<br>[ng.yenyen.jaclyn@vjc.edu.sg](mailto:ng.yenyen.jaclyn@vjc.edu.sg)|
 |Subject Head Character & Citizenship Education|	Ms Michelle Goh<br>[michelle.goh@vjc.edu.sg](mailto:michelle.goh@vjc.edu.sg)|
-|Subject Head Student Leadership|	Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg)|
+|Subject Head Education and Career Guidance|	Ms Valerie Tan Jiahui<br>[tan.jiahui.valerie@vjc.edu.sg](mailto:tan.jiahui.valerie@vjc.edu.sg)|
+|Subject Head Student Development|	Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg)|
+|Subject Head Student Leadership|	Mr Lim Yong Chang Leroi<br>[lim.yong.chang.leroi@vjc.edu.sg](mailto:lim.yong.chang.leroi@vjc.edu.sg)|
 |Subject Head Student Well-Being|	Ms Ong Li Bing<br>[ong.li.bing@vjc.edu.sg](mailto:ong.li.bing@vjc.edu.sg)|
-|Subject Head Special Projects|	Ms Valerie Tan Jiahui<br>[tan.jiahui.valerie@vjc.edu.sg](mailto:tan.jiahui.valerie@vjc.edu.sg)|
+|Subject Head Information and Communication Technology|	Mr Ridzwan Bin Suri<br>[ridzwan.suri@vjc.edu.sg](mailto:ridzwan.suri@vjc.edu.sg)|
+|Subject Head Partnerships|	Ms Fatma Osman<br>[fatma.osman@vjc.edu.sg](mailto:fatma.osman@vjc.edu.sg)|
 
 #### Arts Department
 
