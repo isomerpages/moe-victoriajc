@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/10 Dec Home Page Hero Banner.png
+      background: /images/2023 Images/2023VJCOHBanner_Web.jpg
       key_highlights:
         - title: Open House 2023
           description: 14 January 2023
