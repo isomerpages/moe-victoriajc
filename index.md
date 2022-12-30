@@ -54,8 +54,8 @@ sections:
       subtitle: EXPLORE
       button: SEE ALL
   - infopic:
-      title: Time to LiVE it up!
-      image: /images/Late-Start-Banner-Placeholder-overlay-1024x539.jpg
+      title: 9-Day Timetable
+      image: /images/2023 Images/2023 9-Day Timetable2.jpg
       alt: Late Start Banner
       description: Late Start EVERYDAY
 ---
