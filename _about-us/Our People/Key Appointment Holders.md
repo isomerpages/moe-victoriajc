@@ -54,7 +54,8 @@ third_nav_title: Our People
 | |  | 
 | -------- | -------- |
 | Head of Economics	|Ms Yip Oei Lin Anne<br>[yip.oeilin.anne@vjc.edu.sg](mailto:yip.oeilin.anne@vjc.edu.sg)|
-|Level Head (Year 1)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
+|Level Head (Year 1)	|Ms Ang Hui Ling Mabel<br>[ang.hui.ling.mabel@vjc.edu.sg](mailto:ang.hui.ling.mabel@vjc.edu.sg)|
+|Level Head (Year 2)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
 
 #### English Department
 
