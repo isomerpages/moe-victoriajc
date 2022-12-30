@@ -17,6 +17,6 @@ Standing from left to right:
 |  |  |
 | -------- | -------- |
 | Principal|	Mr Jeffrey Low<br>[Jeffrey_Low@schools.gov.sg](mailto:Jeffrey_Low@schools.gov.sg)|
-|Vice-Principal|	Mr Gurusharan Singh S/O Major Singh<br>[Gurusharan_M_SINGH@schools.gov.sg](mailto:Gurusharan_M_SINGH@schools.gov.sg)|
 |Vice-Principal|	Ms Grace Lee Yun Yun<br>[LEE_Yun_Yun_Grace@schools.gov.sg](mailto:LEE_Yun_Yun_Grace@schools.gov.sg)|
+|Vice-Principal|	Mr Koh Weining<br>[koh_weining@schools.gov.sg](mailto:koh_weining@schools.gov.sg)|
 |Vice-Principal (Administration)|Mr Kyle Lim Kwee Hong<br>[Kyle_lim@schools.gov.sg](mailto:Kyle_lim@schools.gov.sg)|
