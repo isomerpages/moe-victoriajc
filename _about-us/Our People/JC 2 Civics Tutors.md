@@ -8,35 +8,35 @@ third_nav_title: Our People
 
 | Class | Civic Tutors | 
 | -------- | -------- | 
-|21A11|	Ms Christina Ho<br> [christina.ho@vjc.edu.sg](mailto:christina.ho@vjc.edu.sg)|
-|21A12|	Ms Michelle Lim<br> [michelle.lim@vjc.edu.sg](mailto:michelle.lim@vjc.edu.sg) <br>Ms Lee Woon Leng<br> [lee.woonleng@vjc.edu.sg](mailto:lee.woonleng@vjc.edu.sg)|
-|21A13|	Ms Fatma Osman<br> [fatma.osman@vjc.edu.sg](mailto:fatma.osman@vjc.edu.sg) <br>Ms Soh Qian Wei<br> [soh.qian.wei@vjc.edu.sg](mailto:soh.qian.wei@vjc.edu.sg)|
-|21A14|	Ms Sarah Christian<br> [sarah.christian@vjc.edu.sg](mailto:sarah.christian@vjc.edu.sg) <br>Mr Ng Chao Chia<br> [ng.chao.chia@vjc.edu.sg](mailto:ng.chao.chia@vjc.edu.sg)|
-|21A15|	Ms Wardah<br> [wardah.bte.abd.malek@vjc.edu.sg](mailto:wardah.bte.abd.malek@vjc.edu.sg) <br>Mr Jonathan Heng<br> [heng.wei.zhi.jonathan@vjc.edu.sg](mailto:heng.wei.zhi.jonathan@vjc.edu.sg)|
-|21S31|	Mr Teo Yik Tee<br> [teo.yiktee@vjc.edu.sg](mailto:teo.yiktee@vjc.edu.sg) <br>Mdm Lau Meow Noi<br> [lau.meownoi@vjc.edu.sg](mailto:lau.meownoi@vjc.edu.sg)|
-|21S32|	Ms Farahdilah<br> [farahdilah.abas@vjc.edu.sg](mailto:farahdilah.abas@vjc.edu.sg)|
-|21S33|	Ms Sandhya<br> [sandhya@vjc.edu.sg](mailto:sandhya@vjc.edu.sg) <br>Mr Joshua Gay<br> [joshua.gay@vjc.edu.sg](mailto:joshua.gay@vjc.edu.sg)|
-|21S34|	Mr Eric Foo<br> [foo.peowmeng@vjc.edu.sg](mailto:foo.peowmeng@vjc.edu.sg)|
-|21S35|	Ms Farzanna<br> [farzanna.sham@vjc.edu.sg](mailto:farzanna.sham@vjc.edu.sg)|
-|21S36|	Mr Tan Han Zong<br> [tan.han.zong@vjc.edu.sg](mailto:tan.han.zong@vjc.edu.sg)|
-|21S37|	Ms Wong Duan Rong<br> [wong.duan.rong@vjc.edu.sg](mailto:wong.duan.rong@vjc.edu.sg)|
-|21S38|	Mr Yap Zong Xiang<br> [yap.zong.xiang@vjc.edu.sg](mailto:yap.zong.xiang@vjc.edu.sg)|
-|21S39|	Ms Kok Ye Hong<br> [kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
-|21S41|	Mr Ng Hak Yee<br> [ng.hak.yee@vjc.edu.sg](mailto:ng.hak.yee@vjc.edu.sg)|
-|21S42|	Mr Chow Siew Foong<br> [chow.siewfoong@vjc.edu.sg](mailto:chow.siewfoong@vjc.edu.sg)|
-|21S43|	Ms Khaw Hwee Ju<br> [khaw.hweeju@vjc.edu.sg](mailto:khaw.hweeju@vjc.edu.sg)|
-|21S44|	Mrs Mah Ai Ling<br> [poh.ailing@vjc.edu.sg](mailto:poh.ailing@vjc.edu.sg)|
-|21S45|	Mr Syed Nazir Hussain<br> [syed.nazir.hussain@vjc.edu.sg](mailto:syed.nazir.hussain@vjc.edu.sg)|
-|21S46|	Mr Tan Wei Liang<br> [tan.wei.liang@vjc.edu.sg](mailto:tan.wei.liang@vjc.edu.sg)|
-|21S47|	Mr Jason Lim Kian Hui<br> [jason.lim.kian.hui@vjc.edu.sg](mailto:jason.lim.kian.hui@vjc.edu.sg)<br>Ms Yong Mei Chan<br> [ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)|
-|21S48|	Ms Sharon Lim<br> [sharon.lim.jia.yin@vjc.edu.sg](mailto:sharon.lim.jia.yin@vjc.edu.sg)<br>Mr Chang Siang Wen <br>[chang.siangwen@vjc.edu.sg](mailto:chang.siangwen@vjc.edu.sg)|
-|21S49|	Ms Ng Shu Von<br> [ng.shuvon@vjc.edu.sg](mailto:ng.shuvon@vjc.edu.sg)|
-|21S51|	Ms Suhana Subhan<br> [suhana.subhan@vjc.edu.sg](mailto:suhana.subhan@vjc.edu.sg)|
-|21S52|	Mr Mark Lee<br> [lee.tzeming.mark@vjc.edu.sg](mailto:lee.tzeming.mark@vjc.edu.sg)|
-|21S53|	Mr Michael Lim<br> [lim.cheekin.michael@vjc.edu.sg](mailto:lim.cheekin.michael@vjc.edu.sg)|
-|21S54|	Mr Lee Siang Hock<br> [lee.siang.hock@vjc.edu.sg](mailto:lee.siang.hock@vjc.edu.sg)|
-|21S55|	Mr Wong Shiong Wei<br> [wong.shiongwei@vjc.edu.sg](mailto:wong.shiongwei@vjc.edu.sg)<br>Ms Mabel Ang <br> [ang.hui.ling.mabel@vjc.edu.sg](mailto:ang.hui.ling.mabel@vjc.edu.sg)|
-|21S61|	Mr Leroi Lim<br> [lim.yong.chang.leroi@vjc.edu.sg](mailto:lim.yong.chang.leroi@vjc.edu.sg)|
-|21S62|	Mr Larry Lim Beng Teck<br> [larry.lim.bengteck@vjc.edu.sg](mailto:larry.lim.bengteck@vjc.edu.sg)|
-|21S63|	Mr Lim Han Ming Aaron<br> [lim.han.ming@vjc.edu.sg](mailto:lim.han.ming@vjc.edu.sg)|
-|21S64|	Ms Andrea Yew<br> [andrea.yew.min.ming@vjc.edu.sg](mailto:andrea.yew.min.ming@vjc.edu.sg)<br>Mr Tan Kuang Shing<br> [tan.kuang.shing@vjc.edu.sg](mailto:tan.kuang.shing@vjc.edu.sg)|
+|22A11|	Ms Bernice Khoo<br>[khoo.hui.ching.bernice@vjc.edu.sg](mailto:khoo.hui.ching.bernice@vjc.edu.sg)|
+|22A12|	Ms Cheryl Lee<br>[lee.wen.zhi.cheryl@vjc.edu.sg](mailto:lee.wen.zhi.cheryl@vjc.edu.sg)<br>Ms Lin Danwei<br>[lin.danwei@vjc.edu.sg](mailto:lin.danwei@vjc.edu.sg)|
+|22A13|	Ms Cheri Hu<br>[hu.cheri@vjc.edu.sg](mailto:hu.cheri@vjc.edu.sg)<br>Mrs Deborah Tan<br>[law.deborah@vjc.edu.sg](mailto:law.deborah@vjc.edu.sg)|
+|22A14|	Ms Tan Xing Ying<br>[tan.xinying@vjc.edu.sg](mailto:tan.xinying@vjc.edu.sg)|
+|22S31|	Ms Audrey Tay<br>[tay.weili.audrey@vjc.edu.sg](mailto:tay.weili.audrey@vjc.edu.sg)|
+|22S32|	Mrs Lim Siew Mee<br>[chin.siewmee@vjc.edu.sg](mailto:chin.siewmee@vjc.edu.sg)|
+|22S33|	Ms Susan Toh<br>[toh.yee.suan.susan@vjc.edu.sg](mailto:toh.yee.suan.susan@vjc.edu.sg)|
+|22S34|	Ms Elinor Chia<br>[chia.elinor.trudy@vjc.edu.sg](mailto:chia.elinor.trudy@vjc.edu.sg)|
+|22S35|	Mr Kwok Pang Keat<br>[kwok.pangkeat@vjc.edu.sg](mailto:kwok.pangkeat@vjc.edu.sg)|
+|22S36|	Mr Ngoh Siyuan<br>[ngoh.siyuan@vjc.edu.sg](mailto:ngoh.siyuan@vjc.edu.sg)<br>Mr Nicholas Ng<br>[ng.wei.zhi.nicholas@vjc.edu.sg](mailto:ng.wei.zhi.nicholas@vjc.edu.sg)|
+|22S37|	Ms Celeste Teo<br>[teo.celeste@vjc.edu.sg](mailto:teo.celeste@vjc.edu.sg)|
+|22S38|	Mrs Jacinth Judah<br>[jacinth.rajan@vjc.edu.sg](mailto:jacinth.rajan@vjc.edu.sg)|
+|22S39|	Ms Frances Lee<br>[lee.dunlin@vjc.edu.sg](mailto:lee.dunlin@vjc.edu.sg)<br>Ms June Tan<br>[tan.siew.hwee.june@vjc.edu.sg](mailto:tan.siew.hwee.june@vjc.edu.sg)
+|22S41|	Mr Tan Wee Yong<br>[tan.wee.yong@vjc.edu.sg](mailto:tan.wee.yong@vjc.edu.sg)<br>Mdm Marliza Muhamad<br>[marliza.bte.muhamad@vjc.edu.sg](mailto:arliza.bte.muhamad@vjc.edu.sg)|
+|22S42|	Mr Kan Chien Yi<br>[kan.chien-yi@vjc.edu.sg](mailto:kan.chien-yi@vjc.edu.sg)|
+|22S43|	Mr Eugene Quek<br>[quek.tze.jen.eugene@vjc.edu.sg](mailto:quek.tze.jen.eugene@vjc.edu.sg)|
+|22S44|	Mr Lau Wee Hua<br>[lau.weehua@vjc.edu.sg](mailto:lau.weehua@vjc.edu.sg)|
+|22S45|	Mr Lim Wei Quan<br>[lim.wei.quan@vjc.edu.sg](mailto:lim.wei.quan@vjc.edu.sg)|
+|22S46|	Ms Sarah Ee<br>[ee.soo.chin.sarah@vjc.edu.sg](mailto:ee.soo.chin.sarah@vjc.edu.sg)|
+|22S47|	Mr Kwek Eng Yeow<br>[kwek.engyeow@vjc.edu.sg](mailto:kwek.engyeow@vjc.edu.s)|
+|22S48|	Ms Cindy Chan<br>[chan.siew.fun@vjc.edu.sg](mailto:chan.siew.fun@vjc.edu.sg)|
+|22S49|	Ms Geraldine Tay<br>[geraldine.tay.rou.jun@vjc.edu.sg](mailto:geraldine.tay.rou.jun@vjc.edu.sg)|
+|22S51|	Dr Goh Ker Liang<br>[goh.kerliang@vjc.edu.sg](mailto:goh.kerliang@vjc.edu.sg)|
+|22S52|	Mr Caleb Ho<br>[ho.tianyu.basil.caleb@vjc.edu.sg](mailto:ho.tianyu.basil.caleb@vjc.edu.sg)|
+|22S53|	Mr Halim Susanto<br>[halim.susanto@vjc.edu.sg](mailto:halim.susanto@vjc.edu.sg)|
+|22S54|	Mr Jayesh Kumar<br>[jayeshkumar.jasvantlal@vjc.edu.sg](mailto:jayeshkumar.jasvantlal@vjc.edu.sg)|
+|22S55|	Mr Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
+|22S56|	Mrs Yong Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)|
+|22S61|	Ms Lim Pei Wen<br>[lim.pei.wen@vjc.edu.sg](mailto:lim.pei.wen@vjc.edu.sg)|
+|22S62|	Mr Joseph Ng<br>[joseph.ng.zhi.wei@vjc.edu.sg](mailto:joseph.ng.zhi.wei@vjc.edu.sg)|
+|22S63|	Mr Yeo Yong Sheng<br>[yeo.yongsheng@vjc.edu.sg](mailto:yeo.yongsheng@vjc.edu.sg)|
+|22S64|	Mrs Chua Mei Ling<br>[chue.meiling@vjc.edu.sg](mailto:chue.meiling@vjc.edu.sg)|
