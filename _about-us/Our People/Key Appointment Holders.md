@@ -100,6 +100,7 @@ third_nav_title: Our People
 
 |   |  | 
 | -------- | -------- |
+| Coordinator |	Ms Susan Toh<br>[toh.yee.suan.susan@vjc.edu.sg](mailto:toh.yee.suan.susan@vjc.edu.sg)|
 | Senior Teacher |	Mrs Ting Siang Leng<br>[goh.siangleng@vjc.edu.sg](mailto:goh.siangleng@vjc.edu.sg)|
 
 #### Science Department
