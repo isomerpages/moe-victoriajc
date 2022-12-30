@@ -196,5 +196,4 @@ The Singapore Examinations and Assessment Board (SEAB) provides comprehensive in
 
 ### VJC Academic Information 2023
 
-
-Download our 2023 Academic Information booklet [here](/files/VJCAcademicInformation2022.pdf), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2023 Academic Information booklet [here](/files/2023%20Documents/VJC%20Academic%20Information%20Booklet%202023%20(4%20Dec).pdf), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
