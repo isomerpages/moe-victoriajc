@@ -9,7 +9,7 @@ Here at Victoria Junior College, we have an exceptional team of educators and su
 
 ### School Leaders
 
-![](/images/2022_P_VP-1024x410-1.jpg)
+![](/images/2023%20Images/2023_P_VP-1024x410-1.jpg)
 
 Standing from left to right:
 
