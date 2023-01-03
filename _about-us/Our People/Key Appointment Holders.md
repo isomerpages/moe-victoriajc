@@ -27,7 +27,7 @@ third_nav_title: Our People
 
 |  |  | 
 | -------- | -------- |
-|Cohort and Information & Communication Technology Head	|Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)|
+|Cohort Head / Head of Information and Communication Technology	|Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)|
 |Cohort Head	|Ms Yang Chunxiu<br>[yang.chunxiu@vjc.edu.sg](mailto:yang.chunxiu@vjc.edu.sg)|
 |Head of Student Development|	Mr Seet Kok Wah<br>[seet.kokwah@vjc.edu.sg](mailto:seet.kokwah@vjc.edu.sg)|
 |Head of Talent Development & Education and Career Guidance|	Mr Ivan Toh<br>[ivan.toh.chun.siong@vjc.edu.sg](mailto:ivan.toh.chun.siong@vjc.edu.sg)|
@@ -54,8 +54,8 @@ third_nav_title: Our People
 | |  | 
 | -------- | -------- |
 | Head of Economics	|Ms Yip Oei Lin Anne<br>[yip.oeilin.anne@vjc.edu.sg](mailto:yip.oeilin.anne@vjc.edu.sg)|
-|Level Head (Year 1)	|Ms Ang Hui Ling Mabel<br>[ang.hui.ling.mabel@vjc.edu.sg](mailto:ang.hui.ling.mabel@vjc.edu.sg)|
-|Level Head (Year 2)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
+|Level Head (JC1)	|Ms Ang Hui Ling Mabel<br>[ang.hui.ling.mabel@vjc.edu.sg](mailto:ang.hui.ling.mabel@vjc.edu.sg)|
+|Level Head (JC2)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
 
 #### English Department
 
@@ -65,8 +65,8 @@ third_nav_title: Our People
 | Head of English|	Mr James Ho<br>[james.ho@vjc.edu.sg](mailto:james.ho@vjc.edu.sg)|
 |School Staff Developer	|Mr Nazrul Rashidi B Mohd<br>[nazrul.rashidi.mohd@vjc.edu.sg](mailto:nazrul.rashidi.mohd@vjc.edu.sg)|
 |Subject Head Literature	|Mr Teo Gene En<br>[teo.geneen@vjc.edu.sg](mailto:teo.geneen@vjc.edu.sg)|
-|Level Head (Year 1) General Paper|	Mr Teo Aik Cher<br>[teo.aikcher@vjc.edu.sg](mailto:teo.aikcher@vjc.edu.sg)|
-|Level Head (Year 2) General Paper	|Mrs Celine Leow<br>[cheong.siewyin.celine@vjc.edu.sg](mailto:cheong.siewyin.celine@vjc.edu.sg)|
+|Level Head (JC1) General Paper	|Mrs Celine Leow<br>[cheong.siewyin.celine@vjc.edu.sg](mailto:cheong.siewyin.celine@vjc.edu.sg)|
+|Level Head (JC2) General Paper|	Mr Teo Aik Cher<br>[teo.aikcher@vjc.edu.sg](mailto:teo.aikcher@vjc.edu.sg)|
 
 #### Mathematics Department
 
@@ -74,8 +74,9 @@ third_nav_title: Our People
 |  |  | 
 | -------- | -------- | 
 | Head of Mathematics|	Mrs Ang Chiou Lian<br>[tong.chioulian@vjc.edu.sg](mailto:tong.chioulian@vjc.edu.sg)|
-|Level Head (Year 1)|	Mrs Jean Chong<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)|
-|Level Head (Year 2)|	Mrs Koh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
+|Level Head (JC1)|	Mrs Loh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
+|Level Head (JC2)|	Mrs Jean Chong<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)|
+
 
 #### Mother Tongue Department
 
