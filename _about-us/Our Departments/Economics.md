@@ -16,6 +16,7 @@ third_nav_title: Our Departments
 |Ms Geraldine Tay Rou Jun<br>[geraldine.tay.rou.jun@vjc.edu.sg](mailto:geraldine.tay.rou.jun@vjc.edu.sg)|Mr Jason Lim Kian Hui<br>[jason.lim.kian.hui@vjc.edu.sg](mailto:jason.lim.kian.hui@vjc.edu.sg)|
 |Mr Joseph Ng Zhi Wei<br>[joseph.ng.zhi.wei@vjc.edu.sg](mailto:joseph.ng.zhi.wei@vjc.edu.sg)|Mr Larry Lim Beng Teck<br>[larry.lim.bengteck@vjc.edu.sg](mailto:larry.lim.bengteck@vjc.edu.sg)  |
 |Ms Lee Dunlin<br>[lee.dunlin@vjc.edu.sg](mailto:lee.dunlin@vjc.edu.sg)|Ms Lim Pei Wen<br>[lim.pei.wen@vjc.edu.sg](mailto:lim.pei.wen@vjc.edu.sg)  |
-|Ms K Meena Jay Rohini<br>[meenachi.rohini@vjc.edu.sg](mailto:meenachi.rohini@vjc.edu.sg)| Ms Nur Farzanna Binte Sham Shudin<br>[farzanna.sham@vjc.edu.sg](mailto:farzanna.sham@vjc.edu.sg)|
-|Ms Suhana Subhan<br>[suhana.subhanbintemohamedsulor@vjc.edu.sg](mailto:suhana.subhanbintemohamedsulor@vjc.edu.sg)|Mr Syed Nazir Hussain<br>[syed.nazir.hussain@vjc.edu.sg](mailto:syed.nazir.hussain@vjc.edu.sg)|
-|Mr Yap Zong Xiang<br>[yap.zong.xiang@vjc.edu.sg](mailto:yap.zong.xiang@vjc.edu.sg)| Mr Yeo Yong Sheng<br>[yeo.yongsheng@vjc.edu.sg](mailto:yeo.yongsheng@vjc.edu.sg)|
+|Ms K Meena Jay Rohini<br>[meenachi.rohini@vjc.edu.sg](mailto:meenachi.rohini@vjc.edu.sg)| Mr Ngoh Siyuan<br>[ngoh.siyuan@vjc.edu.sg](mailto:ngoh.siyuan@vjc.edu.sg)|
+|Ms Nur Farzanna Binte Sham Shudin<br>[farzanna.sham@vjc.edu.sg](mailto:farzanna.sham@vjc.edu.sg)|Ms Suhana Subhan<br>[suhana.subhanbintemohamedsulor@vjc.edu.sg](mailto:suhana.subhanbintemohamedsulor@vjc.edu.sg)
+|Mr Syed Nazir Hussain<br>[syed.nazir.hussain@vjc.edu.sg](mailto:syed.nazir.hussain@vjc.edu.sg)|Mr Yap Zong Xiang<br>[yap.zong.xiang@vjc.edu.sg](mailto:yap.zong.xiang@vjc.edu.sg)| 
+|Mr Yeo Yong Sheng<br>[yeo.yongsheng@vjc.edu.sg](mailto:yeo.yongsheng@vjc.edu.sg)||
