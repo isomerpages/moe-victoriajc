@@ -33,8 +33,8 @@ third_nav_title: Our People
 |22S51|	Dr Goh Ker Liang<br>[goh.kerliang@vjc.edu.sg](mailto:goh.kerliang@vjc.edu.sg)|
 |22S52|	Mr Caleb Ho<br>[ho.tianyu.basil.caleb@vjc.edu.sg](mailto:ho.tianyu.basil.caleb@vjc.edu.sg)|
 |22S53|	Mr Halim Susanto<br>[halim.susanto@vjc.edu.sg](mailto:halim.susanto@vjc.edu.sg)|
-|22S54|	Mr Jayesh Kumar<br>[jayeshkumar.jasvantlal@vjc.edu.sg](mailto:jayeshkumar.jasvantlal@vjc.edu.sg)|
-|22S55|	Mr Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
+|22S54|	Mr Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
+|22S55|	Mr Teo Yik Tee<br>[teo.yiktee@vjc.edu.sg](mailto:teo.yiktee@vjc.edu.sg)|
 |22S56|	Mrs Yong Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)|
 |22S61|	Ms Lim Pei Wen<br>[lim.pei.wen@vjc.edu.sg](mailto:lim.pei.wen@vjc.edu.sg)|
 |22S62|	Mr Joseph Ng<br>[joseph.ng.zhi.wei@vjc.edu.sg](mailto:joseph.ng.zhi.wei@vjc.edu.sg)|
