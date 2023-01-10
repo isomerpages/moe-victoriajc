@@ -19,7 +19,7 @@ Visit these websites for more useful information to support your child's learnin
 <img src="/images/ECG.png" style="width:25%">
 </a>
 
-<a href="/files/GPA-Product-Fact-Sheet-2022.pdf">
+<a href="/files/GPA-Product-Fact-Sheet.pdf">
 <img src="/images/insurance.png" style="width:25%">
 </a>
 
