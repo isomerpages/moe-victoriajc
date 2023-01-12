@@ -4,7 +4,8 @@ permalink: /about/our-staff/key-appointment-holders/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/Key-Appointment-Holders-banner-1024x365.jpg)
+![](/images/2023%20Images/2023%20MM.jpg)
+
 
 #### School Leaders
 
