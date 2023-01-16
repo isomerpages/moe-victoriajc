@@ -16,10 +16,10 @@ sections:
           url: https://linktr.ee/victoriajc
         - title: Happenings at VJC
           description: Featured News
-          url: /vjc-news/
+          url: /Happenings-At-Vjc/
         - title: Upcoming Events
           description: Calendar Of Events
-          url: /calendar/
+          url: /upcoming-events/
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
