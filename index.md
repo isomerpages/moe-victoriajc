@@ -9,19 +9,22 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023 Images/2023VJCOHBanner_Web.jpg
+      background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
-        - title: Open House 2023
-          description: 14 January 2023
-          url: /openhouse2023/
+        - title: We are Social
+          description: Follow Us on Social Media
+          url: https://linktr.ee/victoriajc
         - title: Happenings at VJC
           description: Featured News
           url: /vjc-news/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /calendar/
-      button: Join Us
-      url: /openhouse2023/
+  - infopic:
+      title: 9-Day Timetable
+      image: /images/2023 Images/2023 9-Day Timetable2.jpg
+      alt: Late Start Banner
+      description: Late Start EVERYDAY
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
@@ -53,9 +56,4 @@ sections:
       title: Happenings at VJC
       subtitle: EXPLORE
       button: SEE ALL
-  - infopic:
-      title: 9-Day Timetable
-      image: /images/2023 Images/2023 9-Day Timetable2.jpg
-      alt: Late Start Banner
-      description: Late Start EVERYDAY
 ---
