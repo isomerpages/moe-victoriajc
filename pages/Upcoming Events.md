@@ -3,9 +3,10 @@ title: Upcoming Events
 permalink: /calendar/
 description: ""
 ---
-
 | Date | Event |
 | --- | --- |
-| 7 Jan 2023 | VJC Homecoming |
-| 9 Jan 2023 | Start of Term 1 |
-| 14 Jan 2023 | Open House |
+| 20 January 2023 | Lunar New Year Celebrations |
+| 3 - 9 February 2023 |  JC1 Orientation|
+| 10 February 2023 | Parents-Principal Session |
+| 13 February 2023 | Total Defence Commemoration Day |
+| 6 - 9 March 2023 | JC2 Common Test 1 |
