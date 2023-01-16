@@ -16,7 +16,7 @@ sections:
           url: https://linktr.ee/victoriajc
         - title: Happenings at VJC
           description: Featured News
-          url: /Happenings-At-Vjc/
+          url: /happenings-at-vjc/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
