@@ -1,0 +1,6 @@
+collections:
+  learn:
+    output: true
+    order:
+      - Learn Like A Victorian.md
+      - Academic Disciplines.md
