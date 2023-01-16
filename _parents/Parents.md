@@ -12,8 +12,8 @@ It takes a community to educate a child. In VJC, we recognize the importance of 
 ### Resources for Parents
 Visit these websites for more useful information to support your child's learning and growth. Click here to equip yourself with skills and knowledge to parent confidently!
 
-| [![](/images/JC1%20Civics%20Tutors.png)](/about/our-staff/jc-1-civics-tutors/) | [![](/images/JC2%20Civics%20Tutors.png)](/about/our-staff/jc-2-civics-tutors/)| [![](/images/2023%20Images/student%20handbook2.png)]([](/files/VJC%20Academic%20Information%20Booklet%202023-8-Jan.pdf)) |
+| [![](/images/JC1%20Civics%20Tutors.png)](/about/our-staff/jc-1-civics-tutors/) | [![](/images/JC2%20Civics%20Tutors.png)](/about/our-staff/jc-2-civics-tutors/)| [![](/images/2023%20Images/student%20handbook2.png)]((/files/VJC%20Academic%20Information%20Booklet%202023-8-Jan.pdf)) |
 | -------- | -------- | -------- |
 | [![](/images/sexuality%20education%201.png)](/parents/sexuality-education-in-schools/)| [![](/images/ECG.png)](/education-and-career-guidance-ecg/)| [![](/images/instagram.png)](https://www.instagram.com/parentingwith.moesg/) |
-| [![](/images/resilience.png)]([](/files/Resilience-Resources_for-parents_final.pdf))| [![](/images/signs%20of%20distress.png)](/parents/watching-for-distress/)| [![](/images/insurance.png)]([](/files/GPA-Product-Fact-Sheet.pdf)) |
+| [![](/images/resilience.png)]((/files/Resilience-Resources_for-parents_final.pdf))| [![](/images/signs%20of%20distress.png)](/parents/watching-for-distress/)| [![](/images/insurance.png)]((/files/GPA-Product-Fact-Sheet.pdf)) |
 | [![](/images/parent%20gateway.png)](/parents/parent-gateway-mobile-app/)   |      |      |
