@@ -31,7 +31,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 **At Victoria Junior College, the following Sexuality Education lessons will be taught in 2023:**
 
-dfsddsf
+#### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021
+### PRE-U YEAR 1 / IP YEAR 5
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 align=left
  width=1230 style='width:922.2pt;border-collapse:collapse;border:none;
@@ -565,7 +566,8 @@ dfsddsf
  </tr>
 </table>
 
-fsdfsdf
+#### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021
+### PRE-U YEAR 2 / IP YEAR 6
 
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1030
  style='width:772.3pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
