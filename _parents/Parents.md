@@ -12,9 +12,27 @@ It takes a community to educate a child. In VJC, we recognize the importance of 
 ### Resources for Parents
 Visit these websites for more useful information to support your child's learning and growth. Click here to equip yourself with skills and knowledge to parent confidently!
 
-||||
-| :--------: | :--------: | :--------: |
-| [![](/images/PNG%202023/classroom.png)**JC1 Civics Tutors**](/about/our-staff/jc-1-civics-tutors/) | [![](/images/PNG%202023/classroom.png)**JC2 Civics Tutors**](/about/our-staff/jc-2-civics-tutors/)| [![](/images/PNG%202023/pdf.png)**Student Handbook**](/files/VJC%20Academic%20Information%20Booklet%202023-8-Jan.pdf) |
-| [![](/images/PNG%202023/gender.png)**Sexuality Education in Schools**](/parents/sexuality-education-in-schools/)| [![](/images/PNG%202023/graduate.png)**Education and Career Guidance**](/education-and-career-guidance-ecg/)| [![](/images/PNG%202023/instagram.png)**MOE Parenting with you**](https://www.instagram.com/parentingwith.moesg/) |
-| [![](/images/PNG%202023/shield.png)**Building Resilience in our students**](/files/Resilience-Resources_for-parents_final.pdf)| [![](/images/PNG%202023/view.png)**Watching for signs of distress**](/parents/watching-for-distress/)| [![](/images/PNG%202023/pdf.png)**Accident Insurance Plan for Students**](/files/GPA-Product-Fact-Sheet.pdf) |
-| [![](/images/PNG%202023/smartphone.png)**Parent Gateway Mobile App**](/parents/parent-gateway-mobile-app/) |  |  |
+<table >
+<thead>
+  <tr>
+		<th style="text-align:center"><a href="/about/our-staff/jc-1-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC1 Civics Tutors</th>
+    <th style="text-align:center"><a href="/about/our-staff/jc-2-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC2 Civics Tutors</th>
+    <th style="text-align:center"><a href="/files/VJC%20Academic%20Information%20Booklet%202023-8-Jan.pdf"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Student Handbook</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</td>
+    <td style="text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</td>
+    <td style="text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="/files/Resilience-Resources_for-parents_final.pdf"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
+    <td style="text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</td>
+    <td style="text-align:center"><a href="/files/GPA-Product-Fact-Sheet.pdf"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
+  </tr>
+</tbody>
+</table>
