@@ -32,7 +32,7 @@ Visit these websites for more useful information to support your child's learnin
     <td style="text-align:center"><a href="/files/GPA-Product-Fact-Sheet.pdf" target="_blank"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
   </tr>
   <tr>
-    <td colspan="3" style="text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
+    <td colspan="1" style="text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
   </tr>
 </tbody>
 </table>
