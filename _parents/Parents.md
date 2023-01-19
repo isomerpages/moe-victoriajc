@@ -22,7 +22,7 @@ Visit these websites for more useful information to support your child's learnin
 </thead>
 <tbody>
   <tr>
-    <th style="color:red;text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</td>
+    <th style="color:red;text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</th>
     <th style="color:red;text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</th>
     <th style="color:red;text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</th>
   </tr>
