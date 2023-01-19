@@ -27,9 +27,9 @@ Visit these websites for more useful information to support your child's learnin
     <td style="text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="/files/Resilience-Resources_for-parents_final.pdf"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
+    <td style="text-align:center"><a href="https://go.gov.sg/moeresilience2023"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
     <td style="text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</td>
-    <td style="text-align:center"><a href="/files/GPA-Product-Fact-Sheet.pdf" target="_blank"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
+    <td style="text-align:center"><a href="https://go.gov.sg/ntucfactsheet2023" target="_blank"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
   </tr>
   <tr>
     <td colspan="1" style="text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
