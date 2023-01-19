@@ -17,7 +17,7 @@ Visit these websites for more useful information to support your child's learnin
   <tr>
 		<th style="text-align:center"><a href="/about/our-staff/jc-1-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC1 Civics Tutors</th>
     <th style="text-align:center"><a href="/about/our-staff/jc-2-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC2 Civics Tutors</th>
-    <th style="text-align:center"><a href="" target="_blank"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Student Handbook</th>
+    <th style="text-align:center"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Student Handbook</th>
   </tr>
 </thead>
 <tbody>
