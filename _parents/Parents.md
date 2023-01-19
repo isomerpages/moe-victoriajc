@@ -23,16 +23,16 @@ Visit these websites for more useful information to support your child's learnin
 <tbody>
   <tr>
     <th style="color:red;text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</td>
-    <th style="color:red;text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</td>
-    <th style="color:red;text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</td>
+    <th style="color:red;text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</th>
+    <th style="color:red;text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</th>
   </tr>
   <tr>
-    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcmoeresilience"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
-    <th style="color:red;text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</td>
-    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcntucfactsheet"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
+    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcmoeresilience"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</th>
+    <th style="color:red;text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</th>
+    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcntucfactsheet"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</th>
   </tr>
   <tr>
-    <th colspan="1" style="color:red;text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
+    <th colspan="1" style="color:red;text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</th>
   </tr>
 </tbody>
 </table>
