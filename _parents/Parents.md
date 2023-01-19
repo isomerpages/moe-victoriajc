@@ -15,24 +15,24 @@ Visit these websites for more useful information to support your child's learnin
 <table >
 <thead>
   <tr>
-		<th style="text-align:center"><a href="/about/our-staff/jc-1-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC1 Civics Tutors</th>
-    <th style="text-align:center"><a href="/about/our-staff/jc-2-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC2 Civics Tutors</th>
-    <th style="text-align:center"><a> <img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Student Handbook</th>
+		  <th style="color:red; text-align:center"><a href="/about/our-staff/jc-1-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC1 Civics Tutors</th>
+    <th style="color:red;text-align:center"><a href="/about/our-staff/jc-2-civics-tutors/"><img src="/images/PNG%202023/classroom.png" style="width:80px"></a><br>JC2 Civics Tutors</th>
+    <th style="color:red;text-align:center"><a> <img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Student Handbook</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</td>
-    <td style="text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</td>
-    <td style="text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</td>
+    <th style="color:red;text-align:center"><a href="/parents/sexuality-education-in-schools/"><img src="/images/PNG%202023/gender.png" style="width:80px"></a><br>Sexuality Education in Schools</td>
+    <th style="color:red;text-align:center"><a href="/education-and-career-guidance-ecg/"><img src="/images/PNG%202023/graduate.png" style="width:80px"></a><br>Education and Career Guidance</td>
+    <th style="color:red;text-align:center"><a href="https://www.instagram.com/parentingwith.moesg/"><img src="/images/PNG%202023/instagram.png" style="width:80px"></a><br>MOE Parenting with you</td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://go.gov.sg/vjcmoeresilience"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
-    <td style="text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</td>
-    <td style="text-align:center"><a href="https://go.gov.sg/vjcntucfactsheet"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
+    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcmoeresilience"><img src="/images/PNG%202023/shield.png" style="width:80px"></a><br>Building Resilience in our students</td>
+    <th style="color:red;text-align:center"><a href="/parents/watching-for-distress/"><img src="/images/PNG%202023/view.png" style="width:80px"></a><br>Watching for signs of distress</td>
+    <th style="color:red;text-align:center"><a href="https://go.gov.sg/vjcntucfactsheet"><img src="/images/PNG%202023/pdf.png" style="width:80px"></a><br>Accident Insurance Plan for Students</td>
   </tr>
   <tr>
-    <td colspan="1" style="text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
+    <th colspan="1" style="color:red;text-align:center"><a href="/parents/parent-gateway-mobile-app/"><img src="/images/PNG%202023/smartphone.png" style="width:80px"></a><br>Parent Gateway Mobile App</td>
   </tr>
 </tbody>
 </table>
