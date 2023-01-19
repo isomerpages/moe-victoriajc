@@ -28,7 +28,8 @@ sections:
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
-      description: With more than 60 subject combinations, whether you are inclined to
+      description:
+        With more than 60 subject combinations, whether you are inclined to
         the Arts or Sciences, you will be spoilt for choice.
       button: Find out more
       url: /learn-like-a-victorian/
@@ -49,11 +50,12 @@ sections:
       button: Find out more
       url: /level-up/talent-development-programme/
       alt: Image alt text
-      description: Stretch your potential, lead, serve and excel. Level up with our
+      description:
+        Stretch your potential, lead, serve and excel. Level up with our
         programmes and create the future.
       image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
   - resources:
-      title: Happenings at VJC
+      title: VJC News
       subtitle: EXPLORE
       button: SEE ALL
 ---
