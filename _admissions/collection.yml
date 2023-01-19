@@ -2,7 +2,7 @@ collections:
   admissions:
     output: true
     order:
-      - Admissions.md
+      - Admissions To VJC.md
       - Joint Admissions Exercise (JAE).md
       - Direct School Admissions (DSA).md
       - Victoria Cedar Alliance.md
