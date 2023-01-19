@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Parents.md
+      - Parent College Partnership.md
       - Parents Support Group.md
       - Education and Career Guidance.md
       - Watching for Distress.md
