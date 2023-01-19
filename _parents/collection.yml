@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Resources for Parents.md
       - Parent College Partnership.md
       - Parents Support Group.md
       - Education and Career Guidance.md
