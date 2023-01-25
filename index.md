@@ -53,7 +53,7 @@ sections:
         programmes and create the future.
       image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
   - resources:
-      title: Happenings at VJC
+      title: Happenings At VJC
       subtitle: EXPLORE
       button: SEE ALL
 ---

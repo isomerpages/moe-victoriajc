@@ -18,12 +18,10 @@ links:
   - title: Level Up
     collection: level-up
   - title: Parents
-    url: /parents/
+    url: /parents/parent-college-partnership/
     sublinks:
       - title: Parent Support Group
         url: /parents/parent-support-group-content/
-      - title: Resources for Parents
-        url: /parents/
   - title: Alumni
     url: /alumni/
     sublinks:

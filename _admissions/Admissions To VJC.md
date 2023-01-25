@@ -1,8 +1,11 @@
 ---
-title: Admissions
-permalink: /admissions/
+title: Admissions To VJC
+permalink: /admissions/admissions-to-VJC/
 description: ""
 ---
+
+
+
 ![](/images/Admissions-banner-1024x365.jpg)
 VJC offers a two-year programme leading to the GCE A-Level examinations. The programme is open to students who have just completed their GCE O-Level examinations or Secondary 4 equivalent.
 
