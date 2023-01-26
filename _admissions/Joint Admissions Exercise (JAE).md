@@ -12,12 +12,24 @@ The Joint Admissions Exercise (JAE) to junior colleges is conducted by the Minis
 
 The Joint Admissions Exercise (JAE) is scheduled to be conducted in January each year.
 
-### JAE Appeal Exercise 2022
+### JAE Appeal Exercise 2023
+
+The JAE Appeal Exercise is for students who have not been posted to Victoria JC under the JAE Posting Exercise. Applications for appeal will start on **2 February 2023, Thursday (10 am)** and end on **8 February 2023, Wednesday (12 pm).**
+
+All applications will be considered based on merit and availability of vacancies. Do note that if you have been posted to a school via Direct School Admission (DSA), you are not eligible for this Exercise as DSA transfers are not allowed.
+
+Before you start your application, please note that:
+* All applicants must meet the net aggregate L1R5 cut-off point (COP) of the course for this year’s JAE.
+* It is the applicant’s responsibility to provide accurate and complete information in the online application.
+
+Start your JAE Appeal application [here](https://portal.vjc.edu.sg/0/appeal.html). 
+<br>The link will only be functional from 2 February 2023, Thursday, 10 am. No hardcopy submission of documents is required. We will get in touch if we require a hardcopy of your documents for verification.
+
+All students must report to their posted JC or MI on **03 February 2023, Friday**. You are expected to report to your posted school even if you have submitted, or plan to submit, an appeal application.
 
 
-The JAE Appeal Exercise for admission into Victoria Junior College in 2022 has now closed.
-
-We thank the many students who have shown interest in applying to our College. We would like to wish you the best in your education journey, whether here at VJC or at any other institution.
+<u>Results of Appeal</u><br>
+All applicants will be informed of the outcome of their applications via email latest by **8 February 2023, (Wednesday), 6.00 pm**.
 
 If you have any further query, you may email us at [victoria_jc@moe.edu.sg](mailto:victoria_jc@moe.edu.sg), or call our General Office at 64485011.
 
