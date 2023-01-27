@@ -14,7 +14,7 @@ The Joint Admissions Exercise (JAE) is scheduled to be conducted in January each
 
 ### JAE Appeal Exercise 2023
 
-The JAE Appeal Exercise is for students who have not been posted to Victoria JC under the JAE Posting Exercise. Applications for appeal will start on** **2 February 2023 (Thursday), 10 am** and end on **8 February 2023 (Wednesday), 12 pm.**
+The JAE Appeal Exercise is for students who have not been posted to Victoria JC under the JAE Posting Exercise. Applications for appeal will start on**2 February 2023 (Thursday), 10 am** and end on **8 February 2023 (Wednesday), 12 pm.**
 
 All applications will be considered based on merit and availability of vacancies. Do note that if you have been posted to a school via Direct School Admission (DSA), you are not eligible for this Exercise as DSA transfers are not allowed.
 
