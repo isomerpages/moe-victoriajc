@@ -25,7 +25,7 @@ Before you start your application, please note that:
 Start your JAE Appeal application [here](https://portal.vjc.edu.sg/0/appeal.html). 
 <br>The link will only be functional from 2 February 2023 (Thursday), 10 am. No hardcopy submission of documents is required. We will get in touch if we require a hardcopy of your documents for verification.
 
-All students must report to their posted JC or MI on **03 February 2023 (Friday)**. You are expected to report to your posted school even if you have submitted, or plan to submit, an appeal application.
+All students must report to their posted JC or MI on **3 February 2023 (Friday)**. You are expected to report to your posted school even if you have submitted, or plan to submit, an appeal application.
 
 
 <u>Results of Appeal</u><br>
