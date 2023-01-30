@@ -9,8 +9,7 @@ description: ""
 We hope you are fired up for Orientation! The following are important details regarding your first week in VJC.
 
 #### Orientation Schedule
-
-![](/images/2023%20Images/2023%20orientation.jpg)
+<img src="/images/2023%20Images/2023%20orientation.jpg" style="width:80%">
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -38,7 +37,7 @@ We hope you are fired up for Orientation! The following are important details re
       <p>
 				<b>Dates:</b>  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
 				<b>Payment Methods:</b> Cash or PayNow or PayLah!<br>
-				![](/images/2023%20Images/Uniform%20Sales.jpg)
+				<img src="/images/2023%20Images/Uniform%20Sales.jpg" style="width:100%">
 			</p>
 				</div>
 	</li>
@@ -56,7 +55,8 @@ We hope you are fired up for Orientation! The following are important details re
    *   Cash (bring exact amount)<br>
    *   Cheque to <b>Learning Interactive Pte Ltd</b> (to indicate student’s name and contact number on the reverse side)<br>
    *   PayNow (to be done via student’s phone while present at the booth)<br>
-![](/images/2023%20Images/calculator.jpg)
+<img src="/images/2023%20Images/calculator.jpg" style="width:70%">
+				
 
 
 Important: 
