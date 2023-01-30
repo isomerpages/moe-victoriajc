@@ -86,8 +86,8 @@ We hope you are fired up for Orientation! The following are important details re
     <div>
 
       <p>
-				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)
-				**Payment Methods:** Cash or PayNow or PayLah!
+				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
+				**Payment Methods:** Cash or PayNow or PayLah!<br>
 				<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -180,11 +180,11 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> **Dates:** Booth opens on 3 Feb, 6 Feb
+      <p> **Dates:** Booth opens on 3 Feb, 6 Feb<br>
 **Payment Methods:** 
-   *   Cash (bring exact amount)
-   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)
-   *   PayNow (to be done via student’s phone while present at the booth)
+   *   Cash (bring exact amount)<br>
+   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)<br>
+   *   PayNow (to be done via student’s phone while present at the booth)<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -213,10 +213,10 @@ We hope you are fired up for Orientation! The following are important details re
 
 Important: 
 
-*   This sale price is only for the two days stated above.
+*   This sale price is only for the two days stated above.<br>
     
-*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.
-*   Remember to collect the **Record of Purchase Card** from the vendor for warranty.
+*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.<br>
+*   Remember to collect the **Record of Purchase Card** from the vendor for warranty.<br>
 </p>
 				</div>
 	</li>
@@ -231,11 +231,11 @@ Important: 
 
       <p> 
 
-*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.
+*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.<br>
     
-*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.
+*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.<br>
     
-*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.
+*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.<br>
     </p>
 				</div>
 	</li>
@@ -250,9 +250,9 @@ Important: 
 
       <p>
 
-*   Appellants are to submit their application for appeal online via the respective college websites.
+*   Appellants are to submit their application for appeal online via the respective college websites.<br>
     
-*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.
+*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.<br>
     
  </p>
 				</div>
