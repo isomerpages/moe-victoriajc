@@ -37,7 +37,7 @@ We hope you are fired up for Orientation! The following are important details re
       <p>
 				<b>Dates:</b>  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
 				<b>Payment Methods:</b> Cash or PayNow or PayLah!<br>
-				<img src="/images/2023%20Images/Uniform%20Sales.jpg" style="width:100%">
+				<img src="/images/2023%20Images/Uniform%20Sales.jpg" style="width:80%">
 			</p>
 				</div>
 	</li>
