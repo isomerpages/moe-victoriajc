@@ -52,9 +52,11 @@ We hope you are fired up for Orientation! The following are important details re
 
       <p> <b>Dates:</b> Booth opens on 3 Feb, 6 Feb<br>
 <b>Payment Methods:</b> 
-   *   Cash (bring exact amount)<br>
-   *   Cheque to <b>Learning Interactive Pte Ltd</b> (to indicate student’s name and contact number on the reverse side)<br>
-   *   PayNow (to be done via student’s phone while present at the booth)<br>
+<ul>
+  <li>Cash (bring exact amount)</li>
+  <li>Cheque to <b>Learning Interactive Pte Ltd</b> (to indicate student’s name and contact number on the reverse side)</li>
+  <li>PayNow (to be done via student’s phone while present at the booth)</li>
+</ul> 
 <img src="/images/2023%20Images/calculator.jpg" style="width:70%">
 				
 
