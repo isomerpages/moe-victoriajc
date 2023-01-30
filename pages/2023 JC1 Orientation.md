@@ -10,57 +10,7 @@ We hope you are fired up for Orientation! The following are important details re
 
 #### Orientation Schedule
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 539px">
-<colgroup>
-<col style="width: 129px">
-<col style="width: 194px">
-<col style="width: 216px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-mqa1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Day/Date</span></th>
-    <th class="tg-mqa1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Start</span></th>
-    <th class="tg-mqa1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">End</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-73oq"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Friday,</span><span style="color:#000;background-color:transparent"> 3 Feb</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8 am</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">3 pm</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">*Subject selection tests (for selected subjects) start at 3.30 pm onwards</span></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Monday, </span><span style="color:#000;background-color:transparent">6 Feb</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8.40 am</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4 pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tuesday, </span><span style="color:#000;background-color:transparent">7 Feb</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8 am</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5 pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Wednesday, </span><span style="color:#000;background-color:transparent">8 Feb</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9 am</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4.30 pm</span></td>
-  </tr>
-  <tr>
-    <td class="tg-73oq"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Thursday, </span><span style="color:#000;background-color:transparent">9 Feb</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sea Carnival @ VJC</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8 am</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fountain of Wealth @ Suntec</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">6 pm</span></td>
-    <td class="tg-wp8o"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Sea Carnival @ VJC</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">12.30 pm</span><br><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Fountain of Wealth @ Suntec</span><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">8 pm</span></td>
-  </tr>
-</tbody>
-</table>
+![](/images/2023%20Images/2023%20orientation.jpg)
 
 <ul class="jekyllcodex_accordion">
 <li>
@@ -88,86 +38,7 @@ We hope you are fired up for Orientation! The following are important details re
       <p>
 				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
 				**Payment Methods:** Cash or PayNow or PayLah!<br>
-				<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hfk9{background-color:#000000;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-2pv4{background-color:#AEAAAA;text-align:left;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-501o{background-color:#000000;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 586px">
-<colgroup>
-<col style="width: 221px">
-<col style="width: 175px">
-<col style="width: 190px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-hfk9"></th>
-    <th class="tg-501o"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF">Male</span></th>
-    <th class="tg-501o"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF">Female</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Shirt</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$11</span></td>
-    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long pants</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$16</span></td>
-    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Belt</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$6</span></td>
-    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2pv4"></td>
-    <td class="tg-2pv4"></td>
-    <td class="tg-2pv4"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Blouse</span></td>
-    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$12</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Skirt</span></td>
-    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$13</span></td>
-  </tr>
-  <tr>
-    <td class="tg-2pv4"></td>
-    <td class="tg-2pv4"></td>
-    <td class="tg-2pv4"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">School tie</span></td>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$8</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">School badge</span></td>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PE T-shirt</span></td>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$6.50</span></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PE shorts</span></td>
-    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$5.60</span></td>
-  </tr>
-</tbody>
-</table>
+				![](/images/2023%20Images/Uniform%20Sales.jpg)
 			</p>
 				</div>
 	</li>
@@ -185,25 +56,7 @@ We hope you are fired up for Orientation! The following are important details re
    *   Cash (bring exact amount)<br>
    *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)<br>
    *   PayNow (to be done via student’s phone while present at the booth)<br>
-
-<table style="undefined;table-layout: fixed; width: 197px">
-<colgroup>
-<col style="width: 144px">
-<col style="width: 53px">
-</colgroup>
-<thead>
-  <tr>
-    <th>Model No.</th>
-    <th>Cost</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>TI-84 Plus CE Python</td>
-    <td>$175</td>
-  </tr>
-</tbody>
-</table>
+![](/images/2023%20Images/calculator.jpg)
 
 
 Important: 
