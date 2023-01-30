@@ -61,12 +61,12 @@ We hope you are fired up for Orientation! The following are important details re
 				
 
 
-Important: 
-
-*   This sale price is only for the two days stated above.<br>
-    
-*   Students on <b>Financial Assistant Scheme (FAS)</b> or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.<br>
-*   Remember to collect the <b>Record of Purchase Card</b> from the vendor for warranty.<br>
+<b>Important:</b> 
+<ul>
+  <li>This sale price is only for the two days stated above.</li>
+  <li>Students on <b>Financial Assistant Scheme (FAS)</b> or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.</li>
+  <li>Remember to collect the <b>Record of Purchase Card</b> from the vendor for warranty.</li>
+</ul>  
 </p>
 				</div>
 	</li>
@@ -80,12 +80,11 @@ Important: 
     <div>
 
       <p> 
-
-*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.<br>
-    
-*   Do note that all trials and auditions for appeals will only be conducted <u><b>from 3 pm onwards</b></u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.<br>
-    
-*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.<br>
+				<ul>
+  <li>We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.</li>
+  <li>Do note that all trials and auditions for appeals will only be conducted <font style="color:red;">from 3 pm onwards</font>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.</li>
+  <li>Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.</li>
+</ul> 
     </p>
 				</div>
 	</li>
@@ -99,10 +98,10 @@ Important: 
     <div>
 
       <p>
-
-*   Appellants are to submit their application for appeal online via the respective college websites.<br>
-    
-*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.<br>
+<ul>
+  <li>Appellants are to submit their application for appeal online via the respective college websites.</li>
+  <li>Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.</li>
+</ul>  
     
  </p>
 				</div>
