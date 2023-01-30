@@ -67,7 +67,7 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">**Academic Matters**</label>
+    <label for="accordion1">Academic Matters</label>
 
     <div>
 			<p> **Please refer to [this link](https://go.gov.sg/vjc23acad) for information on the following**<br>
@@ -81,7 +81,7 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">**Uniform Sales**</label>
+    <label for="accordion2">Uniform Sales</label>
 
     <div>
 
@@ -174,7 +174,7 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">**Graphing Calculator Sales**</label>
+    <label for="accordion3">Graphing Calculator Sales</label>
 
     <div>
 
