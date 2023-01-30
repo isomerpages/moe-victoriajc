@@ -58,9 +58,7 @@ We hope you are fired up for Orientation! The following are important details re
   <li>PayNow (to be done via student’s phone while present at the booth)</li>
 </ul> 
 <img src="/images/2023%20Images/calculator.jpg" style="width:70%">
-				
-
-
+	
 <b>Important:</b> 
 <ul>
   <li>This sale price is only for the two days stated above.</li>
