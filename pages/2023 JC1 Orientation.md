@@ -178,7 +178,44 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> </p>
+      <p> **Dates:** Booth opens on 3 Feb, 6 Feb  </br>
+**Payment Methods:** 
+   *   Cash (bring exact amount)</br>
+   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)</br>
+   *   PayNow (to be done via student’s phone while present at the booth)</br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Model No.</span></th>
+    <th class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Cost</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TI-84 Plus CE Python</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$175</span></td>
+  </tr>
+</tbody>
+</table>
+
+Important: 
+
+*   This sale price is only for the two days stated above. </br>
+    
+*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date. </br>
+*   Remember to collect the **Record of Purchase Card** from the vendor for warranty.
+</p>
 				</div>
 	</li>
 	
@@ -190,7 +227,14 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> </p>
+      <p> 
+
+*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.</br>
+    
+*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.</br>
+    
+*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.</br>
+    </p>
 				</div>
 	</li>
 	
@@ -202,6 +246,12 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> </p>
+      <p>
+
+*   Appellants are to submit their application for appeal online via the respective college websites.</br>
+    
+*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.</br>
+    
+ </p>
 				</div>
 	</li>
