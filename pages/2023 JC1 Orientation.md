@@ -79,7 +79,7 @@ We hope you are fired up for Orientation! The following are important details re
 
       <p> 
 				<ul>
-  <li>We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.</li>
+  <li>We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.</li>
   <li>Do note that all trials and auditions for appeals will only be conducted <font style="color:red;">from 3 pm onwards</font>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.</li>
   <li>Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.</li>
 </ul> 
