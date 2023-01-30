@@ -70,7 +70,7 @@ We hope you are fired up for Orientation! The following are important details re
     <label for="accordion1">Academic Matters</label>
 
     <div>
-			<p> **Please refer to [this link](https://go.gov.sg/vjc23acad) for information on the following**<br>
+			<p> **Please refer to <a href="https://go.gov.sg/vjc23acad">this link</a> for information on the following**<br>
 				1. Subject Briefing and Sample Lessons<br>
 2. Online registration for subject combination<br>
 3. Subject selection test </p>
@@ -86,7 +86,9 @@ We hope you are fired up for Orientation! The following are important details re
     <div>
 
       <p>
-				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)</br> **Payment Methods:** Cash or PayNow or PayLah! </br><style type="text/css">
+				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)
+				**Payment Methods:** Cash or PayNow or PayLah!
+				<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -178,11 +180,11 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> **Dates:** Booth opens on 3 Feb, 6 Feb  </br>
+      <p> **Dates:** Booth opens on 3 Feb, 6 Feb
 **Payment Methods:** 
-   *   Cash (bring exact amount)</br>
-   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)</br>
-   *   PayNow (to be done via student’s phone while present at the booth)</br>
+   *   Cash (bring exact amount)
+   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)
+   *   PayNow (to be done via student’s phone while present at the booth)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -211,9 +213,9 @@ We hope you are fired up for Orientation! The following are important details re
 
 Important: 
 
-*   This sale price is only for the two days stated above. </br>
+*   This sale price is only for the two days stated above.
     
-*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date. </br>
+*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.
 *   Remember to collect the **Record of Purchase Card** from the vendor for warranty.
 </p>
 				</div>
@@ -229,11 +231,11 @@ Important: 
 
       <p> 
 
-*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.</br>
+*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.
     
-*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.</br>
+*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.
     
-*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.</br>
+*   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.
     </p>
 				</div>
 	</li>
@@ -248,9 +250,9 @@ Important: 
 
       <p>
 
-*   Appellants are to submit their application for appeal online via the respective college websites.</br>
+*   Appellants are to submit their application for appeal online via the respective college websites.
     
-*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.</br>
+*   Students who intend to leave Orientation to attend an interview or audition, can only leave after 2 pm. If there you have other specific requests, please inform your Orientation Group Leaders.
     
  </p>
 				</div>
