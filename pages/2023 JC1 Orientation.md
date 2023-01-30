@@ -17,7 +17,7 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Academic Matters</label>
+	<label for="accordion1"><b>Academic Matters</b></label>
 
     <div>
 			<p> **Please refer to <a href="https://go.gov.sg/vjc23acad">this link</a> for information on the following**<br>
