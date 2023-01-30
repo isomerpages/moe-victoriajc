@@ -186,30 +186,25 @@ We hope you are fired up for Orientation! The following are important details re
    *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)<br>
    *   PayNow (to be done via student’s phone while present at the booth)<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table style="undefined;table-layout: fixed; width: 197px">
+<colgroup>
+<col style="width: 144px">
+<col style="width: 53px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Model No.</span></th>
-    <th class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Cost</span></th>
+    <th>Model No.</th>
+    <th>Cost</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">TI-84 Plus CE Python</span></td>
-    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$175</span></td>
+    <td>TI-84 Plus CE Python</td>
+    <td>$175</td>
   </tr>
 </tbody>
 </table>
+
 
 Important: 
 
