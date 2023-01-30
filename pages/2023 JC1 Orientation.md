@@ -20,7 +20,7 @@ We hope you are fired up for Orientation! The following are important details re
     <label for="accordion1">Academic Matters</label>
 
     <div>
-			<p> **Please refer to <a href="https://go.gov.sg/vjc23acad">this link</a> for information on the following**<br>
+			<p> <b>Please refer to <a href="https://go.gov.sg/vjc23acad">this link</a> for information on the following</b><br>
 				1. Subject Briefing and Sample Lessons<br>
 2. Online registration for subject combination<br>
 3. Subject selection test </p>
@@ -36,8 +36,8 @@ We hope you are fired up for Orientation! The following are important details re
     <div>
 
       <p>
-				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
-				**Payment Methods:** Cash or PayNow or PayLah!<br>
+				<b>Dates:</b>  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)<br>
+				<b>Payment Methods:</b> Cash or PayNow or PayLah!<br>
 				![](/images/2023%20Images/Uniform%20Sales.jpg)
 			</p>
 				</div>
@@ -51,10 +51,10 @@ We hope you are fired up for Orientation! The following are important details re
 
     <div>
 
-      <p> **Dates:** Booth opens on 3 Feb, 6 Feb<br>
-**Payment Methods:** 
+      <p> <b>Dates:</b> Booth opens on 3 Feb, 6 Feb<br>
+<b>Payment Methods:</b> 
    *   Cash (bring exact amount)<br>
-   *   Cheque to **Learning Interactive Pte Ltd** (to indicate student’s name and contact number on the reverse side)<br>
+   *   Cheque to <b>Learning Interactive Pte Ltd</b> (to indicate student’s name and contact number on the reverse side)<br>
    *   PayNow (to be done via student’s phone while present at the booth)<br>
 ![](/images/2023%20Images/calculator.jpg)
 
@@ -63,8 +63,8 @@ Important: 
 
 *   This sale price is only for the two days stated above.<br>
     
-*   Students on **Financial Assistant Scheme (FAS)** or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.<br>
-*   Remember to collect the **Record of Purchase Card** from the vendor for warranty.<br>
+*   Students on <b>Financial Assistant Scheme (FAS)</b> or those intending to apply for FAS, please do NOT purchase the calculator during this period. There will be an alternative arrangement at a later date.<br>
+*   Remember to collect the <b>Record of Purchase Card</b> from the vendor for warranty.<br>
 </p>
 				</div>
 	</li>
@@ -81,7 +81,7 @@ Important: 
 
 *   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.<br>
     
-*   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.<br>
+*   Do note that all trials and auditions for appeals will only be conducted <u><b>from 3 pm onwards</b></u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.<br>
     
 *   Successful appellants should report to VJC in-person with the necessary documents for verification. The successful appellants should return to their original posted school to complete the withdrawal process. Successful appellants should join VJC’s Orientation only after they have completed the full process.<br>
     </p>
