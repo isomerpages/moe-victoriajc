@@ -67,10 +67,10 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Academic Matters</label>
+    <label for="accordion1">**Academic Matters**</label>
 
     <div>
-			<p> Please refer to [this link](https://go.gov.sg/vjc23acad) for information on the following<br>
+			<p> **Please refer to [this link](https://go.gov.sg/vjc23acad) for information on the following**<br>
 				1. Subject Briefing and Sample Lessons<br>
 2. Online registration for subject combination<br>
 3. Subject selection test </p>
@@ -81,11 +81,92 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Uniform Sales</label>
+    <label for="accordion2">**Uniform Sales**</label>
 
     <div>
 
-      <p> </p>
+      <p>
+				**Dates:**  3 Feb (Fri), 6 Feb (Mon), 7 Feb (Tue)</br> **Payment Methods:** Cash or PayNow or PayLah! </br><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hfk9{background-color:#000000;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-2pv4{background-color:#AEAAAA;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-501o{background-color:#000000;border-color:#000000;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 586px">
+<colgroup>
+<col style="width: 221px">
+<col style="width: 175px">
+<col style="width: 190px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-hfk9"></th>
+    <th class="tg-501o"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF">Male</span></th>
+    <th class="tg-501o"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#FFF">Female</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Shirt</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$11</span></td>
+    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Long pants</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$16</span></td>
+    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Belt</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$6</span></td>
+    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2pv4"></td>
+    <td class="tg-2pv4"></td>
+    <td class="tg-2pv4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Blouse</span></td>
+    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$12</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Skirt</span></td>
+    <td class="tg-amwm"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">-</span></td>
+    <td class="tg-baqh"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$13</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2pv4"></td>
+    <td class="tg-2pv4"></td>
+    <td class="tg-2pv4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">School tie</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">School badge</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PE T-shirt</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$6.50</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">PE shorts</span></td>
+    <td class="tg-baqh" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">$5.60</span></td>
+  </tr>
+</tbody>
+</table>
+			</p>
 				</div>
 	</li>
 	
@@ -93,7 +174,7 @@ We hope you are fired up for Orientation! The following are important details re
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Graphing Calculator Sales</label>
+    <label for="accordion3">**Graphing Calculator Sales**</label>
 
     <div>
 
@@ -124,5 +205,3 @@ We hope you are fired up for Orientation! The following are important details re
       <p> </p>
 				</div>
 	</li>
-	
-	
