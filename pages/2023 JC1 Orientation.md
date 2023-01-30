@@ -79,7 +79,7 @@ Important: 
 
       <p> 
 
-*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our [JAE Appeal page here](https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/) to find out more.<br>
+*   We can only accept appellants who meet the cut-off point (COP) and all appellants are to submit their application online via our college website. Head to our <a href="https://www.victoriajc.moe.edu.sg/admissions/joint-admissions-exercise/">JAE Appeal page here</a> to find out more.<br>
     
 *   Do note that all trials and auditions for appeals will only be conducted <u>**from 3 pm onwards**</u>. Students are only allowed to leave the Orientation programmes of the school they have been posted to after 2 pm to attend interviews, trials and auditions.<br>
     
