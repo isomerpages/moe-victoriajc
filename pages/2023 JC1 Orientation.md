@@ -62,3 +62,67 @@ We hope you are fired up for Orientation! The following are important details re
 </tbody>
 </table>
 
+<ul class="jekyllcodex_accordion">
+<li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Academic Matters</label>
+
+    <div>
+			<p> Please refer to [this link](https://go.gov.sg/vjc23acad) for information on the following<br>
+				1. Subject Briefing and Sample Lessons<br>
+2. Online registration for subject combination<br>
+3. Subject selection test </p>
+				</div>
+	</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Uniform Sales</label>
+
+    <div>
+
+      <p> </p>
+				</div>
+	</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Graphing Calculator Sales</label>
+
+    <div>
+
+      <p> </p>
+				</div>
+	</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">Appealing into VJC</label>
+
+    <div>
+
+      <p> </p>
+				</div>
+	</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">Appealing out of VJC</label>
+
+    <div>
+
+      <p> </p>
+				</div>
+	</li>
+	
+	
