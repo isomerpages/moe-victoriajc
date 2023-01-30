@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Page1.jpg
+      background: /images/Main banner 2023/JCO Homepage Hero Banner.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
@@ -20,6 +20,8 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
+      button: JC1 Orientation
+      url: /2023-jc1-orientation/
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
