@@ -3,7 +3,7 @@ title: 2023 JC1 Orientation
 permalink: /2023-jc1-orientation/
 description: ""
 ---
-![](/images/2023%20Images/JCO%20Page%20Banner.jpg)
+![](/images/2023%20Images/OH%20Bears%20banner.png)
 
 #### Hello Victorians!
 We hope you are fired up for Orientation! The following are important details regarding your first week in VJC.
