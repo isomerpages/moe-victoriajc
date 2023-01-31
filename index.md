@@ -20,7 +20,7 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
-        - title: JC Orientation
+        - title: JC1 Orientation
           description: Schedule
           url: /2023-jc1-orientation/
   - infopic:
