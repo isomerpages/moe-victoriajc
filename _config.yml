@@ -3,7 +3,7 @@ url: https://victoriajc.moe.edu.sg
 favicon: /images/VJCCrest.png
 colors:
   primary-color: "#a41212"
-  secondary-color: "#a41212"
+  secondary-color: "#a41312"
   media-colors:
     - title: media-color-one
       color: "#49759a"
