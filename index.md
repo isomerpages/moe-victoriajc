@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Banner.jpg
+      background: /images/Main banner 2023/Home Page3.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
