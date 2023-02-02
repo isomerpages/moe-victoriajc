@@ -19,7 +19,7 @@ The JAE Appeal Exercise is for students who have not been posted to Victoria JC 
 All applications will be considered based on merit and availability of vacancies. Do note that if you have been posted to a school via Direct School Admission (DSA), you are not eligible for this Exercise as DSA transfers are not allowed.
 
 Before you start your application, please note that:
-* All applicants must meet the net aggregate L1R5 cut-off point (COP) of the course for this year’s JAE.
+* All applicants must meet the net aggregate L1R5 cut-off point (COP) of the course for this year’s JAE. The COP for Science stream is 7 and Arts stream is 8.
 * It is the applicant’s responsibility to provide accurate and complete information in the online application.
 
 Start your JAE Appeal application [here](https://portal.vjc.edu.sg/0/appeal.html). 
