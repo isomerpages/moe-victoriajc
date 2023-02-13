@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Page3.jpg
+      background: /images/Main banner 2023/2022 A-Level Results.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
@@ -20,8 +20,8 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
-        - title: JC1 Orientation
-          description: Schedule
+        - title: 2022 A-Level Results
+          description: Updates
           url: /2023-jc1-orientation/
   - infopic:
       title: 9-Day Timetable
