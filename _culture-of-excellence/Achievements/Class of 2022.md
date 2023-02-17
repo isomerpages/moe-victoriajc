@@ -4,7 +4,7 @@ permalink: /about/culture-of-excellence/student-achievements/class-of-2022/
 description: ""
 third_nav_title: Achievements
 ---
-![](/images/2021-A-Level-Results-Montage.jpg)
+![](/images/2023%20Images/Class%20of%202022.jpg)
 
 Our Victorians sat for the 2022 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an excellent set of results.
 
