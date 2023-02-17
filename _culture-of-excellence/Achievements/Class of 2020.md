@@ -4,118 +4,101 @@ permalink: /about/culture-of-excellence/student-achievements/class-of-2020/
 description: ""
 third_nav_title: Achievements
 ---
-![](/images/2021-A-Level-Results-Montage.jpg)
 
-719 Victorians sat for the 2021 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an excellent set of results.
+![](/images/2021-RAR-WebbannerS.jpg)
 
-1 out of 2 students attained a University Admission Score of at least 85 Rank Points, which places them strongly for competitive courses in university.
+775 Victorians sat for the 2020 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results.
 
-2 out of 5 students achieved a distinction in all 4 of their Higher Two subjects.
+The cohort achieved an excellent Median University Admission Score (UAS) of 85.
 
-We congratulate students who attained outstanding results, with 130 students garnering at least 6 distinctions for their subjects.
+2 out of 5 students attained a University Admission Score of at least 87.5 Rank Points, which places them strongly for the most competitive courses in university.
 
-This cohort had sat for their Project Work examination in 2020, with about 9 in 10 achieving distinctions.
+117 students attained the highest possible UAS of 90.
 
-Congratulations to the Cohort of 2020! We are very proud of you and wish you the very best for your future endeavours.
+184 students attained at least 6 distinctions for their subjects.
 
-A big ‘Thank You’ goes out to our teachers, parents and partners for your dedicated support of our students’ efforts.
+4 out of 10 students attained a distinction in General Paper. This cohort had sat for their Project Work examination in 2019, with about 9 in 10 achieving distinctions.
 
-Nil Sine Labore!
+Congratulations to the Cohort of 2019! We are very proud of you and wish you the very best for your future endeavours. A big **‘Thank You’** goes out to our **teachers, parents and partners** for your dedicated support of our students’ efforts.
+
+_Nil Sine_ _Labore_!
 
 ### Outstanding Students
 
-_Aligned with our College vision of  **“Victoria is Something More"** ,we celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody our shared values of camaraderie, excellence with integrity and courage, conviction and compassion._
+_Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_ **_V_**_isionary_ _leadership and_ **_E_**_xtraordinary service”._
 
-<span style="font-size: 34px;"><strong>Gilda Ong Su Nin, 20A11<br>
-(Cedar Girls’ Secondary School)</strong></span>
+<span style="font-size: 34px;"><strong>Legendary Spirit (Sporting Excellence)<br>Mikail Sumono Ramli, 19S44<br>Deseree Khor You Li, 19S35
+</strong></span>
 
-<span style="font-size: 34px;"><strong>Kiran S/O Kasinathan, 20S61<br>(Anderson Secondary School)
+<img src="/images/Mikail-scaled.jpg" 
+     style="width:50%" align="left">
+
+
+<img src="/images/Deseree-scaled.jpg" 
+     style="width:50%" align="right">
+		 
+![](/images/name.png)
+
+Possessing natural athleticism, Deseree and Mikail were part of four different sports teams in VJC. Deseree was the Captain of the Girl’s Football team and a keen member of the Track and Field team. Mikail, on the other hand, dedicated himself to being the Captain of the Boys’ Floorball team and was also invited to join the boy’s football team.
+
+Apart from being Captain of the football team, Deseree was also a star striker. Scoring goals at the National School Games Football Championships A Division Girls in 2019, she led the team to clinch the coveted championship title. In 2019, she represented the College in the National School Games 60th Track and Field Championship Javelin ‘A’ Division Girls (Individual) and emerged champion.
+
+Passionate about floorball, Mikail persevered through rigorous training sessions and constantly strove to improve his play. The Floorball team was the first runner-up at the National School Games Floorball Championship A Division Boys 2019. Mikail was respected by his teammates not only for his athleticism and skills but most importantly, his work ethic and people-centric approach to leadership.
+
+Deseree and Mikail’s excellent sports skills and leadership have not only won accolades for the college, but also won the hearts of Victorians. They have demonstrated what determination and perseverance can achieve when put to good use!
+
+<span style="font-size: 34px;"><strong>Legendary Spirit (Performing Arts Excellence)<br>Keith Chua Siang Kiat, 19S48  <br>Aung Miri Yin-Toe, 19S33
 </strong></span>
 
 
-<img src="/images/Gilda-Kiran.png" 
-     style="width:75%">
+<img src="/images/Keith-scaled.jpg" 
+     style="width:50%" align="left">
+
+<img src="/images/Miri-scaled.jpg" 
+     style="width:50%" align="right">
+
+![](/images/name2.png)
+
+Keith and Miri are inspiring Victorians who excelled in their academics and CCAs. Both earned a spot as the Vice Chairperson of their respective CCAs, Dance for Keith and Choir for Miri, and admirably ensured their CCAs continued to thrive online in spite of the challenges brought by Covid19.
+
+On the academic front, Keith was a recipient of both the MOE Pre-University Scholarship and VJC Scholarship in Appreciation of Mrs Lee Phui Mun. Miri also performed well, being the JC1 Subject Prize recipient for H2 Literature in English and was awarded the Victoria Junior College Scholarship in 2020.
+
+Always on the lookout for opportunities to challenge himself, Keith became a member of the College Track and Field team, on top of his commitment to Dance. The team attained an overall third placing in the A Division Boys Championship. Similarly, Miri was active beyond Choir. Having an ardent wish to improve the lives of others, she volunteered every Friday through Tembusu Elderly Centre. Miri would visit elderly residents who lived alone, extending a warm hand of friendship to let them know they are cared for.
+
+Keith and Miri have exemplified the importance of team spirit and community spirit,inspiring others to likewise serve and care for others.
+
+
+<span style="font-size: 34px;"><strong>Visionary Leadership<br>Arunmozhi Varman Shanmugaram, 19S46<br>Cheok May Anne, 19A11<br>Ng Jin Han, Ashton, 19S35
+</strong></span>
+
+![](/images/image1.png)
+
+As visionary leaders who made significant contributions during their time in the 36th Students’ Council, Shanmugaram, May Anne and Ashton worked resiliently towards their personal goals and also empowered their fellow councillors to lead with passion and conviction. In their term of office, they adapted to rapidly changing circumstances with poise and composure, especially in light of the COVID-19 situation.
+
+In recognition of his leadership qualities, Shanmugaram was presented with the Singapore Armed Forces Young Leader Award. His empathy and care for others was also seen in his regular voluntary work. He was committed to community service beyond the school, apart from leading and serving in the Students’ Council.
+
+A recipient of the Humanities Scholarship, May Anne similarly saw the need to empower people around her. Together with fellow Victorians, she set up Access Victoria, a peer-to-peer platform, providing academic and moral support to schoolmates at the height of the circuit breaker.
+
+Heading the Orientation Group Leaders (OGLs) during the 2020 Orientation, Ashton was undaunted by the daily changes made to the programme’s schedule necessitated by growing concerns over Covid19. A quick thinker, he proposed innovative ideas to accommodate the increasingly strict safety measures, while still ensuring his newly-minted juniors would have a memorable Orientation experience.
+
+As exemplary leaders, Shanmugaram, May Anne and Ashton have left a legacy in VJC. Their passion for life and care for the community challenges others to step out and lead from the heart.
+
+
+<span style="font-size: 34px;"><strong>Extraordinary Service<br>Charmaine Sew Fan Ning, 19A11<br>Heather Tan Yung Yu, 19A11
+</strong></span>
+
+<img src="/images/Charmaine-scaled.jpg" 
+     style="width:50%" align="left">
+
+<img src="/images/Heather-scaled.jpg" 
+     style="width:50%" align="right">
 		 
-Gilda and Kiran took on their leadership roles as members of the 38th Students’ Council during a time of myriad challenges posed by the COVID-19 situation. Despite this, they fulfilled their duties with resilience during their term of office. They met every difficulty with fervour, simultaneously inspiring their peers to do the same.
+![](/images/name4.png)
 
-As Vice-President of the Students’ Council, Gilda was keenly aware of the need to keep morale high and keep the school spirit alive. Together with her team of councillors, they racked their brains to plan engaging events for the student body. It was during this process that she established her trademark leadership style – one focused on empowering them and inspiring them to serve from the heart. Despite the recurring setbacks that the pandemic posed, Gilda was always grateful for the support from her peers and teachers which kept her going.
+As recipients of the MOE Humanities Scholarship, Charmaine and Heather had many opportunities to critically evaluate social issues and government policies, both in and out of the classroom. However, merely talking about problems did not help solve them. Both wanted to go out into the real world to interact with people, in order to better understand their predicaments and needs.
 
-Kiran served on the Students’ Council’s Executive Committee as General Secretary. He too strove to help Victorians gain meaningful experiences during their time in the school, believing in the importance of a cohesive and participative student body. Kiran harbours an abiding appreciation for the almost familial support network existing in the school. He has fond memories of this togetherness and how it allowed his cohort to experience the shared Victorian spirit even when the pandemic forced them to be physically apart.
+Although Charmaine had heavy responsibilities as Chairperson of ODAC and as a member of both the Cross Country and Track & Field teams, she found time to embark on many VIA projects which sensitised her to the problems faced by a wide range of beneficiaries. For her academic excellence and her outstanding co-curricular achievements, Charmaine was awarded the VJC Scholarship in 2020.
 
-Both Gilda and Kiran shared the belief that VJC is more than the sum of its parts. They were unstinting in their mentorship of their juniors during CLiC (Connecting Leaders in Camp), in hopes of supporting the next generation of student leaders.
+As a Home Group Leader in Interact Club, Heather had regular commitments to an eldercare services organisation. Yet, as she wanted to do more for the community, she became a frequent volunteer with several non-profit and grassroots organisations. Heather was awarded the Victoria Pioneer Award 2020, in recognition of her enterprising mind, innovative spirit and courage for a worthy cause.
 
-In the course of their dedicated service to the College, they wholeheartedly supported others in their endeavours, and have inspired succeeding batches of student-leaders. For their dedication in serving the college and community, they have both been recently awarded the Goh Chok Tong NextGen Outstanding Leader Award. Indeed, they have shown why Victoria is truly something more.
-
-*****
-
-<span style="font-size: 34px;"><strong>Lukas Ho, 20S47<br>
-(Victoria School)</strong></span>
-
-<img src="/images/Lukas.png" 
-     style="width:75%">
-
-With a keen eye for detail and passion for cinematography, Lukas produced videos that his schoolmates found inspiring. Leading his peers in StudioV, Lukas worked tirelessly to capture the vibrant highlights of College life, such as the Singapore Youth Festival Arts Presentation performances and Open House publicity videos. Lukas also led the production of Virtuosity, a virtual concert stitched together to showcase performances of all the performing arts groups.
-
-As Chairperson of StudioV, Lukas took it upon himself to help and galvanised his peers, as he truly believed much more could be achieved as a team. He led by example by arriving early for shoots to ensure filming started on time, and was always the last person to leave. Lukas was not just an aspiring videographer, he dared to push his boundaries. He started his own media company while juggling his studies and transferred the skills he learnt to help uplift his CCA.
-
-Driven by an innate desire to empower others, Lukas initiated Project UNITE, a campaign to allow Victorians to show their appreciation and respect for COVID-19 frontline workers. Lukas also joined the Singapore Civil Defence Force Community First Responder Programme, as he wanted to be a part of a community that responds to fire outbreaks and cardiac arrest cases, further showcasing his inherent motivation to help others in the community.
-
-Lukas demonstrated tremendous grit and determination in balancing his academics, CCA and his media company, while also looking for opportunities to serve the community.
-
-*****
-
-<span style="font-size: 34px;"><strong>Ayesha Faizal Ashral, 20A14<br>
-(Tanjong Katong Girls’ School)</strong></span>
-
-<img src="/images/Ayesha.png" 
-     style="width:75%">
-		 
-In 2019, Ayesha sat for the O-Level examinations for the second time. Trepidation turned to joy when she received a stellar set of results which got her into Victoria Junior College. Her achievement was testament to her resilience and hard work, and sweet reward for her supportive family.
-
-Ayesha had a finger on the pulse of College life as the Chairperson of the Harmonica Band. During the weeks leading up to their performance at the 2021 Singapore Youth Festival Arts Presentation, she rallied her team together and inspired them to give a performance that they could all be proud of. In addition, she led her class in activities, such as Chinese New Year celebrations and Victorian Affair. Ayesha was thus selected to be a facilitator at CLiC (Connecting Leaders in Camp), to share her leadership experiences and insights with her juniors.
-
-A strong-minded individual with a warm heart, Ayesha contributed to the community. Along with her classmates, she participated in the National Youth Upcycling Movement in 2020. She also participated in the Chinese New Year Food Drive in 2021.  
-Ayesha was truly a leader whom her peers looked to for direction and leadership.
-
-*** 
-
-<span style="font-size: 34px;"><strong>Amsyar bin Rohaizan, 20S52<br>
-(Ngee Ann Secondary School)</strong></span>
-
-<span style="font-size: 34px;"><strong>Aw Shuo Jie, 20S51<br>
-(Victoria School)</strong></span>
-
-<img src="/images/Amsyar-Shuo-Jie.png" 
-     style="width:75%">
-		 
-As sports captains, Amsyar and Shuo Jie led their respective teams with purpose and conviction.
-
-Amsyar was the gregarious and charismatic Captain of the Basketball Boys’ Team and played an integral role in building team camaraderie. Though the pandemic deprived them of competition opportunities, he was determined to maintain the rigour of training, so as to improve on the team’s technique, tactics and dynamics. In addition, Amsyar was the Chairperson of the Malay Cultural Society (MCS), whose 50-strong members devoted themselves to promoting appreciation for Malay Culture. Under his helmsmanship, MCS taught the Victorian community more about the Jawi script, silat, traditional Malay dance and music, thus facilitating cross-cultural awareness. An MCS values-in-action project also saw Amsyar and his team using ingenious methods, such as Minecraft and wayang kulit, to tell stories to the beneficiaries of Jamiyah Children’s Home, bringing joy in the midst of the pandemic.
-
-Shuo Jie was the dedicated Captain of the Volleyball Boys’ Team and always placed the needs of others before himself. Although he sustained an injury that prevented him from playing in the 2021 National School Games, he maintained a cheerful disposition, was present for trainings and motivated his teammates throughout the competition season. As Captain, Shuo Jie adopted an inclusive approach to leadership, ensuring the team was well-bonded regardless of seniority and experience. He leveraged on each player’s individual strengths to create greater synergy within the team during their matches. His leadership was seen on and off court, as he was always a reliable captain and friend. Shuo Jie's compassionate nature was also evident in his involvement in the College’s Pets and Animal Welfare Society, primarily in raising awareness of animal welfare to the student population.
-
-While the pandemic placed many constraints on our student athletes, Amsyar and Shuo Jie demonstrated the grit and endurance of the finest sportsmen.
-
-***
-
-<span style="font-size: 34px;"><strong>Tian Jiarui, 20S44<br>
-(Anglican High School)</strong></span>
-
-<span style="font-size: 34px;"><strong>Mok Siew Yen Kayleigh, 20A14<br>
-(Tanjong Katong Girls’ School)</strong></span>
-
-<span style="font-size: 34px;"><strong>Lim Lyn-Zhou, 20S61<br>
-(Victoria School)</strong></span>
-
-<img src="/images/Jiarui-Lyn-Zhou-Kayleigh.png" 
-     style="width:75%">
-
-As the Ad-Hoc heads for VJC’s e-Open House in 2021, both Kayleigh and Lyn-Zhou had the mammoth task of producing an Open House that was very different from the past, in that it had to go online. However, far beyond simply organising a virtual school tour, the duo led their team to design a virtual experience that was truly “Something More” – an innovative, interactive and “ridiculously detailed” replica of the school campus on Minecraft, which even caught the attention of local news outlets.
-
-e-Open House was also made possible by VJC FACEs, such as House Captain Tian Jiarui. His candid sharing about his experiences added a personal touch to a socially-distanced virtual affair. Jiarui was also a key member of the VJC’s badminton team, whose technical skills impressed and whose positive vibes helped keep their spirits high.
-
-A well-respected member of the Student’s Council, Kayleigh worked with her fellow councillors on countless other school-wide initiatives beyond her Open House exploits, such as Orientation, MusicFest and the Seniors’ Farewell Assembly. While excelling academically in the prestigious MOE Humanities Scholarship Programme, Kayleigh never shied away from doing more for her community too, participating in projects like the 2020 National Youth Upcycling Movement to turn used products into new everyday items.
-
-Lyn-Zhou shouldered heavy responsibilities as Chief Photographer in the Photography Society, and as a member of both the Malay Cultural Society and Student Council’s Welfare Committee. In addition to serving the student body, Lyn-Zhou also carved out time to embark on numerous VIA projects, which allowed him to apply his learning to help address the needs of the real world. For his academic excellence and outstanding co-curricular achievements, Lyn-Zhou was awarded the VJC Scholarship in 2021.
-
-Going above and beyond, and putting others before themselves, Kayleigh, Lyn-Zhou and Jiarui have truly served with their heads, hearts and hands.
+Charmaine and Heather have served with their heads, hearts and hands for the good of others. They have transformed lives and inspired others to do likewise.
