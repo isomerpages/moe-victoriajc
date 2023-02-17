@@ -22,7 +22,7 @@ sections:
           url: /upcoming-events/
         - title: 2022 A-Level Results
           description: Updates
-          url: /2022-A-Level-Results/
+          url: /about/culture-of-excellence/student-achievements/class-of-2022/
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
