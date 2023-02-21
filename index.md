@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/2022 A-Level Results.jpg
+      background: /images/Main banner 2023/2023 A-Level Results Day 90RP.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media

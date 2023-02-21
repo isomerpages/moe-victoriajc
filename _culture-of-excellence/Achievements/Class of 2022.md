@@ -22,4 +22,4 @@ A big ‘Thank You’ goes out to our teachers, parents and partners for your de
 
 Nil Sine Labore!
 
-For more updates please visit our social media handles @victoriajc_official on instagram and facebook!
+For more updates please visit our social media handles @victoriajc_official on [Instagram](https://www.instagram.com/victoriajc_official/) and [Facebook](https://www.facebook.com/victoriajuniorcollege/)!
