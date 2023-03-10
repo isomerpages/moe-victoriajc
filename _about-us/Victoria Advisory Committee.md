@@ -11,22 +11,22 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 				<th colspan="2" style="color:red;text-align:center"><h2>Chairman</h2><img src="/images/VAC%202023/Dr%20Sim%20Hong%20Gee.jpg" style="width:250px"><br>Dr Sim Hong Gee
 				</th>
 			</tr>
-		</br>
+		<br>
 			<tr>
 				<th colspan="2" style="color:red;text-align:center"><br><h2>Vice-Chairman</h2><br><img src="/images/VAC%202023/Mr%20Loh%20Wai%20Keong.jpg" style="width:250px"><br>Mr Loh Wai Keong
 				</th>
 			</tr>
-		</br>
+		<br>
 			<tr>
 				<th colspan="2" style="color:red;text-align:center"><br><h3>Treasurer</h3><br><img src="/images/VAC%202023/Mr%20Tan%20Choon%20Seng.jpg" style="width:250px"><br>Mr Tan Choon Seng
 				</th>
 			</tr>
-		</br>
+		<br>
 			<tr>
 				<th colspan="2" style="color:red;text-align:center"><br><h3>Member</h3>
 				</th>
 			</tr>
-		</br>
+		<br>
 			<tr>
 				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg" style="width:250px"><br>Mr Phua Tien Beng
 				</th>
@@ -49,13 +49,13 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 				<th colspan="1" style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg" style="width:250px"><br>Mr Tang Shiuh Huei
 				</th>
 			</tr>
-		</br>
+		<br>
 			<tr>
 				<th colspan="2" style="color:red;text-align:center">
 					<br><h3>Secretary (Principal/VS)</h3><br><img src="/images/VAC%202023/Mr%20Chow%20Weisi.jpg" style="width:250px"><br>Mr Chow Weisi
 					</th>
 				</tr>
-		</br>
+		<br>
 			<tr>
 				<th colspan="2" style="color:red;text-align:center">
 					<br>
