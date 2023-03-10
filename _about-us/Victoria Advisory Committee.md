@@ -7,12 +7,9 @@ description: ""
 The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support the College’s programmes and activities. The committee also sponsors awards to recognise the accomplishments and contributions of outstanding students.
 
 <table border="0">
-	<thead>
-  <th colspan ="2" style="color:red; text-align:center"><h2>Chairman</h2></th>
-</thead>
 <tbody>
 	<tr>
-		<th colspan="2" style="color:red;text-align:center"><img src="/images/VAC%202023/Dr%20Sim%20Hong%20Gee.jpg" style="width:250px"><br>Dr Sim Hong Gee</th>
+		<th colspan="2" style="color:red;text-align:center"><h2>Chairman</h2><img src="/images/VAC%202023/Dr%20Sim%20Hong%20Gee.jpg" style="width:250px"><br>Dr Sim Hong Gee</th>
 		</tr>
 <br>
 	<tr>
