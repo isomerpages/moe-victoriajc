@@ -40,6 +40,14 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 | Mr Lim Han Feng   | Mr Lim Siang Chin     | 
 
 
+| ![](/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg)| ![](/images/VAC%202023/Mr%20Kelvin%20Wong.jpg)|
+| - | - | 
+| Mr Phua Tien Beng    |  Mr Kelvin Wong   | 
+
+|![](/images/VAC%202023/Mr%20Tan%20Pei-San.jpg) | ![](/images/VAC%202023/Miss%20Gwenda%20Fong.jpg) |
+| - |  - | 
+| Mr Tan Pei-San   | Miss Gwenda Fong    | 
+
 
 <img src="/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg" 
      style="width:40%">
