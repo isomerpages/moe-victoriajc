@@ -50,6 +50,23 @@ Please note the following:
 
 ### Performing Arts
 
+
+
+### Sports
+
+
+### Niche Academic Programmes
+
+<ul class="jekyllcodex_accordion">
+<li>
+
+<input type="checkbox" id="accordion1">
+
+<label for="accordion1">Performing Arts</label>
+
+<div>
+<p>
+
 Selection will be based on a basket of criteria for the respective talent area.
 
 Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact applicants to confirm the date and time allocated.
@@ -371,9 +388,21 @@ Auditions will take place in Victoria Junior College. Note the dates and times f
   &quot;Arial&quot;,sans-serif;color:#222222;background:white">| &nbsp;62402138</span></p><p style="margin-top:0in;margin-right:11.85pt;margin-bottom:
   0in;margin-left:11.5pt;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   color:#222222;background:white">&nbsp;</span></p></td></tr></tbody></table>
+</p>
+</div>
 
-### Sports
+</li>
 
+
+<li>
+
+<input type="checkbox" id="accordion2">
+
+<label for="accordion2">Sports</label>
+
+<div>
+
+<p>
 Selection will be considered on a basket of criteria for the respective talent area.
 
 Physical trials will be conducted at Victoria Junior College. No trials will be conducted for applicants to Cross-Country, Track &amp; Field and Wushu (see details below).
@@ -1273,10 +1302,21 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   mso-fareast-font-family:Arial;color:black">&nbsp;</span><b style="mso-bidi-font-weight:
   normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:#222222;background:white;mso-highlight:white"></span></b></p></td></tr></tbody></table>
+</p>
 
+</div>
 
-### Niche Academic Programmes
+</li>
 
+<li>
+
+<input type="checkbox" id="accordion3">
+
+<label for="accordion3">Niche Academic Programmes</label>
+
+<div>
+
+<p>
 Physical interviews will be conducted in Victoria Junior College. Students applying for Niche Academic Programmes are required to produce an additional personal statement/essay, which can be uploaded as a PDF as an additional supporting document. Details on these personal statements/essays can be found in the descriptions below.
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="711" style="width:533.45pt;mso-cellspacing:0in;margin-left:.75pt;background:white;
@@ -1773,3 +1813,9 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   EN-GB">lim.cherchuan@vjc.edu.sg</span></a></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">64485011</span></p></td></tr></tbody></table>
+</p>
+
+</div>
+
+</li>
+</ul>
