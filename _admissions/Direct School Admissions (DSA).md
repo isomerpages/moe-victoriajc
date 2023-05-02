@@ -34,7 +34,7 @@ The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. To
 *   Netball
 *   Table Tennis
 *   Tennis (Boys)
-*   Track & Field
+*   Track &amp; Field
 *   Volleyball
 *   Wushu
 
@@ -45,6 +45,8 @@ The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. To
 *   Humanities Programme
 *   Infocomm Technology (Computing)
 *   Science Research
+
+<img src="/images/2023%20Images/dsa%20pub%202.jpg" style="width:50%">
 
 ![](/images/2023%20Images/dsa%20pub%202.jpg)
 
