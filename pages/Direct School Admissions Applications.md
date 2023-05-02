@@ -1749,11 +1749,11 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
   0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Format:</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-27.5pt;line-height:normal;mso-list:l6 level1 lfo4"><a name="_Hlk102486222"><span lang="EN-GB" style="font-family:
+  0in;margin-left:.5in;text-indent:-27.5pt;line-height:normal;mso-list:l6 level1 lfo4"><span lang="EN-GB" style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black;mso-themecolor:
   text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Applicant must submit a personal statement (maximum 500 words) detailing his/her involvement in in STEM/research activities with relevant supporting documents.</span></a></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
+  mso-ansi-language:EN-GB">Applicant must submit a personal statement (maximum 500 words) detailing his/her involvement in in STEM/research activities with relevant supporting documents.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
   0in;margin-left:8.5pt;line-height:normal"><span style="mso-bookmark:_Hlk102486222"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
   0in;margin-left:.5in;line-height:normal"><span style="mso-bookmark:_Hlk102486222"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
