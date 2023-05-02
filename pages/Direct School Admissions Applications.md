@@ -41,7 +41,8 @@ For enquiries relating to:
 Please note the following:
 <table style="width:526.25pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="702" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext" width="710" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
+	<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
   height:57.15pt"><td style="width:526.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
   height:57.15pt" valign="bottom" width="702"><p class="MsoNormal"><i><span style="font-family:&quot;Arial&quot;,sans-serif">Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</span></i></p></td></tr></tbody></table>
