@@ -10,9 +10,9 @@ Welcome to the application page for the 2023 DSA-JC exercise, for admission in y
 
 If you are applying to Victoria Junior College through DSA-JC, please:
 
-1.  complete and submit the&nbsp;[online DSA application form](http://portal.vjc.edu.sg/dsa), with supporting documents as pdf or photo attachments  
+1.  Complete and submit the&nbsp;[online DSA application form](http://portal.vjc.edu.sg/dsa), with supporting documents as pdf or photo attachments  
     
-2.  take note of the&nbsp;**key information**&nbsp;for your chosen talent area, such as selection process, criteria and dates.
+2.  Take note of the&nbsp;**key information**&nbsp;for your chosen talent area, such as selection process, criteria and dates.
 
 The set of supporting documents comprises the following:
 
