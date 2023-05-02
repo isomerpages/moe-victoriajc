@@ -1804,8 +1804,6 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">64485011</span></p></td></tr></tbody></table>
 </p>
-
 </div>
-
 </li>
 </ul>
