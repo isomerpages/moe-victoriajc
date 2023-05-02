@@ -52,4 +52,4 @@ The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. To
 
 ![](/images/2023%20Images/dsa%20pub%205.jpg)
 
-![](/images/2023%20Images/dsa%20pub%205.jpg)
+![](/images/2023%20Images/dsa%20pub%204.jpg)
