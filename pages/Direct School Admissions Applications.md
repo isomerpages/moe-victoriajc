@@ -487,7 +487,7 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:black">Basketball (Girls only)</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;background:yellow;mso-highlight:yellow">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  color:black;">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
@@ -883,8 +883,7 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;background:yellow;mso-highlight:
-  yellow">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
+  mso-fareast-font-family:Arial;color:black;">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
@@ -1171,8 +1170,7 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   background:white;padding:0in 5.4pt 0in 5.4pt;height:3.8pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Volleyball</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;background:yellow;mso-highlight:
-  yellow">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
+  mso-fareast-font-family:Arial;color:black;">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt;
