@@ -38,7 +38,6 @@ The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. To
 *   Volleyball
 *   Wushu
 
-![](/images/2023%20Images/dsa%20pub%207.jpg)
 ### Niche Academic Programmes
 
 *   Drama Elective Programme (DEP)
