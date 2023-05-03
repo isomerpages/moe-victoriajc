@@ -3,7 +3,7 @@ title: Direct School Admissions (DSA)
 permalink: /admissions/direct-school-admissions/
 description: ""
 ---
-![](/images/2023%20Images/2023%20dsa%20photo%20website.jpg)
+![](/images/Sub%20Page%20Banners%202023/2023%20dsa.jpg)
 ### DSA-JC Admission
 
 
