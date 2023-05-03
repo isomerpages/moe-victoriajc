@@ -29,7 +29,7 @@ sections:
       description: Be Something More
       button: Apply now
       url: /admissions/direct-school-admissions/
-      image: /images/2023 Images/2023 dsa website banner.jpg
+      image: /images/Sub Page Banners 2023/2023 dsa2.jpg
       alt: DSA Application
   - infopic:
       title: 9-Day Timetable
