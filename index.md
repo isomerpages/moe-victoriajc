@@ -24,6 +24,14 @@ sections:
           description: Updates
           url: /about/culture-of-excellence/student-achievements/class-of-2022/
   - infopic:
+      title: 2023 DSA
+      subtitle: Application is OPEN
+      description: Be Something More
+      button: Apply now
+      url: /admissions/direct-school-admissions/
+      image: /images/2023 Images/2023 dsa website banner.jpg
+      alt: DSA Application
+  - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
       alt: Late Start Banner
