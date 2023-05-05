@@ -12,6 +12,8 @@ We offer Direct School Admission (DSA) to VJC in a number of talent areas. If yo
 The Virtual DSA Outreach Session is an opportunity to interact with our teachers and students, find out about life in VJC and requirements for the talent area you are interested in.
 
 The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. To learn more about our DSA application processes and our selection criteria, please refer to [this link](/admissions/direct-school-admissions/direct-school-admissions-applications).
+![](/images/dsa%20instagram%20feature2.jpg)
+Get to know our DSA students and their #whyvj on [instagram](https://www.instagram.com/p/Crw2NMDJsbq/?utm_source=ig_web_copy_link)!
 
 ### Performing Arts
 

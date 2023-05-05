@@ -31,9 +31,9 @@ third_nav_title: Our People
 |Cohort Head / Head of Information and Communication Technology	|Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)|
 |Cohort Head	|Ms Yang Chunxiu<br>[yang.chunxiu@vjc.edu.sg](mailto:yang.chunxiu@vjc.edu.sg)|
 |Head of Student Development|	Mr Seet Kok Wah<br>[seet.kokwah@vjc.edu.sg](mailto:seet.kokwah@vjc.edu.sg)|
-|Head of Talent Development & Education and Career Guidance|	Mr Ivan Toh<br>[ivan.toh.chun.siong@vjc.edu.sg](mailto:ivan.toh.chun.siong@vjc.edu.sg)|
+|Head of Talent Development &amp; Education and Career Guidance|	Mr Ivan Toh<br>[ivan.toh.chun.siong@vjc.edu.sg](mailto:ivan.toh.chun.siong@vjc.edu.sg)|
 |Subject Head Active Citizenry|	Ms Jaclyn Ng<br>[ng.yenyen.jaclyn@vjc.edu.sg](mailto:ng.yenyen.jaclyn@vjc.edu.sg)|
-|Subject Head Character & Citizenship Education|	Ms Michelle Goh<br>[michelle.goh@vjc.edu.sg](mailto:michelle.goh@vjc.edu.sg)|
+|Subject Head Character &amp; Citizenship Education|	Ms Michelle Goh<br>[michelle.goh@vjc.edu.sg](mailto:michelle.goh@vjc.edu.sg)|
 |Subject Head Education and Career Guidance|	Ms Valerie Tan Jiahui<br>[tan.jiahui.valerie@vjc.edu.sg](mailto:tan.jiahui.valerie@vjc.edu.sg)|
 |Subject Head Student Development|	Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg)|
 |Subject Head Student Leadership|	Mr Lim Yong Chang Leroi<br>[lim.yong.chang.leroi@vjc.edu.sg](mailto:lim.yong.chang.leroi@vjc.edu.sg)|
@@ -87,13 +87,13 @@ third_nav_title: Our People
 | Head of Mother Tongue Languages|	Ms Ho Kar Hui<br>[ho.kar.hui@vjc.edu.sg](mailto:ho.kar.hui@vjc.edu.sg)|
 |Subject Head Mother Tongue Languages| Mr Ng Kok Hwa<br>[ng.kok.hwa@vjc.edu.sg](mailto:ng.kok.hwa@vjc.edu.sg)|
 
-#### Physical Department & CCA
+#### Physical Education Department &amp; CCA
 
 
 
 |  |  |
 | -------- | -------- |
-| Head of Physical Education & CCA|	Mr Tan Yew Hwee<br>[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)|
+| Head of Physical Education &amp; CCA|	Mr Tan Yew Hwee<br>[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)|
 |Subject Head CCA|	Mr Lim Peng Yeow<br>[lim.pengyeow@vjc.edu.sg](mailto:lim.pengyeow@vjc.edu.sg)|
 |Subject Head Aesthetics|	Ms Ding Yih<br>[ding.yih@vjc.edu.sg](mailto:ding.yih@vjc.edu.sg)|
 
