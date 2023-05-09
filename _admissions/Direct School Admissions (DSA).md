@@ -7,7 +7,7 @@ description: ""
 ### DSA-JC Admission
 
 
-We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! Join us for a Virtual DSA Outreach Session on 19 May (Friday), 3.30pm - 5pm. Sign up [here](https://forms.gle/KHnBcrC196mZRiFBA)!
+We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! Join us for a Virtual DSA Outreach Session on 19 May (Friday), 3.30pm - 5pm. Register [here](https://forms.gle/KHnBcrC196mZRiFBA)! Registration will close on Friday, 12 May.
 
 The Virtual DSA Outreach Session is an opportunity to interact with our teachers and students, find out about life in VJC and requirements for the talent area you are interested in.
 
