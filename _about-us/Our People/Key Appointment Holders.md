@@ -37,7 +37,6 @@ third_nav_title: Our People
 |Subject Head Education and Career Guidance|	Ms Valerie Tan Jiahui<br>[tan.jiahui.valerie@vjc.edu.sg](mailto:tan.jiahui.valerie@vjc.edu.sg)|
 |Subject Head Student Development|	Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg)|
 |Subject Head Student Leadership|	Mr Lim Yong Chang Leroi<br>[lim.yong.chang.leroi@vjc.edu.sg](mailto:lim.yong.chang.leroi@vjc.edu.sg)|
-|Subject Head Student Well-Being|	Ms Ong Li Bing<br>[ong.li.bing@vjc.edu.sg](mailto:ong.li.bing@vjc.edu.sg)|
 |Subject Head Information and Communication Technology|	Mr Ridzwan Bin Suri<br>[ridzwan.suri@vjc.edu.sg](mailto:ridzwan.suri@vjc.edu.sg)|
 |Subject Head Partnerships|	Ms Fatma Osman<br>[fatma.osman@vjc.edu.sg](mailto:fatma.osman@vjc.edu.sg)|
 
@@ -110,8 +109,7 @@ third_nav_title: Our People
 
 |  |  | 
 | -------- | -------- |
-| Head of Science| Ms Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)|
-|Head of Science| Mrs Toh Chin Ling<br>[leong.chinling@vjc.edu.sg](mailto:leong.chinling@vjc.edu.sg)|
+|Head of Science| Ms Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)|
 |Subject Head Biology|	Mr Heman Kwok Ho Man<br>[kwok.ho.man.heman@vjc.edu.sg](mailto:kwok.ho.man.heman@vjc.edu.sg)|
 |Subject Head Physics|	Mr Lee Keng Hua<br>[lee.kenghua@vjc.edu.sg](mailto:lee.kenghua@vjc.edu.sg)|
 |Subject Head Science Research	|Dr Wu Jiang<br>[wu.jiang@vjc.edu.sg](mailto:wu.jiang@vjc.edu.sg)|
