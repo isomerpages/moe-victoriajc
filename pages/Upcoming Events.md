@@ -11,7 +11,7 @@ description: ""
 | 4 July 2023 | MTL and MTL B Listening Comprehension|
 | 5 July 2023 | MTL B Oral |
 | 6 - 14 July 2023 | MTL Oral |
-| 7-8 July 2023 | CLIC (Connecting Leaders in Camp |
+| 7-8 July 2023 | CLIC (Connecting Leaders in Camp) |
 | 10 - 14 July 2023 | Theatre Studies & Drama A-Level Practical|
 | 10 - 14 July 2023 | Vcare (Mental Wellness Awareness Week) |
 | 21 July 2023 | Racial Harmony Day Commemoration |
