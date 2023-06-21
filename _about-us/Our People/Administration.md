@@ -4,8 +4,7 @@ permalink: /about/our-staff/administration/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/Administration-banner-2-1-latest-1024x365.jpg)
-
+![](/images/eas%20photo2022_2.jpg)
 #### Administration
 
 
