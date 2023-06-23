@@ -36,7 +36,7 @@ links:
   - title: Contact Us
     url: /contact-us
   - title: Announcements
-    url: school-administration
+    url: /school-administration
     sublinks:
       - title: School Canteen Advertisement
         url: /canteen/
