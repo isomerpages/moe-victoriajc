@@ -56,6 +56,7 @@ third_nav_title: Our People
 | Head of Economics	|Ms Yip Oei Lin Anne<br>[yip.oeilin.anne@vjc.edu.sg](mailto:yip.oeilin.anne@vjc.edu.sg)|
 |Level Head (JC1)	|Ms Ang Hui Ling Mabel<br>[ang.hui.ling.mabel@vjc.edu.sg](mailto:ang.hui.ling.mabel@vjc.edu.sg)|
 |Level Head (JC2)	|Ms Chong Cui Ying<br>[chong.cuiying@vjc.edu.sg](mailto:chong.cuiying@vjc.edu.sg)|
+|Senior Teacher	|Ms Frances Lee<br>[lee.dunlin@vjc.edu.sg](mailto:lee.dunlin@vjc.edu.sg)|
 
 #### English Department
 
@@ -76,6 +77,8 @@ third_nav_title: Our People
 | Head of Mathematics|	Mrs Ang Chiou Lian<br>[tong.chioulian@vjc.edu.sg](mailto:tong.chioulian@vjc.edu.sg)|
 |Level Head (JC1)|	Mrs Loh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
 |Level Head (JC2)|	Mrs Jean Chong<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)|
+|Senior Teacher Mathematics|	Mrs Loh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
+|Senior Teacher Mathematics|	Ms Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
 
 
 #### Mother Tongue Department
@@ -111,6 +114,7 @@ third_nav_title: Our People
 | -------- | -------- |
 |Head of Science| Ms Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)|
 |Subject Head Biology|	Mr Heman Kwok Ho Man<br>[kwok.ho.man.heman@vjc.edu.sg](mailto:kwok.ho.man.heman@vjc.edu.sg)|
+|Subject Head Chemistry|	Ms Ng Shu Von<br>[ng.shuvon@vjc.edu.sg](mailto:ng.shuvon@vjc.edu.sg)|
 |Subject Head Physics|	Mr Lee Keng Hua<br>[lee.kenghua@vjc.edu.sg](mailto:lee.kenghua@vjc.edu.sg)|
 |Subject Head Science Research	|Dr Wu Jiang<br>[wu.jiang@vjc.edu.sg](mailto:wu.jiang@vjc.edu.sg)|
 |Senior Teacher Chemistry|	Mr Lim Cher Chuan Edwin<br>[lim.cherchuan@vjc.edu.sg](mailto:lim.cherchuan@vjc.edu.sg)|
