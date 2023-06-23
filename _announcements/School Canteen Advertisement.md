@@ -7,15 +7,13 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chicken Rice     | 31 May 2023     | Mixed rice is acceptable.    |
-| Malay Food Stall | 30 Jun 2023 | Rice or noodle stalls are acceptable.|
-| Western Food Stall | 15 Jul 2023 | NIL|
-| Japanese Stall (halal/non-halal) and Western Food Stall (halal/non-halal) | 20 Jul 2023 | Schools may include any other requirements for stall applicants, if required, or this column may also be removed if desired.| 
+| Non Halal Food Stall     | 7 July 2023     | Mediterranean / Indian / Vegetarian/ Thai/ Vietnamese    |
+
 
 #### Application Procedure
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form] 
+[Canteen Application Form](/files/canteen%20application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -24,14 +22,14 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
-* Address: xxxx S737777
-* Contact No: 6666 4444
-* Email: abc_ps@moe.edu.sg
-* Contact Person: Mdm Sally Tan  
+* Address: 20 Marine Vista, Singapore 449035
+* Contact No: 6448 5011
+* Email: teo_hung_meng@schools.gov.sg / KOH_Seow_Chin@schools.gov.sg
+* Contact Person: Mr Teo Hung Meng/ Mdm Koh Seow Chin  
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Kembangan, Eunos
+* Bus number: 13, 16, 31, 36, 43, 47, 48, 55, 196, 197
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
