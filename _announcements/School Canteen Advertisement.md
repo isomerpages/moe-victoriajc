@@ -26,7 +26,7 @@ description: ""
 * Address: 20 Marine Vista, Singapore 449035
 * Contact No: 6448 5011
 * Email: teo_hung_meng@schools.gov.sg / KOH_Seow_Chin@schools.gov.sg
-* Contact Person: Mr Teo Hung Meng/ Mdm Koh Seow Chin  
+* Contact Person: Mr Teo Hung Meng / Mdm Koh Seow Chin  
 
 **How to get there?**
 * Nearest MRT: Kembangan, Eunos
