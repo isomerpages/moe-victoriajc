@@ -6,6 +6,8 @@ description: ""
 ![](/images/Sub%20Page%20Banners%202023/2023%20dsa2.jpg)
 ### DSA-JC Application Process
 
+#### The 2023 DSA-JC exercise for admission in year 2024 has ended. All the best to all applicants and we hope to see you soon!
+
 Welcome to the application page for the 2023 DSA-JC exercise, for admission in year 2024.
 
 If you are applying to Victoria Junior College through DSA-JC, please:
