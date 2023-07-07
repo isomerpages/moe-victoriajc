@@ -7,8 +7,9 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Non Halal Food Stall     | 7 July 2023     | Mediterranean / Indian / Vegetarian/ Thai/ Vietnamese    |
+| Non Halal Food Stall     | 31 July 2023     | Mediterranean / Indian / Vegetarian / Thai / Vietnamese    |
 
+We are looking for a stallholder to operate a food stall in our school canteen with effect from <b><u>Jan 2024</u></b>.
 
 #### Application Procedure
 
