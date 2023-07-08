@@ -20,7 +20,7 @@ third_nav_title: Our People
 
 |  |  | 
 | -------- | -------- | 
-|Administration Manager	|Mrs Teo Bock Huay Jancy<br>[TEO_Bock_Huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
+|Administration Manager	|Mrs Teo Bock Huay Jancy<br>[teo_bock_huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
 |Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
 
 #### Student Development
@@ -75,7 +75,7 @@ third_nav_title: Our People
 |  |  | 
 | -------- | -------- | 
 | Head of Mathematics|	Mrs Ang Chiou Lian<br>[tong.chioulian@vjc.edu.sg](mailto:tong.chioulian@vjc.edu.sg)|
-|Level Head (JC1)|	Mrs Loh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
+|Level Head (JC1)|	Mr Tan Wei Liang<br>[tan.wei.liang@vjc.edu.sg](mailto:tan.wei.liang@vjc.edu.sg)|
 |Level Head (JC2)|	Mrs Jean Chong<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)|
 |Senior Teacher Mathematics|	Mrs Loh Sook Mui<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|
 |Senior Teacher Mathematics|	Ms Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
