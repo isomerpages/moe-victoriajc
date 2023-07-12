@@ -17,7 +17,7 @@ third_nav_title: Our People
 |22S33|	Ms Susan Toh<br>[toh.yee.suan.susan@vjc.edu.sg](mailto:toh.yee.suan.susan@vjc.edu.sg)|
 |22S34|	Ms Elinor Chia<br>[chia.elinor.trudy@vjc.edu.sg](mailto:chia.elinor.trudy@vjc.edu.sg)|
 |22S35|	Mr Kwok Pang Keat<br>[kwok.pangkeat@vjc.edu.sg](mailto:kwok.pangkeat@vjc.edu.sg)|
-|22S36|	Mr Ngoh Siyuan<br>[ngoh.siyuan@vjc.edu.sg](mailto:ngoh.siyuan@vjc.edu.sg)<br>Mr Nicholas Ng<br>[ng.wei.zhi.nicholas@vjc.edu.sg](mailto:ng.wei.zhi.nicholas@vjc.edu.sg)|
+|22S36|	Mr Ngoh Siyuan<br>[ngoh.siyuan@vjc.edu.sg](mailto:ngoh.siyuan@vjc.edu.sg)|
 |22S37|	Ms Celeste Teo<br>[teo.celeste@vjc.edu.sg](mailto:teo.celeste@vjc.edu.sg)|
 |22S38|	Mrs Jacinth Judah<br>[jacinth.rajan@vjc.edu.sg](mailto:jacinth.rajan@vjc.edu.sg)|
 |22S39|	Ms Frances Lee<br>[lee.dunlin@vjc.edu.sg](mailto:lee.dunlin@vjc.edu.sg)<br>Ms June Tan<br>[tan.siew.hwee.june@vjc.edu.sg](mailto:tan.siew.hwee.june@vjc.edu.sg)
@@ -33,7 +33,7 @@ third_nav_title: Our People
 |22S51|	Dr Goh Ker Liang<br>[goh.kerliang@vjc.edu.sg](mailto:goh.kerliang@vjc.edu.sg)|
 |22S52|	Mr Caleb Ho<br>[ho.tianyu.basil.caleb@vjc.edu.sg](mailto:ho.tianyu.basil.caleb@vjc.edu.sg)|
 |22S53|	Mr Halim Susanto<br>[halim.susanto@vjc.edu.sg](mailto:halim.susanto@vjc.edu.sg)|
-|22S54|	Mr Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
+|22S54|	Ms Kok Ye Hong<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)|
 |22S55|	Mr Teo Yik Tee<br>[teo.yiktee@vjc.edu.sg](mailto:teo.yiktee@vjc.edu.sg)|
 |22S56|	Mrs Yong Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)|
 |22S61|	Ms Lim Pei Wen<br>[lim.pei.wen@vjc.edu.sg](mailto:lim.pei.wen@vjc.edu.sg)|
