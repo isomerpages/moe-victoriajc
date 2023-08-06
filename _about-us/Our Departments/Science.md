@@ -24,4 +24,3 @@ third_nav_title: Our Departments
 |Mr Michael Lim<br>[lim.cheekin.michael@vjc.edu.sg](mailto:lim.cheekin.michael@vjc.edu.sg) | Ms Monica Wong<br>[wong.shuehmei.monica@vjc.edu.sg](mailto:wong.shuehmei.monica@vjc.edu.sg)|
 |Ms Ng Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)| Ms Ng Shu Von<br>[ng.shuvon@vjc.edu.sg](mailto:ng.shuvon@vjc.edu.sg)|
 | Mr Tan Wee Yong<br>[tan.wee.yong@vjc.edu.sg](mailto:tan.wee.yong@vjc.edu.sg)| Mr Tan Kuang Shing<br>[tan.kuang.shing@vjc.edu.sg](mailto:tan.kuang.shing@vjc.edu.sg)| 
-|Ms Teo Celeste<br>[teo.celeste@vjc.edu.sg](mailto:teo.celeste@vjc.edu.sg)| |
