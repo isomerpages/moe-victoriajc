@@ -18,7 +18,7 @@ third_nav_title: Our People
 |22S34|	Ms Elinor Chia<br>[chia.elinor.trudy@vjc.edu.sg](mailto:chia.elinor.trudy@vjc.edu.sg)|
 |22S35|	Mr Kwok Pang Keat<br>[kwok.pangkeat@vjc.edu.sg](mailto:kwok.pangkeat@vjc.edu.sg)|
 |22S36|	Mr Ngoh Siyuan<br>[ngoh.siyuan@vjc.edu.sg](mailto:ngoh.siyuan@vjc.edu.sg)|
-|22S37|	Ms Celeste Teo<br>[teo.celeste@vjc.edu.sg](mailto:teo.celeste@vjc.edu.sg)|
+|22S37|	Mr Nazrul Rashidi Mohd<br>[nazrul.rashidi.mohd@vjc.edu.sg](mailto:nazrul.rashidi.mohd@vjc.edu.sg)|
 |22S38|	Mrs Jacinth Judah<br>[jacinth.rajan@vjc.edu.sg](mailto:jacinth.rajan@vjc.edu.sg)|
 |22S39|	Ms Frances Lee<br>[lee.dunlin@vjc.edu.sg](mailto:lee.dunlin@vjc.edu.sg)<br>Ms June Tan<br>[tan.siew.hwee.june@vjc.edu.sg](mailto:tan.siew.hwee.june@vjc.edu.sg)
 |22S41|	Mr Tan Wee Yong<br>[tan.wee.yong@vjc.edu.sg](mailto:tan.wee.yong@vjc.edu.sg)<br>Mdm Marliza Muhamad<br>[marliza.bte.muhamad@vjc.edu.sg](mailto:arliza.bte.muhamad@vjc.edu.sg)|
