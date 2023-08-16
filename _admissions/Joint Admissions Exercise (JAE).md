@@ -14,57 +14,29 @@ In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
 
 ### Frequently Asked Questions
 
-<ul class="jekyllcodex_accordion">
+**1. How are bonus points computed?**
 
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">1. How are bonus points computed?</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Students with A1 to C6 in both their first languages (English and Higher Mother Tongue) enjoy 2 bonus points for all their choices.</p>
+<p>Students with A1 to C6 in both their first languages (English and Higher Mother Tongue) enjoy 2 bonus points for all their choices.</p>
 
 <p>Students who obtained an 'A' grade in CCA can enjoy 2 bonus points for all their choices. Those who obtained a 'B' or 'C' grade in CCA are given 1 bonus point for all their choices.</p>
 
-<p>Students from Victoria School will be given 2 bonus points for affiliation ONLY IF they choose VJC as their&nbsp;<u>first</u> choice, or as <u>their&nbsp;first and second choices</u>.</p>
+<p>Students from Victoria School will be given 2 bonus points for affiliation ONLY IF they choose VJC as their&nbsp;<u>first</u> choice, or as <u>their first and second choices</u>.</p>
 
-<p>Students are allowed a&nbsp;<u>maximum of 4 bonus points</u>&nbsp;in the computation of their net aggregate score.</p>
+<p>Students are allowed a <u>maximum of 4 bonus points</u>&nbsp;in the computation of their net aggregate score.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-<li>
+**2. When do I choose my subject combinations in VJC?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
+<p>You will be briefed on the various subjects and given instructions on subject enrolment on the first day of school.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">2. When do I choose my subject combinations in VJC</label>
+**3. What are factors I should consider when choosing my Stream and my subject combination? Are there any prerequisites for any subjects?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>You will be briefed on the various subjects and given instructions on subject enrolment on the first day of school.</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">3. What are factors I should consider when choosing my Stream and my subject combination? Are there any prerequisites for any subjects?</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>We urge students to choose a subject combination based on their interests and strengths, as well as their preferred course of study at university.</p>
+<p>We urge students to choose a subject combination based on their interests and strengths, as well as their preferred course of study at university.</p>
 
 <p>Some courses offered in university have pre-requisites, and students are strongly encouraged to visit the university websites to find out more.</p>
 
-<p>For more information on subjects offered in VJC, do check our <a href="/learn-like-a-victorian/academic-disciplines/">website</a>. You may also find out more from our teacher advisors. Please write to:</p>
-
-<p>Ms Toh Chui Hoon, Head of Dept/Science at:&nbsp;
+<p>For more information on subjects offered in VJC, do check our <a href="/learn-like-a-victorian/academic-disciplines/">website</a>. You may also find out more from our teacher advisors. Please write to:
+</p><p>Ms Toh Chui Hoon, Head of Dept/Science at:&nbsp;
 	<a href="toh.chuihoon@vjc.edu.sg">toh.chuihoon@vjc.edu.sg</a></p>
 				
 <p>Ms Goh Hui Hua, Head of Dept/Arts at:&nbsp;
@@ -72,19 +44,10 @@ In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
 				
 <p>Mr Ivan Toh, Head of Talent Development &amp; Education and Career Guidance at:&nbsp;
 <a href="ivan.toh.chun.siong@vjc.edu.sg">ivan.toh.chun.siong@vjc.edu.sg</a></p>
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-<li>
+**4. Must I take Mother Tongue at VJC?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">4. Must I take Mother Tongue at VJC?</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Students who did not take Higher Mother Tongue at O-Levels must take H1 MTL.</p>
+<p>Students who did not take Higher Mother Tongue at O-Levels must take H1 MTL.</p>
 
 <p>Students who have obtained at least D7 in the O-Level Higher Mother Tongue examination would have met the minimum requirement for University Admission.</p>
 
@@ -92,52 +55,15 @@ In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
 
 <p>The H1 MTL grade will be included in the computation of UAS for admission to local universities and for admission to MTL-related courses if the applicant has done well in it. Please refer to the university websites for more information.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+**5. Where can I get more information about the subjects examined at GCE A-Level?**
 
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">5. Where can I get more information about the subjects examined at GCE-A levels? </label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at <br>
+Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at 
 <a href="https://www.seab.gov.sg/home/examinations/gce-a-level">https://www.seab.gov.sg/home/examinations/gce-a-level</a>
 				
-</p>
+**6. Is CCA compulsory in JC?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+CCAs are not compulsory. However, we urge students to take up at least one CCA so that they can have a balance of academic and non-academic activities. CCAs are a great platform to pursue your talent and interests, take on new challenges, and foster strong relationships with peers.<p></p>
 
-</li>
-	
-<li>
+**7. I am not an IP student.Is there any disadvantage if I join VJC from the JAE?**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">6. Is CCA compulsory in JC?</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>CCAs are not compulsory. However, we urge students to take up at least one CCA so that they can have a balance of academic and non-academic activities. CCAs are a great platform to pursue your talent and interests, take on new challenges, and foster strong relationships with peers.</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion7">7. I am not an IP student.Is there any disadvantage if I join VJC from the JAE?</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>There is no disadvantage to being a JAE student in VJC. In fact, JAE students form the majority in VJC (more than 60%). JC1 students (IP &amp; JAE) will choose their subject combinations and start their academic lessons only&nbsp;<u>after</u>&nbsp;the JAE students report.&nbsp;There is no separation of classes either - Victorians are put in mixed classes regardless of background. All Victorians have equal opportunity for leadership and equal access to our wide range of programmes and awards.</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-</ul>
+There is no disadvantage to being a JAE student in VJC. In fact, JAE students form the majority in VJC (more than 60%). JC1 students (IP &amp; JAE) will choose their subject combinations and start their academic lessons only&nbsp;<u>after</u>&nbsp;the JAE students report.&nbsp;There is no separation of classes either - Victorians are put in mixed classes regardless of background. All Victorians have equal opportunity for leadership and equal access to our wide range of programmes and awards.
