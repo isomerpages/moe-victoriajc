@@ -10,7 +10,7 @@ description: ""
 | Non Halal Food Stall     | 03 Nov 2023     | Mediterranean / Indian / Vegetarian / Thai / Vietnamese    |
 | Non Halal Food Stall     | 03 Nov 2023     | Chicken Rice / Roast Meat / Claypot Rice     |
 
-We are looking for a stallholder to operate a food stall in our school canteen with effect from <b><u>Jan 2024</u></b>.
+Successful applicant(s) will be expected to commence operation of the stall in <b><u>Jan 2024</u></b>.
 
 #### Application Procedure
 
