@@ -2,13 +2,13 @@
 title: School Canteen Advertisement
 permalink: /announcements/canteen/
 description: ""
+variant: markdown
 ---
 ### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Non Halal Food Stall     | 03 Nov 2023     | Mediterranean / Indian / Vegetarian / Thai / Vietnamese    |
-| Non Halal Food Stall     | 03 Nov 2023     | Chicken Rice / Roast Meat / Claypot Rice     |
+| Non Halal Food Stall     | 10 Nov 2023     | Chicken Rice / Roast Meat / Claypot Rice     |
 
 Successful applicant(s) will be expected to commence operation of the stall in <b><u>Jan 2024</u></b>.
 
