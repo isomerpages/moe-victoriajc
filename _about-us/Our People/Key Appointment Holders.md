@@ -3,6 +3,7 @@ title: Key Appointment Holders
 permalink: /about/our-staff/key-appointment-holders/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![](/images/2023%20Images/2023%20MM.jpg)
 
@@ -21,7 +22,7 @@ third_nav_title: Our People
 |  |  | 
 | -------- | -------- | 
 |Administration Manager	|Mrs Teo Bock Huay Jancy<br>[teo_bock_huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
-|Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
+|Operations Managers	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)<br> Mr Tommy Low Boon Heng<br>[tommy_low_boon_heng@schools.gov.sg](mailto:tommy_low_boon_heng@schools.gov.sg)|
 
 #### Student Development
 
