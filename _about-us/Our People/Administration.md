@@ -3,6 +3,7 @@ title: Administration
 permalink: /about/our-staff/administration/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ![](/images/eas%20photo2022_2.jpg)
 #### Administration
@@ -12,7 +13,7 @@ third_nav_title: Our People
 |  |  | 
 | -------- | -------- |
 |Administration Manager	|Mrs Teo Bock Huay Jancy<br>[TEO_Bock_Huay@schools.gov.sg](mailto:TEO_Bock_Huay@schools.gov.sg)|
-|Operations Manager	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg)|
+|Operations Managers	|Mr Teo Hung Meng<br>[teo_hung_meng@schools.gov.sg](mailto:teo_hung_meng@schools.gov.sg) <br> Mr Tommy Low Boon Heng<br>[tommy_low_boon_heng@schools.gov.sg](mailto:tommy_low_boon_heng@schools.gov.sg)| 
 |Administrative Executives|	Mdm Koh Seow Chin<br>[koh_seow_chin@schools.gov.sg](mailto:koh_seow_chin@schools.gov.sg)<br>Mdm Rosnah Bte Abdul Rahman<br>[Rosnah_Abdul_rahman@schools.gov.sg](mailto:Rosnah_Abdul_rahman@schools.gov.sg)
 |Administrative Staff (General Office)|	Mdm Chin Choon Fong May<br>[chin.choon.fong.may@vjc.edu.sg](mailto:chin.choon.fong.may@vjc.edu.sg)<br>	Mdm Fauziah Binte Mohd Zin<br>[fauziah.binte.mohd.zin@vjc.edu.sg](mailto:fauziah.binte.mohd.zin@vjc.edu.sg)<br>Mdm Massumarni Bte Awi<br>[massumarni.bteawi@vjc.edu.sg](mailto:massumarni.bteawi@vjc.edu.sg)<br>Mr Morgan Kanapathy<br>[morgan.kanapathy@vjc.edu.sg](mailto:morgan.kanapathy@vjc.edu.sg)<br>Mr Lee Hwa Seng<br>[lee.hwa.seng@vjc.edu.sg](mailto:lee.hwa.seng@vjc.edu.sg)|
 |AV Technician|	Mr Ho Teck Huat<br>[ho.teckhuat@vjc.edu.sg](mailto:ho.teckhuat@vjc.edu.sg)|
