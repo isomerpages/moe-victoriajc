@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/2024VJCOHBanner_Web.jpg
+      background: /images/Main banner 2023/2024VJCOHBanner_Web__edited_6Dec_2_.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
