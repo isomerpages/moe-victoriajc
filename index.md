@@ -20,9 +20,9 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
-        - title: 2022 A-Level Results
-          description: Updates
-          url: /about/culture-of-excellence/student-achievements/class-of-2022/
+        - title: 2024 Open House
+          description: Programme
+          url: /2024openhouse
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
