@@ -2,6 +2,7 @@ collections:
   learn:
     output: true
     order:
+      - Academic Disciplines.md
       - AESOP.md
       - History.md
       - Geography.md
