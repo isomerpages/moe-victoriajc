@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Learn Like A Victorian.md
+      - Academic Disciplines/AESOP.md
       - Academic Disciplines/History.md
       - Academic Disciplines/.keep
       - Academic Disciplines/Academic Disciplines.md
