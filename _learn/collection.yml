@@ -2,6 +2,6 @@ collections:
   learn:
     output: true
     order:
-      - Academic Disciplines/Academic Disciplines.md
-      - Academic Disciplines/.keep
       - Learn Like A Victorian.md
+      - Academic Disciplines/.keep
+      - Academic Disciplines/Academic Disciplines.md
