@@ -8,8 +8,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Non Halal Food Stall     | 12 Dec 2023     | Japanese and Korean Food Stall     |
-| Non Halal Food Stall     | 12 Dec 2023     | Indian / Vegetarian/ Thai/ Vietnamese Food Stall     |
+| Non Halal Food Stall     | 20 Dec 2023     | Japanese and Korean Food Stall     |
+| Non Halal Food Stall     | 20 Dec 2023     | Indian / Vegetarian/ Thai/ Vietnamese Food Stall     |
 
 Successful applicant(s) will be expected to commence operation of the stall in <b><u>Jan 2024</u></b>.
 
