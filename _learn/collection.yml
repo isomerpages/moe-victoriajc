@@ -2,10 +2,10 @@ collections:
   learn:
     output: true
     order:
-      - Academic Disciplines.md
-      - AESOP.md
-      - History.md
-      - Geography.md
-      - China Studies in English.md
-      - Arts.md
       - Learn Like A Victorian.md
+      - Academic Disciplines.md
+      - Arts.md
+      - China Studies in English.md
+      - Geography.md
+      - History.md
+      - AESOP.md
