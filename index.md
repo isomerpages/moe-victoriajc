@@ -23,7 +23,7 @@ sections:
         - title: 2024 Open House
           description: Programme
           url: /2024openhouse
-      variant: image
+      variant: center
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
