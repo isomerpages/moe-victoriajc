@@ -2,6 +2,7 @@ collections:
   learn:
     output: true
     order:
+      - Geography.md
       - China Studies in English.md
       - Arts.md
       - Learn Like A Victorian.md
