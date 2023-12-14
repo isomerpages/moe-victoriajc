@@ -4,8 +4,15 @@ collections:
     order:
       - Learn Like A Victorian.md
       - Academic Disciplines.md
-      - Subjects/General Paper.md
       - Subjects/.keep
+      - Subjects/Art.md
+      - Subjects/China Studies in English.md
+      - Subjects/Geography.md
+      - Subjects/History.md
+      - Subjects/Theatre Studies and Drama.md
+      - Subjects/AESOP.md
+      - Subjects/Economics.md
+      - Subjects/General Paper.md
       - Subjects/English Literature.md
       - Subjects/Project Work.md
       - Subjects/Mathematics.md
@@ -22,10 +29,3 @@ collections:
       - Subjects/Physics.md
       - Subjects/Science Research.md
       - Subjects/H3 Subjects.md
-      - Subjects/Theatre Studies and Drama.md
-      - Subjects/Economics.md
-      - Subjects/AESOP.md
-      - Subjects/History.md
-      - Subjects/Geography.md
-      - Subjects/China Studies in English.md
-      - Subjects/Art.md
