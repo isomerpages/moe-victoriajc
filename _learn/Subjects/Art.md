@@ -1,0 +1,8 @@
+---
+title: Art
+permalink: /learn/academic-disciplines/art/
+variant: tiptap
+description: ""
+third_nav_title: Subjects
+---
+<p></p>
