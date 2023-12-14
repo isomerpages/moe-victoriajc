@@ -2,11 +2,11 @@ collections:
   learn:
     output: true
     order:
+      - Learn Like A Victorian.md
+      - Academic Disciplines.md
+      - Subjects/.keep
       - Subjects/AESOP.md
       - Subjects/History.md
       - Subjects/Geography.md
       - Subjects/China Studies in English.md
       - Subjects/Art.md
-      - Subjects/.keep
-      - Learn Like A Victorian.md
-      - Academic Disciplines.md
