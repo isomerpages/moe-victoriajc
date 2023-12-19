@@ -7,7 +7,7 @@ description: ""
 
 ### Subject Combinations
 
-VJC offers a total of 67 standard subject combinations in the Arts and Science courses.  All combinations include General Paper, Project Work and Mother Tongue at Higher 1 (H1) level.
+VJC offers a total of 67 standard subject combinations in the Arts and Science courses.&nbsp; All combinations include General Paper, Project Work and Mother Tongue at Higher 1 (H1) level.
 
 Students should have the requisite knowledge to offer Science and Mathematics subjects at A-Level and be able to cope with the demands of the A-level curriculum. Subjects offered in the Arts course do not have any pre-requisites; however, students should consider their strengths and interests closely when choosing their subjects.
 
@@ -20,15 +20,15 @@ Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to
 <ul class="jekyllcodex_accordion">
 <li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Arts</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Arts</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -77,22 +77,22 @@ Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to
 
 </p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 
 
 <li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Science</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Science</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 
-      <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -178,7 +178,7 @@ Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to
 
 </p>
 
-  </div>
+&nbsp;&nbsp;</div>
 
 </li>
 </ul>
@@ -186,14 +186,14 @@ Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to
 
 ### Higher 3 (H3) Subjects
 
-Besides these subject combinations, students with the ability and passion to deepen their learning can apply to offer a H3 subjects in the Humanities and the Science. 
+Besides these subject combinations, students with the ability and passion to deepen their learning can apply to offer a H3 subjects in the Humanities and the Science.&nbsp;
 
-There is a range of H3 offerings that are either taught by VJC teachers in college or by university lecturers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and Singapore Management University (SMU). VJC also offers a special H3 programme – [H3 NAV Science Research](https://victoriajc.moe.edu.sg/learn-like-a-victorian/talent-development-programme/vsmart/) – in collaboration with the Agency of Science, Technology and Research (A\*STAR) and NUS.
+There is a range of H3 offerings that are either taught by VJC teachers in college or by university lecturers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and Singapore Management University (SMU). VJC also offers a special H3 programme –&nbsp;[H3 NAV Science Research](https://victoriajc.moe.edu.sg/learn-like-a-victorian/talent-development-programme/vsmart/)&nbsp;– in collaboration with the Agency of Science, Technology and Research (A\*STAR) and NUS.
 
 ### A-Level syllabus
 
-The Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at [https://www.seab.gov.sg/home/examinations/gce-a-level](https://www.seab.gov.sg/home/examinations/gce-a-level)
+The Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at&nbsp;[https://www.seab.gov.sg/home/examinations/gce-a-level](https://www.seab.gov.sg/home/examinations/gce-a-level)
 
 ### VJC Academic Information 2023
 
-Download our 2023 Academic Information booklet [here](https://go.gov.sg/vjcacademicinfobooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2023 Academic Information booklet&nbsp;[here](https://go.gov.sg/vjcacademicinfobooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
