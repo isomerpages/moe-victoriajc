@@ -2,7 +2,6 @@ collections:
   learn:
     output: true
     order:
-      - Mathematics.md
       - Learn Like A Victorian.md
       - Academic Disciplines.md
       - Subjects/.keep
