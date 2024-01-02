@@ -10,7 +10,7 @@ variant: markdown
 
 |  |  | 
 | -------- | -------- |
-Head of Department Physical Education<br>Mr Tan Yew Hwee<br>[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)<br><br>Head of Department Student Development<br>Mr Seet Kok Wah<br>[seet.kokwah@vjc.edu.sg](mailto:seet.kokwah@vjc.edu.sg)<br><br>Cohort Head<br>Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg) ||
+Head of Department Physical Education<br>Mr Tan Yew Hwee<br>[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)<br><br>Head of Department Student Development<br>Mr Seet Kok Wah<br>[seet.kokwah@vjc.edu.sg](mailto:seet.kokwah@vjc.edu.sg)<br><br>Year Head<br>Ms Evelyn Teoh<br>[teoh.huihoon.evelyn@vjc.edu.sg](mailto:teoh.huihoon.evelyn@vjc.edu.sg) ||
 Ms Jaclyn Ng<br>(Subject Head Active Citizenry)<br>[ng.yenyen.jaclyn@vjc.edu.sg](mailto:ng.yenyen.jaclyn@vjc.edu.sg)|
 |Mr Goh Eng Chai<br>[goh.engchai@vjc.edu.sg](mailto:goh.engchai@vjc.edu.sg)| Mr Heng Wei Zhi Jonathan<br>[heng.wei.zhi.jonathan@vjc.edu.sg](mailto:heng.wei.zhi.jonathan@vjc.edu.sg)|
 |Ms Lim Pei Fang Daphne<br>[lim.pei.fang.daphne@vjc.edu.sg](mailto:lim.pei.fang.daphne@vjc.edu.sg)| Mr Lim Wei Quan<br>[lim.wei.quan@vjc.edu.sg](mailto:lim.wei.quan@vjc.edu.sg)|
