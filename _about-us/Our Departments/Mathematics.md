@@ -10,7 +10,7 @@ variant: markdown
 
 |  |  |
 | -------- | -------- | 
-|Head of Department Mathematics<br>Ms Yang Chunxiu<br>[yang.chunxiu@vjc.edu.sg](mailto:yang.chunxiu@vjc.edu.sg)<br><br>Head of Department Information and Communication Technology &amp; Cohort Head<br>Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)||
+|Head of Department Mathematics<br>Ms Yang Chunxiu<br>[yang.chunxiu@vjc.edu.sg](mailto:yang.chunxiu@vjc.edu.sg)<br><br>Head of Department Information and Communication Technology &amp; Year Head<br>Mr Russell Woo<br>[woo.yih.hau.russell@vjc.edu.sg](mailto:woo.yih.hau.russell@vjc.edu.sg)||
 Mrs Jean Chong<br>(Level Head (JC1))<br>[tan.yenjun@vjc.edu.sg](mailto:tan.yenjun@vjc.edu.sg)	| Mr Tan Wei Liang<br>(Level Head (JC2))<br>[tan.wei.liang@vjc.edu.sg](mailto:tan.wei.liang@vjc.edu.sg)|
 |Mrs Loh Sook Mui<br>(Level Head (JC2))<br>[loh.sookmui@vjc.edu.sg](mailto:loh.sookmui@vjc.edu.sg)|Ms Kok Ye Hong<br>(Senior Teacher)<br>[kok.ye.hong@vjc.edu.sg](mailto:kok.ye.hong@vjc.edu.sg)
 |Ms Ding Yih<br>(Subject Head Aesthetics)<br>[ding.yih@vjc.edu.sg](mailto:ding.yih@vjc.edu.sg)|Mr Ridzwan Bin Suri<br>(Subject Head Information and Communication Technology)<br>[ridzwan.suri@vjc.edu.sg](mailto:ridzwan.suri@vjc.edu.sg)|
