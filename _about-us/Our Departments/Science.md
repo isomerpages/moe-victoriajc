@@ -12,15 +12,17 @@ variant: markdown
 | -------- | -------- | 
 |Head of Department Science (Covering)<br>Dr Wu Jiang<br>[wu.jiang@vjc.edu.sg](mailto:wu.jiang@vjc.edu.sg)<br><br>Head of Department Science (Covering)<br>Ms Sharon Tey<br>[tey.li.wei.sharon@vjc.edu.sg](mailto:tey.li.wei.sharon@vjc.edu.sg) |
 |Mr Heman Kwok<br>(Subject Head Biology)<br>[kwok.ho.man.heman@vjc.edu.sg](mailto:kwok.ho.man.heman@vjc.edu.sg)|Mr Lee Keng Hua<br>(Subject Head Physics)<br>[lee.kenghua@vjc.edu.sg](mailto:lee.kenghua@vjc.edu.sg)|
-|Mr Caleb Ho<br>(Senior Teacher Physics)<br>[ho.tianyu.basil.caleb@vjc.edu.sg](mailto:ho.tianyu.basil.caleb@vjc.edu.sg) |Mr Edwin Lim Cher Chuan<br>(Senior Teacher Chemistry)<br>[lim.cherchuan@vjc.edu.sg](mailto:lim.cherchuan@vjc.edu.sg)|
+Ms Ng Shu Von<br>(Subject Head Chemistry)<br>[ng.shuvon@vjc.edu.sg](mailto:ng.shuvon@vjc.edu.sg)|Mr Caleb Ho<br>(Senior Teacher Physics)<br>[ho.tianyu.basil.caleb@vjc.edu.sg](mailto:ho.tianyu.basil.caleb@vjc.edu.sg) |
+Mr Edwin Lim Cher Chuan<br>(Senior Teacher Chemistry)<br>[lim.cherchuan@vjc.edu.sg](mailto:lim.cherchuan@vjc.edu.sg)|
 | Mr Chang Siang Wen<br>[chang.siangwen@vjc.edu.sg](mailto:chang.siangwen@vjc.edu.sg)|Mr Chow Siew Foong<br>[chow.siewfoong@vjc.edu.sg](mailto:chow.siewfoong@vjc.edu.sg)| 
-Ms Elinor Chia<br>[chia.elinor.trudy@vjc.edu.sg](mailto:chia.elinor.trudy@vjc.edu.sg)|Mr Eric Foo<br>[foo.peowmeng@vjc.edu.sg](mailto:foo.peowmeng@vjc.edu.sg)| 
+Mr Darius Oh<br>[darius.oh@vjc.edu.sg](mailto:darius.oh@vjc.edu.sg)|Ms Elinor Chia<br>[chia.elinor.trudy@vjc.edu.sg](mailto:chia.elinor.trudy@vjc.edu.sg)|
+Mr Eric Foo<br>[foo.peowmeng@vjc.edu.sg](mailto:foo.peowmeng@vjc.edu.sg)| Mdm Esther Lee Chia Wei<br>[esther.lee.chia.wei@vjc.edu.sg](mailto:esther.lee.chia.wei@vjc.edu.sg)|
 Mdm Farahdilah Binte Abas<br>[farahdilah.abas@vjc.edu.sg](mailto:farahdilah.abas@vjc.edu.sg)|Dr Goh Ker Liang<br>[goh.kerliang@vjc.edu.sg](mailto:goh.kerliang@vjc.edu.sg) |
 Mr Halim Susanto<br>[halim.susanto@vjc.edu.sg](mailto:halim.susanto@vjc.edu.sg)|Mr Jayesh Kumar Jasvantlal<br>[jayeshkumar.jasvantlal@vjc.edu.sg](mailto:jayeshkumar.jasvantlal@vjc.edu.sg)|	
 Mr Julius Chan<br>[chan.sooheong.julius@vjc.edu.sg](mailto:chan.sooheong.julius@vjc.edu.sg)|Ms June Tan<br>[tan.siew.hwee.june@vjc.edu.sg](mailto:tan.siew.hwee.june@vjc.edu.sg)
 |Mdm Khaw Hwee Ju<br>[khaw.hwee.ju@vjc.edu.sg](mailto:khaw.hwee.ju@vjc.edu.sg)| Mr Kwek Eng Yeow<br>[kwek.engyeow@vjc.edu.sg](mailto:kwek.engyeow@vjc.edu.sg)|
-|Mr Lau Wee Hua<br>[lau.weehua@vjc.edu.sg](mailto:lau.weehua@vjc.edu.sg)|Mrs Lim Siew Mee<br>[chin.siewmee@vjc.edu.sg](mailto:chin.siewmee@vjc.edu.sg)| 
-Mrs Mah Ai Ling<br>[poh.ailing@vjc.edu.sg](mailto:poh.ailing@vjc.edu.sg)|Mr Michael Lim<br>[lim.cheekin.michael@vjc.edu.sg](mailto:lim.cheekin.michael@vjc.edu.sg) | 
-Ms Monica Wong<br>[wong.shuehmei.monica@vjc.edu.sg](mailto:wong.shuehmei.monica@vjc.edu.sg)|Ms Ng Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)| Ms Ng Shu Von<br>[ng.shuvon@vjc.edu.sg](mailto:ng.shuvon@vjc.edu.sg)|
-| Mr Tan Wee Yong<br>[tan.wee.yong@vjc.edu.sg](mailto:tan.wee.yong@vjc.edu.sg)| Mr Tan Kuang Shing<br>[tan.kuang.shing@vjc.edu.sg](mailto:tan.kuang.shing@vjc.edu.sg)|
-Mdm Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)<br>| 
+|Mr Lau Wee Hua<br>[lau.weehua@vjc.edu.sg](mailto:lau.weehua@vjc.edu.sg)|Mrs Lim Siew Mee<br>[chin.siewmee@vjc.edu.sg](mailto:chin.siewmee@vjc.edu.sg)|
+Ms Low Shu'en Joanne<br>[joanne.low.shuen@vjc.edu.sg](mailto:joanne.low.shuen@vjc.edu.sg)|Mrs Mah Ai Ling<br>[poh.ailing@vjc.edu.sg](mailto:poh.ailing@vjc.edu.sg)|
+Mr Michael Lim<br>[lim.cheekin.michael@vjc.edu.sg](mailto:lim.cheekin.michael@vjc.edu.sg) | Ms Monica Wong<br>[wong.shuehmei.monica@vjc.edu.sg](mailto:wong.shuehmei.monica@vjc.edu.sg)|
+Ms Ng Meichan<br>[ng.meichan@vjc.edu.sg](mailto:ng.meichan@vjc.edu.sg)| Mr Tan Wee Yong<br>[tan.wee.yong@vjc.edu.sg](mailto:tan.wee.yong@vjc.edu.sg)| 
+Mr Tan Kuang Shing<br>[tan.kuang.shing@vjc.edu.sg](mailto:tan.kuang.shing@vjc.edu.sg)|Mdm Toh Chui Hoon<br>[toh.chuihoon@vjc.edu.sg](mailto:toh.chuihoon@vjc.edu.sg)<br>|
