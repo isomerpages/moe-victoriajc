@@ -7,6 +7,7 @@ variant: markdown
 ![](/images/Sub%20Page%20Banners%202023/Principal's%20Message.jpg)
 
 <img src="/images/JeffreyLow-1365x2048.jpeg" style="width:30%" align="right">
+
 **Victoria is something more**
 
 The College vision taken from the College anthem has always seemed enigmatic. What is the ‘something more’ that VJC promises?&nbsp; What is that ‘something more’ that makes our school so special?
