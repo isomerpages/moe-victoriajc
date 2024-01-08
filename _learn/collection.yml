@@ -4,6 +4,7 @@ collections:
     order:
       - Learn Like A Victorian.md
       - Academic Disciplines.md
+      - Subjects/.keep
       - Subjects/Art.md
       - Subjects/China Studies in English.md
       - Subjects/Geography.md
@@ -16,9 +17,8 @@ collections:
       - Subjects/Project Work.md
       - Subjects/Mathematics.md
       - Subjects/Further Mathematics.md
-      - Subjects/Mother Tongue Languages.md
-      - Subjects/.keep
       - Subjects/Computing.md
+      - Subjects/Mother Tongue Languages.md
       - Subjects/Mother Tongue Languages and Literature.md
       - Subjects/Regional Studies Programme.md
       - Subjects/Biology.md
