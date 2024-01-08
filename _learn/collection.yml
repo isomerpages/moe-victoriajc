@@ -2,6 +2,7 @@ collections:
   learn:
     output: true
     order:
+      - Subjects/Science Research.md
       - Subjects/H3 Subjects.md
       - Subjects/.keep
       - Learn Like A Victorian.md
