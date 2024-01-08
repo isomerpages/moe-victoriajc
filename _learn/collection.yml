@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Subjects/.keep
-      - H3 Subjects.md
       - Learn Like A Victorian.md
       - Academic Disciplines.md
