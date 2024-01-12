@@ -2,6 +2,7 @@
 title: Academic Disciplines
 permalink: /learn-like-a-victorian/academic-disciplines/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub%20Page%20Banners%202023/Academic%20Disciplines.jpg)
 
@@ -196,4 +197,4 @@ The Singapore Examinations and Assessment Board (SEAB) provides comprehensive in
 
 ### VJC Academic Information 2023
 
-Download our 2023 Academic Information booklet&nbsp;[here](https://go.gov.sg/vjcacademicinfobooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2023 Academic Information booklet&nbsp;[here](https://for.edu.sg/vjcacadbooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
