@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Subjects
 ---
-<p>Saw an advertisement, or painting, that stirred your emotions? How could an image convey so much meaning?</p><p></p><p>Learn how to communicate through art and design. Experiment with various materials and processes. Create your own masterpiece!</p><p><br></p>
+<p>Remember that awe-inspiring artwork, the mesmerizing sunset, the Insta-shareable moments or that doodle that sparked your imagination? Now imagine turning those experiences into a lifelong passion.</p><p>Learn how to communicate through visual art, design and media. Experiment with various materials and processes. Create your own masterpiece! From canvas to digital realms, we'll guide you in translating emotions and ideas into art. Elevate your skills with a subject that transcends conventional boundaries, fostering a deeper connection with the world around you. Embrace the joy of creation, build a portfolio that speaks volumes, and set yourself on a path of limitless possibilities.</p>
