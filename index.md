@@ -20,9 +20,6 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
-        - title: 2024 Open House
-          description: Programme
-          url: /2024openhouse
       variant: center
   - infopic:
       title: 9-Day Timetable
