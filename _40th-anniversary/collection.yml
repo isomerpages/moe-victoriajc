@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - 40th Anniversary.md
-      - 40th Events.md
+      - Events.md
       - 40th Gala Dinner.md
       - 40th Merchandise.md
