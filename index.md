@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/2024VJCOHBanner_Web__edited_6Dec_4_.jpg
+      background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
@@ -20,9 +20,6 @@ sections:
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
-        - title: 2024 Open House
-          description: Programme
-          url: /2024openhouse
       variant: center
   - infopic:
       title: 9-Day Timetable
