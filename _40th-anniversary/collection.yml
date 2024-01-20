@@ -2,6 +2,7 @@ collections:
   40th-anniversary:
     output: true
     order:
+      - Gala Dinner/Register.md
       - Gala Dinner/Goodie Bag.md
       - Gala Dinner/Gala Dinner.md
       - Gala Dinner/.keep
