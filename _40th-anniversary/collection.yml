@@ -2,7 +2,6 @@ collections:
   40th-anniversary:
     output: true
     order:
-      - Goodie bag/Gala Dinner.md
       - Goodie bag/.keep
       - 40th Anniversary.md
       - Events.md
