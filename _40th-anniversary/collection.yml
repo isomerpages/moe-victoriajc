@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Gala Dinner/.keep
-      - Gala Dinner.md
       - Goodie bag/.keep
       - 40th Anniversary.md
       - Events.md
