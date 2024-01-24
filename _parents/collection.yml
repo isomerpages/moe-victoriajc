@@ -1,0 +1,11 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parent College Partnership.md
+      - Parents Support Group.md
+      - Education and Career Guidance.md
+      - Watching for Distress.md
+      - A Level Timetable.md
+      - Accessing the Parents Gateway.md
+      - Sexuality Education.md

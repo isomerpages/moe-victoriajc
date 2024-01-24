@@ -1,0 +1,7 @@
+---
+title: Upcoming Events
+permalink: /upcoming-events/
+description: ""
+variant: tiptap
+---
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Date</p></th><th rowspan="1" colspan="1"><p>Event</p></th></tr><tr><td rowspan="1" colspan="1"><p>6 January 2024</p></td><td rowspan="1" colspan="1"><p>Homecoming</p></td></tr><tr><td rowspan="1" colspan="1"><p>8 January 2024</p></td><td rowspan="1" colspan="1"><p>Start of Term 1, 2024</p></td></tr><tr><td rowspan="1" colspan="1"><p>13 January 2024</p></td><td rowspan="1" colspan="1"><p>Open House</p></td></tr><tr><td rowspan="1" colspan="1"><p>9 February 2024</p></td><td rowspan="1" colspan="1"><p>CNY Celebration</p></td></tr><tr><td rowspan="1" colspan="1"><p>10 February 2024</p></td><td rowspan="1" colspan="1"><p>CNY Public Holiday</p></td></tr><tr><td rowspan="1" colspan="1"><p>13 February 2024</p></td><td rowspan="1" colspan="1"><p>CNY School Holiday</p></td></tr><tr><td rowspan="1" colspan="1"><p>15 February 2024</p></td><td rowspan="1" colspan="1"><p>Total Defence Day</p></td></tr><tr><td rowspan="1" colspan="1"><p>8 March 2024</p></td><td rowspan="1" colspan="1"><p>Games Day</p></td></tr><tr><td rowspan="1" colspan="1"><p>9 - 17 March 2024</p></td><td rowspan="1" colspan="1"><p>Term 1 Break</p></td></tr></tbody></table><p></p>

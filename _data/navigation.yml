@@ -1,0 +1,39 @@
+logo: /images/VJCCrest.png
+links:
+  - title: About Us
+    url: /about/principals-welcome/
+    sublinks:
+      - title: Principal's Welcome
+        url: /about/principals-welcome/
+      - title: Our People
+        url: /about/our-staff/
+      - title: Culture of Excellence
+        url: /culture-of-excellence/permalink/
+  - title: Admissions
+    collection: admissions
+  - title: Learn
+    collection: learn
+  - title: Live
+    collection: live
+  - title: Level Up
+    collection: level-up
+  - title: Parents
+    url: /parents/parent-college-partnership/
+    sublinks:
+      - title: Parent Support Group
+        url: /parents/parent-support-group-content/
+  - title: Alumni
+    url: /alumni/
+    sublinks:
+      - title: Old Victorians’ Association
+        url: /alumni/old-victorians-association-content/
+      - title: Organising a Reunion
+        url: /alumni/organizing-a-reunion-content/
+      - title: Passing the Torch
+        url: /alumni/passing-the-torch-content/
+      - title: Alumni Feature
+        url: /alumni/alumni-feature/
+  - title: Contact Us
+    url: /contact-us
+  - title: Announcement
+    url: /announcements/canteen
