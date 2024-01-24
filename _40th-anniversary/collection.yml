@@ -2,6 +2,7 @@ collections:
   40th-anniversary:
     output: true
     order:
+      - Merchandise/How to order.md
       - Merchandise/.keep
       - Merchandise/Merchandise.md
       - Merchandise/Bears.md
