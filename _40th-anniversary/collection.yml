@@ -2,6 +2,7 @@ collections:
   40th-anniversary:
     output: true
     order:
+      - Merchandise/Bears.md
       - Merchandise/VJC Alumni Tee.md
       - Merchandise/Merchandise.md
       - Merchandise/.keep
