@@ -2,6 +2,7 @@
 title: Culture of Excellence
 permalink: /culture-of-excellence/permalink/
 description: ""
+variant: markdown
 ---
 ![](/images/Culture-of-Excellence-banner-1024x365.jpg)
 Victoria Junior College (VJC) was established in 1984 and quickly became a college of distinction. The College has grown from strength to strength, nurturing Victorians who have made their mark in society, from the academic, business, and public sectors to the arts and sports arenas.  
@@ -25,7 +26,7 @@ Victoria in Singapore,
 There are other schools we know.  
 Victoria is something more,  
 The school that watch’d us grow.  
-For here we’ve learnt and striven, too,  
+For here we’ve learnt and striven too,  
 And played the sportsman’s game.  
 Victoria, we give to you  
 The honour that you claim.
