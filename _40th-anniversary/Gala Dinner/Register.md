@@ -17,7 +17,7 @@ third_nav_title: Gala Dinner
     your particulars <a href="https://go.gov.sg/vj40" rel="noopener noreferrer nofollow" target="_blank">here</a> or
     scan the QR code below:&nbsp;</p>
 <div class="isomer-image-wrapper">
-    <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/40th Anni/dinner qr.jpeg">
+    <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/40th Anni/dinner qr.jpeg">
 </div>
 <p>For further inquiries, pls contact <a href="mailto:40th@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">40th@vjc.edu.sg</a>. Your enthusiastic participation
     will make this celebration even brighter.</p>
