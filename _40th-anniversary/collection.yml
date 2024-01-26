@@ -1,0 +1,13 @@
+collections:
+  40th-anniversary:
+    output: true
+    order:
+      - 40th Anniversary.md
+      - Gala Dinner/.keep
+      - Gala Dinner/Gala Dinner.md
+      - Gala Dinner/Register.md
+      - Gala Dinner/Programme.md
+      - Events.md
+      - Merchandise/.keep
+      - Merchandise/Merchandise.md
+      - Merchandise/VJC Alumni 2024 collection.md
