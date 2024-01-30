@@ -117,6 +117,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ECG Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Ng
+<br><a href="mailto:ryan.ng.chee.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan.ng.chee.wei@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM Instructors (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
