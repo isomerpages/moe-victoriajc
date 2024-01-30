@@ -7,8 +7,7 @@ description: ""
 <h1><strong>JAE Appeal Exercise 2024</strong></h1>
 <p>The JAE Appeal exercise for admission into Victoria Junior College will
 open on 1 Feb 2024.</p>
-<p>The application period for JAE Appeal to VJC is 1 Feb 2024, 10am - 5 Feb
-2024, 5pm.</p>
+<p>The application period for JAE Appeal to VJC is <strong>1 Feb 2024, 10am - 5 Feb 2024, 5pm</strong>.</p>
 <p>Applications must be made online this year. Students who wish to submit
 an appeal are to do so through this <a href="https://portal.vjc.edu.sg/0/appeal.html" rel="noopener noreferrer nofollow" target="_blank"><u>application form</u></a>.
 (application system will be made available from 1 Feb 2024, 10am)</p>
