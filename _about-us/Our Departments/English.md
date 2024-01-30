@@ -22,7 +22,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Head of Department English
 <br>Mr James Ho
-<br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a>
+<br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
 <br>
 <br>Head of Department School Staff Developer
 <br>Mr Nazrul Rashidi B Mohd
