@@ -25,6 +25,14 @@ sections:
           url: /upcoming-events/
       variant: center
   - infopic:
+      title: JAE Appeal
+      id: infopic
+      description: Keen to join us?
+      button: Find out more
+      url: /jaeappealexercise/
+      image: /images/2024/2023_JCO1.jpg
+      alt: Image alt text
+  - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
       alt: Late Start Banner
