@@ -189,7 +189,7 @@ Since 2021, we have added H2 Computing and H2 Chinese Language and Literature to
 
 Besides these subject combinations, students with the ability and passion to deepen their learning can apply to offer a H3 subjects in the Humanities and the Science.&nbsp;
 
-There is a range of H3 offerings that are either taught by VJC teachers in college or by university lecturers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and Singapore Management University (SMU). VJC also offers a special H3 programme –&nbsp;[H3 NAV Science Research](https://victoriajc.moe.edu.sg/learn-like-a-victorian/talent-development-programme/vsmart/)&nbsp;– in collaboration with the Agency of Science, Technology and Research (A\*STAR) and NUS.
+There is a range of H3 offerings that are either taught by VJC teachers in college or by university lecturers at the National University of Singapore (NUS), Nanyang Technological University (NTU) and Singapore Management University (SMU). VJC also offers a special H3 programme –&nbsp;[H3 NAV Science Research](/level-up/talent-development-programme/vsmart/)&nbsp;– in collaboration with the Agency of Science, Technology and Research (A\*STAR) and NUS.
 
 ### A-Level syllabus
 
@@ -197,4 +197,4 @@ The Singapore Examinations and Assessment Board (SEAB) provides comprehensive in
 
 ### VJC Academic Information 2024
 
-Download our 2024 Academic Information booklet&nbsp;[here](https://for.edu.sg/vjcacadbooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2024 Academic Information booklet&nbsp;[here](https://go.gov.sg/vjcacademicinfobooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
