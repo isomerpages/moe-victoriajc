@@ -2,13 +2,14 @@
 title: Joint Admissions Exercise (JAE)
 permalink: /admissions/joint-admissions-exercise/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub%20Page%20Banners%202023/Admissions%20JAE.jpg)
 
 ### Joint Admissions Exercise
 
 
-The Joint Admissions Exercise (JAE) to junior colleges is conducted by the Ministry of Education in January each year. Secondary 4 students will receive an instruction booklet from their secondary schools, with detailed instructions on how to apply. For more details on the JAE application process, please refer to MOE's website [here](https://www.moe.gov.sg/post-secondary/admissions/jae/apply).
+The Joint Admissions Exercise (JAE) to junior colleges is conducted by the Ministry of Education in January each year. Secondary 4 students will receive an instruction booklet from their secondary schools, with detailed instructions on how to apply. For more details on the JAE application process, please refer to MOE's website [here](https://www.moe.gov.sg/post-secondary/admissions/jae).
   
 In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
 
@@ -36,8 +37,11 @@ In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
 <p>Some courses offered in university have pre-requisites, and students are strongly encouraged to visit the university websites to find out more.</p>
 
 <p>For more information on subjects offered in VJC, do check our <a href="/learn-like-a-victorian/academic-disciplines/">website</a>. You may also find out more from our teacher advisors. Please write to:
-</p><p>Ms Toh Chui Hoon, Head of Dept/Science at:&nbsp;
-	<a href="toh.chuihoon@vjc.edu.sg">toh.chuihoon@vjc.edu.sg</a></p>
+</p>
+<p>Dr Wu Jiang, Head of Science (Covering) at:&nbsp;
+	<a href="wu.jiang@vjc.edu.sg">wu.jiang@vjc.edu.sg</a><br>
+Ms Sharon Tey, Head of Science (Covering) at:&nbsp;
+	<a href="tey.li.wei.sharon@vjc.edu.sg">tey.li.wei.sharon@vjc.edu.sg</a></p>
 				
 <p>Ms Goh Hui Hua, Head of Dept/Arts at:&nbsp;
 <a href="goh.huihua@vjc.edu.sg">goh.huihua@vjc.edu.sg</a></p>
