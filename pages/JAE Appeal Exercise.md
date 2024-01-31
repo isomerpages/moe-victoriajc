@@ -27,8 +27,8 @@ period. You are advised to submit early.</p>
 <ul>
 <li>
 <p>Applicants must meet the cut-off point for the respective course at VJC
-for the appeal to be considered. The cut-off points are indicated in the
-online form.</p>
+for the appeal to be considered. The cut-off points are 6 for Science stream
+and 8 for Arts stream.</p>
 </li>
 <li>
 <p>If you were admitted into your posted school via Direct School Admission
