@@ -11,7 +11,7 @@ variant: markdown
 
 The Joint Admissions Exercise (JAE) to junior colleges is conducted by the Ministry of Education in January each year. Secondary 4 students will receive an instruction booklet from their secondary schools, with detailed instructions on how to apply. For more details on the JAE application process, please refer to MOE's website [here](https://www.moe.gov.sg/post-secondary/admissions/jae).
   
-In 2023, the cut-off points for Science stream is 7 and Arts stream is 8.
+In 2024, the cut-off points for Science stream is 6 and Arts stream is 8.
 
 ### Frequently Asked Questions
 
