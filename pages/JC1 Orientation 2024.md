@@ -214,7 +214,7 @@ details regarding your first week in VJC.</p>
 </tbody>
 </table>
 <h4>Academic Matters</h4>
-<p><strong>Please refer to <a href="https://go.gov.sg/vjc24acad" rel="noopener noreferrer nofollow" target="_blank">this document</a> for information on the following</strong>
+<p><strong>Please refer to <a href="https://go.gov.sg/vjc24acad" rel="noopener noreferrer nofollow" target="_blank">this document</a> for information on the following</strong> 
 <br>1. Subject briefing and sample lessons
 <br>2. Online registration for subject combination
 <br>3. Subject selection test</p>
