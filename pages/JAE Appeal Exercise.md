@@ -9,9 +9,8 @@ description: ""
 open on 1 Feb 2024.</p>
 <p>The application period for JAE Appeal to VJC is <strong>1 Feb 2024, 10am - 5 Feb 2024, 5pm</strong>.</p>
 <p>Applications must be made online this year. Students who wish to submit
-an appeal are to do so through this <a href="https://portal.vjc.edu.sg/0/appeal.html" rel="noopener noreferrer nofollow" target="_blank"><u>application form</u></a>.
-(application system will be made available from 1 Feb 2024, 10am)</p>
-<p><strong>1.</strong>&nbsp; &nbsp; &nbsp; <strong>What documents do I need to submit online?</strong>
+an appeal are to do so through this <a href="https://portal.vjc.edu.sg/0/appeal.html" rel="noopener noreferrer nofollow" target="_blank"><u>application form</u></a>.</p>
+<p><strong>What documents do I need to submit online?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,12 +22,13 @@ an appeal are to do so through this <a href="https://portal.vjc.edu.sg/0/appeal.
 </ul>
 <p>Please complete all sections and submit your application within the application
 period. You are advised to submit early.</p>
-<p>Do take note of the following:</p>
+<p><strong>Do take note of the following:</strong>
+</p>
 <ul>
 <li>
-<p>Applicants must meet the cut-off point for the respective course at VJC
-for the appeal to be considered. The cut-off points are 6 for Science stream
-and 8 for Arts stream.</p>
+<p>Applicants must meet the cut-off poin<u>t</u> for the respective course
+at VJC for the appeal to be considered. The cut-off points are 6 for Science
+stream and 8 for Arts stream.</p>
 </li>
 <li>
 <p>If you were admitted into your posted school via Direct School Admission
