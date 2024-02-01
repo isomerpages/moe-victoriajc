@@ -17,9 +17,9 @@ sections:
         - title: 40th Anniversary
           description: Celebrations
           url: /40th-anniversary/
-        - title: Happenings at VJC
-          description: Featured News
-          url: /happenings-at-vjc/
+        - title: JC Orientation
+          description: Schedule
+          url: /jc1orientation2024/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
