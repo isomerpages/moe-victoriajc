@@ -11,7 +11,6 @@ description: ""
 <p>We hope you are fired up for Orientation! The following are important
 details regarding your first week in VJC.</p>
 <h4>Orientation Schedule</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/schedule.jpg">
 </div>
@@ -25,8 +24,7 @@ details regarding your first week in VJC.</p>
 <p><strong>Dates:</strong> &nbsp;2 Feb (Fri) and 5 Feb (Mon)
 <br><strong>Payment Methods:</strong> Cash, PayNow or PayLah!
 <br>
-</p>
-<p></p><a class="isomer-image-wrapper" href="https://hongkongtatkee.com/collections/victoria-junior-college"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024/uniformsales.jpg"></a>
+</p><a class="isomer-image-wrapper" href="https://hongkongtatkee.com/collections/victoria-junior-college"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024/uniformsales.jpg"></a>
 <h4><u>Graphing Calculator Sales</u></h4>
 <p><strong>Date:</strong> 2 Feb (Fri)
 <br><strong>Amount</strong>: $177
