@@ -109,9 +109,7 @@ details regarding your first week in VJC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reporting Time: 7.50am</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Dismissal Time: 3.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,9 +139,7 @@ details regarding your first week in VJC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reporting Time: 7.50am</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Dismissal Time: 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,16 +169,12 @@ details regarding your first week in VJC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reporting Time: 7.50am</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Dismissal Time: 8.00pm (at Suntec City)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AM: VJC PE t-shirt with black shorts</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>FOW: Fired Up T-shirt with black shorts</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -203,9 +195,7 @@ details regarding your first week in VJC.</p>
 <p>Fountain of Wealth (FOW) (5.30pm to 8.00pm)</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p><em>Note: Day activities are expected to end at 2.00pm, after which classes have free-and-easy time before meeting at Suntec City for the Fountain of Wealth at 5.30pm.&nbsp;</em>
 </p>
 <p></p>
