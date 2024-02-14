@@ -34,7 +34,7 @@ variant: tiptap
 <p>24A12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacinth Latha Thyagarajan
+<p>Ms Jacinth Thyagarajan
 <br><a href="mailto:jacinth.rajan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacinth.rajan@vjc.edu.sg</a>
 </p>
 </td>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>24A15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chue Mei Ling
+<p>Mrs Chua Mei Ling
 <br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
 </p>
 </td>
@@ -126,7 +126,7 @@ variant: tiptap
 <p>24S36</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Ee Soo Chin
+<p>Mdm Ee Soo Chin Sarah
 <br><a href="mailto:ee.soo.chin.sarah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ee.soo.chin.sarah@vjc.edu.sg</a>
 </p>
 </td>
@@ -217,7 +217,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Goh Ker Liang
-<br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a>
+<br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a> 
 <br>Ms Lin Danwei
 <br><a href="mailto:lin.danwei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin.danwei@vjc.edu.sg</a>
 </p>
@@ -288,7 +288,7 @@ variant: tiptap
 <p>24S56</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Quek Tze Jen
+<p>Mr Quek Tze Jen Eugene
 <br><a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a>
 </p>
 </td>
@@ -308,7 +308,7 @@ variant: tiptap
 <p>24S62</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Tay
+<p>Ms Geraldine Tay Rou Jun
 <br><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>
 </p>
 </td>
