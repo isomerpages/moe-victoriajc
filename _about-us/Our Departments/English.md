@@ -41,9 +41,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Christian</p>
-<p>(Level Head (General Paper)) (Covering)</p>
-<p><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
+<p>Ms Sarah Christian
+<br>(Level Head (General Paper))(Covering)
+<br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,69 +128,67 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hu Cheri
-<br><a href="mailto:hu.cheri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hu.cheri@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jacinth Thyagarajan
 <br><a href="mailto:jacinth.rajan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacinth.rajan@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jacqueline Tan
 <br><a href="mailto:tan.wan.yee.jacqueline@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wan.yee.jacqueline@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jean Lee
 <br><a href="mailto:lee.yuling.jean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.yuling.jean@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kan Chien-Yi
 <br><a href="mailto:kan.chien-yi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.chien-yi@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Khoo Hui Ching Bernice
 <br><a href="mailto:khoo.hui.ching.bernice@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo.hui.ching.bernice@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lionel Loh Han Loong
 <br><a href="mailto:loh.han.loong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.han.loong@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mark Lee
 <br><a href="mailto:lee.tzeming.mark@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.tzeming.mark@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sandhya Perryn Singh
 <br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Han Zong
 <br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Duan Rong
 <br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
