@@ -17,21 +17,10 @@ sections:
         - title: 40th Anniversary
           description: Celebrations
           url: /40th-anniversary/
-        - title: JC Orientation
-          description: Schedule
-          url: /jc1orientation2024/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
       variant: center
-  - infopic:
-      title: JAE Appeal
-      id: infopic
-      description: Keen to join us?
-      button: Find out more
-      url: /jaeappealexercise/
-      image: /images/2024/2023_JCO1.jpg
-      alt: Image alt text
   - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
