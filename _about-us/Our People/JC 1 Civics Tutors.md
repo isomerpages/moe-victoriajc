@@ -44,7 +44,7 @@ variant: tiptap
 <p>24A13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Daphne Lim
+<p>Ms Lim Pei Fang Daphne
 <br><a href="mailto:lim.pei.fang.daphne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.fang.daphne@vjc.edu.sg</a>
 </p>
 </td>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>24S32</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chin Siew Mee
+<p>Mrs Lim Siew Mee
 <br><a href="mailto:chin.siewmee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.siewmee@vjc.edu.sg</a>
 </p>
 </td>
@@ -156,7 +156,7 @@ variant: tiptap
 <p>24S39</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lee Chia Wei
+<p>Mdm Esther Lee Chia Wei
 <br><a href="mailto:esther.lee.chia.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee.chia.wei@vjc.edu.sg</a>
 </p>
 </td>
@@ -186,7 +186,7 @@ variant: tiptap
 <p>24S42</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Heng Wei Zhi
+<p>Mr Heng Wei Zhi Jonathan
 <br><a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng.wei.zhi.jonathan@vjc.edu.sg</a>
 </p>
 </td>
@@ -206,7 +206,7 @@ variant: tiptap
 <p>24S44</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Cher Chuan
+<p>Mr Edwin Lim Cher Chuan
 <br><a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a>
 </p>
 </td>
