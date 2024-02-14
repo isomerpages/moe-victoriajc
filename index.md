@@ -17,6 +17,9 @@ sections:
         - title: 40th Anniversary
           description: Celebrations
           url: /40th-anniversary/
+        - title: Happenings at VJC
+          description: Featured News
+          url: /happenings-at-vjc/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
