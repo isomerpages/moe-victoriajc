@@ -24,8 +24,8 @@ variant: tiptap
 <p>24A11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lionel Loh
-<br><a href="mailto:loh.han.loong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.han.loong@vjc.edu.sg</a>
+<p>Ms Chloe Lim Xueyi
+<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -34,10 +34,8 @@ variant: tiptap
 <p>24A12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lim
-<br><a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a> 
-<br>Ms Lee Woon Leng
-<br><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
+<p>Ms Jacinth Latha Thyagarajan
+<br><a href="mailto:jacinth.rajan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacinth.rajan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -46,8 +44,8 @@ variant: tiptap
 <p>24A13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandhya
-<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
+<p>Ms Daphne Lim
+<br><a href="mailto:lim.pei.fang.daphne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.fang.daphne@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -56,8 +54,8 @@ variant: tiptap
 <p>24A14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wardah
-<br><a href="mailto:wardah.bte.abd.malek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wardah.bte.abd.malek@vjc.edu.sg</a>
+<p>Ms Cindy Chan
+<br><a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -66,7 +64,9 @@ variant: tiptap
 <p>24A15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chue Mei Ling
+<br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,10 +74,8 @@ variant: tiptap
 <p>24S31</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Christian
-<br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a> 
-<br>Mr Peter Wee
-<br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
+<p>Mr Hazrin Bin Zainal
+<br><a href="mailto:hazrin.zainal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazrin.zainal@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -98,8 +96,10 @@ variant: tiptap
 <p>24S33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Eric Foo
-<br><a href="mailto:foo.peowmeng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo.peowmeng@vjc.edu.sg</a>
+<p>Ms Michelle Lim
+<br><a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a> 
+<br>Ms Lee Woon Leng
+<br><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -168,8 +168,8 @@ variant: tiptap
 <p>24S310</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms June Tan
-<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
+<p>Ms Joanne Low Shu'En
+<br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -179,7 +179,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Meichan
-<br><a href="mailto:ng.meichan@_vjc_.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@</a><em><a href="mailto:ng.meichan@_vjc_.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vjc</a></em>
+<br><a href="mailto:ng.meichan@_vjc_.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@</a><em><a href="mailto:ng.meichan@_vjc_.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vjc</a></em> 
 <a href="mailto:ng.meichan@_vjc_.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>
 </p>
 </td>
@@ -219,8 +219,10 @@ variant: tiptap
 <p>24S45</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mah Ai Ling
-<br><a href="mailto:poh.ailing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh.ailing@vjc.edu.sg</a>
+<p>Ms Michelle Lim
+<br><a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a> 
+<br>Ms Lee Woon Leng
+<br><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
