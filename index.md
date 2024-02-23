@@ -30,7 +30,7 @@ sections:
       description: Updates
       button: FIND OUT MORE
       url: /about/culture-of-excellence/student-achievements/class-of-2023/
-      image: /images/Group_0046.jpg
+      image: /images/Group_shot_New__webite_.jpg
       alt: Image alt text
   - infopic:
       title: 9-Day Timetable
