@@ -6,10 +6,10 @@ description: ""
 third_nav_title: Achievements
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_0046.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_shot_New__webite_.jpg">
+</div>
 <p>Our Victorians sat for the 2023 Singapore-Cambridge GCE A-Level Examination.
 We are proud to announce that they have achieved an excellent set of results.</p>
 <p>4 out of 10 students achieved at least three H2 Distinctions.</p>
