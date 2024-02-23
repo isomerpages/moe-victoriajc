@@ -25,6 +25,14 @@ sections:
           url: /upcoming-events/
       variant: center
   - infopic:
+      title: 2023 A-Level Results
+      id: infopic
+      description: Updates
+      button: FIND OUT MORE
+      url: /about/culture-of-excellence/student-achievements/class-of-2023/
+      image: /images/Group_shot_New__webite_.jpg
+      alt: Image alt text
+  - infopic:
       title: 9-Day Timetable
       image: /images/2023 Images/2023 9-Day Timetable2.jpg
       alt: Late Start Banner

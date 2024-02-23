@@ -1,10 +1,9 @@
 ---
 title: Class of 2019
-permalink: /about/culture-of-excellence/student-achievements/class-of-2019/
+permalink: /permaclass-of-2019/
 description: ""
-third_nav_title: Achievements
+variant: tiptap
 ---
-
 ![](/images/Photomontage-Banner-1.jpg)
 
 812 Victorians sat for the 2019 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results.
@@ -19,19 +18,18 @@ The Median University Admission Score (UAS) for the cohort is 85
 
 This cohort sat for their Project Work examination in 2018, with about 9 in 10 achieving distinctions
 
-Congratulations to the Cohort of 2018! You have kept the Victorian flag unfurled. We are very proud of you. We wish you the very best for your future endeavours. A big **‘Thank You’** goes out to our **teachers, parents and partners** for your dedicated support of our students’ efforts.  
+Congratulations to the Cohort of 2018! You have kept the Victorian flag unfurled. We are very proud of you. We wish you the very best for your future endeavours. A big&nbsp;**‘Thank You’**&nbsp;goes out to our&nbsp;**teachers, parents and partners**&nbsp;for your dedicated support of our students’ efforts.  
 
 _Nil Sine Labore_!
 
 ### Outstanding Students
 
-_Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_ **_V_**_isionary_ _leadership and_ **_E_**_xtraordinary service”._
+_Aligned with our College vision of “_**_LiVE_**&nbsp;**_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_&nbsp;**_V_**_isionary_&nbsp;_leadership and_&nbsp;**_E_**_xtraordinary service”._
 
 <span style="font-size: 34px;"><strong>Madam Victoria<br>Charisse Peh Xue Qi, 18S36<br>(Cedar Girls’ Secondary School)
 </strong></span>
 
-<img src="/images/VJC_Charisse_1506-768x1152.jpg" 
-     style="width:60%">
+<img src="/images/VJC_Charisse_1506-768x1152.jpg" style="width:60%">
 		 
 A people-centred leader. A sensitive problem-solver. A convincing influencer. These were terms used to describe Charisse, the Vice-President of the 36th Students’ Council. In her term of office, Charisse had to adapt to rapidly changing circumstances and overcome sticky challenges. Yet, she did all of these with composure and aplomb.
 
@@ -46,8 +44,7 @@ An empathetic and respectful leader who always puts her people at the centre, Ch
 <span style="font-size: 34px;"><strong>The Record-Breaking Athlete<br>Kampton Kam, 18S45<br>(Victoria School)
 </strong></span>
 
-<img src="/images/VJC_Kampton_1545-768x1152.jpg" 
-     style="width:60%">
+<img src="/images/VJC_Kampton_1545-768x1152.jpg" style="width:60%">
 		 
 Kampton is an exceptional high jumper with many accolades under his belt. During his time at VJC, he participated in the 2018 Youth Olympic Games in Argentina (7th position), 2018 ASEAN School Games in Malaysia (Gold), 2018 Hong Kong Inter-City Athletics Championship (Gold), 2019 Southeast Asian Games in the Philippines (7th position), amongst others.
 
@@ -62,8 +59,7 @@ Kampton is truly an inspiring athlete who sets high standards for himself and st
 <span style="font-size: 34px;"><strong>The Modern Renaissance Woman<br>Ge Shu, 18S55 <br>(Singapore Chinese Girls’ School)
 </strong></span>
 
-<img src="/images/VJC_GeShu_9784-768x1152.jpg" 
-     style="width:60%">
+<img src="/images/VJC_GeShu_9784-768x1152.jpg" style="width:60%">
 		 
 A passionate young scientist, Ge Shu participated in the Nanyang Research Programme in 2019, where she attained a Gold Award. She was also an accomplished contestant at national and international science and mathematics competitions, including the 2019 Asian Physics Olympiad, where she was recognised as the Best Female Performer.
 
@@ -81,8 +77,7 @@ A modern Renaissance woman cultivated in the laboratories of VJC and who has gon
 <span style="font-size: 34px;"><strong>The Fleet-Footed Sportsman<br>Amir Hafiz B Rohaimi, 18S61<br>(St. Patrick’s School)
 </strong></span>
 
-<img src="/images/VJC_Amir_9852-768x1152.jpg" 
-     style="width:60%">
+<img src="/images/VJC_Amir_9852-768x1152.jpg" style="width:60%">
 		 
 Amir entered VJC via the Direct School Admissions Exercise and became an integral member of the VJC sporting community. A member of the Cross Country Team, he participated in the 2019 WINGS Cross Country Championships and achieved a third runner-up team placing at the 2019 National School Games ‘A’ Division Cross Country Championships.
 
@@ -97,8 +92,7 @@ A warm and kind-hearted individual, Amir believed in the importance of giving ba
 <span style="font-size: 34px;"><strong>The Critical Thinker<br>Benedict Chang Yew Kit, 18A13<br>(Anglican High School)
 </strong></span>
 
-<img src="/images/VJC_Benedict_9716-768x1152.jpg" 
-     style="width:60%">
+<img src="/images/VJC_Benedict_9716-768x1152.jpg" style="width:60%">
 		 
 A recipient of the MOE Humanities Scholarship, Benedict is a man of the arts. He was Chairperson of Writers’ Circle, organising many of the club’s key events to promote a love of the literary arts. He was a thoughtful leader who was humble and honest in his dealings with peers and teachers.
 
