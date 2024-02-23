@@ -19,5 +19,5 @@ dedicated support of our students’ efforts.</p>
 <p>Nil Sine Labore!</p>
 <p></p>
 <p>For more updates please visit our social media handles @victoriajc_official
-on [Instagram](<a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/victoriajc_official/</a>)
-and [Facebook](<a href="https://www.facebook.com/victoriajuniorcollege/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/victoriajuniorcollege/</a>)!</p>
+on <a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
+<a href="https://www.facebook.com/victoriajuniorcollege/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
