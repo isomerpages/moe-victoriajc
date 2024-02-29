@@ -22,7 +22,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Head of Department Science (Covering), Subject Head Science Research
 <br>Dr Wu Jiang
-<br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a>
+<br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
 <br>
 <br>Head of Department Science (Covering), Level Head Physics
 <br>Ms Sharon Tey
@@ -211,8 +211,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Monica Wong
-<br><a href="mailto:wong.shuehmei.monica@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.shuehmei.monica@vjc.edu.sg</a>
+<p>Mr Muhammad Rafiqi Bin Leman
+<br><a href="mailto:muhammad.rafiqi.leman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad.rafiqi.leman@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
