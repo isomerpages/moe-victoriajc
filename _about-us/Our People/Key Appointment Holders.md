@@ -326,8 +326,8 @@ variant: tiptap
 <p>Level Head (JC1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Hui Ling Mabel
-<br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
+<p>Ms Chong Cui Ying
+<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -336,8 +336,8 @@ variant: tiptap
 <p>Level Head (JC2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Cui Ying
-<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
+<p>Ms Ang Hui Ling Mabel
+<br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
