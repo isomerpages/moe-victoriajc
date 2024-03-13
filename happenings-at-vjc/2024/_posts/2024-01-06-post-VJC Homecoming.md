@@ -7,8 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Homecoming" src="/images/Homecoming_2.jpg">
 </div>
