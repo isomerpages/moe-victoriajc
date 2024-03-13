@@ -18,3 +18,4 @@ had a good time catching up with their former schoolmates and teachers
 and recalled their favourite VJC memories with nostalgia. The event ended
 on a high note with everyone singing the Victorian Anthem with gusto! Keep
 our flag unfurled!</p>
+<p></p>
