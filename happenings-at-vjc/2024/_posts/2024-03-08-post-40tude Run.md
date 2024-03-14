@@ -1,6 +1,6 @@
 ---
 title: 40tude Run
-permalink: /happenings-at-vjc/2024/permalink/
+permalink: /happenings-at-vjc/2024/40tuderun/
 date: 2024-03-08
 layout: post
 description: ""

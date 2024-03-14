@@ -1,6 +1,6 @@
 ---
 title: Lunar New Year Celebration
-permalink: /happenings-at-vjc/2024/permalink/
+permalink: /happenings-at-vjc/2024/cny24/
 date: 2024-02-09
 layout: post
 description: ""

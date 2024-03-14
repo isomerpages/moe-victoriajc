@@ -1,6 +1,6 @@
 ---
 title: Open House
-permalink: /happenings-at-vjc/2024/permalink/
+permalink: /happenings-at-vjc/2024/oh24/
 date: 2024-01-13
 layout: post
 description: ""

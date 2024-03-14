@@ -1,6 +1,6 @@
 ---
 title: Total Defence Day
-permalink: /happenings-at-vjc/2024/permalink/
+permalink: /happenings-at-vjc/2024/td24/
 date: 2024-02-15
 layout: post
 description: ""
