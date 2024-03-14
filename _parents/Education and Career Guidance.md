@@ -2,8 +2,8 @@
 title: Education and Career Guidance
 permalink: /education-and-career-guidance-ecg/
 description: ""
+variant: markdown
 ---
-
 ![](/images/Education-and-Career-Guidance-banner-1024x365.jpg)
 Is your child clear about his/her interests, abilities and passion? Is he/she about to make an important decision regarding his/her education and career pathways?
 
@@ -19,7 +19,7 @@ You can help guide your child to make informed education and career choices that
 4.  Encourage your child to participate in the college’s ECG activities to learn more about a variety of occupations.
 5.  Support your child’s aspirations.
 
-Your child can also have further conversations with his or her civics tutor.  Alternatively, your child can make an appointment with the school ECG Counsellor [here](https://moeecg.appointeze.com/onlinelink/GlendaPoon).
+Your child can also have further conversations with his or her civics tutor.  Alternatively, your child can make an appointment with the school ECG Counsellor [here](https://calendly.com/ecgc_r/counselling).
 
 ### What is Education and Career Guidance (ECG)?
 
