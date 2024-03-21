@@ -10,7 +10,7 @@ third_nav_title: Gala Dinner
 or special friends. Limited tickets, so book now!</p>
 <p></p>
 <p>Exclusive tickets available:
-<br>🌟 Gold Tables: $2,000 each<strong> (only 10 tickets left!!)</strong>
+<br>🌟 Gold Tables: $2,000 each<strong> (only 10 tickets left!!)</strong> 
 <br>⭐️ VIP Tables: $5,000 each</p>
 <p></p>
 <p>Secure your spot on this unforgettable trip down memory lane by entering
