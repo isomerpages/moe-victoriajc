@@ -4,6 +4,7 @@ permalink: /level-up/talent-development-programme/drama-elective-programme/
 description: theatre studies and drama jc
 third_nav_title: Talent Development Programme
 variant: tiptap
+image: /images/2024/tsd.jpg
 ---
 ![](/images/Drama-Elective-Programme-banner-1024x433.jpg)
 Theatre Studies and Drama (TSD) is a demanding yet rewarding A-Level subject aimed at students with a genuine interest in Theatre and Drama. Students need to conduct their own research and select material for monologues, duologues and group performances. Students also need to have a good level of spoken and written English and be able to work with initiative both as an individual and as part of a collaborative team.
