@@ -34,9 +34,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: 9-Day Timetable
-      image: /images/2023 Images/2023 9-Day Timetable2.jpg
+      image: /images/2024/latebanner24.jpg
       alt: Late Start Banner
-      description: Late Start EVERYDAY
+      description: Late Start EVERY DAY
   - infopic:
       title: Learn
       subtitle: Feed Your Curiosity
