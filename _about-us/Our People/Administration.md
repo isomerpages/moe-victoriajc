@@ -57,15 +57,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chin Choon Fong May
-<br><a href="mailto:chin.choon.fong.may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.choon.fong.may@vjc.edu.sg</a> 
-</p>
-<p>Mdm Tan Goke Hong Jasmine</p>
-<p><a href="mailto:tan.goke.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.goke.hong@vjc.edu.sg</a> 
-</p>
-<p>Mr Lee Hwa Seng
-<br><a href="mailto:lee.hwa.seng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.hwa.seng@vjc.edu.sg</a>
+<br><a href="mailto:chin.choon.fong.may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.choon.fong.may@vjc.edu.sg</a>
+<br>Mdm Tan Goke Hong Jasmine
+<br><a href="mailto:tan.goke.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.goke.hong@vjc.edu.sg</a>
+<br>Mr Lee Hwa Seng
+<br><a href="mailto:lee.hwa.seng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.hwa.seng@vjc.edu.sg</a> 
 <br>Mr Morgan Kanapathy
-<br><a href="mailto:morgan.kanapathy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">morgan.kanapathy@vjc.edu.sg</a> 
+<br><a href="mailto:morgan.kanapathy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">morgan.kanapathy@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
