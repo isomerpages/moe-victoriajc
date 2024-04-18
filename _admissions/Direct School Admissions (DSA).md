@@ -2,14 +2,15 @@
 title: Direct School Admissions (DSA)
 permalink: /admissions/direct-school-admissions/
 description: ""
+variant: markdown
 ---
 ![](/images/Sub%20Page%20Banners%202023/2023%20dsa.jpg)
 ### DSA-JC Admission
 
 
-We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! Check out our [instagram](https://www.instagram.com/p/Crw2NMDJsbq/?utm_source=ig_web_copy_link) to find out more about our DSA students and their #whyvj!
+We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! 
 
-The DSA talent areas for the 2023 DSA-JC Admission Exercise are listed below. The 2023 DSA-JC Admission Exercise has ended and we wish all applicants all the best! Do check back in April 2024 for the updated list of talent areas.
+The DSA talent areas for the 2024 DSA-JC Admission Exercise are listed below. 
 
 ### Performing Arts
 
