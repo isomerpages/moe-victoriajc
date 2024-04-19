@@ -24,7 +24,7 @@ The DSA talent areas for the 2024 DSA-JC Admission Exercise are listed below.
 ### Sports
 
 *   Badminton
-*   Basketball (Girls only)
+*   Basketball (Girls)
 *   Cross Country
 *   Floorball
 *   Football
