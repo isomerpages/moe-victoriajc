@@ -151,7 +151,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Win Lei Thu
-<br><a href="mailto:win.lei.thu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">win.lei.thu@vjc.edu.sg</a>
+<br><a href="mailto:win.lei.thu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">win.lei.thu@vjc.edu.sg</a> 
 <br>Mr Syafiq Anuar Bin Mahmood
 <br><a href="mailto:syafiq.anuar@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syafiq.anuar@vjc.edu.sg</a>
 </p>
