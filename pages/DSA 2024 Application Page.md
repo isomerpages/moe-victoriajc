@@ -4,7 +4,7 @@ permalink: /dsa2024application/
 variant: markdown
 description: ""
 ---
-![](/images/Sub%20Page%20Banners%202023/2023%20dsa2.jpg)
+![](/images/2024/2024_DSA_Banner.jpg)
 ### DSA-JC Application Process
 
 Welcome to the application page for the 2024 DSA-JC exercise, for admission in year 2025.
