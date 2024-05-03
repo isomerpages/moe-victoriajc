@@ -91,6 +91,244 @@ times for auditions. The teacher in-charge will contact applicants to confirm
 the date and time allocated.
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Orchestra</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :</strong> &nbsp;</p>
+<p>13 July 2024, Saturday, 8.30am – 1.00pm</p>
+<p>17 July 2024, Wednesday, 4.30pm – 7.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>Chinese Orchestra Music Room</p>
+<p><strong>Format :</strong> All applicants are required to perform a piece
+that contains at least 16 bars each of fast and slow tempo. Applicants
+for percussion instruments are to prepare a piece that showcases contrasting
+tempo as well.</p>
+<p>Applicants will also be given a sight-reading exercise and undergo an
+interview after the audition.</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1. Applicants should display a high level of musicality.</p>
+<p>2. Applicants should pass the interview</p>
+<p>3. Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4. Priority will be given to players from the wind, bowed strings and
+percussion sections, as these are our areas of need. We are not offering
+DSA places for Guzheng.</p>
+<p><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
+<a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>| 62402138</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
+</p>
+<p>29 June 2024, Saturday, 9.30am – 2.00pm</p>
+<p>6 July 2024, Saturday, 9.30am – 1.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>LT3</p>
+<p>&nbsp;</p>
+<p><strong>Format : </strong>All applicants are required to undergo an audition
+(vocal testing exercise) conducted by the choir master, as well as an interview.
+No song preparation is required.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1. &nbsp; &nbsp; Applicants should display a high level of musicality.</p>
+<p>2. &nbsp; &nbsp; Applicants should pass the interview.</p>
+<p>3. &nbsp; &nbsp; Applicants should possess the ability to cope with the
+academic rigour of the JC curriculum.</p>
+<p>4. &nbsp; &nbsp; Priority will be given to singers from the soprano, tenor
+and bass sections as these are our areas of need.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
+| <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
+62402168</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
+</p>
+<p>6 July 2024, Saturday, 11.00am – 5.00pm</p>
+<p>9 July 2024, Tuesday, 4.30pm –7.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>Band Room</p>
+<p>&nbsp;</p>
+<p><strong>Format : </strong>All applicants are required to play two contrasting
+pieces of their choice, and to prepare all major scales. Percussionists
+should prepare one piece on mallets and another piece on drums or drum
+set. Applicants will also undergo an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1. &nbsp; &nbsp; Applicants should display a high level of musicality.</p>
+<p>2. &nbsp; &nbsp; Applicants should pass the interview.</p>
+<p>3. &nbsp; &nbsp; Applicants should have experience in competitions and/or
+public performances.</p>
+<p>4. &nbsp; &nbsp; Applicants should possess the ability to cope with the
+academic rigour of the JC curriculum.</p>
+<p>5. &nbsp; &nbsp; Priority will be given to players from the brass and
+percussion sections, as these are our areas of need. We are not looking
+for pianists.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
+<a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contemporary Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
+</p>
+<p>2 July 2024, Tuesday, 4.30pm – 7.30pm</p>
+<p>8 July 2024, Monday, 4.30pm – 7.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>T18, T19</p>
+<p><strong>Format :</strong>&nbsp; There will be 3 rounds to the auditions.
+Shortlisted candidates who clear each round will complete all 3 rounds
+within the allocated slot.</p>
+<p><u>Round 1</u>
+</p>
+<p>All applicants will be required to prepare a solo dance piece to a song
+of their choice, of <strong>not more than 1 minute</strong>.</p>
+<p>Please note that candidates must apply based on only <strong>one </strong>of
+the following dance genres:</p>
+<p>1) Contemporary</p>
+<p>2) Standard Ballroom</p>
+<p>3) Latin Ballroom</p>
+<p>4) Street Dance (<strong>only </strong>Hip Hop , Break Dancing, Popping,
+Locking)</p>
+<p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
+fusion dance forms or other forms of street dance will<strong> not</strong> be
+eligible for consideration.</p>
+<p>&nbsp;<u>Round 2</u>
+</p>
+<p>Applicants who pass Round 1 will proceed to Round 2.</p>
+<p>All shortlisted applicants will be invited to learn a contemporary choreography
+from our instructor, after which applicants will perform the piece taught
+to them.</p>
+<p>&nbsp;<u>Round 3</u>
+</p>
+<p>Applicants who pass Round 2 will proceed to Round 3.</p>
+<p>All shortlisted applicants will undergo an interview with the selection
+panel.</p>
+<p><strong>Attire :</strong>
+</p>
+<p>All applicants should audition in the dance gear and footwear suitable
+for their respective dance genres.&nbsp;</p>
+<p>&nbsp;<strong>Selection Criteria :</strong>
+</p>
+<p>1. &nbsp; &nbsp; Applicants should display high levels of musicality,
+performance quality and technical skills in both their respective areas
+of dance expertise (round 1), as well as showcasing the choreographer’s
+piece (round 2).</p>
+<p>2. &nbsp; &nbsp; Applicants should display a high level of versatility,
+preferably excelling in more than one genre of dance.</p>
+<p>3. &nbsp; &nbsp; Applicants should possess the ability to cope with the
+academic rigour of the JC curriculum.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person, email and number :</strong> Mrs Ting Siang Leng
+| <a href="mailto:goh.siangleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.siangleng@vjc.edu.sg</a> |
+62402125</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guitar Ensemble</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
+</p>
+<p>8 July 2024, Monday, 4.00pm – 6.30pm</p>
+<p>9 July 2024, Tuesday, 4.00pm – 6.30pm</p>
+<p>15 July 2024, Monday, 4.00pm – 6.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>T16, T17</p>
+<p>&nbsp;</p>
+<p><strong>Format : </strong>All applicants are required to play a solo piece
+(not section score or ensemble part) of their choice lasting not more than
+5 minutes. Applicants are also required to sight read a piece provided
+by the conductor. Applicants will undergo an interview after the audition.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1. &nbsp; &nbsp; Applicants should display a high level of musicality.</p>
+<p>2. &nbsp; &nbsp; Applicants should pass the interview.</p>
+<p>3. &nbsp; &nbsp; Applicants should have experience in competitions and/or
+public performances.</p>
+<p>4. &nbsp; &nbsp; Applicants should possess the ability to cope with the
+academic rigour of the JC curriculum.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
+Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
+62402147</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>String Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition :</strong>&nbsp;</p>
+<p>8 July 2024, Monday, 4.30pm – 7.00pm</p>
+<p>11 July 2024, Thursday, 4.30pm – 7.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>T14, T15</p>
+<p>&nbsp;</p>
+<p><strong>Format :</strong> All applicants are required to prepare two contrasting
+pieces (eg musical periods, tempo) of their choice. Applicants must have
+experience playing one of the string instruments - violin, viola, cello
+or double bass. Applicants will also undergo an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1. &nbsp; &nbsp; Applicants should display a high level of musicality.</p>
+<p>2. &nbsp; &nbsp; Applicants should pass the interview.</p>
+<p>3. &nbsp; &nbsp; Applicants should possess the ability to cope with the
+academic rigour of the JC curriculum.</p>
+<p>
+<br> <strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
+<a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp; 62402134</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <ul>
 <li>
 <p></p>
