@@ -1,7 +1,7 @@
 ---
 title: DSA 2024 Application Page
 permalink: /dsa2024application/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
@@ -321,7 +321,7 @@ or double bass. Applicants will also undergo an interview.</p>
 <p>3. &nbsp; &nbsp; Applicants should possess the ability to cope with the
 academic rigour of the JC curriculum.</p>
 <p>
-<br> <strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
+<br><strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
 <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp; 62402134</p>
 <p>&nbsp;</p>
 </td>
