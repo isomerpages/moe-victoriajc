@@ -160,7 +160,7 @@ Auditions will take place in Victoria Junior College. Note the dates and times f
   margin-left:13.0pt;line-height:115%" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:#222222" lang="EN-GB">Date and Time of Audition :</span></b></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:13.0pt;line-height:115%" class="MsoNormal"><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">6 July 2024, Saturday, 11.00am – 5.00pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">6 July 2024, Saturday, 8.30am – 1.30pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:13.0pt;line-height:115%" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">9 July 2024, Tuesday, 4.30pm –7.30pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:13.0pt;line-height:115%" class="MsoNormal"><span style="font-family:
