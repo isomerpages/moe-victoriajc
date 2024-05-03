@@ -1,1847 +1,1148 @@
 ---
 title: DSA 2024 Application Page
 permalink: /dsa2024application/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-![](/images/Sub%20Page%20Banners%202023/2023%20dsa2.jpg)
-### DSA-JC Application Process
-
-Welcome to the application page for the 2023 DSA-JC exercise, for admission in year 2024.
-
-If you are applying to Victoria Junior College through DSA-JC, please:
-
-1.  Complete and submit the&nbsp;[online DSA application form](http://portal.vjc.edu.sg/dsa), with supporting documents as pdf or photo attachments  
-    
-2.  Take note of the&nbsp;**key information**&nbsp;for your chosen talent area, such as selection process, criteria and dates.
-
-The set of supporting documents comprises the following:
-
-*   CCA records – (all available records in Secondary school);
-*   Exam result slips – Sec 3 (End of Year exams and Overall), Sec 4 (Weighted Assessment results*);
-*   Other supporting documents – such as awards or the highest certification of achievements;
-*   For students applying for our Niche Academic Programmes (_Drama Elective Programme (DEP), Humanities Programme, Infocomm Technology (Computing), Science Research_), include any relevant supporting documents as per the instructions for the specific Talent Area
-
-_You should get these documents and a digital passport-sized photograph of yourself ready before you start the online application._
-
-_\* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application now (and by 2 July 2023) without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area._
-
-Successful applicants may be asked to show proof of originals of the above records during the offer phase.
-
-Applications should reach us by&nbsp;**2 July 2023, 2359hr**. Incomplete applications (such as those with incomplete information or without a complete set of supporting documents) may not be considered.
-
-For general enquiries, you may email us at&nbsp;[victoria\_jc@moe.edu.sg](mailto:victoria_jc@moe.edu.sg), or call the General Office at 64485011.
-
-For enquiries relating to:
-
-*   **Performing Arts**, please write to Ms Ding Yih, Subject Head/Aesthetics at&nbsp;[ding.yih@vjc.edu.sg](mailto:ding.yih@vjc.edu.sg)
-*  **Sports**, please write to Mr Tan Yew Hwee, HOD/ PE &amp; CCA at&nbsp;[tan.yewhwee@vjc.edu.sg](mailto:tan.yewhwee@vjc.edu.sg)
-*  **Niche Academic Programmes**, please write to the respective teacher i/c as indicated below.
-
-
-Please note the following:
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="710" style="width:526.25pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;
- mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext">
-	<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
-  height:57.15pt"><td width="702" valign="bottom" style="width:526.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
-  height:57.15pt"><p class="MsoNormal"><i>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</i></p></td></tr></tbody></table>
-
-<ul class="jekyllcodex_accordion">
-<li>
-
-<input id="accordion1" type="checkbox">
-
-<label for="accordion1">Performing Arts</label>
-
-<div>
-<p>
-
-Selection will be based on a basket of criteria for the respective talent area.
-
-Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact applicants to confirm the date and time allocated.
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="mso-cellspacing:0in;margin-left:.75pt;background:white;mso-background-themecolor:
- background1;border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="120" valign="top" style="width:90.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Chinese Orchestra</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p></td><td width="480" style="width:5.0in;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Date and Time of&nbsp;Audition:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">15 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Saturday, 8</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">.30am – 1.00pm</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">19 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Wednesday, 4</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">.30pm – 7.00pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Venue: </span></b><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">Chinese Orchestra Music Room</span></span><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;All applicants are required to play one fast and one slow phrase of at least 16 bars each. Applicants will also be given a sight-reading exercise. </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">Applicants will undergo an interview after the audition.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level1 lfo1;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of musicality.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level1 lfo1;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should pass the interview</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level1 lfo1;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level1 lfo1;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Priority will be given to players from the wind and bowed strings (huqin / cello) sections, as these are our areas of need. We are not offering DSA places for Guzheng.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Contact Person:&nbsp;</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Ms Cindy Chan |&nbsp;<a href="mailto:chan.siew.fun@vjc.edu.sg">chan.siew.fun@vjc.edu.sg</a>&nbsp;| 62402138<br>&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:1"><td width="120" valign="top" style="width:90.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Choir</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p></td><td width="480" style="width:5.0in;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext;background:white">Date and Time of<span class="apple-converted-space">&nbsp;</span><span class="il">Audition</span>:<span class="apple-converted-space">&nbsp;</span></span></b><span class="apple-converted-space"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  background:white"></span></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">8 July 2023, Saturday, 9.30am – 1.00pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">15 July 2023, Saturday, 9.30am – 1.00pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Venue: </span></b><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">LT3</span></span><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:red;background:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Format:&nbsp;</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">All applicants are required to undergo an<span class="apple-converted-space">&nbsp;</span><span class="il">audition </span>(vocal&nbsp;testing exercise) conducted by the choir master, as well as an&nbsp;interview. No song preparation is required.</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Selection Criteria:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo2;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of musicality.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo2;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should pass the interview.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo2;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l3 level1 lfo2;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Priority will be given to singers from the soprano, tenor and bass sections as these are our areas of need.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Contact Person:<span class="apple-converted-space">&nbsp;</span></span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Miss Sandhya P. Singh<span class="apple-converted-space">&nbsp;| </span><a href="mailto:sandhya@vjc.edu.sg">sandhya@vjc.edu.sg</a> | 62402168</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:red"></span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="120" valign="top" style="width:90.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Concert Band</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p></td><td width="480" style="width:5.0in;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Date and Time of Audition:<span class="apple-converted-space">&nbsp;</span></span></b><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222"></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">8 July 2023,</span></span><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">&nbsp;Saturday, 1.00pm – 6.00pm</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">15 July 2023,</span></span><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">&nbsp;Saturday, 1.00pm – 6.00pm</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="apple-converted-space"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">Venue : </span></b></span><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Band Room and LT4<b></b></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Format :&nbsp;</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">All applicants are required to play two contrasting pieces of their choice, and to prepare all major scales. Percussionists should prepare one piece on mallets and another piece on drums or drumset. Applicants will also undergo an interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Selection Criteria :</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo3;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of musicality.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo3;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should pass the interview.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo3;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should have experience in competitions and/or public performances.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo3;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l1 level1 lfo3;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Priority will be given to players from the brass and percussion sections, as these are our areas of need. We are not looking for pianists.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Contact Person:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222"> Ms Frances Lee<span class="apple-converted-space">&nbsp;| </span><a href="mailto:lee.dunlin@vjc.edu.sg">lee.dunlin@vjc.edu.sg</a><span class="apple-converted-space">&nbsp;| </span>62402170</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;height:3.8pt"><td valign="top" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 0in 0in 0in;height:3.8pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Contemporary Dance</span></b></p></td><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 0in 0in 0in;height:3.8pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Date </span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext;background:white">and Time of<span class="apple-converted-space">&nbsp;</span><span class="il">Audition</span>:<span class="apple-converted-space">&nbsp;</span></span></b><span class="apple-converted-space"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  background:white"></span></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">10 July 2023, Monday, 4.30pm – 7.00pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">13 July 2023, Thursday, 4.30pm – 7.00pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">T18, T19<b></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp; There will be 3 rounds to the auditions. Shortlisted candidates who clear each round will complete all 3 rounds within the allocated slot.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><u><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Round 1</span></u></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">All applicants will be required to prepare a solo dance piece to a song of their choice, of <b>not more than 1 minute</b>.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Please note that candidates must apply based on only <b>one </b>of the following dance genres:</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">1) Contemporary</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">2) Standard Ballroom</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">3) Latin Ballroom</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">4) Street Dance (<b>only </b>Hip Hop, Break Dancing, Popping, Locking)</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance), fusion dance forms or other forms of street dance will<b> not</b> be eligible for consideration.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><u><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Round 2</span></u></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Applicants who pass Round 1 will proceed to Round 2.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">All shortlisted applicants will be invited to learn a contemporary choreography from our instructor, after which applicants will perform the piece taught to them.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><u><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Round 3</span></u></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Applicants who pass Round 2 will proceed to Round 3.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">All shortlisted applicants will undergo an interview with the selection panel.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Attire:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">All applicants should audition in the dance gear and footwear suitable for their respective dance genres. <span style="mso-spacerun:yes">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.5pt;margin-bottom:
-  0in;margin-left:11.5pt;mso-add-space:auto;text-align:justify;text-justify:
-  inter-ideograph;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Selection Criteria:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l5 level1 lfo4;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display high levels of musicality, performance quality and technical mastery in both their respective areas of dance expertise (round 1), as well as showcasing the choreographer’s piece (round 2).</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l5 level1 lfo4;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of versatility, preferably excelling in more than one genre of dance.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l5 level1 lfo4;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Contact Person:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"> </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">Ms Celeste Teo |<span class="apple-converted-space">&nbsp;</span><a href="mailto:teo.celeste@vjc.edu.sg">teo.celeste@vjc.edu.sg</a> | 62402131</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td valign="top" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Guitar Ensemble</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></b></p></td><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Date and Time of Audition:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">10 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Monday, 4</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">.00pm – 6.30pm</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">11 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Tuesday, 4</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">.00pm – 6.30pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">17 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Monday, 4</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">.00pm – 6.30pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">T16, T17</span><b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Format:&nbsp;</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">All applicants are required to play a solo piece (not section score or ensemble part) of their choice lasting not more than 5 minutes. Applicants are also required to sight read a piece provided by the conductor. </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">Applicants will undergo an interview after the audition.</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Selection Criteria:</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l0 level1 lfo5;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of musicality.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l0 level1 lfo5;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should pass the interview.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l0 level1 lfo5;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should have experience in competitions and/or public performances.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l0 level1 lfo5;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"><span style="mso-spacerun:yes">&nbsp;</span></span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Contact Person:<span class="apple-converted-space">&nbsp;</span></span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#222222">Ms Michelle Lee Wang Ling |<span class="apple-converted-space">&nbsp;</span><a href="mailto:michelle.lee.wang.ling@vjc.edu.sg">michelle.lee.wang.ling@vjc.edu.sg</a> | 62402147</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td valign="top" style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">String Ensemble</span></b></p></td><td style="border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">Date and Time of Audition:</span></b><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">6 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Thursday, </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">3.00pm – 6.00pm</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span class="aqj"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">10 July 2023</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">, Monday, </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">3.00pm – 6.00pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Venue:</span></b><b><span style="mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">T14, T15</span><b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">Format:</span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#222222;background:white"> All applicants are required to prepare two contrasting pieces (eg musical periods, tempo) of their choice. Applicants must have experience playing one of the string instruments - violin, viola, cello or double bass. </span><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants will also undergo an interview.<span style="background:white"></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222;background:white">Selection Criteria:</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l2 level1 lfo6;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should display a high level of musicality.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l2 level1 lfo6;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should pass the interview.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:4.0pt;
-  margin-bottom:0in;margin-left:29.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l2 level1 lfo6;tab-stops:125.5pt;background:white"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222"><br><b><span style="background:white">Contact Person:</span></b><span style="background:white"> Ms Christina Ho (Mrs Tan) |<span class="apple-converted-space">&nbsp;</span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext;
-  background:white"><a href="mailto:christina.ho@vjc.edu.sg">christina.ho@vjc.edu.sg</a></span><span class="apple-converted-space"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">&nbsp;</span></span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:#222222;background:white">| &nbsp;62402138</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:11.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:#222222;background:white">&nbsp;</span></p></td></tr></tbody></table>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/2023%20dsa2.jpg">
 </div>
-
+<h3>DSA-JC Application Process</h3>
+<p>Welcome to the application page for the 2024 DSA-JC exercise, for admission
+in year 2025.</p>
+<p>If you are applying to Victoria Junior College through DSA-JC, please:</p>
+<ol>
+<li>
+<p>Complete and submit the&nbsp;<a href="http://portal.vjc.edu.sg/dsa" rel="noopener noreferrer nofollow" target="_blank">online DSA application form</a>, with
+supporting documents as pdf or photo attachments</p>
 </li>
-
-
 <li>
-
-<input id="accordion2" type="checkbox">
-
-<label for="accordion2">Sports</label>
-
-<div>
-
-<p>
-Selection will be considered on a basket of criteria for the respective talent area.
-
-Physical trials will be conducted at Victoria Junior College. No trials will be conducted for applicants to Cross-Country, Track &amp; Field and Wushu (see details below).
-
-Note the dates and times for trials. All applicants are expected to turn up for one of the trials except for cross country, Track &amp; Field and Wushu. Applicants should be suitably attired for their respective sports trial.
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="711" style="margin-left:.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
- border:none;mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1024;
- mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-color-alt:windowtext">Badminton</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial"></span></b></p></td><td width="593" style="width:444.45pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">Date and Time of Trial:&nbsp;</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">1<sup>st</sup> trial - 22 May (Monday) 6pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">2<sup>nd</sup> trial - 5 July (Wednesday) 6pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Hall<b style="mso-bidi-font-weight:normal"></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l9 level1 lfo6;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l9 level1 lfo6;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l9 level1 lfo6;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l9 level1 lfo6;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l9 level1 lfo6;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">Contact Persons:</span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Ms Daphne Lim | </span><span style="color:black;mso-color-alt:
-  windowtext"><a href="mailto:lim.pei.fang.daphne@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">lim.pei.fang.daphne@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Mr Goh Eng Chai&nbsp;|</span><span style="color:black;
-  mso-color-alt:windowtext"> <a href="mailto:goh.engchai@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#0563C1">goh.engchai@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Basketball (Girls only)</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">Date and Time of Trial:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">1<sup>st</sup> trial - 24 May (Wednesday) 3.30pm</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">2<sup>nd</sup> trial - 5 July (Wednesday) 3.30pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white;border:none;mso-padding-alt:
-  31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222"><span style="mso-spacerun:yes">&nbsp; </span><b style="mso-bidi-font-weight:normal">Venue: </b><span style="mso-bidi-font-weight:
-  bold">VJC</span><b style="mso-bidi-font-weight:normal"> </b>Sheltered Courts<b style="mso-bidi-font-weight:normal"></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l5 level1 lfo9;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l5 level1 lfo9;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l5 level1 lfo9;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l5 level1 lfo9;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l5 level1 lfo9;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">Contact Person:&nbsp;</span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222">Ms Tan Xin Ying |&nbsp;</span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:tan.xinying@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1">tan.xinying@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:2"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Cross-country</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> No trials will be conducted. Applicants will be shortlisted based on the quality of their applications including past results in official competitions for the sport.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white">Shortlisted applicants will be invited for an interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l7 level1 lfo2;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of potential in the sport to compete at the National School Games A Division competition.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l7 level1 lfo2;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l7 level1 lfo2;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l7 level1 lfo2;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><br><b style="mso-bidi-font-weight:normal"><span style="background:white;
-  mso-highlight:white">Contact Person: </span></b><span style="background:white;
-  mso-highlight:white">Mrs Lin Yehong I </span></span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:kok.ye.hong@vjc.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#0563C1;background:white;mso-highlight:white">kok.ye.hong@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> I 62402135</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;<b style="mso-bidi-font-weight:
-  normal"></b></span></p></td></tr><tr style="mso-yfti-irow:3"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:3.0pt;text-indent:4.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-color-alt:windowtext">Floorball</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-color-alt:windowtext;background:white;mso-highlight:
-  white">Date and Time of&nbsp;Trial:&nbsp;</span></b><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;background:white;mso-highlight:white"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white;mso-bidi-font-style:italic">Girls: 1<sup>st</sup> trial - 26 May (Friday) 430pm; 2<sup>nd</sup> trial - 8 July </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-style:italic">(Saturday) </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white;mso-bidi-font-style:
-  italic">9am</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-style:italic">Boys: </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white;mso-bidi-font-style:italic">1<sup>st</sup> trial - </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-bidi-font-style:italic">27 May (Saturday) 12pm; 2<sup>nd</sup> trial - 8 July (Saturday) 11am</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  background:white;mso-highlight:white"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  background:white;mso-highlight:white">&nbsp;</span></i></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><i style="mso-bidi-font-style:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp; </span></span></i><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Hall<b style="mso-bidi-font-weight:normal"></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo4;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo4;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo4;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo4;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo4;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:red;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext">Contact Persons:&nbsp;</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-color-alt:windowtext">Mr Jonathan Heng | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1">heng.wei.zhi.jonathan@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-color-alt:windowtext"> | 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.1pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Ms Daphne Lim | </span><span style="color:black;mso-color-alt:
-  windowtext"><a href="mailto:lim.pei.fang.daphne@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">lim.pei.fang.daphne@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"><span style="mso-spacerun:yes">&nbsp; </span>64438315</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:4"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Football</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Date and Time of Trial:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white;mso-bidi-font-style:italic">1<sup>st</sup> trial - 25 May (Thursday) 5pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white;mso-bidi-font-style:italic">2<sup>nd</sup> trial - 6 July (Thursday) 5pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"><span style="mso-spacerun:yes">&nbsp; </span><b style="mso-bidi-font-weight:normal">Venue:</b></span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Field</span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Contact Persons:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">Mr Tan Yew Hwee |</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"> </span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:tan.yewhwee@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#0563C1;background:white;mso-highlight:white">tan.yewhwee@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> |&nbsp;64438315</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;mso-bidi-font-weight:bold">Mr Lim Wei Quan</span><b style="mso-bidi-font-weight:normal"><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:#222222"> </span></b><span style="color:black;mso-color-alt:windowtext"><a href="mailto:lim.wei.quan@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial">lim.wei.quan@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64438315<span style="background:white;mso-highlight:white"></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:5"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Hockey</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Date and Time of Trial:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white;mso-bidi-font-style:italic">Girls: 1<sup>st</sup> trial - 25 May (Thursday) 5pm; 2<sup>nd</sup> trial – 6 July (Thursday) 4.30pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-bidi-font-style:italic"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>Boys: 1<sup>st</sup> trial - 26 May (Friday) 5pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white;mso-bidi-font-style:
-  italic">; 2<sup>nd</sup> trial – 6 July (Thursday) 4.30pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-bidi-font-style:italic"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-bidi-font-style:italic">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"><span style="mso-spacerun:yes">&nbsp; </span><b style="mso-bidi-font-weight:normal">Venue:</b></span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Blue hockey D</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l8 level1 lfo11;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l8 level1 lfo11;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l8 level1 lfo11;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l8 level1 lfo11;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l8 level1 lfo11;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Contact Person:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> Mr Seet Kok Wah |</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:seet.kokwah@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1;background:white;mso-highlight:
-  white">seet.kokwah@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white"> |&nbsp;64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:6"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-color-alt:windowtext">Netball</span></b><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Date and Time of&nbsp;Trial:</span></b></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"><span style="mso-spacerun:yes">&nbsp; </span>1<sup>st</sup> trial - 25 May (Thursday) 5pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"><span style="mso-spacerun:yes">&nbsp; </span>2<sup>nd</sup> trial - 11 July (Tuesday) 6pm</span></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal;background:
-  white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Sheltered Court/Hall</span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l6 level1 lfo3;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l6 level1 lfo3;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l6 level1 lfo3;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l6 level1 lfo3;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l6 level1 lfo3;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Contact Person:&nbsp;</span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black">Ms Judith Sim |</span><span style="color:black;mso-color-alt:windowtext"> <a href="mailto:judith.sim.mingxin@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1">judith.sim.mingxin@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"> | 64438315<br>&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Table Tennis</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Date and Time of Trial:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">1<sup>st</sup> trial - 22 May (Monday) 5pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">2<sup>nd</sup> trial - 5 July (Wednesday) 6pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Venue:</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-bidi-font-weight:bold">VJC</span><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Hall</span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l11 level1 lfo8;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l11 level1 lfo8;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l11 level1 lfo8;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l11 level1 lfo8;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l11 level1 lfo8;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Contact Person:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> Mr Peter Wee |</span><span style="color:black;mso-color-alt:windowtext"> <a href="mailto:peterwee@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1;background:white;mso-highlight:
-  white">peterwee@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white"> &nbsp;| 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:8"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Tennis</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">(Boys only)</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Date and Time of Trial:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">1<sup>st</sup> trial - 6 July (Thursday) 5:30pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">2<sup>nd</sup> trial - 13 July (Thursday) 5:30pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Venue:</span><span style="color:black"> </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-bidi-font-weight:bold">VJC Tennis Courts</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;mso-bidi-font-weight:bold"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.2pt;text-indent:-31.5pt;line-height:normal;mso-list:l0 level1 lfo5;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l0 level1 lfo5;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.2pt;text-indent:-31.5pt;line-height:normal;mso-list:l0 level1 lfo5;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.2pt;text-indent:-31.5pt;line-height:normal;mso-list:l0 level1 lfo5;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.2pt;text-indent:-31.5pt;line-height:normal;mso-list:l0 level1 lfo5;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Contact Person:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Mr Chow Siew Foong | </span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:chow.siewfoong@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial">chow.siewfoong@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64485011<span style="background:white;mso-highlight:white"></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:9"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Track &amp; Field</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> No trials will be conducted. Applicants will be shortlisted based on the quality of their applications including past results in official competitions for the sport.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white">Shortlisted applicants will be invited for an interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white;border:none;
-  mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222;background:white;mso-highlight:
-  white">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l1 level1 lfo12;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of potential in the sport to compete at the National School Games A Division competition.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l1 level1 lfo12;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l1 level1 lfo12;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l1 level1 lfo12;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l1 level1 lfo12;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific events.</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><br><b style="mso-bidi-font-weight:normal"><span style="background:white;
-  mso-highlight:white">Contact Person: </span></b><span style="background:white;
-  mso-highlight:white">Ms Judith Sim |</span></span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"> </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:judith.sim.mingxin@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1">judith.sim.mingxin@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"> </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">| 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;<b style="mso-bidi-font-weight:
-  normal"></b></span></p></td></tr><tr style="mso-yfti-irow:10;height:3.8pt"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt;height:3.8pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Volleyball</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;">&nbsp;</span></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt;
-  height:3.8pt"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Date <span style="background:white;mso-highlight:white">and Time of&nbsp;Trial:&nbsp;</span></span></b><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;background:white;mso-highlight:white"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-style:italic">Girls:</span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext;
-  mso-bidi-font-style:italic"> 1<sup>st</sup> trial - </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black;mso-bidi-font-style:italic">25 May (Thursday) 5pm; 2<sup>nd</sup> trial - 6 July (Thursday) 6pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-bidi-font-style:italic"><span style="mso-spacerun:yes">&nbsp; </span><span style="mso-spacerun:yes">&nbsp;</span>Boys: 1<sup>st</sup> trial - 27 May (Saturday) 9am; 2<sup>nd</sup> trial - 11 July (Tuesday) 6pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Venue: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">VJC Hall<b style="mso-bidi-font-weight:
-  normal"></b></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;All applicants are required to go through a physical trial. Shortlisted applicants will also likely undergo an interview </span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">after the trial.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection Criteria:</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:38.0pt;text-indent:-27.0pt;line-height:normal;mso-list:l3 level1 lfo7;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of technical ability, game awareness and insight of the game.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:38.0pt;text-indent:-27.0pt;line-height:normal;mso-list:l3 level1 lfo7;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should pass the interview.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:38.0pt;text-indent:-27.0pt;line-height:normal;mso-list:l3 level1 lfo7;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:38.0pt;text-indent:-27.0pt;line-height:normal;mso-list:l3 level1 lfo7;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:38.0pt;text-indent:-27.0pt;line-height:normal;mso-list:l3 level1 lfo7;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific playing positions</span><span style="color:black">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Contact Persons:</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Mr Pung Chin Hong (Boys) | </span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:pung.chin.hong@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#0563C1">pung.chin.hong@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 64438315</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">Ms Geraldine Tay (Girls) |&nbsp; </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#0563C1">geraldine.tay.rou.jun@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"> | 62402134</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:8.5pt;line-height:normal;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black">Wushu</span></b></p></td><td width="593" style="width:444.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;background:white;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Format: </span></b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Trials are usually not conducted, as applicants will be shortlisted based on the quality of their applications, including past results in the National School Games or other official Wushu competitions. </span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white">Shortlisted applicants will be invited for an interview.</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal;background:white"><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black">Selection Criteria:</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should display a high level of potential in the sport to compete at the National School Games A Division competition.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Applicants should pass the interviews, where their attitude, motivation and resilience will be considered.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will factor in applicants’ past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
-  mso-border-shadow:yes"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">Selection will consider the school’s needs in specific categories (e.g. skillsets / competition routines).</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222"><br><b style="mso-bidi-font-weight:normal"><span style="background:white;
-  mso-highlight:white">Contact Person: </span></b><span style="background:white;
-  mso-highlight:white">Ms Sharon Lim I </span></span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:sharon.lim.jia.yin@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#0563C1;background:white;mso-highlight:white">sharon.lim.jia.yin@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222;background:white;mso-highlight:white"> I 62402192</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black">&nbsp;</span><b style="mso-bidi-font-weight:
-  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-highlight:white"></span></b></p></td></tr></tbody></table>
-</p>
-
-</div>
-
+<p>Take note of the&nbsp;<strong>key information</strong>&nbsp;for your chosen
+talent area, such as selection process, criteria and dates.</p>
 </li>
-
+</ol>
+<p>The set of supporting documents comprises the following:</p>
+<ul data-tight="true" class="tight">
 <li>
-
-<input id="accordion3" type="checkbox">
-
-<label for="accordion3">Niche Academic Programmes</label>
-
-<div>
-
-<p>
-Physical interviews will be conducted in Victoria Junior College. Students applying for Niche Academic Programmes are required to produce an additional personal statement/essay, which can be uploaded as a PDF as an additional supporting document. Details on these personal statements/essays can be found in the descriptions below.
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="711" style="width:533.45pt;mso-cellspacing:0in;margin-left:.75pt;background:white;
- mso-background-themecolor:background1;border:solid windowtext 1.0pt;
- mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
- 0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;mso-border-insidev:
- .5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Drama Elective Programme (DEP)</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></b></p></td><td width="593" style="width:444.45pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Date and Time of&nbsp;Audition:</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l11 level1 lfo5"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">24<sup>th</sup> July 2023 (Monday) 3pm – 7pm</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l11 level1 lfo5"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">26<sup>th</sup> July 2023 (Wednesday) 3.30pm – 7pm</span><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l11 level1 lfo5"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">28<sup>th</sup> July 2023 (Friday) 3.30pm – 7pm</span><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Venue: </span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1">TSD Studio 1</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Format:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-indent:0in;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">All applicants <b>must submit a personal statement (maximum 500 words)</b> detailing why he/she wants to join DEP and his/her involvement in drama related activities <b>with supporting documents where relevant <u>by Friday, 23<sup>rd</sup> June</u></b>. These supporting documents may include:</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">your curriculum vitae</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">portfolio of sketches, drawings, photos showcasing design process/ideas</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">certificates of drama accreditation or evidence of participation in drama-related activities</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">links to videos of past performances</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-indent:0in;line-height:normal;mso-list:l4 level1 lfo1;
-  background:white"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Shortlisted applicants will then be notified via email and required to attend an audition where they:</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level2 lfo1;background:white"><span lang="EN-GB" style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:
-  major-latin;mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-  mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-color-alt:windowtext;background:white;mso-ansi-language:
-  EN-GB">perform a short scene live (6-7mins in length) provided by</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;background:white;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;line-height:normal;
-  background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext;
-  background:white;mso-ansi-language:EN-GB">the school on the day of audition,</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;background:white;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level2 lfo1;background:white"><span lang="EN-GB" style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:
-  major-latin;mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-  mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-color-alt:windowtext;background:white;mso-ansi-language:
-  EN-GB">answer accompanying short response questions to the scene</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l4 level2 lfo1;background:white"><span lang="EN-GB" style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:
-  major-latin;mso-fareast-font-family:&quot;Calibri Light&quot;;mso-fareast-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-  mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-color-alt:windowtext;background:white;mso-ansi-language:
-  EN-GB">will be interviewed</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Selection Criteria:</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Demonstration of passion in theatre</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Demonstration of clear potential in acting and/or design</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Possesses the requisite traits of a DEP student – confident, well spoken, adaptable and takes direction well</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l7 level1 lfo6;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Ability to cope with the rigour of the A-Level curriculum</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:17.5pt;line-height:normal;background:white"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">Expectations of students selected into the programme</span></b><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  mso-ansi-language:EN-GB"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:17.5pt;line-height:normal;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">Students admitted through DSA Drama Election Programme must</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  mso-ansi-language:EN-GB"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:35.5pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l12 level1 lfo11"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">offer H2 Theatre Studies and Drama (this is an examinable A-Level subject);</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:35.5pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l12 level1 lfo11"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">*participate in English Drama Singapore Youth Festival Arts Presentation and;</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:35.5pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l12 level1 lfo11"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">be involved in TSD workshops and outreach events</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:17.5pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:7.5pt;margin-bottom:
-  0in;margin-left:17.5pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</span></i><i><span style="font-family:&quot;Arial&quot;,sans-serif"></span></i></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal;background:white"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:12.95pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Contact Persons:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:12.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-GB">Ms Cheryl Lee</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"> | </span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;mso-ansi-language:EN-GB">lee.wen.zhi.cheryl@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-ansi-language:EN-GB">64485011 (ext. 128)</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:12.95pt;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB">Ms Michelle Lim </span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
-  windowtext">| </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:michelle.lim@vjc.edu.sg"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Calibri;mso-ansi-language:EN-GB">michelle.lim@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222;background:white;mso-ansi-language:EN-GB">64485011 (ext. 128)</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;line-height:normal"><b><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Humanities Programme</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td width="593" style="width:444.45pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Date and Time of Interview:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">5 July 2023: 2.30-5pm</span><span style="font-family:
-  &quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">12 July 2023: 2.30-5pm</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Venue:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> Vantage Point</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Format:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l2 level1 lfo7"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Applicant must submit the following:</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:49.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l1 level1 lfo8"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">a)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Application essay on an issue you feel strongly about (500 words)</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:49.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l1 level1 lfo8"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">b)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Portfolio with writing samples* showcasing ability in:</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:76.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-22.5pt;line-height:normal;
-  mso-list:l8 level1 lfo9"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Humanities (e.g. English Literature, Geography, History, Art, Drama)- maximum of 3 samples</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:76.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-22.5pt;line-height:normal;
-  mso-list:l8 level1 lfo9"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">English Language- maximum of 3 samples</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:7.5pt;margin-bottom:
-  0in;margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><i><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">*Samples chosen may be work done for school or external competitions/publications.</span></i><i><span style="font-family:&quot;Arial&quot;,sans-serif"></span></i></p><p class="MsoNormal" style="margin-top:0in;margin-right:7.5pt;margin-bottom:
-  0in;margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Applicants may also submit other supporting documents.</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraph" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l2 level1 lfo7"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Shortlisted applicants will attend a group interview, which includes an oral response to stimulus resources.</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Selection Criteria:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo10"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Demonstration of strong interest and aptitude in the Humanities;</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:7.5pt;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo10"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Evidence of participation and/or achievements in Humanities related programmes, competitions and/or events (e.g. school based Humanities talent development programmes);</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo10"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Ability to cope with rigour of A-level curriculum.</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:13.0pt;mso-add-space:auto;line-height:normal"><b><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:12.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Expectations of students selected into the programme:</span></b><b><span style="font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:12.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Students admitted to VJC via DSA (Humanities Programme) must</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l3 level1 lfo12"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Enrol in the Arts course;</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l3 level1 lfo12"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Offer H2 Literature in English at the A level Examinations;</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l3 level1 lfo12"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Be actively involved in the Humanities Programme in VJC.</span><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:31.0pt;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;line-height:normal"><span lang="EN-SG" style="font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Contact Persons:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:13.0pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Ms Audrey Ngerng | </span><span style="color:black;
-  mso-color-alt:windowtext"><a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif">ngerng.xiuru.audrey@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> | 64485011 ext 127</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Ms Loh Ver-May | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:loh.ver-may@vjc.edu.sg"><span style="font-family:&quot;Arial&quot;,sans-serif">loh.ver-may@vjc.edu.sg</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext"> | 64485011 ext 128</span><span style="font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p></td></tr><tr style="mso-yfti-irow:2"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Infocomm Technology (Computing)</span></b></p></td><td width="593" style="width:444.45pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:14.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Date and Time of Interview:&nbsp;</span></b><b><span style="mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:14.1pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">Shortlisted applicants will be given the details. Interviews are scheduled in July.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Venue: </span></b><span style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1">via Zoom</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Format:&nbsp;</span></b><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l13 level1 lfo13"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">All applicants must submit a personal statement (maximum 500 words) detailing his/her involvement in Computing-related activities with relevant supporting documents.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Supporting documents may include:</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:58.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l9 level2 lfo14"><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;mso-ansi-language:
-  EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">certificates from learning programmes such as workshops and boot camps</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:58.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l9 level2 lfo14"><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;mso-ansi-language:
-  EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">certificates from competitions such as National Olympiad in Informatics and hackathons</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:58.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l9 level2 lfo14"><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;mso-ansi-language:
-  EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">certifications/evidence of courses &amp; work attachments</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:58.5pt;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l9 level2 lfo14"><span lang="EN-GB" style="font-family:Symbol;mso-fareast-font-family:Symbol;
-  mso-bidi-font-family:Symbol;color:black;mso-themecolor:text1;mso-ansi-language:
-  EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">examples of Computing-related projects</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l13 level1 lfo13"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">All applicants are required to undergo a Computing Selection Test in early July which will assess the applicants’ problem-solving skills, numerical ability, logical reasoning, and perceptual reasoning.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:.5in;mso-add-space:auto;text-indent:-.25in;
-  line-height:normal;mso-list:l13 level1 lfo13"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Shortlisted applicants will then be invited to an interview.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Selection Criteria:</span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:36.1pt;mso-add-space:auto;text-indent:-17.5pt;
-  line-height:normal;mso-list:l5 level1 lfo15"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Applicants should demonstrate a strong aptitude and interest in Computing.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:36.1pt;mso-add-space:auto;text-indent:-17.5pt;
-  line-height:normal;mso-list:l5 level1 lfo15"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Applicants should present evidence of involvement in Computing-related activities.</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:36.1pt;mso-add-space:auto;text-indent:-17.5pt;
-  line-height:normal;mso-list:l5 level1 lfo15"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Applicants should offer H2 Computing and be able to cope with the rigour of the A-Level curriculum.</span></p><p class="MsoListParagraphCxSpLast" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:36.1pt;mso-add-space:auto;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Expectations of students selected into the programme</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">Students admitted through Computing DSA must</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:35.5pt;text-indent:-.25in;line-height:normal;mso-list:l10 level1 lfo2"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">offer H2 Computing;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:35.5pt;text-indent:-.25in;line-height:normal;mso-list:l10 level1 lfo2"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">participate and lead in Computing related events at VJC and beyond and</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:35.5pt;text-indent:-.25in;line-height:normal;mso-list:l10 level1 lfo2"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">provide peer tutoring to selected H2 Computing students.</span></p><p class="MsoListParagraph" style="margin-top:0in;margin-right:11.85pt;
-  margin-bottom:0in;margin-left:36.1pt;mso-add-space:auto;line-height:normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.3pt;margin-bottom:
-  0in;margin-left:12.25pt;line-height:normal;background:white"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1">Contact Persons:&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Mr. Ridzwan Suri | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:ridzwan.suri@vjc.edu.sg"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">ridzwan.suri@vjc.edu.sg</span></a></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">64485011</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Mr. Russell Woo | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:woo.yih.hau.russell@vjc.edu.sg"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  mso-ansi-language:EN-GB">woo.yih.hau.russell@vjc.edu.sg</span></a></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"> | 64485011</span><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1"></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:13.0pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="119" valign="top" style="width:89.0pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:0in;margin-bottom:0in;
-  margin-left:7.1pt;line-height:normal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1">Science Research</span></b></p></td><td width="593" style="width:444.45pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 0in 0in 0in"><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Date &amp; Time of Interview:<span style="mso-tab-count:1"></span></span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold">1. 19 July 2023 (Wednesday) 3.30pm – 6.30pm</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:0in;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>2. 20 July 2023 (Thursday) 3.30pm – 6.30pm<span style="mso-bidi-font-weight:bold"></span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Format:</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-27.5pt;line-height:normal;mso-list:l6 level1 lfo4"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black;mso-themecolor:
-  text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Applicant must submit a personal statement (maximum 500 words) detailing his/her involvement in in STEM/research activities with relevant supporting documents.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span style="mso-bookmark:_Hlk102486222"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:.5in;line-height:normal"><span style="mso-bookmark:_Hlk102486222"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Supporting documents may include:</span></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:67.6pt;text-indent:-.25in;line-height:normal;mso-list:l14 level1 lfo3"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">abstracts of research reports</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:67.6pt;text-indent:-.25in;line-height:normal;mso-list:l14 level1 lfo3"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">photos of exhibits, prototypes</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:67.6pt;text-indent:-.25in;line-height:normal;mso-list:l14 level1 lfo3"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;
-  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">certificates related to courses, workshops, or other involvement in the field of STEM/Science research</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:.5in;text-indent:-27.5pt;line-height:normal;mso-list:l6 level1 lfo4"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB">Shortlisted applicants will attend an interview which includes an oral review of a research article</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Selection Criteria:</span></b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB"></span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(1) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp; </span>Demonstration of knowledge, interest and passion in STEM Research</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(2) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp; </span>Clear articulation of motivation and purpose in joining Research@VJC</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(3) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp; </span>Evidence of past experiences relevant to STEM Research</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(4)<span style="mso-spacerun:yes">&nbsp;&nbsp; </span><span style="mso-spacerun:yes">&nbsp;&nbsp;</span>Ability to cope with the rigour of the A-Level curriculum</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Expectations of students selected into the programme</span></b></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">Students admitted through DSA Science Research must</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(i) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp;&nbsp; </span>offer H3 NAV Science Research (this is an examinable A-Level subject);</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(ii) <span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp; </span>participate in SSEF and</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">(iii)<span style="mso-tab-count:
-  1">&nbsp;&nbsp;&nbsp; </span>be involved in VJC Science and Technology Centre events.</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
-  mso-themecolor:text1;mso-ansi-language:EN-GB">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:11.85pt;margin-bottom:
-  0in;margin-left:8.5pt;line-height:normal"><b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Contact persons</span></b><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">:</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Dr Wu Jiang | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:wu.jiang@vjc.edu.sg"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:EN-GB">wu.jiang@vjc.edu.sg</span></a></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext;mso-ansi-language:
-  EN-GB"> |</span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-themecolor:text1;
-  mso-ansi-language:EN-GB"> 64485011</span></p><p class="MsoNormal" style="margin-top:0in;margin-right:4.0pt;margin-bottom:
-  0in;margin-left:12.45pt;line-height:normal;background:white"><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">Mr Lim Cher Chuan | </span><span style="color:black;mso-color-alt:windowtext"><a href="mailto:lim.cherchuan@vjc.edu.sg"><span lang="EN-GB" style="font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:
-  EN-GB">lim.cherchuan@vjc.edu.sg</span></a></span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext;mso-ansi-language:EN-GB"> | </span><span lang="EN-GB" style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-themecolor:text1;mso-ansi-language:EN-GB">64485011</span></p></td></tr></tbody></table>
-</p>
-</div>
+<p>CCA records (all available records in Secondary school);</p>
+</li>
+<li>
+<p>Exam result slips – Sec 3 (End of Year exams and Overall), Sec 4 (Weighted
+Assessment results);</p>
+</li>
+<li>
+<p>Other supporting documents – such as awards or the highest certification
+of achievements;</p>
+</li>
+<li>
+<p>For students applying for our Niche Academic Programmes (Drama Elective
+Programme (DEP), Humanities Programme, Infocomm Technology (Computing),
+Science Research), include any relevant supporting documents as per the
+instructions for the specific Talent Area</p>
 </li>
 </ul>
+<p><em>You should get these documents and a digital passport-sized photograph of yourself ready before you start the online application.</em>
+</p>
+<p><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application now (and by 2 July 2023) without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area.</em>
+</p>
+<p>Successful applicants may be asked to show proof of originals of the above
+records during the offer phase.</p>
+<p>Applications should reach us by&nbsp;<strong>30 June 2024, 2359hr</strong>.
+Incomplete applications (such as those with incomplete information or without
+a complete set of supporting documents) may not be considered.</p>
+<p>For general enquiries, you may email us at <a href="mailto:victoria_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a>, or call
+the General Office at 64485011.</p>
+<p>For enquiries relating to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Performing Arts</strong>, please write to Ms Ding Yih, Subject
+Head/Aesthetics at&nbsp;<a href="mailto:ding.yih@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding.yih@vjc.edu.sg</a>
+</p>
+</li>
+<li>
+<p><strong>Sports</strong>, please write to Mr Tan Yew Hwee, HOD/ PE &amp;
+CCA at&nbsp;<a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
+</p>
+</li>
+<li>
+<p><strong>Niche Academic Programmes</strong>, please write to the respective
+teacher i/c as indicated below.</p>
+</li>
+</ul>
+<p>Please note the following:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Students who have been successfully allocated a school via DSA-JC are NOT allowed to participate in the Joint Admissions Exercise (JAE). They will also NOT be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Performing Arts</h4>
+<p>Selection will be based on a basket of criteria for the respective talent
+area.
+<br>Auditions will take place in Victoria Junior College. Note the dates and
+times for auditions. The teacher in-charge will contact applicants to confirm
+the date and time allocated.
+<br>
+</p>
+<ul>
+<li>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chinese Orchestra</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Audition:</strong>&nbsp;&nbsp;</p>
+<p>15 July 2023, Saturday, 8.30am – 1.00pm</p>
+<p>19 July 2023, Wednesday, 4.30pm – 7.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>Chinese Orchestra Music Room</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to play one
+fast and one slow phrase of at least 16 bars each. Applicants will also
+be given a sight-reading exercise. Applicants will undergo an interview
+after the audition.</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Priority will be given to players from the
+wind and bowed strings (huqin / cello) sections, as these are our areas
+of need. We are not offering DSA places for Guzheng.</p>
+<p><strong>Contact Person:&nbsp;</strong>Ms Cindy Chan |&nbsp;<a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>&nbsp;|
+62402138
+<br>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Choir</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Audition:&nbsp;</strong>
+</p>
+<p>8 July 2023, Saturday, 9.30am – 1.00pm</p>
+<p>15 July 2023, Saturday, 9.30am – 1.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>LT3</p>
+<p>&nbsp;</p>
+<p><strong>Format:&nbsp;</strong>All applicants are required to undergo an&nbsp;audition
+(vocal&nbsp;testing exercise) conducted by the choir master, as well as
+an&nbsp;interview. No song preparation is required.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Priority will be given to singers from the
+soprano, tenor and bass sections as these are our areas of need.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person:&nbsp;</strong>Miss Sandhya P. Singh&nbsp;| <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
+62402168</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Concert Band</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition:&nbsp;</strong>
+</p>
+<p>8 July 2023,&nbsp;Saturday, 1.00pm – 6.00pm</p>
+<p>15 July 2023,&nbsp;Saturday, 1.00pm – 6.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>Band Room and LT4</p>
+<p>&nbsp;</p>
+<p><strong>Format :&nbsp;</strong>All applicants are required to play two
+contrasting pieces of their choice, and to prepare all major scales. Percussionists
+should prepare one piece on mallets and another piece on drums or drumset.
+Applicants will also undergo an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should have experience in competitions
+and/or public performances.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Priority will be given to players from the
+brass and percussion sections, as these are our areas of need. We are not
+looking for pianists.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person:</strong> Ms Frances Lee&nbsp;| <a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>&nbsp;|
+62402170</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Contemporary Dance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Audition:&nbsp;</strong>
+</p>
+<p>10 July 2023, Monday, 4.30pm – 7.00pm</p>
+<p>13 July 2023, Thursday, 4.30pm – 7.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>T18, T19</p>
+<p><strong>Format:</strong>&nbsp; There will be 3 rounds to the auditions.
+Shortlisted candidates who clear each round will complete all 3 rounds
+within the allocated slot.</p>
+<p><u>Round 1</u>
+</p>
+<p>All applicants will be required to prepare a solo dance piece to a song
+of their choice, of <strong>not more than 1 minute</strong>.</p>
+<p>&nbsp;</p>
+<p>Please note that candidates must apply based on only <strong>one </strong>of
+the following dance genres:</p>
+<p>1) Contemporary</p>
+<p>2) Standard Ballroom</p>
+<p>3) Latin Ballroom</p>
+<p>4) Street Dance (<strong>only </strong>Hip Hop, Break Dancing, Popping,
+Locking)</p>
+<p>&nbsp;</p>
+<p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
+fusion dance forms or other forms of street dance will<strong> not</strong> be
+eligible for consideration.</p>
+<p>&nbsp;</p>
+<p><u>Round 2</u>
+</p>
+<p>Applicants who pass Round 1 will proceed to Round 2.</p>
+<p>All shortlisted applicants will be invited to learn a contemporary choreography
+from our instructor, after which applicants will perform the piece taught
+to them.</p>
+<p>&nbsp;</p>
+<p><u>Round 3</u>
+</p>
+<p>Applicants who pass Round 2 will proceed to Round 3.</p>
+<p>All shortlisted applicants will undergo an interview with the selection
+panel.</p>
+<p><strong>Attire:</strong>
+</p>
+<p>All applicants should audition in the dance gear and footwear suitable
+for their respective dance genres. &nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display high levels of musicality,
+performance quality and technical mastery in both their respective areas
+of dance expertise (round 1), as well as showcasing the choreographer’s
+piece (round 2).</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of versatility,
+preferably excelling in more than one genre of dance.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person:</strong> Ms Celeste Teo |&nbsp;<a href="mailto:teo.celeste@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.celeste@vjc.edu.sg</a> |
+62402131</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Guitar Ensemble</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition:&nbsp;</strong>
+</p>
+<p>10 July 2023, Monday, 4.00pm – 6.30pm</p>
+<p>11 July 2023, Tuesday, 4.00pm – 6.30pm</p>
+<p>17 July 2023, Monday, 4.00pm – 6.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>T16, T17</p>
+<p>&nbsp;</p>
+<p><strong>Format:&nbsp;</strong>All applicants are required to play a solo
+piece (not section score or ensemble part) of their choice lasting not
+more than 5 minutes. Applicants are also required to sight read a piece
+provided by the conductor. Applicants will undergo an interview after the
+audition.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should have experience in competitions
+and/or public performances.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person:&nbsp;</strong>Ms Michelle Lee Wang Ling |&nbsp;
+<a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a>| 62402147</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>String Ensemble</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Audition:</strong>&nbsp;</p>
+<p>6 July 2023, Thursday, 3.00pm – 6.00pm</p>
+<p>10 July 2023, Monday, 3.00pm – 6.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>T14, T15</p>
+<p>&nbsp;</p>
+<p><strong>Format:</strong> All applicants are required to prepare two contrasting
+pieces (eg musical periods, tempo) of their choice. Applicants must have
+experience playing one of the string instruments - violin, viola, cello
+or double bass. Applicants will also undergo an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
+with the academic rigour of the JC curriculum.</p>
+<p>
+<br><strong>Contact Person:</strong> Ms Christina Ho (Mrs Tan) |&nbsp;<a href="mailto:christina.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">christina.ho@vjc.edu.sg</a>&nbsp;|
+&nbsp;62402138</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Sports</p>
+<p>Selection will be considered on a basket of criteria for the respective
+talent area.</p>
+<p>Physical trials will be conducted at Victoria Junior College. No trials
+will be conducted for applicants to Cross-Country, Track &amp; Field and
+Wushu (see details below).</p>
+<p>Note the dates and times for trials. All applicants are expected to turn
+up for one of the trials except for cross country, Track &amp; Field and
+Wushu. Applicants should be suitably attired for their respective sports
+trial.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Badminton</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:&nbsp;</strong>
+</p>
+<p>1<sup>st</sup> trial - 22 May (Monday) 6pm</p>
+<p>2<sup>nd</sup> trial - 5 July (Wednesday) 6pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Persons:</strong>
+</p>
+<p>Ms Daphne Lim | <a href="mailto:lim.pei.fang.daphne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.fang.daphne@vjc.edu.sg</a> |
+64438315</p>
+<p>Mr Goh Eng Chai&nbsp;| <a href="mailto:goh.engchai@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.engchai@vjc.edu.sg</a> | 64438315</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Basketball (Girls only)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:&nbsp;</strong>
+</p>
+<p>1<sup>st</sup> trial - 24 May (Wednesday) 3.30pm</p>
+<p>2<sup>nd</sup> trial - 5 July (Wednesday) 3.30pm</p>
+<p>&nbsp;</p>
+<p>&nbsp; <strong>Venue: </strong>VJC<strong> </strong>Sheltered Courts</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person:&nbsp;</strong>Ms Tan Xin Ying |&nbsp;<a href="mailto:tan.xinying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.xinying@vjc.edu.sg</a> |
+64438315</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Cross-country</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Format:</strong> No trials will be conducted. Applicants will be
+shortlisted based on the quality of their applications including past results
+in official competitions for the sport.</p>
+<p>&nbsp;</p>
+<p>Shortlisted applicants will be invited for an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of potential in the sport to compete
+at the National School Games A Division competition.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>
+<br><strong>Contact Person: </strong>Mrs Lin Yehong I <a href="mailto:kok.ye.hong@vjc.sg" rel="noopener noreferrer nofollow" target="_blank">kok.ye.hong@vjc.edu.sg</a> I 62402135</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Floorball</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
+</p>
+<p>Girls: 1<sup>st</sup> trial - 26 May (Friday) 430pm; 2<sup>nd</sup> trial
+- 8 July (Saturday) 9am</p>
+<p>Boys: 1<sup>st</sup> trial - 27 May (Saturday) 12pm; 2<sup>nd</sup> trial
+- 8 July (Saturday) 11am</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>&nbsp; </em><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Persons:&nbsp;</strong>
+</p>
+<p>Mr Jonathan Heng | <a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng.wei.zhi.jonathan@vjc.edu.sg</a> |
+64438315</p>
+<p>Ms Daphne Lim | <a href="mailto:lim.pei.fang.daphne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.fang.daphne@vjc.edu.sg</a>&nbsp;
+64438315</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Football</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>1<sup>st</sup> trial - 25 May (Thursday) 5pm</p>
+<p>2<sup>nd</sup> trial - 6 July (Thursday) 5pm</p>
+<p>&nbsp;</p>
+<p>&nbsp; <strong>Venue: </strong>VJC<strong> </strong>Field</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Persons:</strong>
+</p>
+<p>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a> |&nbsp;64438315</p>
+<p>Mr Lim Wei Quan<strong> </strong><a href="mailto:lim.wei.quan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.wei.quan@vjc.edu.sg</a> | 64438315</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Hockey</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>Girls: 1<sup>st</sup> trial - 25 May (Thursday) 5pm; 2<sup>nd</sup> trial
+– 6 July (Thursday) 4.30pm</p>
+<p>&nbsp;&nbsp; Boys: 1<sup>st</sup> trial - 26 May (Friday) 5pm; 2<sup>nd</sup> trial
+– 6 July (Thursday) 4.30pm</p>
+<p>&nbsp;</p>
+<p>&nbsp; <strong>Venue: </strong>VJC<strong> </strong>Blue hockey D</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person:</strong> Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a> |&nbsp;64438315</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Netball</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Trial:</strong>
+</p>
+<p>&nbsp; 1<sup>st</sup> trial - 25 May (Thursday) 5pm</p>
+<p>&nbsp; 2<sup>nd</sup> trial - 11 July (Tuesday) 6pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court/Hall</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person:&nbsp;</strong>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
+64438315
+<br>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Table Tennis</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>1<sup>st</sup> trial - 22 May (Monday) 5pm</p>
+<p>2<sup>nd</sup> trial - 5 July (Wednesday) 6pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person:</strong> Mr Peter Wee | <a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peterwee@vjc.edu.sg</a> &nbsp;| 64438315</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tennis</strong>
+</p>
+<p><strong>(Boys only)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>1<sup>st</sup> trial - 6 July (Thursday) 5:30pm</p>
+<p>2<sup>nd</sup> trial - 13 July (Thursday) 5:30pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Venue: </strong>VJC Tennis Courts</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific playing positions.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow.siewfoong@vjc.edu.sg</a> |
+64485011</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Track &amp; Field</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Format:</strong> No trials will be conducted. Applicants will be
+shortlisted based on the quality of their applications including past results
+in official competitions for the sport.</p>
+<p>&nbsp;</p>
+<p>Shortlisted applicants will be invited for an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of potential in the sport to compete
+at the National School Games A Division competition.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicant’s past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific events.</p>
+<p>
+<br><strong>Contact Person: </strong>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
+64438315</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Volleyball</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
+</p>
+<p>Girls: 1<sup>st</sup> trial - 25 May (Thursday) 5pm; 2<sup>nd</sup> trial
+- 6 July (Thursday) 6pm</p>
+<p>&nbsp; &nbsp;Boys: 1<sup>st</sup> trial - 27 May (Saturday) 9am; 2<sup>nd</sup> trial
+- 11 July (Tuesday) 6pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue: </strong>VJC Hall</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
+display a high level of technical ability, game awareness and insight of
+the game.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
+pass the interview.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
+possess the ability to cope with the academic rigour of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection will
+factor in applicant’s past experience, achievements or awards in the following
+categories of competition: International / Regional / National inter-school
+competitions / Represented nation or selected for Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection will
+consider the school’s needs in specific playing positions.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Persons:</strong>
+</p>
+<p>Mr Pung Chin Hong (Boys) | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a> |
+64438315</p>
+<p>Ms Geraldine Tay (Girls) |&nbsp; <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a> |
+62402134</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Wushu</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Format: </strong>Trials are usually not conducted, as applicants
+will be shortlisted based on the quality of their applications, including
+past results in the National School Games or other official Wushu competitions.
+Shortlisted applicants will be invited for an interview.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should display a high level of potential in the sport to compete
+at the National School Games A Division competition.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should pass the interviews, where their attitude, motivation
+and resilience will be considered.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will factor in applicants’ past experience, achievements or awards
+in the following categories of competition: International / Regional /
+National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Selection will consider the school’s needs in specific categories (e.g.
+skillsets / competition routines).</p>
+<p>
+<br><strong>Contact Person: </strong>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharon.lim.jia.yin@vjc.edu.sg</a> I
+62402192</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+<li>
+<p>Niche Academic Programmes</p>
+<p>Physical interviews will be conducted in Victoria Junior College. Students
+applying for Niche Academic Programmes are required to produce an additional
+personal statement/essay, which can be uploaded as a PDF as an additional
+supporting document. Details on these personal statements/essays can be
+found in the descriptions below.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Drama Elective Programme (DEP)</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of&nbsp;Audition:</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp; 24<sup>th</sup> July 2023 (Monday) 3pm – 7pm</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; 26<sup>th</sup> July 2023 (Wednesday) 3.30pm
+– 7pm</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; 28<sup>th</sup> July 2023 (Friday) 3.30pm –
+7pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Venue: </strong>TSD Studio 1</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:&nbsp;</strong>
+</p>
+<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants <strong>must submit a personal statement (maximum 500 words)</strong> detailing
+why he/she wants to join DEP and his/her involvement in drama related activities <strong>with supporting documents where relevant <u>by Friday, 23<sup>rd</sup> June</u></strong>.
+These supporting documents may include:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your curriculum vitae</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; portfolio of sketches, drawings,
+photos showcasing design process/ideas</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates of drama accreditation
+or evidence of participation in drama-related activities</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; links to videos of past performances</p>
+<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants will then be
+notified via email and required to attend an audition where they:</p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp; perform a short scene live (6-7mins in length)
+provided by</p>
+<p>the school on the day of audition,</p>
+<p>(ii)&nbsp;&nbsp;&nbsp; answer accompanying short response questions to
+the scene</p>
+<p>(iii)&nbsp;&nbsp; will be interviewed</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of passion in
+theatre</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of clear potential
+in acting and/or design</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possesses the requisite traits
+of a DEP student – confident, well spoken, adaptable and takes direction
+well</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to cope with the rigour
+of the A-Level curriculum</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Expectations of students selected into the programme</strong>
+</p>
+<p>Students admitted through DSA Drama Election Programme must</p>
+<p>(1)&nbsp;&nbsp; offer H2 Theatre Studies and Drama (this is an examinable
+A-Level subject);</p>
+<p>(2)&nbsp;&nbsp; *participate in English Drama Singapore Youth Festival
+Arts Presentation and;</p>
+<p>(3)&nbsp;&nbsp; be involved in TSD workshops and outreach events</p>
+<p>&nbsp;</p>
+<p><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Persons:&nbsp;</strong>
+</p>
+<p>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.wen.zhi.cheryl@vjc.edu.sg</a> |
+64485011 (ext. 128)</p>
+<p>Ms Michelle Lim | <a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a> | 64485011
+(ext. 128)</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Humanities Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Interview:</strong>
+</p>
+<p>5 July 2023: 2.30-5pm</p>
+<p>12 July 2023: 2.30-5pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Venue:</strong> Vantage Point</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>
+</p>
+<p>(1)&nbsp;&nbsp; Applicant must submit the following:</p>
+<p>a)&nbsp;&nbsp;&nbsp;&nbsp; Application essay on an issue you feel strongly
+about (500 words)</p>
+<p>b)&nbsp;&nbsp;&nbsp;&nbsp; Portfolio with writing samples* showcasing
+ability in:</p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Humanities (e.g. English
+Literature, Geography, History, Art, Drama)- maximum of 3 samples</p>
+<p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; English Language- maximum of 3 samples</p>
+<p><em>*Samples chosen may be work done for school or external competitions/publications.</em>
+</p>
+<p>Applicants may also submit other supporting documents.</p>
+<p>(2)&nbsp;&nbsp; Shortlisted applicants will attend a group interview,
+which includes an oral response to stimulus resources.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>(1)&nbsp;&nbsp; Demonstration of strong interest and aptitude in the Humanities;</p>
+<p>(2)&nbsp;&nbsp; Evidence of participation and/or achievements in Humanities
+related programmes, competitions and/or events (e.g. school based Humanities
+talent development programmes);</p>
+<p>(3)&nbsp;&nbsp; Ability to cope with rigour of A-level curriculum.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Expectations of students selected into the programme:</strong>
+</p>
+<p>Students admitted to VJC via DSA (Humanities Programme) must</p>
+<p>(1)&nbsp;&nbsp; Enrol in the Arts course;</p>
+<p>(2)&nbsp;&nbsp; Offer H2 Literature in English at the A level Examinations;</p>
+<p>(3)&nbsp;&nbsp; Be actively involved in the Humanities Programme in VJC.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Persons:&nbsp;</strong>
+</p>
+<p>Ms Audrey Ngerng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngerng.xiuru.audrey@vjc.edu.sg</a> |
+64485011 ext 127</p>
+<p>Ms Loh Ver-May | <a href="mailto:loh.ver-may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.ver-may@vjc.edu.sg</a> | 64485011
+ext 128</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Infocomm Technology (Computing)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date and Time of Interview:&nbsp;&nbsp;</strong>
+</p>
+<p>Shortlisted applicants will be given the details. Interviews are scheduled
+in July.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Venue: </strong>via Zoom</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:&nbsp;</strong>
+</p>
+<p>(1)&nbsp;&nbsp; All applicants must submit a personal statement (maximum
+500 words) detailing his/her involvement in Computing-related activities
+with relevant supporting documents.</p>
+<p>&nbsp;</p>
+<p>Supporting documents may include:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates from learning
+programmes such as workshops and boot camps</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates from competitions
+such as National Olympiad in Informatics and hackathons</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certifications/evidence of
+courses &amp; work attachments</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; examples of Computing-related
+projects</p>
+<p>&nbsp;</p>
+<p>(2)&nbsp;&nbsp; All applicants are required to undergo a Computing Selection
+Test in early July which will assess the applicants’ problem-solving skills,
+numerical ability, logical reasoning, and perceptual reasoning.</p>
+<p>&nbsp;</p>
+<p>(3)&nbsp;&nbsp; Shortlisted applicants will then be invited to an interview.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>(1)&nbsp;&nbsp; Applicants should demonstrate a strong aptitude and interest
+in Computing.</p>
+<p>(2)&nbsp;&nbsp; Applicants should present evidence of involvement in Computing-related
+activities.</p>
+<p>(3)&nbsp;&nbsp; Applicants should offer H2 Computing and be able to cope
+with the rigour of the A-Level curriculum.</p>
+<p>&nbsp;</p>
+<p><strong>Expectations of students selected into the programme</strong>
+</p>
+<p>Students admitted through Computing DSA must</p>
+<p>(i)&nbsp;&nbsp;&nbsp;&nbsp; offer H2 Computing;</p>
+<p>(ii)&nbsp;&nbsp;&nbsp; participate and lead in Computing related events
+at VJC and beyond and</p>
+<p>(iii)&nbsp; provide peer tutoring to selected H2 Computing students.</p>
+<p>&nbsp;</p>
+<p><strong>Contact Persons:&nbsp;</strong>
+</p>
+<p>Mr. Ridzwan Suri | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ridzwan.suri@vjc.edu.sg</a> | 64485011</p>
+<p>Mr. Russell Woo | <a href="mailto:woo.yih.hau.russell@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.yih.hau.russell@vjc.edu.sg</a> |
+64485011</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science Research</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date &amp; Time of Interview:</strong>
+</p>
+<p>1. 19 July 2023 (Wednesday) 3.30pm – 6.30pm</p>
+<p>&nbsp;&nbsp; 2. 20 July 2023 (Thursday) 3.30pm – 6.30pm</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Format:</strong>
+</p>
+<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant must submit a
+personal statement (maximum 500 words) detailing his/her involvement in
+in STEM/research activities with relevant supporting documents.</p>
+<p>&nbsp;</p>
+<p>Supporting documents may include:</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abstracts of research reports</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photos of exhibits, prototypes</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates related to courses,
+workshops, or other involvement in the field of STEM/Science research</p>
+<p>&nbsp;</p>
+<p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants will
+attend an interview which includes an oral review of a research article</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<p>(1) &nbsp;&nbsp;&nbsp; Demonstration of knowledge, interest and passion
+in STEM Research</p>
+<p>(2) &nbsp;&nbsp;&nbsp; Clear articulation of motivation and purpose in
+joining Research@VJC</p>
+<p>(3) &nbsp;&nbsp;&nbsp; Evidence of past experiences relevant to STEM Research</p>
+<p>(4)&nbsp;&nbsp; &nbsp;&nbsp;Ability to cope with the rigour of the A-Level
+curriculum</p>
+<p>&nbsp;</p>
+<p><strong>Expectations of students selected into the programme</strong>
+</p>
+<p>Students admitted through DSA Science Research must</p>
+<p>(i) &nbsp;&nbsp;&nbsp;&nbsp; offer H3 NAV Science Research (this is an
+examinable A-Level subject);</p>
+<p>(ii) &nbsp;&nbsp;&nbsp; participate in SSEF and</p>
+<p>(iii)&nbsp;&nbsp;&nbsp; be involved in VJC Science and Technology Centre
+events.</p>
+<p>&nbsp;</p>
+<p><strong>Contact persons</strong>:</p>
+<p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> |
+64485011</p>
+<p>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a> | 64485011</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</li>
+</ul>
+<p></p>
