@@ -1290,6 +1290,8 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
 <p>
 Physical interviews will be conducted in Victoria Junior College. Students applying for Niche Academic Programmes are required to produce an additional personal statement/essay, which can be uploaded as a PDF as an additional supporting document. Details on these personal statements/essays can be found in the descriptions below.
 
+         
+
 <table style="margin-left:.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt;mso-border-insideh:.5pt solid black;mso-border-insidev:
@@ -1300,121 +1302,86 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   color:black;mso-color-alt:windowtext" lang="EN-GB">Drama Elective Programme (DEP)</span></b><span style="font-family:&quot;Times New Roman&quot;,serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;" lang="EN-GB"></span></p></td><td style="width:435.2pt;border:solid black 1.0pt;border-left:none;
   mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt" width="580"><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><b><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Date and Time of&nbsp;Audition:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt;
-  text-indent:7.05pt;mso-list:l8 level1 lfo7;tab-stops:list 35.7pt;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">24</span></span><span style="white-space:pre-wrap"><sup><span style="font-size:6.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">th</span></sup></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"> July 2024 (Wednesday) 3pm – 7pm</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt;
-  text-indent:7.05pt;mso-list:l8 level1 lfo7;tab-stops:list 35.7pt;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">25</span></span><span style="white-space:pre-wrap"><sup><span style="font-size:6.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">th</span></sup></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"> July 2024 (Thursday) 4 – 7pm</span></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;text-indent:7.05pt;mso-list:l8 level1 lfo7;tab-stops:list 35.7pt;
-  background:white;vertical-align:baseline"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial" lang="EN-GB"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">26</span><span style="white-space:pre-wrap"><sup><span style="font-size:6.5pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">th</span></sup></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"> July 2024 (Friday) 3.30pm – 7pm</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white;vertical-align:baseline"><span style="white-space:
-  pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><b><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Venue: </span></b><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">TSD Studio 1</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><span style="white-space:pre-wrap"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Format:&nbsp;</span></b></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:28.6pt;
-  text-indent:-21.25pt;mso-list:l11 level1 lfo14;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">All applicants </span><b><span style="white-space:pre-wrap">must submit a personal statement (maximum 500 words)</span></b><span style="white-space:pre-wrap"> detailing why he/she wants to join DEP and his/her involvement in drama related activities </span><b><span style="white-space:pre-wrap">with supporting documents where relevant </span><u><span style="-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;
-  white-space:pre-wrap">by Sunday, 30th June</span></u></b><span style="white-space:pre-wrap">.</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:28.6pt;
-  background:white;vertical-align:baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">These supporting documents may include:&nbsp;</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l6 level1 lfo8;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">your curriculum vitae</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l6 level1 lfo8;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">portfolio of sketches, drawings, photos showcasing design process/ideas</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l6 level1 lfo8;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">certificates of drama accreditation or evidence of participation in drama-related activities</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l6 level1 lfo8;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">links to videos of past performances&nbsp;</span></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;text-indent:14.15pt;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:28.6pt;
-  text-indent:-21.25pt;mso-list:l11 level1 lfo14;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Shortlisted applicants will then be notified via email and required to attend an audition where they:&nbsp;</span></span></p><p role="presentation" style="margin:0cm;text-indent:0cm;mso-text-indent-alt:0cm;mso-list:l1 level2 lfo9;
-  background:white;vertical-align:baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">i.</span></span><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">perform a short scene live (6-7mins in length) provided by&nbsp;</span>the school on the day of audition,</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-49.85pt;mso-text-indent-alt:-21.25pt;mso-list:l3 level1 lfo10;
-  background:white;vertical-align:baseline"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ii.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">answer accompanying short response questions to the scene</span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-49.85pt;mso-text-indent-alt:-21.25pt;mso-list:l4 level1 lfo11;
-  background:white;vertical-align:baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>ii.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">will be interviewed</span></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  64.05pt;text-indent:-14.2pt;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><span style="white-space:pre-wrap"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Selection Criteria:&nbsp;</span></b></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l7 level1 lfo12;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Demonstration of passion in theatre</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l7 level1 lfo12;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Demonstration of clear potential in acting and/or design</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l7 level1 lfo12;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Possesses the requisite traits of a DEP student – confident, well spoken, adaptable and takes direction well</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-indent:-21.25pt;mso-list:l7 level1 lfo12;background:white;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:10.0pt;mso-bidi-font-size:11.0pt;font-family:
-  Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:black" lang="EN-GB"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Ability to cope with the rigour of the A-Level curriculum</span></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt;
-  background:white"><span style="white-space:pre-wrap"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Expectations of students selected into the programme</span></b></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt;
-  background:white"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Students admitted through DSA Drama Elective Programme must</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-align:justify;text-indent:-21.25pt;mso-list:l9 level1 lfo13;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">offer H2 Theatre Studies and Drama (this is an examinable A-Level subject);</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-align:justify;text-indent:-21.25pt;mso-list:l9 level1 lfo13;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">*participate in English Drama Singapore Youth Festival Arts Presentation and;</span></span></p><p role="presentation" style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:49.85pt;
-  text-align:justify;text-indent:-21.25pt;mso-list:l9 level1 lfo13;vertical-align:
-  baseline"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">be involved in TSD workshops and outreach events</span></span></p><p style="margin-left:7.35pt" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:7.5pt;margin-bottom:0cm;margin-left:
-  7.35pt;text-align:justify"><span style="white-space:pre-wrap"><i><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</span></i></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:0cm;margin-left:
-  7.35pt;background:white"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt"><span style="white-space:pre-wrap"><b><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Contact Persons:&nbsp;</span></b></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;margin-left:7.35pt;
-  text-align:justify"><span style="white-space:pre-wrap"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Ms Cheryl Lee | </span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext" lang="EN-GB"><a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg"><span style="font-size:11.0pt;
-  color:#0563C1"><span style="-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;
-  white-space:pre-wrap">lee.wen.zhi.cheryl@vjc.edu.sg</span></span></a></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"> | </span></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#222222" lang="EN-GB">64485011 (ext. 128)</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:0cm;margin-left:
-  7.35pt"><span style="white-space:pre-wrap"><span style="font-size:
-  11.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB">Ms Michelle Lim | </span></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
-  windowtext" lang="EN-GB"><a href="mailto:michelle.lim@vjc.edu.sg"><span style="font-size:
-  11.0pt;color:#0563C1"><span style="-webkit-text-decoration-skip:none;
-  text-decoration-skip-ink:none;white-space:pre-wrap">michelle.lim@vjc.edu.sg</span></span></a></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:black" lang="EN-GB"> | </span></span><span style="white-space:pre-wrap"><span style="font-size:11.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;color:#222222" lang="EN-GB">64485011 (ext. 128)</span></span></p></td></tr><tr style="mso-yfti-irow:1;height:127.45pt"><td style="width:98.25pt;border:solid black 1.0pt;
+  background:white;padding:0cm 5.4pt 0cm 5.4pt;height:34.95pt" width="580"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:14.4pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Date and Time of&nbsp;Audition:</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-GB"></span></b></p><p role="presentation" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:14.4pt;line-height:normal" class="MsoNormal"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">24</span><span style="white-space:pre-wrap">th</span><span style="white-space:pre-wrap"> July 2024 (Wednesday) 3pm – 7pm</span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-GB"></span></p><p role="presentation" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:14.4pt;line-height:normal" class="MsoNormal"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">25</span><span style="white-space:pre-wrap">th</span><span style="white-space:pre-wrap"> July 2024 (Thursday) 4 – 7pm</span></span><span style="font-family:
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-GB"></span></p><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:14.4pt;line-height:normal" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:black;mso-color-alt:windowtext" lang="EN-GB">26</span><span style="white-space:pre-wrap">th</span><span style="white-space:pre-wrap"> July 2024 (Friday) 3.30pm – 7pm</span><br><b style="mso-bidi-font-weight:normal"><br>Venue: </b><span style="mso-bidi-font-weight:bold"><span style="white-space:pre-wrap">TSD Studio 1</span></span><br><br><b style="mso-bidi-font-weight:normal">Format:&nbsp;</b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-GB"></span></p><p style="margin-top:12.0pt;margin-right:
+  0cm;margin-bottom:12.0pt;margin-left:42.75pt;mso-add-space:auto;text-indent:
+  -18.0pt;line-height:normal;mso-list:l5 level1 lfo7" class="MsoListParagraphCxSpFirst"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext;
+  mso-bidi-font-weight:bold" lang="EN-SG">All applicants </span><span style="white-space:pre-wrap"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-color-alt:windowtext" lang="EN-SG">must submit a personal statement (maximum 500 words)</span></b></span><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-color-alt:windowtext;mso-bidi-font-weight:bold" lang="EN-SG"> detailing why he/she wants to join DEP and his/her involvement in drama related activities </span></span><span style="white-space:pre-wrap"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-SG">with supporting documents where relevant </span><span style="-webkit-text-decoration-skip:none;
+  text-decoration-skip-ink:none;white-space:pre-wrap">by Sunday, 30th June</span><span style="white-space:pre-wrap">. </span></b><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext" lang="EN-SG">These supporting documents may include:&nbsp;</span></span><span style="font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p role="presentation" style="margin-left:64.05pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">your curriculum vitae</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:64.05pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">portfolio of sketches, drawings, photos showcasing design process/ideas</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:64.05pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">certificates of drama accreditation or evidence of participation in drama-related activities</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:64.05pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">links to videos of past performances</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:14.4pt;mso-add-space:
+  auto" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG">&nbsp;</span></p><p style="margin-left:42.75pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l5 level1 lfo7" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">Shortlisted applicants will then be notified via email and required to attend an audition where they:&nbsp;</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p role="presentation" style="margin-left:78.2pt;mso-add-space:
+  auto;text-indent:-36.0pt;mso-list:l4 level1 lfo9" class="MsoListParagraphCxSpMiddle"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-list:Ignore">i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">perform a short scene live (6-7mins in length) provided by&nbsp;</span>the school on the day of audition,</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p role="presentation" style="margin-left:78.2pt;mso-add-space:
+  auto;text-indent:-36.0pt;mso-list:l4 level1 lfo9" class="MsoListParagraphCxSpMiddle"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-list:Ignore">ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">answer accompanying short response questions to the scene</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:78.2pt;mso-add-space:
+  auto;text-indent:-36.0pt;mso-list:l4 level1 lfo9" class="MsoListParagraphCxSpLast"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">will be interviewed</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:14.4pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Selection Criteria:&nbsp;</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial" lang="EN-GB"></span></b></p><p style="margin-left:56.95pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpFirst"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">Demonstration of passion in theatre</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:56.95pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">Demonstration of clear potential in acting and/or design</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p role="presentation" style="margin-left:56.95pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpMiddle"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">Possesses the requisite traits of a DEP student – confident, well spoken, adaptable and takes direction well</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:56.95pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l2 level1 lfo8" class="MsoListParagraphCxSpLast"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">Ability to cope with the rigour of the A-Level curriculum</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:14.4pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Expectations of students selected into the programme</span></b><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-GB"></span></b></p><p style="margin-left:42.75pt;text-indent:-21.25pt" class="MsoNormal"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-GB">Students admitted through DSA Drama Elective Programme must</span></span><span style="font-family:
+  &quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-left:42.75pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l7 level1 lfo10" class="MsoListParagraphCxSpFirst"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">offer H2 Theatre Studies and Drama (this is an examinable A-Level subject);</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p role="presentation" style="margin-left:42.75pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l7 level1 lfo10" class="MsoListParagraphCxSpMiddle"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-SG"><span style="mso-list:Ignore">2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">*participate in English Drama Singapore Youth Festival Arts Presentation and;</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:42.75pt;mso-add-space:
+  auto;text-indent:-18.0pt;mso-list:l7 level1 lfo10" class="MsoListParagraphCxSpLast"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial" lang="EN-SG"><span style="mso-list:Ignore">3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext" lang="EN-SG">be involved in TSD workshops and outreach events</span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG"></span></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="white-space:pre-wrap"><i><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext" lang="EN-GB">* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</span></i></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB">&nbsp;</span></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="white-space:pre-wrap"><b><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext" lang="EN-GB">Contact Persons:&nbsp;</span></b></span><b><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></b></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext" lang="EN-GB">Ms Cheryl Lee | </span><a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg"><span style="color:#0563C1"><span style="-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;
+  white-space:pre-wrap">lee.wen.zhi.cheryl@vjc.edu.sg</span></span></a><span style="white-space:pre-wrap"> | </span></span><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222" lang="EN-GB">64485011 (ext. 128)</span></span><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-GB"></span></p><p style="margin-left:14.4pt" class="MsoNormal"><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:
+  windowtext" lang="EN-GB">Ms Michelle Lim | </span><a href="mailto:michelle.lim@vjc.edu.sg"><span style="color:#0563C1"><span style="-webkit-text-decoration-skip:none;
+  text-decoration-skip-ink:none;white-space:pre-wrap">michelle.lim@vjc.edu.sg</span></span></a><span style="white-space:pre-wrap"> | </span></span><span style="white-space:pre-wrap"><span style="font-family:&quot;Arial&quot;,sans-serif;color:#222222" lang="EN-GB">64485011 (ext. 128)</span></span><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+  color:#222222" lang="EN-GB"></span></p></td></tr><tr style="mso-yfti-irow:1;height:127.45pt"><td style="width:98.25pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
   background:white;padding:0cm 5.4pt 0cm 5.4pt;height:127.45pt" valign="top" width="131"><p style="margin-top:10.0pt;margin-right:0cm;margin-bottom:
   0cm;margin-left:6.35pt;text-align:justify;line-height:normal" class="MsoNormal"><b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -1531,7 +1498,7 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
   0cm;margin-left:12.45pt;line-height:normal;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">Format:&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l12 level1 lfo4;
+  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l8 level1 lfo4;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -1542,21 +1509,21 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   0cm;margin-left:36.0pt;line-height:normal;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">Supporting documents may include:</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l10 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
+  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l6 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
   &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Certificates from competitions such as the National Olympiad in Informatics and hackathons.</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l10 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
+  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l6 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
   &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Certifications or evidence of completed courses, workshops, bootcamps, and work attachments.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l10 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
+  0cm;margin-left:58.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l6 level2 lfo5" class="MsoNormal"><span style="font-family:&quot;Noto Sans Symbols&quot;;mso-fareast-font-family:
   &quot;Noto Sans Symbols&quot;;mso-bidi-font-family:&quot;Noto Sans Symbols&quot;" lang="EN-GB"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB">Examples of computing-related projects.</span><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:0cm;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l12 level1 lfo4;
+  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l8 level1 lfo4;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black;mso-color-alt:windowtext" lang="EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
@@ -1564,7 +1531,7 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   0cm;margin-left:36.0pt;line-height:normal;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l12 level1 lfo4;
+  0cm;margin-left:36.0pt;text-indent:-18.0pt;line-height:normal;mso-list:l8 level1 lfo4;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -1573,17 +1540,17 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></b></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
   0cm;margin-left:12.45pt;line-height:normal;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">Selection Criteria:</span></b></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l2 level1 lfo6;
+  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l1 level1 lfo6;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(1)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">Applicants should demonstrate a strong aptitude and interest in Computing.</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l2 level1 lfo6;
+  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l1 level1 lfo6;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(2)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">Applicants should present evidence of involvement in Computing-related activities.</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l2 level1 lfo6;
+  0cm;margin-left:36.1pt;text-indent:-17.5pt;line-height:normal;mso-list:l1 level1 lfo6;
   border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
   yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB"><span style="mso-list:Ignore">(3)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -1596,11 +1563,11 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   Arial;color:black" lang="EN-GB">Expectations of students selected into the programme</span></b></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black" lang="EN-GB">Students admitted through Computing DSA must</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l5 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(i)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">offer H2 Computing,</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l5 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(ii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">participate and lead in computing-related events at VJC and beyond, and</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l5 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  0cm;margin-left:35.5pt;text-indent:-18.0pt;line-height:normal;mso-list:l3 level1 lfo1" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">(iii)<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">provide peer tutoring to selected H2 Computing students.</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:36.1pt;line-height:normal;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;
@@ -1654,11 +1621,11 @@ Physical interviews will be conducted in Victoria Junior College. Students apply
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:36.0pt;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black" lang="EN-GB">Supporting documents may include:</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l13 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l9 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">abstracts of research reports</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l13 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l9 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">photos of exhibits, prototypes</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
-  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l13 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  0cm;margin-left:67.6pt;text-indent:-18.0pt;line-height:normal;mso-list:l9 level1 lfo2" class="MsoNormal"><span style="color:black" lang="EN-GB"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">certificates related to courses, workshops, or other involvement in the field of STEM/Science research</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
