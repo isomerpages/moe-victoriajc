@@ -58,7 +58,7 @@ Please note the following:
 
 Selection will be based on a basket of criteria for the respective talent area.
 	<br>
-Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact applicants to confirm the date and time allocated.
+Auditions will take place in Victoria Junior College. Note the dates and times for auditions. The teacher in-charge will contact shortlisted applicants to confirm the date and time allocated.
 
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
