@@ -18,13 +18,13 @@ If you are applying to Victoria Junior College through DSA-JC, please:
 The set of supporting documents comprises the following:
 
 *   CCA records – (all available records in Secondary school);
-*   Exam result slips – Sec 3 (End of Year exams and Overall), Sec 4 (Weighted Assessment results*);
+*   Exam result slips – Sec 3 (End of Year exams and Overall), Sec 4 (Weighted Assessment results)*;
 *   Other supporting documents – such as awards or the highest certification of achievements;
 *   For students applying for our Niche Academic Programmes (_Drama Elective Programme (DEP), Humanities Programme, Infocomm Technology (Computing), Science Research_), include any relevant supporting documents as per the instructions for the specific Talent Area
 
 _You should get these documents and a digital passport-sized photograph of yourself ready before you start the online application._
 
-_We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 30 June 2024 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have._
+_*We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 30 June 2024 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have._
 
 Successful applicants may be asked to show proof of originals of the above records during the offer phase.
 
