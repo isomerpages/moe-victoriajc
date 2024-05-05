@@ -44,7 +44,7 @@ Please note the following:
 	<tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;
   height:57.15pt"><td width="702" valign="bottom" style="width:526.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:6.0pt 6.0pt 6.0pt 6.0pt;
-  height:57.15pt"><p class="MsoNormal"><i>Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</i></p></td></tr></tbody></table>
+  height:57.15pt"><p class="MsoNormal"><i>Students who have been successfully allocated a school via DSA-JC are NOT allowed to participate in the Joint Admissions Exercise (JAE). They will also NOT be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</i></p></td></tr></tbody></table>
 
 <ul class="jekyllcodex_accordion">
 <li>
