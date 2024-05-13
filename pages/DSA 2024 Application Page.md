@@ -408,9 +408,9 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:black" lang="EN-GB">Boys &amp; Girls:</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black" lang="EN-GB">1<sup>st</sup> trial - 22 May (Monday) 6pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:black" lang="EN-GB">1<sup>st</sup> trial - 20 May (Monday) 6pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:black" lang="EN-GB">2<sup>nd</sup> trial - 5 July (Wednesday) 6pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:black" lang="EN-GB">2<sup>nd</sup> trial - 8 July (Monday) 6pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:
