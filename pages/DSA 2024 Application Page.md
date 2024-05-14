@@ -629,7 +629,7 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   0cm;margin-left:8.5pt;line-height:normal;tab-stops:37.25pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB">Girls:<span style="mso-tab-count:1"> </span>1<sup>st</sup> trial - 17 May (Friday) 4.30pm;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal;tab-stops:37.25pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial - 5 July (Friday) 6.30pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial - 5 July (Friday) 4.30pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -653,33 +653,33 @@ Note the dates and times for trials. The teacher in-charge will contact shortlis
   0cm;margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">Selection Criteria:</span></b><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
-  0cm;margin-left:8.5pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
+  0cm;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo5;
   background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">Applicants should display a high level of technical ability, game awareness and insight of the game.</span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
-  0cm;margin-left:8.5pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
+  0cm;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo5;
   background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">Applicants should pass the interview.</span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
-  0cm;margin-left:8.5pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
+  0cm;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo5;
   background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">Applicants should possess the ability to cope with the academic rigour of the JC curriculum.</span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
-  0cm;margin-left:8.5pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
+  0cm;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo5;
   background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:black" lang="EN-GB">Selection will factor in applicant’s past experience, achievements or awards in the following categories of competition: International / Regional / National inter-school competitions / Represented nation or selected for Singapore Schools.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:#222222" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:4.0pt;margin-bottom:
-  0cm;margin-left:8.5pt;text-indent:-31.5pt;line-height:normal;mso-list:l10 level1 lfo10;
+  0cm;margin-left:40.0pt;text-indent:-31.5pt;line-height:normal;mso-list:l2 level1 lfo5;
   background:white;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
   mso-border-shadow:yes" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:black" lang="EN-GB">Selection will consider the school’s needs in specific playing positions</span><span style="color:black" lang="EN-GB">.</span><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial;color:#222222" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
+  mso-fareast-font-family:Arial;color:black" lang="EN-GB">Selection will consider the school’s needs in specific playing positions.</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
+  color:#222222" lang="EN-GB"></span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal" class="MsoNormal"><span style="font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:red" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:11.1pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
