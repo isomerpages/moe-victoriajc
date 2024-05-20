@@ -8,9 +8,9 @@ variant: markdown
 ### DSA-JC Admission
 
 
-We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! Join us for a virtual outreach session on 17 May to find out what you can expect in VJC. Register your interest [here](https://docs.google.com/forms/d/e/1FAIpQLSfq410WeB6PqWD3SjS6DS62SH0SC0X2pGNJC0S-6Ueoxq7mMw/viewform?usp=sf_link) and we will be in touch with more details.
+We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! 
 
-The DSA-JC application opens on 7 May. Dive into the details on required documents, selection criteria, and trial dates right [here](/dsa2024application)! Don't miss the deadline— submit your **applications by 30 June 2024 (2359hrs)**. Wishing you all the best, and we can't wait to see you in VJC!
+The DSA-JC application is now open. Dive into the details on required documents, selection criteria, and trial dates right [here](/dsa2024application)! Don't miss the deadline— submit your **applications by 30 June 2024 (2359hrs)**. Wishing you all the best, and we can't wait to see you in VJC!
 
 The DSA talent areas for the 2024 DSA-JC Admission Exercise are listed below. 
 
