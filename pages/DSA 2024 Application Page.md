@@ -389,7 +389,7 @@ Selection will be considered on a basket of criteria for the respective talent a
 
 Physical trials will be conducted at Victoria Junior College. No trials will be conducted for applicants to Cross-Country, Track &amp; Field and Wushu (see details below).
 
-Note the dates and times for trials. The teacher in-charge will contact shortlisted applicants to confirm the date and time allocated for the trial. Applicants should be suitably attired for their respective sports trial.
+Please note the dates and times for the other sports trials. Applicants should be suitably attired for their respective sports trial.
 
 <table style="margin-left:.75pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:
