@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>A group of brave and generous Victorians came forward to support Hair
+for Hope’s satellite event ‘<em>Hope is yours to Give</em>’ at VJC by getting
+their hair shaved to raise awareness of childhood cancer. Volunteer shavees
+also showed their collective commitment to support children with cancer
+and their families by raising funds for the Children’s Cancer Foundation.
+&nbsp;</p>
