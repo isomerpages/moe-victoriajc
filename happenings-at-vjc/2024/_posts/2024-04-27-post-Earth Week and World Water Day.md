@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>VJC commemorated World Water Day and Earth Week with a slew of activities
+to raise awareness of sustainability issues. From our very own water rationing
+exercise to VThrift, a pop-up booth for thrifting, Victorians were actively
+engaged and learned more about how they could do their part for the environment.</p>
