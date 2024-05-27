@@ -7,6 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024HfH.jpg">
+</div>
 <p>A group of brave and generous Victorians came forward to support Hair
 for Hope’s satellite event ‘<em>Hope is yours to Give</em>’ at VJC by getting
 their hair shaved to raise awareness of childhood cancer. Volunteer shavees
