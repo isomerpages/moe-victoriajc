@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Earthwatch.jpg">
+</div>
 <p>VJC commemorated World Water Day and Earth Week with a slew of activities
 to raise awareness of sustainability issues. From our very own water rationing
 exercise to VThrift, a pop-up booth for thrifting, Victorians were actively
