@@ -9,7 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/eas%20photo2022_2.jpg">
 </div>
 <h4>Administration</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -138,8 +142,6 @@ variant: tiptap
 <br><a href="mailto:irmady.khalid@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irmady.khalid@vjc.edu.sg</a> 
 <br>Mdm Mas Diana Bte Abdul Malek
 <br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mas.diana.abdulmalek@vjc.edu.sg</a> 
-<br>Ms Sim Yi Jing
-<br><a href="mailto:sim.yi.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim.yi.jing@vjc.edu.sg</a> 
 <br>Ms Nurul Syafiqah Binte Ismail
 <br><a href="mailto:nurul.syafiqah.ismail@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.syafiqah.ismail@vjc.edu.sg</a>
 </p>
@@ -184,8 +186,8 @@ variant: tiptap
 <br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmah.bte.ahmad@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
 <br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a> 
-<br>Mdm Sabariah Hussin
-<br><a href="mailto:riah.hussin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">riah.hussin@vjc.edu.sg</a>
+<br>Mr Woon Tai Tok
+<br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
