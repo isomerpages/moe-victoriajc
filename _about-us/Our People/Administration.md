@@ -168,6 +168,8 @@ variant: tiptap
 <br><a href="mailto:aslinda.bintesalom@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aslinda.bintesalom@vjc.edu.sg</a> 
 <br>Mdm Habsah Binte Aripin
 <br><a href="mailto:habsah.bintearipin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">habsah.bintearipin@vjc.edu.sg</a> 
+<br>Mdm Rahmah Bte Ahmad
+<br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmah.bte.ahmad@vjc.edu.sg</a> 
 <br>Mdm Rohani Binte Sulaimi
 <br><a href="mailto:rohani.bintesulaimi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohani.bintesulaimi@vjc.edu.sg</a>
 </p>
@@ -182,11 +184,9 @@ variant: tiptap
 <br><a href="mailto:amy.wong.yik.kee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amy.wong.yik.kee@vjc.edu.sg</a> 
 <br>Mr Malcolm Ng
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
-<br>Mdm Rahmah Bte Ahmad
-<br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmah.bte.ahmad@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
 <br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a> 
-<br>Mr Woon Tai Tok
+<br>Mr Andrew Woon Tai Tok
 <br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
 </p>
 </td>
