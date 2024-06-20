@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/d-eng-1024x455.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -147,13 +151,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kan Chien-Yi
-<br><a href="mailto:kan.chien-yi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.chien-yi@vjc.edu.sg</a>
+<p>Mr John Jude Alexander
+<br><a href="mailto:john.jude.alexander@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john.jude.alexander@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khoo Hui Ching Bernice
-<br><a href="mailto:khoo.hui.ching.bernice@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo.hui.ching.bernice@vjc.edu.sg</a>
+<p>Mr Kan Chien-Yi
+<br><a href="mailto:kan.chien-yi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.chien-yi@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -176,19 +180,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Han Zong
-<br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
+<p>Mrs Sng Mee Lian
+<br><a href="mailto:sng.mee.lian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng.mee.lian@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Duan Rong
-<br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
+<p>Mr Tan Han Zong
+<br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Duan Rong
+<br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
