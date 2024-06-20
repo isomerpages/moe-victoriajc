@@ -793,14 +793,14 @@ Please note the dates and times for the other sports trials. Applicants should b
   0cm;margin-left:8.5pt;line-height:normal;tab-stops:37.25pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
   color:#222222" lang="EN-GB">Girls: 1<sup>st</sup> trial - 23 May (Thursday) 5pm;</span></p><p style="margin-top:0cm;margin-right:11.85pt;margin-bottom:
   0cm;margin-left:8.5pt;line-height:normal;tab-stops:37.25pt" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;
-  color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial – 9 July (Tuesday) 5 pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial – 2 July (Tuesday) 5 pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:black" lang="EN-GB">Boys:<span style="mso-tab-count:1"> </span>1<sup>st</sup> trial - 21 May (Tuesday) 5pm</span><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial;color:#222222" lang="EN-GB">;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  Arial;color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial – 9 July (Tuesday) 5 pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  Arial;color:#222222" lang="EN-GB"><span style="mso-tab-count:1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>2<sup>nd</sup> trial – 2 July (Tuesday) 5 pm</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   Arial;color:#222222" lang="EN-GB">&nbsp;</span></p><p style="margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
   margin-left:8.5pt;line-height:normal;tab-stops:37.25pt;background:white" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-family:&quot;Arial&quot;,sans-serif;
