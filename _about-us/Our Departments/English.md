@@ -139,13 +139,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jacqueline Tan
-<br><a href="mailto:tan.wan.yee.jacqueline@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wan.yee.jacqueline@vjc.edu.sg</a>
+<p>Ms Jean Lee
+<br><a href="mailto:lee.yuling.jean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.yuling.jean@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jean Lee
-<br><a href="mailto:lee.yuling.jean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.yuling.jean@vjc.edu.sg</a>
+<p>Ms Julia Catherine Chan
+<br><a href="mailto:julia.catherine.chan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julia.catherine.chan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
