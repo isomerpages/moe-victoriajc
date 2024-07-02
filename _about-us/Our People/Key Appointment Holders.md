@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Managers</p>
+<p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tommy Low Boon Heng
