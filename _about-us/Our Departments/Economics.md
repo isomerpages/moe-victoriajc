@@ -116,45 +116,55 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Pei Wen
-<br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
+<p>Mr Lee Keng Hoe
+<br><a href="mailto:lee.kenghoe@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.kenghoe@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Pei Wen
+<br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Ngoh Siyuan
 <br><a href="mailto:ngoh.siyuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh.siyuan@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Farzanna Binte Sham Shudin
 <br><a href="mailto:farzanna.sham@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farzanna.sham@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Samantha Hon
 <br><a href="mailto:hon.li.qin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hon.li.qin@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Suhana Subhan
 <br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Syed Nazir Hussain
 <br><a href="mailto:syed.nazir.hussain@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed.nazir.hussain@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Yap Zong Xiang
 <br><a href="mailto:yap.zong.xiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap.zong.xiang@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
