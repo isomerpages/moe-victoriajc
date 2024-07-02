@@ -8,7 +8,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/d-arts-1024x455.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,21 +86,31 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lim
-<br><a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a>
+<p>Ms Lee Jia En</p>
+<p><a href="mailto:lee.jia.en@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.jia.en@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Justin Ng</p>
+<p><a href="mailto:ng.mong.rong.justin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.mong.rong.justin@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Rachel Teo
 <br><a href="mailto:rachel.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel.teo@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wardah bte Abd Malek
 <br><a href="mailto:wardah.bte.abd.malek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wardah.bte.abd.malek@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
