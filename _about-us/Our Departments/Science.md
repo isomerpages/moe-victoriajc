@@ -119,141 +119,139 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Hong Tiam
-<br><a href="mailto:goh.hong.tiam@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.hong.tiam@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Goh Ker Liang
 <br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Halim Susanto
 <br><a href="mailto:halim.susanto@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halim.susanto@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Jayesh Kumar Jasvantlal
 <br><a href="mailto:jayeshkumar.jasvantlal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayeshkumar.jasvantlal@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Julia Eng Lee Huang
 <br><a href="mailto:julia.eng.lee.huang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julia.eng.lee.huang@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Julius Chan
 <br><a href="mailto:chan.sooheong.julius@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.sooheong.julius@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms June Tan
 <br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Khaw Hwee Ju
 <br><a href="mailto:khaw.hwee.ju@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaw.hwee.ju@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kwek Eng Yeow
 <br><a href="mailto:kwek.engyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek.engyeow@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lau Wee Hua
 <br><a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Chien Chong
 <br><a href="mailto:lim.chien.chong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.chien.chong@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim Siew Mee
 <br><a href="mailto:chin.siewmee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.siewmee@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Low Shu'en Joanne
 <br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Maggie Mak Foon Mui
 <br><a href="mailto:mak.foon.mui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mak.foon.mui@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Mah Ai Ling
 <br><a href="mailto:poh.ailing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh.ailing@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Michael Lim
 <br><a href="mailto:lim.cheekin.michael@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cheekin.michael@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Rafiqi Bin Leman
 <br><a href="mailto:muhammad.rafiqi.leman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad.rafiqi.leman@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Meichan
 <br><a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Wan Chin
 <br><a href="mailto:ng.wan.chin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.wan.chin@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kuang Shing
 <br><a href="mailto:tan.kuang.shing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.kuang.shing@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Khai
 <br><a href="mailto:tan.yong.khai@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yong.khai@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wee Yong
 <br><a href="mailto:tan.wee.yong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wee.yong@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Toh Chui Hoon
 <br><a href="mailto:toh.chuihoon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh.chuihoon@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
