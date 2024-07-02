@@ -86,15 +86,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jia En</p>
-<p><a href="mailto:lee.jia.en@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.jia.en@vjc.edu.sg</a>
+<p>Ms Lee Jia En
+<br><a href="mailto:lee.jia.en@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.jia.en@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Justin Ng</p>
-<p><a href="mailto:ng.mong.rong.justin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.mong.rong.justin@vjc.edu.sg</a>
+<p>Mr Justin Ng
+<br><a href="mailto:ng.mong.rong.justin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.mong.rong.justin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
