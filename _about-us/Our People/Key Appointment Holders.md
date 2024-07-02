@@ -9,7 +9,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Images/2023%20MM.jpg">
 </div>
 <h4>School Leaders</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -62,7 +66,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Administration</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,11 +82,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Managers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Teo Bock Huay Jancy
 <br><a href="mailto:TEO_Bock_Huay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_bock_huay@schools.gov.sg</a>
+<br>Mr Abdur Rasheed Bin Abdul Buhari
+<br><a href="mailto:Abdur_Rasheed_Abdul_Buhari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdur_Rasheed_Abdul_Buhari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -95,7 +105,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Student Development</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -228,7 +242,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Arts Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -291,7 +309,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Economics Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -354,7 +376,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>English Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -427,7 +453,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mathematics Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -490,7 +520,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Mother Tongue Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -523,7 +557,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Physical Education Department &amp; CCA</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -566,7 +604,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Project Work Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -599,7 +641,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Science Department</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
