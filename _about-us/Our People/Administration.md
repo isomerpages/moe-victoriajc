@@ -25,11 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Managers</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Teo Bock Huay Jancy
 <br><a href="mailto:TEO_Bock_Huay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TEO_Bock_Huay@schools.gov.sg</a>
+<br>Mr Abdur Rasheed Bin Abdul Buhari
+<br><a href="mailto:Abdur_Rasheed_Abdul_Buhari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Abdur_Rasheed_Abdul_Buhari@schools.gov.sg</a>
 </p>
 </td>
 </tr>
