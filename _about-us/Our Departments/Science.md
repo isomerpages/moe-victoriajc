@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department Science (Covering), Subject Head Science Research
+<p>Head of Department Science
 <br>Dr Wu Jiang
 <br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
 <br>
