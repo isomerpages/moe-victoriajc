@@ -239,6 +239,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head 21CC
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Lim Xue Yi
+<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Arts Department</h4>
@@ -657,7 +669,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Science (Covering), Subject Head Science Research</p>
+<p>Head of Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Wu Jiang
