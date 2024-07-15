@@ -25,14 +25,6 @@ sections:
           url: /upcoming-events/
       variant: center
   - infopic:
-      title: Direct School Admission
-      id: infopic
-      description: DSA to VJC
-      button: " Find out more!"
-      url: /admissions/direct-school-admissions/
-      image: /images/2024/2024_DSA_Banner.jpg
-      alt: Image alt text
-  - infopic:
       title: 2023 A-Level Results
       id: infopic
       description: Updates
