@@ -2,65 +2,71 @@
 title: Victoria Advisory Committee
 permalink: /about/the-victoria-advisory-committee/
 description: ""
+variant: markdown
 ---
-![](/images/VAC%202023/2022%20vac-banner.jpg)
-The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support the College’s programmes and activities. The committee also sponsors awards to recognise the accomplishments and contributions of outstanding students.
-<table>
-	<tbody>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center"><h2>Chairman</h2><img src="/images/VAC%202023/Dr%20Sim%20Hong%20Gee.jpg" style="width:250px"><br>Dr Sim Hong Gee
-				</th>
-			</tr>
-		<br>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center"><br><h2>Vice-Chairman</h2><br><img src="/images/VAC%202023/Mr%20Loh%20Wai%20Keong.jpg" style="width:250px"><br>Mr Loh Wai Keong
-				</th>
-			</tr>
-		<br>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center"><br><h3>Treasurer</h3><br><img src="/images/VAC%202023/Mr%20Tan%20Choon%20Seng.jpg" style="width:250px"><br>Mr Tan Choon Seng
-				</th>
-			</tr>
-		<br>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center"><br><h3>Member</h3>
-				</th>
-			</tr>
-		<br>
-			<tr>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Phua%20Tien%20Beng.jpg" style="width:250px"><br>Mr Phua Tien Beng
-				</th>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Kelvin%20Wong.jpg" style="width:250px"><br>Mr Kelvin Wong
-				</th>
-			</tr>
-			<tr>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Lim%20Han%20Feng.jpg" style="width:250px"><br>Mr Lim Han Feng
-				</th>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Lim%20Siang%20Chin.jpg" style="width:250px"><br>Mr Lim Siang Chin
-				</th>
-			</tr>
-			<tr>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Tan%20Pei-San.jpg" style="width:250px"><br>Mr Tan Pei-San
-				</th>
-				<th style="color:red;text-align:center"><img src="/images/VAC%202023/Miss%20Gwenda%20Fong.jpg" style="width:250px"><br>Miss Gwenda Fong
-				</th>
-			</tr>
-			<tr>
-				<th colspan="1" style="color:red;text-align:center"><img src="/images/VAC%202023/Mr%20Tang%20Shiuh%20Huei.jpg" style="width:250px"><br>Mr Tang Shiuh Huei
-				</th>
-			</tr>
-		<br>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center">
-					<br><h3>Secretary (Principal/VS)</h3><br><img src="/images/VAC%202023/Mr%20Chow%20Weisi.jpg" style="width:250px"><br>Mr Chow Weisi
-					</th>
-				</tr>
-		<br>
-			<tr>
-				<th colspan="2" style="color:red;text-align:center">
-					<br>
-					<h3>Secretary (Principal/VJC)</h3><br><img src="/images/VAC%202023/Mr%20Jeffrey%20Low2.jpg" style="width:250px"><br>Mr Jeffrey Low
-				</th>
-			</tr>
-	</tbody>
+# *Victoria Advisory Committee*
+
+![](/images/corpinfo.jpg)
+
+### Victoria Advisory Committee 2023-2024
+
+Our VAC, which has served in an advisory and voluntary capacity since 1968, plays an active part in ensuring that every Victorian is given the opportunity to participate in the wide variety of programmes and activities available in VS. In the process, it aims to develop scholastic talents and healthy pursuits in schools as well as a strong sense of belonging to the nation The VAC underscores the importance of performance excellence by sponsoring awards for outstanding Victorians which recognise character and hard work.
+
+
+
+
+
+
+
+<table cellpadding="2" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td width="43%" bgcolor="#CDCDCD">Dr Sim Hong Gee</td>
+<td width="57%" bgcolor="#CDCDCD">Chairman</td>
+</tr>
+<tr>
+<td bgcolor="#e1e1e1">Mr Loh Wai Keong</td>
+<td bgcolor="#e1e1e1">Vice-Chairman</td>
+</tr>
+<tr bgcolor="#CDCDCD">
+<td>Mr Tan Choon Seng</td>
+<td>Treasurer</td>
+</tr>
+<tr bgcolor="#CDCDCD">
+<td bgcolor="#E1E1E1">Mr Phua Tien Beng</td>
+<td bgcolor="#E1E1E1">Member</td>
+</tr>
+<tr>
+<td bgcolor="#CDCDCD">Mr Kelvin Wong</td>
+<td bgcolor="#CDCDCD">Member</td>
+</tr>
+<tr bgcolor="#E1E1E1">
+<td>Mr Lim Han Feng</td>
+<td>Member</td>
+</tr>
+<tr>
+<td bgcolor="#CDCDCD">Mr Lim Siang Chin</td>
+<td bgcolor="#CDCDCD">Member</td>
+</tr>
+<tr bgcolor="#E1E1E1">
+<td>Mr Tan Pei-San</td>
+<td>Member</td>
+</tr>
+<tr>
+<td bgcolor="#CDCDCD">Miss Gwenda Fong</td>
+<td bgcolor="#CDCDCD">Member</td>
+</tr>
+<tr bgcolor="#E1E1E1">
+<td>Mr Tang Shiuh Huei</td>
+<td>Member</td>
+</tr>
+<tr>
+<td bgcolor="#CDCDCD">Mr Low Chun Meng</td>
+<td bgcolor="#CDCDCD">Secretary, Principal/Victoria School</td>
+</tr>
+<tr bgcolor="#E1E1E1">
+<td>Mr Low Swee Heng Jeffrey</td>
+<td>Secretary, Principal/Victoria Junior College</td>
+</tr>
+</tbody>
 </table>
