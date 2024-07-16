@@ -4,19 +4,11 @@ permalink: /about/the-victoria-advisory-committee/
 description: ""
 variant: markdown
 ---
-# *Victoria Advisory Committee*
+# Victoria Advisory Committee
 
-![](/images/corpinfo.jpg)
+![](/images/2024/2024_vac_group_photo.jpg)
 
-### Victoria Advisory Committee 2023-2024
-
-Our VAC, which has served in an advisory and voluntary capacity since 1968, plays an active part in ensuring that every Victorian is given the opportunity to participate in the wide variety of programmes and activities available in VS. In the process, it aims to develop scholastic talents and healthy pursuits in schools as well as a strong sense of belonging to the nation The VAC underscores the importance of performance excellence by sponsoring awards for outstanding Victorians which recognise character and hard work.
-
-
-
-
-
-
+The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support the College’s programmes and activities. The committee also sponsors awards to recognise the accomplishments and contributions of outstanding students.
 
 <table cellpadding="2" cellspacing="0" border="0">
 <tbody>
