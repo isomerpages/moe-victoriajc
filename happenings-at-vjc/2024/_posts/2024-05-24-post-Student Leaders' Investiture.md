@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders__Investiture.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Leaders__Investiture_3.jpg">
 </div>
 <p>The Student Leaders’ Investiture for the Students’ Council and CCA Leaders
 was held on the last day of term 2. With the theme ‘Illuminating the Path
