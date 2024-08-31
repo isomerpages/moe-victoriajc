@@ -11,7 +11,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG_Dialogue.jpg">
 </div>
 <p>The SG Dialogue was held for JC2 students with Senior Minister of State,
-Prime Minister’s Office, Mr Desmond Tan on 14 August, on the topic of ‘Refreshing
-our Social Compact’. Coming just after the National Day, this was a timely
-conversation that allowed Victorians to reimagine and redefine Singapore’s
-future together.</p>
+Prime Minister’s Office, Mr Desmond Tan on 14 August on the topic of ‘Refreshing
+our Social Compact’. Coming just after National Day, this was a timely
+conversation that allowed Victorians to reimagine Singapore’s future together.</p>
