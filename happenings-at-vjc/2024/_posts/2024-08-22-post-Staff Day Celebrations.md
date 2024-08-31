@@ -17,4 +17,4 @@ Group to thank the staff for their hard work throughout the year. &nbsp;🫶</p>
 of our teachers and staff on 22<sup>nd</sup> August. Students put up exhilarating
 performances and meaningful activities to honour their teachers for their
 hard and heart work to transform the mundane into extraordinary learning
-experiences everyday. Happy Teachers’ Day! ❤️</p>
+experiences every day. Happy Teachers’ Day! ❤️</p>
