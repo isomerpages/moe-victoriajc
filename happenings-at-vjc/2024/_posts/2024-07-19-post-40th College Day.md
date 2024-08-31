@@ -14,7 +14,7 @@ variant: tiptap
 Victorians during our 40<sup>th</sup> College Day. From the Victorians who
 showed grit and resolve as they overcame challenges in their commitment
 to excellence in different spheres, to those who led in various ways to
-serve the community, our Victorians have exemplified our motto, ‘<em>Nil Sine Labore</em>’,
+serve the community, our Victorians have exemplified our motto ‘<em>Nil Sine Labore</em>’
 as they have worked hard for their achievements. Our Special Guest, Ms
 Nadia Ahmad Samdin, from the class of 2007, exhorted the awardees to continue
 excelling in different areas and using their talents to serve the wider
