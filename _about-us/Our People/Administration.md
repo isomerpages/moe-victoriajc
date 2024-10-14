@@ -143,7 +143,7 @@ variant: tiptap
 <br>Mr Irmady Khalid
 <br><a href="mailto:irmady.khalid@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irmady.khalid@vjc.edu.sg</a> 
 <br>Mdm Mas Diana Bte Abdul Malek
-<br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mas.diana.abdulmalek@vjc.edu.sg</a> 
+<br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mas.diana.abdulmalek@vjc.edu.sg</a>
 <br>Ms Nurul Syafiqah Binte Ismail
 <br><a href="mailto:nurul.syafiqah.ismail@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.syafiqah.ismail@vjc.edu.sg</a>
 </p>
@@ -182,9 +182,7 @@ variant: tiptap
 <p>Operations Support Officers (Estate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amy Wong Yik Kee
-<br><a href="mailto:amy.wong.yik.kee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amy.wong.yik.kee@vjc.edu.sg</a> 
-<br>Mr Malcolm Ng
+<p>Mr Malcolm Ng
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
 <br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a> 
