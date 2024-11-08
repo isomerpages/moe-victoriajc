@@ -184,10 +184,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Woon Tai Tok
 <br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
+<br>Mr Edward Cheo Tay Boon
+<br><a href="mailto:cheo.tay.boon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheo.tay.boon@vjc.edu.sg</a>
 <br>Mr Malcolm Ng
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
-<br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a> 
+<br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
