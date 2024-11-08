@@ -3,7 +3,7 @@ title: TSD | Drama Elective Programme (DEP)
 permalink: /level-up/talent-development-programme/drama-elective-programme/
 description: theatre studies and drama jc
 third_nav_title: Talent Development Programme
-variant: tiptap
+variant: markdown
 image: /images/2024/tsd.jpg
 ---
 ![](/images/Drama-Elective-Programme-banner-1024x433.jpg)
@@ -33,4 +33,4 @@ TSD is designed to be part of a balanced A-Level programme and it is not a caree
 	
 ### Contact Information
 
-If you have any questions about the Theatre Studies and Drama programme at Victoria Junior College, and/or the aptitude tests and interviews please contact Ms Michelle Lim:&nbsp;[michelle.lim@vjc.edu.sg](mailto:michelle.lim@vjc.edu.sg)&nbsp;or Ms Cheryl Lee:&nbsp;[lee.wen.zhi.cheryl@vjc.edu.sg](mailto:lee.wen.zhi.cheryl@vjc.edu.sg)
+If you have any questions about the Theatre Studies and Drama programme at Victoria Junior College, and/or the aptitude tests and interviews please contact Ms Cheryl Lee:&nbsp;[lee.wen.zhi.cheryl@vjc.edu.sg](mailto:lee.wen.zhi.cheryl@vjc.edu.sg)
