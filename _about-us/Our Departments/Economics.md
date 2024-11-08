@@ -79,10 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Goh
-<br>(Subject Head Character &amp; Citizenship Education)
-<br><a href="mailto:michelle.goh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.goh@vjc.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
