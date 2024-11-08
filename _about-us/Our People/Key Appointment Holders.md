@@ -171,16 +171,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Character &amp; Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Goh
-<br><a href="mailto:michelle.goh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.goh@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
