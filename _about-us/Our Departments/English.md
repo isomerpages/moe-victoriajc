@@ -179,24 +179,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sng Mee Lian
-<br><a href="mailto:sng.mee.lian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng.mee.lian@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Han Zong
 <br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Duan Rong
 <br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
