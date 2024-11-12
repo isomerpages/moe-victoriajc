@@ -25,7 +25,7 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 <td>Treasurer</td>
 </tr>
 <tr bgcolor="#CDCDCD">
-<td bgcolor="#E1E1E1">Mr Phua Tien Beng</td>
+<td bgcolor="#E1E1E1">MG David Neo</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr>
