@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Your Journey to Scholarships and Beyond</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/JC Scholarships/MOEPU.png">
+</div>
 <p>At VJC, we recognise that every student has distinct strengths. Our mission
 is to help you harness those strengths and turn them into success stories.
 From your first year here, we support your pursuit of Junior College (JC)
