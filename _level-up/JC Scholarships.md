@@ -37,8 +37,12 @@ resilience, and sound interpersonal qualities.&nbsp;&nbsp;</p>
 <p></p>
 <p>The following are scholarships offered by MOE and other agencies that
 Victorians have attained.</p>
-<p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/engineering-and-tech-programme-scholarship-etps" rel="noopener noreferrer nofollow" target="_blank">ETPS</a>
-</p>
+<h4><strong>Engineering and Tech Programme Scholarship (ETPS)</strong></h4>
+<p>VJC offers strong support for the ETPS as part of our STEM programme.
+ETPS applicants will have access to training and workshops to prepare you
+for the interviews and selection. You will be well supported in your STEM
+journey as you pursue your passion in mathematics and the sciences. For
+more information on the ETPS application, click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.&nbsp;</p>
 <p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/humanities-scholarship-programme-hsp" rel="noopener noreferrer nofollow" target="_blank">HSP</a>
 </p>
 <p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/language-elective-scholarship-les" rel="noopener noreferrer nofollow" target="_blank">LES</a>
