@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Talent Development Programme/.keep
-      - Talent Development Programme/Talent Development Programme.md
       - Talent Development Programme/VSMART.md
       - Talent Development Programme/Humanities Scholarship & Programme (HSP).md
       - Talent Development Programme/TSD | Drama Elective Programme (DEP).md
