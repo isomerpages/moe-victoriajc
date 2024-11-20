@@ -11,12 +11,17 @@ description: ""
 </div>
 <p>AESOP is an enrichment opportunity for HSP students and Arts faculty students.
 AESOP aims to develop a multi-disciplinary enrichment programme to complement
-existing learning experiences for humanities subjects. AESOP will create
-more opportunities for the development of humanities talent, to build their
-competencies and portfolio, and to foster a common VJC Arts Faculty identity
-in the process.</p>
-<p></p>
-<p>Through AESOP initiatives, an Arts Faculty Student will be:</p>
+existing learning experiences for humanities subjects. Dive into the study
+of Arts and Humanities, where Literature, Economics, History, Geography
+and more, converge to illuminate the intricate tapestry of the human experience,
+shaping cultures, histories, and societies. AESOP will create more opportunities
+for the development of humanities talent, to build their competencies and
+portfolio, and to foster a common VJC Arts Faculty identity in the process.</p>
+<p>The Arts Enrichment Programme is open to all students in the Arts Stream.
+In this multidisciplinary study, every question is a journey into the heart
+of what makes us human. Authentic learning experiences abound for those
+who choose to participate with enthusiasm.Through AESOP initiatives, an
+Arts Faculty Student will be:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Self directed</p>
