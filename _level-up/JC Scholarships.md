@@ -43,12 +43,12 @@ ETPS applicants will have access to training and workshops to prepare you
 for the interviews and selection. You will be well supported in your STEM
 journey as you pursue your passion in mathematics and the sciences. For
 more information on the ETPS application, click&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
-<h4>Humanities Scholarship Programme (HSP)</h4>
+<h4><strong>Humanities Scholarship Programme (HSP)</strong></h4>
 <p>VJC is one of the centres for the MOE Humanities Scholarship &amp; Programme
 (HSP).&nbsp; The HSP offers scholars with the opportunity to immerse themselves
 in various disciplines which study aspects of human society and culture.&nbsp;&nbsp;</p>
 <p>More details on the HSP scholarship can be found&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h4>Language Elective Scholarship (LES)</h4>
+<h4><strong>Language Elective Scholarship (LES)</strong></h4>
 <p>This scholarship is awarded in Pre-University 1 to students admitted to
 the French/German/Japanese/Spanish Language Elective Programme (LEP).&nbsp;</p>
 <p>Application details can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
