@@ -13,7 +13,6 @@ scholarships, guiding you every step of the way.</p>
 to help you craft a competitive application. Whether you aim for academic,
 leadership, or talent-based scholarships, we’re here to help you shine.
 The following are JC Scholarships that Victorians can aspire towards.</p>
-<p></p>
 <h4><strong>VJC Scholarship</strong></h4>
 <p>The&nbsp;VJC Scholarship&nbsp;is awarded to Victorians who have achieved&nbsp;outstanding
 academic results&nbsp;and have shown&nbsp;excellence&nbsp;within and beyond
@@ -46,32 +45,31 @@ more information on the ETPS application, click&nbsp;<a href="https://www.moe.go
 <h4><strong>Humanities Scholarship Programme (HSP)</strong></h4>
 <p>VJC is one of the centres for the MOE Humanities Scholarship &amp; Programme
 (HSP).&nbsp; The HSP offers scholars with the opportunity to immerse themselves
-in various disciplines which study aspects of human society and culture.&nbsp;&nbsp;</p>
-<p>More details on the HSP scholarship can be found&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+in various disciplines which study aspects of human society and culture.&nbsp;More
+details on the HSP scholarship can be found&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h4><strong>Language Elective Scholarship (LES)</strong></h4>
 <p>This scholarship is awarded in Pre-University 1 to students admitted to
-the French/German/Japanese/Spanish Language Elective Programme (LEP).&nbsp;</p>
-<p>Application details can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h4>Ministry of Education Pre-University Scholarship</h4>
+the French/German/Japanese/Spanish Language Elective Programme (LEP).&nbsp;Application
+details can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<h4><strong>Ministry of Education Pre-University Scholarship</strong></h4>
 <p>This scholarship is offered to top Pre-University 1 students who have
 achieved outstanding academic results and excelled in co-curricular and
 other activities. VJC offers support for the application and interview
-phases of the MOE Pre U Scholarship application.&nbsp;</p>
-<p>More details&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
+phases of the MOE Pre U Scholarship application.&nbsp;More details&nbsp;
+<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/moe-pre-u-scholarship" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u>
+</a>
 </p>
 <h4><strong>Regional Studies Programme (RSP)</strong></h4>
 <p>The Regional Studies Programme (RSP) Scholarship is offered by Ministry
 of Education to encourage academically able and linguistically talented
 students to pursue H2 History, covering the developments in South East
-Asia under the Regional Studies Programme.&nbsp;&nbsp;</p>
-<p>VJC is one of 3&nbsp; junior colleges offering the RSP.&nbsp;More info&nbsp;
-<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
-</a>!&nbsp;</p>
+Asia under the Regional Studies Programme.&nbsp;VJC is one of three junior
+colleges offering the RSP.&nbsp;More info <a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!&nbsp;</p>
 <h4><strong>A*STAR Science Award (JC)</strong></h4>
 <p>The A*STAR Science Award (Junior College) is given out to Singaporean
 Junior College students who have obtained outstanding academic performance
 in Science and Mathematics subjects who have an interest in research. It
-aims to spur the&nbsp;<strong>passion of Science</strong>&nbsp;among these
+aims to spur the&nbsp;passion of Scienc<strong>e</strong>&nbsp;among these
 bright students through a monetary award, research attachments and other
 activities including interactions with A*STAR scientists and other eminent
 scientists, so that they may nurture their potential in this area. Do have
