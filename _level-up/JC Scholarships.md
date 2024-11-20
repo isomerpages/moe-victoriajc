@@ -38,8 +38,7 @@ resilience, and sound interpersonal qualities.&nbsp;&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p><strong>The following are scholarships offered by MOE and other agencies that Victorians have attained.</strong>
-</p>
+<h4><em>The following are scholarships offered by MOE and other agencies that Victorians have attained.</em></h4>
 <h4><strong>Engineering and Tech Programme Scholarship (ETPS)</strong></h4>
 <p>VJC offers strong support for the ETPS as part of our STEM programme.
 ETPS applicants will have access to training and workshops to prepare you
