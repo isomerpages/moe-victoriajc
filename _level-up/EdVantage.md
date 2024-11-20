@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Project EdVantage</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/Undergrad Scholarship/2024_PSC_1__cropped_.jpg">
+</div>
 <p>Project EdVantage is VJC's bespoke Talent Development Programme, tailored
 for students with aspirations to secure prestigious scholarships or gain
 admission to competitive university programmes. This initiative is designed
