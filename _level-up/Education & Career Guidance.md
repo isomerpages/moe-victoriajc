@@ -18,23 +18,24 @@ This dynamic programme equips students with the tools and insights they need to 
 
 We’ve curated a series of impactful events and initiatives to ensure every Victorian is future-ready:
 
-**1\. EdVantage Fair**  
+#### **1\. EdVantage Fair**  
+![](/images/2024%20ECG/Edvantage%20Fair/IMG_2727.jpg)
 Our annual flagship event connects students with representatives, industry experts, and VJC alumni to explore a wide range of careers, scholarships, and higher education opportunities.
 
-**2\. Work Shadowing Programme**  
+#### **2\. Work Shadowing Programme**  
 Step into the professional world! This programme allows Victorians to gain firsthand experience by shadowing professionals across various industries.
 
-**3\. Learning Journeys**  
+#### **3\. Learning Journeys**  
 Discover the breadth of opportunities across different sectors. These experiential trips expose students to real-world insights from diverse industries.
 
-**4\. University Panel**  
+#### **4\. University Panel**  
 ![](/images/2024%20ECG/Uni%20Panel/IMG_8054.jpg)
 An interactive platform where parents and students engage directly with representatives from Singapore’s six autonomous universities. From admissions to campus life, all your questions are answered.
 
-**5\. Overseas University Support**  
+#### **5\. Overseas University Support**  
 Thinking beyond Singapore? Our workshops and briefings, led by in-house experts, provide vital guidance for applications to top universities in the UK, US, and beyond.
 
-**6\. Skills Workshops**  
+#### **6\. Skills Workshops**  
 Hone your application skills with our targeted workshops:
 
 *   **Personal Statement Workshops** (June)
