@@ -12,7 +12,7 @@ the world of science research.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>A special collaboration with NUS, A*STAR, to offer the H3 NUS-A*STAR-VJC (NAV) Science Research programme. </em>
+<p><em>A special collaboration with NUS, A*STAR, to offer the H3 NUS-A*STAR-VJC (NAV) Science Research programme.</em>
 </p>
 </li>
 <li>
