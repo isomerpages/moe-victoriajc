@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>STEM Talent Development</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/STEM.jpg">
+</div>
 <p>For VJC students interested in the STEM areas, VJC provides a comprehensive
 science research programme that allows students to immerse themselves in
 the world of science research.</p>
