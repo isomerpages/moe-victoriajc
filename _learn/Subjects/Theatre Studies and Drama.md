@@ -39,7 +39,14 @@ teaching, advertising and management).</p>
 <details class="isomer-details">
 <summary>Curriculum</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Students study key texts in different genres and examine ways of approaching
+scripts from the point of view of a theatre maker. The theoretical side
+concerns aspects such as social, cultural and historical influences.</p>
+<p>There are weekly practical workshops where the students explore the elements
+of drama, approaches to performance and different conventions and theatre
+styles. This includes areas such as mask, technical design (set, costume,
+and makeup), Physical Theatre, Experimental Theatre and the work of practitioners
+such as Brecht, Artaud, Boal and Stanislavski.</p>
 </div>
 </details>
 </div>
