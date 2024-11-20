@@ -4,8 +4,8 @@ permalink: /level-up/education-career-guidance/
 description: ""
 variant: markdown
 ---
-**Chart Your Future with Confidence: VJC’s Comprehensive Education, Career Guidance & Scholarships Programme**
-
+### **Chart Your Future with Confidence: VJC’s Comprehensive Education, Career Guidance & Scholarships Programme**
+### 
 At Victoria Junior College, we’re committed to empowering students to make informed decisions about their futures. Our **Education, Career Guidance (ECG) & Scholarships Programme** is designed to help Victorians explore their passions, refine their goals, and plan their next steps with confidence.
 
 This dynamic programme equips students with the tools and insights they need to succeed in an ever-evolving world. Key objectives of our ECG Programme include:
