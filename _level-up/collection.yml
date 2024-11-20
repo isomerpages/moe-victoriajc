@@ -2,12 +2,12 @@ collections:
   level-up:
     output: true
     order:
-      - EdVantage.md
-      - JC Scholarships.md
       - Talent Development Programme.md
+      - JC Scholarships.md
       - Arts Enrichment, Scholarships & Outreach Programme (AESOP).md
+      - STEM Talent Development.md
+      - EdVantage.md
+      - Education & Career Guidance.md
       - Leveling Up/.keep
       - Leveling Up/Your Scholarship Journey.md
       - Leveling Up/Your Talent Development Journey.md
-      - STEM Talent Development.md
-      - Education & Career Guidance.md
