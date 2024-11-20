@@ -2,8 +2,8 @@ collections:
   level-up:
     output: true
     order:
-      - Arts Enrichment, Scholarships & Outreach Programme (AESOP).md
       - Talent Development Programme.md
+      - Arts Enrichment, Scholarships & Outreach Programme (AESOP).md
       - Leveling Up/.keep
       - Leveling Up/Your Scholarship Journey.md
       - Leveling Up/Your Talent Development Journey.md
