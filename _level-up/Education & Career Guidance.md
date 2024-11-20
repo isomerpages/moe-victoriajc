@@ -47,7 +47,7 @@ Hone your application skills with our targeted workshops:
     These sessions ensure students are well-prepared to stand out in competitive application processes.
 
 #### **7\. ECG Lessons & Briefings**  
-
+![](/images/ECG_Assembly.jpg)
 Integrated into assembly and civics lessons, these sessions offer timely support, helping students fine-tune their career, higher education, and scholarship strategies.
 
 At VJC, we aim to inspire every Victorian to dream big and take bold steps toward achieving their aspirations. Collectively, the various initiatives and programme ensure every Victorian is ready for the world of work.
