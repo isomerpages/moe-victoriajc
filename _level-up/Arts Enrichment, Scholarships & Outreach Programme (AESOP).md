@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>Arts Enrichment, Scholarships &amp; Outreach Programme (AESOP)</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/AESOP/HSP_OEP2.png">
+</div>
 <p>AESOP is an enrichment opportunity for HSP students and Arts faculty students.
 AESOP aims to develop a multi-disciplinary enrichment programme to complement
 existing learning experiences for humanities subjects. AESOP will create
@@ -25,6 +29,9 @@ in the process.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/AESOP/HSP_LJ3.png">
+</div>
 <p><strong>Enrichment opportunities for Arts faculty students include:</strong>
 </p>
 <ul data-tight="true" class="tight">
