@@ -2,6 +2,7 @@ collections:
   level-up:
     output: true
     order:
+      - JC Scholarships.md
       - Talent Development Programme.md
       - Arts Enrichment, Scholarships & Outreach Programme (AESOP).md
       - Leveling Up/.keep
