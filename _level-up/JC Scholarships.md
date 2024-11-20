@@ -48,10 +48,14 @@ more information on the ETPS application, click&nbsp;<a href="https://www.moe.go
 (HSP).&nbsp; The HSP offers scholars with the opportunity to immerse themselves
 in various disciplines which study aspects of human society and culture.&nbsp;&nbsp;</p>
 <p>More details on the HSP scholarship can be found&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/humanities-scholarship-programme-hsp" rel="noopener noreferrer nofollow" target="_blank">HSP</a>
-</p>
-<p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/language-elective-scholarship-les" rel="noopener noreferrer nofollow" target="_blank">LES</a>
-</p>
+<h4>Language Elective Scholarship (LES)</h4>
+<p>This scholarship is awarded in Pre-University 1 to students admitted to
+the French/German/Japanese/Spanish Language Elective Programme (LEP).&nbsp;</p>
+<p>Application details can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<h4>Ministry of Education Pre-University Scholarship</h4>
+<p>This scholarship is awarded in Pre-University 1 to students admitted to
+the French/German/Japanese/Spanish Language Elective Programme (LEP).&nbsp;</p>
+<p>Application details can be found&nbsp;<a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/moe-pre-u-scholarship" rel="noopener noreferrer nofollow" target="_blank">MOE PU</a>
 </p>
 <p><a href="https://sites.google.com/vjc.edu.sg/ecgvjc/home/exploring-opportunities-where-do-i-want-to-go/scholarships/regional-studies-programme-rsp" rel="noopener noreferrer nofollow" target="_blank">RSP</a>
