@@ -13,11 +13,8 @@ At Victoria Junior College (VJC), we believe in nurturing every student’s uniq
 Through a comprehensive suite of student development programmes, Victorians are equipped to lead, serve and excel.
 
 ·       **S**ervice at the heart of what we do
-
 ·       **E**xcellence in co-curricular domains.
-
 ·       **A**cademic enrichment and achievement
-
 ·       **L**eadership Growth and Impact
 
 We aim to provide every Victorian with a robust portfolio of meaningful experiences. These experiences not only enrich their time at VJC but also position them as strong contenders for prestigious scholarships and top university courses after graduation.
