@@ -4,6 +4,7 @@ permalink: /stem-talent-development/
 variant: tiptap
 description: ""
 ---
+<h3><strong>STEM Talent Development</strong></h3>
 <p>For VJC students interested in the STEM areas, VJC provides a comprehensive
 science research programme that allows students to immerse themselves in
 the world of science research.</p>
