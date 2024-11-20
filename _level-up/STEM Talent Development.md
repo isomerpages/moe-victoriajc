@@ -8,8 +8,7 @@ description: ""
 science research programme that allows students to immerse themselves in
 the world of science research.</p>
 <p>This includes Special Programmes such as:</p>
-<p><strong>H3 NUS-A*STAR-VJC (NAV) Science Research Programme:</strong>
-</p>
+<h4><strong>H3 NUS-A*STAR-VJC (NAV) Science Research Programme:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>A special collaboration with NUS, A*STAR, to offer the H3 NUS-A*STAR-VJC (NAV) Science Research programme.</em>
@@ -24,8 +23,7 @@ the world of science research.</p>
 </p>
 </li>
 </ul>
-<p><strong>Overseas Student Attachment Programme (OSAP)</strong>
-</p>
+<h4><strong>Overseas Student Attachment Programme (OSAP)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>The OSAP is an opportunity offered by the Centre of Excellence in Education–Research Science Institute Programme (CEE-RSI), USA.</em>
