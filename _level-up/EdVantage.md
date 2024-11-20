@@ -36,6 +36,12 @@ students are empowered to pursue their ambitions with clarity and confidence.</p
 <p>At VJC, we believe every student has the potential to shine. Project EdVantage
 is your launchpad to a future of limitless possibilities.</p>
 <h4><strong>Unlocking Potential Through Project EdVantage: Key Initiatives</strong></h4>
+<p>Through <strong>Project EdVantage</strong>, students are guided to make
+sense of their academic, CCA, leadership, service, and enrichment experiences.
+This holistic approach helps them build a comprehensive portfolio and attain
+the VJC ‘seal of approval.’ Armed with these experiences and credentials,
+students are well-positioned to achieve their aspirations for top university
+placements and prestigious scholarships.</p>
 <h4>Grassroots and Governance</h4>
 <p>Students collaborate with community partners to gain valuable insights
 into Singapore’s social needs. This hands-on experience deepens their understanding
@@ -64,10 +70,4 @@ aligned with their goals.</p>
 <p>Students will have the opportunity to connect with VJC alumni from various
 fields. This mentorship provides valuable career insights and practical
 advice, helping students prepare for future challenges and opportunities.</p>
-<h4><em>Building a Stronger Future</em></h4>
-<p>Through <strong>Project EdVantage</strong>, students are guided to make
-sense of their academic, CCA, leadership, service, and enrichment experiences.
-This holistic approach helps them build a comprehensive portfolio and attain
-the VJC ‘seal of approval.’ Armed with these experiences and credentials,
-students are well-positioned to achieve their aspirations for top university
-placements and prestigious scholarships.</p>
+<p></p>
