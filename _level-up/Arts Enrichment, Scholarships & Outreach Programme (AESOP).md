@@ -20,7 +20,7 @@ portfolio, and to foster a common VJC Arts Faculty identity in the process.</p>
 <p>The Arts Enrichment Programme is open to all students in the Arts Stream.
 In this multidisciplinary study, every question is a journey into the heart
 of what makes us human. Authentic learning experiences abound for those
-who choose to participate with enthusiasm.Through AESOP initiatives, an
+who choose to participate with enthusiasm. Through AESOP initiatives, an
 Arts Faculty Student will be:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,7 +69,7 @@ Arts Faculty Student will be:</p>
 <p>Design and facilitate the VJC Humanities Symposium</p>
 </li>
 <li>
-<p>Participate in subject based competitions and event (e.g .URA CUBE Competitions,
+<p>Participate in subject based competitions and event (e.g. URA CUBE Challenge,
 Model COP, ASEAN Quiz, National Economics &amp; Financial Management Competition)</p>
 </li>
 </ul>
