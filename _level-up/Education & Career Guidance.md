@@ -20,31 +20,31 @@ This dynamic programme equips students with the tools and insights they need to 
 
 We’ve curated a series of impactful events and initiatives to ensure every Victorian is future-ready:
 
-#### **1\. EdVantage Fair**  
+#### **EdVantage Fair**  
 ![](/images/2024%20ECG/Edvantage%20Fair/IMG_2727.jpg)
 
 Our annual flagship event connects students with representatives, industry experts, and VJC alumni to explore a wide range of careers, scholarships, and higher education opportunities.
 
-#### **2\. Work Shadowing Programme**  
+#### **Work Shadowing Programme**  
 ![](/images/2024%20ECG/84673db0_7ca5_4f89_bb72_0810a64c2c6c.jpg)
 
 Step into the professional world! This programme allows Victorians to gain firsthand experience by shadowing professionals across various industries.
 
-#### **3\. Learning Journeys** 
+#### **Learning Journeys** 
 ![](/images/2024%20ECG/Learning%20Journeys/b4ce8693_8456_433f_a981_ebc6822957a2.jpg)
 
 Discover the breadth of opportunities across different sectors. These experiential trips expose students to real-world insights from diverse industries.
 
-#### **4\. University Panel**  
+#### **University Panel**  
 ![](/images/2024%20ECG/Uni%20Panel/IMG_8054.jpg)
 An interactive platform where parents and students engage directly with representatives from Singapore’s six autonomous universities. From admissions to campus life, all your questions are answered.
 
-#### **5\. Overseas University Support**  
+#### **Overseas University Support**  
 ![](/images/2024%20ECG/LSE%20visit%20to%20VJC/IMG_4487.jpg)
 
 Thinking beyond Singapore? Our workshops and briefings, led by in-house experts, provide vital guidance for applications to top universities in the UK, US, and beyond.
 
-#### **6\. Skills Workshops**  
+#### **Skills Workshops**  
 ![](/images/2024%20ECG/UK%20Application%20Workshop/95d22a8e_ae94_4534_b35c_1db52e389cd4.jpg)
 
 Hone your application skills with our targeted workshops:
@@ -53,7 +53,7 @@ Hone your application skills with our targeted workshops:
 *   **Interview Skills Workshops** (December)  
     These sessions ensure students are well-prepared to stand out in competitive application processes.
 
-#### **7\. ECG Lessons & Briefings**  
+#### **ECG Lessons & Briefings**  
 ![](/images/ECG_Assembly.jpg)
 
 Integrated into assembly and civics lessons, these sessions offer timely support, helping students fine-tune their career, higher education, and scholarship strategies.
