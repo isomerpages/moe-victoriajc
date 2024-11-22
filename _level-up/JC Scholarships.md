@@ -33,7 +33,7 @@ resilience, and sound interpersonal qualities.&nbsp;&nbsp;</p>
 </p>
 </li>
 <li>
-<p><em>Courage/conviction/compassion in his/her contributions to college and community.&nbsp;</em>
+<p><em>Courage, conviction and compassion in his/her contributions to college and community.&nbsp;</em>
 </p>
 </li>
 </ul>
@@ -76,11 +76,10 @@ colleges offering the RSP.&nbsp;More info <a href="https://www.moe.gov.sg/financ
 <p>The A*STAR Science Award (Junior College) is given out to Singaporean
 Junior College students who have obtained outstanding academic performance
 in Science and Mathematics subjects who have an interest in research. It
-aims to spur the&nbsp;passion of Scienc<strong>e</strong>&nbsp;among these
-bright students through a monetary award, research attachments and other
-activities including interactions with A*STAR scientists and other eminent
-scientists, so that they may nurture their potential in this area. Do have
-a look<a href="https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-jc" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;here&nbsp;</u></a>for
+aims to spur the&nbsp;passion of Science&nbsp;among these bright students
+through a monetary award, research attachments and other activities including
+interactions with A*STAR scientists and other eminent scientists, so that
+they may nurture their potential in this area. Do have a look<a href="https://www.a-star.edu.sg/Scholarships/junior-college-and-polytechnic-and-secondary-school-students/a-star-science-award-jc" class="XqQF9c" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;here&nbsp;</u></a>for
 more information.</p>
 <h4><strong>CSIT Computing Scholarship</strong></h4>
 <p>The CSIT Computing Scholarship aims to encourage and nurture talents in
