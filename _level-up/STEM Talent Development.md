@@ -6,8 +6,9 @@ description: ""
 ---
 <h3><strong>Empowering Excellence in STEM: Outreach, Enrichment and Science Research</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/STC_Logo_Signage_Long.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/STC_Logo_Text_Long.png">
 </div>
 <p>VJC offers a comprehensive suite of programmes designed to inspire a passion
 for science, cultivate curiosity and critical thinking like scientists,
