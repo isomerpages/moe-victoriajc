@@ -51,6 +51,10 @@ honing critical skills such as teamwork, communication, and event management.</p
 </li>
 </ul>
 <h4><strong>STEM Enrichment</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/YDSP__180_.jpg">
+</div>
 <p>At VJC, we are passionate about igniting curiosity and fostering innovation
 in STEM. Our enrichment programmes are designed to encourage students to
 pursue their interests, broaden their knowledge, and acquire new skills
