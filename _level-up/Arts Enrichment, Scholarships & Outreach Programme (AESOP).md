@@ -56,7 +56,7 @@ Arts Faculty Student will be:</p>
 <p>Fireside Chats with established Arts Alumni</p>
 </li>
 <li>
-<p>Overseas Enrichment Programme (e.g. Hong Kong, South Korea, Japan).</p>
+<p>Overseas Enrichment Programme (e.g. Hong Kong, South Korea, Japan)</p>
 </li>
 </ul>
 <p><strong>MOE HSP Scholars also get more developmental opportunities to:</strong>
