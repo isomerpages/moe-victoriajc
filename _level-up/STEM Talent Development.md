@@ -98,8 +98,8 @@ various institutes of higher learning and research institutes such as:</p>
 <p>Research@YDSP with DSO and DSTA</p>
 </li>
 </ul>
-<p>Additionally, Victorians can look forward to Special Programmes such as:</p>
-<h4>H3 NUS-A*STAR-VJC (NAV) Science Research Programme:</h4>
+<p>Additionally, Victorians can look forward to the following Special Programmes:</p>
+<h4>H3 NUS-A*STAR-VJC (NAV) Science Research Programme</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>A special collaboration with NUS, A*STAR, to offer the H3 NUS-A*STAR-VJC
