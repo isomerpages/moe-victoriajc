@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 ECG/AESOP/HSP_OEP2.png">
 </div>
-<p>AESOP is an enrichment opportunity for HSP students and Arts faculty students.
+<p>AESOP is an enrichment programme for HSP students and Arts faculty students.
 AESOP aims to develop a multi-disciplinary enrichment programme to complement
 existing learning experiences for humanities subjects. Dive into the study
 of Arts and Humanities, where Literature, Economics, History, Geography
