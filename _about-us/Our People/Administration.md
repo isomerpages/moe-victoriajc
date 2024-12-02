@@ -144,6 +144,8 @@ variant: tiptap
 <br><a href="mailto:irmady.khalid@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irmady.khalid@vjc.edu.sg</a> 
 <br>Mdm Mas Diana Bte Abdul Malek
 <br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mas.diana.abdulmalek@vjc.edu.sg</a>
+<br>Ms Kalyani Sankara Anil
+<br><a href="kalyani.anil@vjc.edu.sg" rel="noopener nofollow" target="_blank">kalyani.anil@vjc.edu.sg</a>
 <br>Ms Nurul Syafiqah Binte Ismail
 <br><a href="mailto:nurul.syafiqah.ismail@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul.syafiqah.ismail@vjc.edu.sg</a>
 </p>
