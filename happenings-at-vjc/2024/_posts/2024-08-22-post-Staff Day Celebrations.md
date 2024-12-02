@@ -1,6 +1,6 @@
 ---
 title: Staff Day Celebrations
-permalink: /staff-day-celebrations/
+permalink: /happenings-at-vjc/2024/staff-day-celebrations/
 date: 2024-08-22
 layout: post
 description: ""

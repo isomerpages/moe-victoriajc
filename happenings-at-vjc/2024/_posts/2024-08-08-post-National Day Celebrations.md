@@ -1,6 +1,6 @@
 ---
 title: National Day Celebrations
-permalink: /national-day-celebrations/
+permalink: /happenings-at-vjc/2024/national-day-celebrations/
 date: 2024-08-08
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: SG Dialogue with SMS Desmond Tan
-permalink: /sg-dialogue-with-sms-desmond-tan/
+permalink: /happenings-at-vjc/2024/sg-dialogue-with-sms-desmond-tan/
 date: 2024-08-14
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: 40th College Day
-permalink: /40th-college-day/
+permalink: /happenings-at-vjc/2024/40th-college-day/
 date: 2024-07-19
 layout: post
 description: ""

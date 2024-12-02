@@ -1,6 +1,6 @@
 ---
 title: Feeling Formidable
-permalink: /feeling-formidable/
+permalink: /happenings-at-vjc/2024/feeling-formidable/
 date: 2024-05-24
 layout: post
 description: ""

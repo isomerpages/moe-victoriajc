@@ -1,6 +1,6 @@
 ---
 title: Student Leaders' Investiture
-permalink: /student-leaders-investiture/
+permalink: /happenings-at-vjc/2024/student-leaders-investiture/
 date: 2024-05-24
 layout: post
 description: ""

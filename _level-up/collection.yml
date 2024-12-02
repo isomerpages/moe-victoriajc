@@ -2,10 +2,9 @@ collections:
   level-up:
     output: true
     order:
-      - Talent Development Programme/.keep
-      - Talent Development Programme/Talent Development Programme.md
-      - Talent Development Programme/VSMART.md
-      - Talent Development Programme/Humanities Scholarship & Programme (HSP).md
-      - Talent Development Programme/TSD | Drama Elective Programme (DEP).md
-      - Talent Development Programme/Regional Studies Programme (RSP).md
+      - Talent Development Programme.md
+      - JC Scholarships.md
+      - Arts Enrichment, Scholarships & Outreach Programme (AESOP).md
+      - STEM Talent Development.md
+      - EdVantage.md
       - Education & Career Guidance.md

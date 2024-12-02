@@ -1,6 +1,6 @@
 ---
 title: Hair for Hope Satellite Event
-permalink: /hair-for-hope-satellite-event/
+permalink: /happenings-at-vjc/2024/hair-for-hope-satellite-event/
 date: 2024-05-20
 layout: post
 description: ""

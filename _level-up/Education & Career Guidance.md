@@ -2,56 +2,60 @@
 title: Education & Career Guidance
 permalink: /level-up/education-career-guidance/
 description: ""
+variant: markdown
 ---
+### **Chart Your Future with Confidence: VJC’s Comprehensive Education, Career Guidance & Scholarships Programme**
+ 
+![](/images/2024%20ECG/Edvantage%20Fair/IMG_7605.jpg)
 
+At Victoria Junior College, we’re committed to empowering students to make informed decisions about their futures. Our **Education, Career Guidance (ECG) & Scholarships Programme** is designed to help Victorians explore their passions, refine their goals, and plan their next steps with confidence.
 
-![](/images/Sub%20Page%20Banners%202023/Education%20and%20Career%20Guidance.jpg)
-Victoria Junior College’s comprehensive higher education, career guidance and scholarships programme is designed to assist Victorians as they explore and refine their education and career goals, so that they are able to plan their future with confidence.
+This dynamic programme equips students with the tools and insights they need to succeed in an ever-evolving world. Key objectives of our ECG Programme include:
 
-The various components of the programme aim to:
+*   **Staying Ahead**: Providing up-to-date information about the ever-changing education and career landscape.
+*   **Discovering Your Potential**: Helping Victorians identify their interests, skills, and values, and align them with future educational and career opportunities.
+*   **Achieving Your Aspirations**: Supporting successful applications to universities and scholarships with tailored resources and expert guidance.
 
-*   provide up-to-date information about the evolving education and career landscape
-*   help Victorians identify their interests, skills, values, as well as align these with future education and career options
-*   facilitate successful applications to universities and scholarships
+**Key ECG Programmes and Events**
 
-One major highlight on the calendar is the college’s annual EdVantage! Fair, which provides Victorians with valuable opportunities to meet industry professionals as well as university officials and students to explore a myriad of higher education, career and scholarship options. An MOE Education and Career Guidance (ECG) counsellor is also on board to provide even more personalised guidance for deeper exploration.
+We’ve curated a series of impactful events and initiatives to ensure every Victorian is future-ready:
 
-### Higher Education
+#### **EdVantage Fair**  
+![](/images/2024%20ECG/Edvantage%20Fair/IMG_2727.jpg)
 
-<img src="/images/Higher-Education-1024x768-square.jpg" 
-     style="width:35%" >
-		 
-<p>The Higher Education programme exposes Victorians to a wide array of local and overseas education options. Institutes of higher learning visit VJC to interact with Victorians, and to update them about important changes in the tertiary education scene. For instance, students and parents can look forward to the University Panel Discussion at the end of the first academic year and interact with Victorian alumni currently studying at the universities.
+Our annual flagship event connects students with representatives, industry experts, and VJC alumni to explore a wide range of careers, scholarships, and higher education opportunities.
 
-VJC also hosts talks by admissions tutors from overseas universities throughout the year. Representatives from universities in the United Kingdom, the United States, Canada and others from the region visit regularly. These sessions are valuable platforms for students to consult experts about opportunities and experiences available at different institutes of higher learning</p>
+#### **Work Shadowing Programme**  
+![](/images/2024%20ECG/84673db0_7ca5_4f89_bb72_0810a64c2c6c.jpg)
 
-### Career Guidance
+Step into the professional world! This programme allows Victorians to gain firsthand experience by shadowing professionals across various industries.
 
-<img src="/images/Career-Guidance.jpg" 
-     style="width:35%">
-		 
-The Career Guidance Programme provides numerous platforms for all Victorians to explore career pathways in various industries, such as:
+#### **Learning Journeys** 
+![](/images/2024%20ECG/Learning%20Journeys/b4ce8693_8456_433f_a981_ebc6822957a2.jpg)
 
-*   classroom lessons
-*   personal guidance by civics tutors or the Education and Career Guidance Counsellor
-*   career talks by industry professionals
-*   industry visits
-*   work experience and internships
+Discover the breadth of opportunities across different sectors. These experiential trips expose students to real-world insights from diverse industries.
 
-The programme achieves its objectives largely due to the college’s successful partnership with alumni, parents and industries.
+#### **University Panel**  
+![](/images/2024%20ECG/Uni%20Panel/IMG_8054.jpg)
+An interactive platform where parents and students engage directly with representatives from Singapore’s six autonomous universities. From admissions to campus life, all your questions are answered.
 
-### Scholarships
+#### **Overseas University Support**  
+![](/images/2024%20ECG/LSE%20visit%20to%20VJC/IMG_4487.jpg)
 
-<img src="/images/Scholarships-2-1024x683.jpg" 
-     style="width:35%" >
-		 
-VJC offers many opportunities for students aspiring to receive scholarships either for their pre-university or undergraduate studies. The college provides guidance for those keen on exploring various scholarship options. Advice and mentoring are offered to those who seek to achieve their desired scholarships. 
+Thinking beyond Singapore? Our workshops and briefings, led by in-house experts, provide vital guidance for applications to top universities in the UK, US, and beyond.
 
-VJC is a centre for the Humanities Scholarship Programme (HSP) and the Regional Studies Programme (RSP). Students in these programmes receive scholarships from the Ministry of Education (MOE).   In addition, Victorians have also obtained other junior college scholarships or book prizes, such as those awarded by VJC, as well as by other organisations. Every year, almost one in five Victorians receive an undergraduate scholarship to study in prestigious universities, both locally and overseas.  These scholarships are awarded by the Public Service Commission, government ministries, statutory boards, private industry players as well as universities.
+#### **Skills Workshops**  
+![](/images/2024%20ECG/UK%20Application%20Workshop/95d22a8e_ae94_4534_b35c_1db52e389cd4.jpg)
 
-### Project Edvantage!
+Hone your application skills with our targeted workshops:
 
-<img src="/images/Project-Edvantage-2-1024x683.jpg" 
-     style="width:35%">
-		 
-VJC’s Project EdVantage is a mentoring programme designed for students aspiring for competitive university places or scholarships. Under this programme, students are assigned a teacher mentor, who works closely with them to understand their education and career plans, and prepare them for scholarship applications and university admissions. Workshops are conducted to equip students with the skills to write application essays and to handle interviews.  Students on this programme can also tap on our network of alumni for valuable support in the form of industry expertise or general advice.
+*   **Personal Statement Workshops** (June)
+*   **Interview Skills Workshops** (December)  
+    These sessions ensure students are well-prepared to stand out in competitive application processes.
+
+#### **ECG Lessons & Briefings**  
+![](/images/ECG_Assembly.jpg)
+
+Integrated into assembly and civics lessons, these sessions offer timely support, helping students fine-tune their career, higher education, and scholarship strategies.
+
+At VJC, we aim to inspire every Victorian to dream big and take bold steps toward achieving their aspirations. Collectively, the various initiatives and programme ensure every Victorian is ready for the world of work.

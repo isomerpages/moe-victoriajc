@@ -1,6 +1,6 @@
 ---
 title: VCares Week
-permalink: /vcares-week/
+permalink: /happenings-at-vjc/2024/vcares-week/
 date: 2024-07-12
 layout: post
 description: ""

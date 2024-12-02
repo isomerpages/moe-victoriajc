@@ -1,6 +1,6 @@
 ---
 title: EdVantage! Fair
-permalink: /edvantage-fair/
+permalink: /happenings-at-vjc/2024/edvantage-fair/
 date: 2024-07-31
 layout: post
 description: ""

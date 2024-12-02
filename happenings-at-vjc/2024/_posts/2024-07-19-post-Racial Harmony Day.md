@@ -1,6 +1,6 @@
 ---
 title: Racial Harmony Day
-permalink: /racial-harmony-day/
+permalink: /happenings-at-vjc/2024/racial-harmony-day/
 date: 2024-07-19
 layout: post
 description: ""

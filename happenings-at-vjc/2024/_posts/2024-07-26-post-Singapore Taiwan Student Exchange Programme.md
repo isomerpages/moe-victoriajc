@@ -1,6 +1,6 @@
 ---
 title: Singapore Taiwan Student Exchange Programme
-permalink: /singapore-taiwan-student-exchange-programme/
+permalink: /happenings-at-vjc/2024/singapore-taiwan-student-exchange-programme/
 date: 2024-07-26
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: MSF GP Talk
-permalink: /msf-gp-talk/
+permalink: /happenings-at-vjc/2024/msf-gp-talk/
 date: 2024-08-06
 layout: post
 description: ""
