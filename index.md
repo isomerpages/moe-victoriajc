@@ -14,9 +14,9 @@ sections:
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
-        - title: 40th Anniversary
-          description: Celebrations
-          url: /40th-anniversary/
+        - title: 2025 Open House
+          description: Programme
+          url: /2025-Openhouse/
         - title: Happenings at VJC
           description: Featured News
           url: /happenings-at-vjc/
