@@ -63,8 +63,8 @@ to adulthood.</p>
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Karen Tay</p>
-<p><a href="mailto:karen_tay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_tay@schools.gov.sg</a>
+<p>Mrs Karen Tay
+<br><a href="mailto:karen_tay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">karen_tay@schools.gov.sg</a>
 </p>
 </td>
 </tr>
