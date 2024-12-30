@@ -48,6 +48,16 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Karen Tay
+<br><a href="mailto:karen_tay@schools.gov.sg" rel="noopener nofollow" target="_blank">karen_tay@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Koh Weining
 <br><a href="mailto:koh_weining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_weining@schools.gov.sg</a>
 </p>
@@ -161,11 +171,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Engagement &amp; Partnerships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fatma Osman
+<br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head Active Citizenry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jaclyn Ng
 <br><a href="mailto:ng.yenyen.jaclyn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.yenyen.jaclyn@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher Character &amp; Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Han Zong
+<br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Character &amp; Citizenship Education (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms June Tan
+<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@</a><strong><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vjc</a></strong>
+<a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -181,11 +222,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Leadership</p>
+<p>Subject Head Information and Communication Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yong Chang Leroi
-<br><a href="mailto:lim.yong.chang.leroi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yong.chang.leroi@vjc.edu.sg</a>
+<p>Mr Ridzwan Bin Suri
+<br><a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ridzwan.suri@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Leadership (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Audrey Tay
+<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yong.chang.leroi@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Lim Xue Yi
+<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -209,40 +270,46 @@ variant: tiptap
 </p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4>Staff Development and Engagement</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Information and Communication Technology</p>
+<p></p>
+</td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ridzwan Bin Suri
-<br><a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ridzwan.suri@vjc.edu.sg</a>
+<p>Mr Nazrul Rashidi B Mohd
+<br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Partnerships</p>
+<p>Subject Head Staff Engagement &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fatma Osman
-<br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head 21CC
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chloe Lim Xue Yi
-<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
+<p>Mr Yap Zong Xiang
+<br><a href="mailto:yap.zong.xiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap.zong.xiang@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Arts Department</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -327,11 +394,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Economics</p>
+<p>Head of Economics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yip Oei Lin Anne
-<br><a href="mailto:yip.oeilin.anne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip.oeilin.anne@vjc.edu.sg</a>
+<p>Ms Chong Cui Ying
+<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -350,9 +417,7 @@ variant: tiptap
 <p>Level Head (JC1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Cui Ying
-<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -404,12 +469,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nazrul Rashidi B Mohd
-<br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -434,7 +497,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head General Paper (Covering)</p>
+<p>Level Head General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarah Christian</p>
@@ -669,7 +732,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Science (Covering), Level Head Physics</p>
+<p>Head of Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Tey
