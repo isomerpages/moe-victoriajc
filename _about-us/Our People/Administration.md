@@ -95,6 +95,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hamzah Bin Rahmathulla
+<br><a href="mailto:hamzah.rahmathulla@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hamzah.rahmathulla@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
