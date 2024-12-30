@@ -45,13 +45,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Ngerng Xiuru
-<br>(Subject Head Geography)
+<br>Subject Head Geography
 <br><a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngerng.xiuru.audrey@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Cheryl Lee
-<br>(Subject Head Arts)
+<br>Subject Head Arts
 <br><a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.wen.zhi.cheryl@vjc.edu.sg</a>
 </p>
 </td>
@@ -59,13 +59,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Erica Yap
-<br>(Assistant Year Head)
+<br>Assistant Year Head
 <br><a href="mailto:erica.yap@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">erica.yap@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Loh Ver-May
-<br>(Senior Teacher History)
+<br>Senior Teacher History
 <br><a href="mailto:loh.ver-may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.ver-may@vjc.edu.sg</a>
 </p>
 </td>
@@ -73,7 +73,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tang Li Jen
-<br>(Senior Teacher Art)
+<br>Senior Teacher Art
 <br><a href="mailto:tang.lijen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang.lijen@vjc.edu.sg</a>
 </p>
 </td>
