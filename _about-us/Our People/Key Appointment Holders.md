@@ -205,8 +205,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms June Tan
-<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@</a><strong><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vjc</a></strong>
-<a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.edu.sg</a>
+<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
