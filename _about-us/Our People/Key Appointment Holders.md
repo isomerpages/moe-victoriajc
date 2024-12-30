@@ -491,8 +491,8 @@ variant: tiptap
 <p>Level Head General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Christian</p>
-<p><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
+<p>Ms Sarah Christian
+<br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
