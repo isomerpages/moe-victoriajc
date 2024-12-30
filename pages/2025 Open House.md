@@ -25,6 +25,10 @@ description: ""
 <p>🪩 Mass Dances 👯‍♀️</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus_Image.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>All fired up? Find out how to get to VJC! 🚴🏼🚶🏻‍♀️🚍🚇🚕</summary>
