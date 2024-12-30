@@ -79,15 +79,27 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chua Mei Ling
-<br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
+<p>Ms Chang Shuning
+<br><a href="mailto:chang.shuning@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang.shuning@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Chua Mei Ling
+<br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Geraldine Tay Rou Jun
 <br><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Huang Yunqing
+<br><a href="mailto:huang.yunqing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang.yunqing@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
