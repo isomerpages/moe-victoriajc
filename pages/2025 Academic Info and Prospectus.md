@@ -18,7 +18,7 @@ description: ""
 here.</div>
 <div class="isomer-card-link">View or download here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ChatBot" src="/images/Prospectus_Image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chatbot</div><div class="isomer-card-description">Ask Bobby your questions!</div><div class="isomer-card-link">Hit him up with your questions!</div></div></a>
+</a>
 </div>
 <p></p>
 <p></p>
