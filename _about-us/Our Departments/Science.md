@@ -28,7 +28,7 @@ variant: tiptap
 <br>Dr Wu Jiang
 <br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
 <br>
-<br>Head of Department Science (Covering), Level Head Physics
+<br>Head of Department Science
 <br>Ms Sharon Tey
 <br><a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey.li.wei.sharon@vjc.edu.sg</a>
 </p>
@@ -78,56 +78,56 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Andy Luo Kangshun
+<br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Chang Siang Wen
 <br><a href="mailto:chang.siangwen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang.siangwen@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Chow Siew Foong
 <br><a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow.siewfoong@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Darius Oh
 <br><a href="mailto:darius.oh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">darius.oh@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Elinor Chia
 <br><a href="mailto:chia.elinor.trudy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia.elinor.trudy@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Eric Foo
 <br><a href="mailto:foo.peowmeng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo.peowmeng@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Esther Lee Chia Wei
 <br><a href="mailto:esther.lee.chia.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee.chia.wei@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Farahdilah Binte Abas
 <br><a href="mailto:farahdilah.abas@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farahdilah.abas@vjc.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Dr Goh Ker Liang
-<br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Halim Susanto
-<br><a href="mailto:halim.susanto@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halim.susanto@vjc.edu.sg</a>
+<p>Dr Goh Ker Liang
+<br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -174,56 +174,56 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chien Chong
-<br><a href="mailto:lim.chien.chong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.chien.chong@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Lim Siew Mee
 <br><a href="mailto:chin.siewmee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.siewmee@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Low Shu'en Joanne
 <br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Maggie Mak Foon Mui
 <br><a href="mailto:mak.foon.mui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mak.foon.mui@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Mah Ai Ling
 <br><a href="mailto:poh.ailing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh.ailing@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Michael Lim
 <br><a href="mailto:lim.cheekin.michael@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cheekin.michael@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Rafiqi Bin Leman
 <br><a href="mailto:muhammad.rafiqi.leman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad.rafiqi.leman@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Meichan
 <br><a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Wan Chin
 <br><a href="mailto:ng.wan.chin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.wan.chin@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Nursaba Tarih
+<br><a href="mailto:siti.nursaba.tarih@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti.nursaba.tarih@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

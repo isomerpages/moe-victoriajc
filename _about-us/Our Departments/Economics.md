@@ -24,13 +24,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Department Economics
-<br>Ms Anne Yip
-<br><a href="mailto:yip.oeilin.anne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip.oeilin.anne@vjc.edu.sg</a>
+<p>Head of Department Economics (Covering)
+<br>Ms Chong Cui Ying
+<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head (JC1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (JC2)
+<br>Ms Ang Hui Ling Mabel
+<br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Dunlin, Frances
+<br>Senior Teacher
+<br><a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Peng Yeow
+<br>Subject Head CCA
+<br><a href="mailto:lim.pengyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pengyeow@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,45 +66,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chong Cui Ying
-<br>(Level Head (JC1))
-<br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Hui Ling Mabel
-<br>(Level Head (JC2))
-<br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
+<p>Mr Yap Zong Xiang
+<br>Subject Head Staff Engagement &amp; Well-Being
+<br><a href="mailto:yap.zong.xiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap.zong.xiang@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Dunlin, Frances (Senior Teacher)
-<br><a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>
+<p>Ms Anne Yip
+<br><a href="mailto:yip.oeilin.anne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip.oeilin.anne@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Peng Yeow
-<br>(Subject Head CCA)
-<br><a href="mailto:lim.pengyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pengyeow@vjc.edu.sg</a>
+<p>Ms Chang Shuning
+<br><a href="mailto:chang.shuning@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang.shuning@vjc.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Yong Chang Leroi
-<br>(Subject Head Student Leadership)
-<br><a href="mailto:lim.yong.chang.leroi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yong.chang.leroi@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -96,37 +98,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Huang Yunqing
+<br><a href="mailto:huang.yunqing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang.yunqing@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Joseph Ng Zhi Wei
 <br><a href="mailto:joseph.ng.zhi.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph.ng.zhi.wei@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Koh Hau Keat
 <br><a href="mailto:kelvin.koh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.koh@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Larry Lim Beng Teck
 <br><a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">larry.lim.bengteck@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Keng Hoe
 <br><a href="mailto:lee.kenghoe@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.kenghoe@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Pei Wen
 <br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ngoh Siyuan
-<br><a href="mailto:ngoh.siyuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh.siyuan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -137,31 +139,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Hon
-<br><a href="mailto:hon.li.qin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hon.li.qin@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Suhana Subhan
 <br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Syed Nazir Hussain
-<br><a href="mailto:syed.nazir.hussain@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed.nazir.hussain@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yap Zong Xiang
-<br><a href="mailto:yap.zong.xiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap.zong.xiang@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
