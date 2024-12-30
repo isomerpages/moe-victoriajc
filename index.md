@@ -16,7 +16,7 @@ sections:
           url: https://linktr.ee/victoriajc
         - title: 2025 Open House
           description: Programme
-          url: /2025-Openhouse/
+          url: /2025-openhouse/
         - title: Happenings at VJC
           description: Featured News
           url: /happenings-at-vjc/
