@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/2025VJCOHBanner_Web.jpg
+      background: /images/Main banner 2023/2025_Open_House.png
       key_highlights:
         - title: We are Social
           description: Follow Us on Social Media
