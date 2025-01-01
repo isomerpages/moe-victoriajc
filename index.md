@@ -11,12 +11,12 @@ sections:
   - hero:
       background: /images/Main banner 2023/2025_Open_House.png
       key_highlights:
-        - title: We are Social
-          description: Follow Us on Social Media
-          url: https://linktr.ee/victoriajc
         - title: 2025 Open House
           description: Programme
           url: /2025-openhouse/
+        - title: We are Social
+          description: Follow Us on Social Media
+          url: https://linktr.ee/victoriajc
         - title: Happenings at VJC
           description: Featured News
           url: /happenings-at-vjc/
