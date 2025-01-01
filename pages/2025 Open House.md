@@ -5,32 +5,41 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023 Images/2024_OH_Page.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025VJCOHBanner_Web.jpg">
 </div>
 <p>We can't wait to welcome you on <strong>11 January 2025</strong>!</p>
-<p>See below for a sneak peek! 👀</p>
+<p>Here's a sneak peek of what you can expect 👀</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>👨🏻‍🏫 Principal's Sharing: 10 am and 11.30 am</p>
 </li>
 <li>
-<p>🎸 Live performances by our Performing Arts groups 🥁</p>
+<p>🥁 Live performances: 9.30 am and 11 am</p>
+</li>
+<li>
+<p>🚪 Escape Room @ LVA 🤓</p>
 </li>
 <li>
 <p>🪩 Mass Dances 👯‍♀️</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus_Image.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>All fired up? Find out how to get t to VJC! 🚴🏼🚶🏻‍♀️🚍🚇🚕</summary>
+<summary>All fired up? Find out how to get to VJC! 🚴🏼🚶🏻‍♀️🚍🚇🚕</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Check directions <a href="https://www.google.com/maps?client=safari&amp;rls=en&amp;oe=UTF-8&amp;um=1&amp;ie=UTF-8&amp;fb=1&amp;gl=sg&amp;sa=X&amp;geocode=KRf9PUyfItoxMbkrwOADGbRE&amp;daddr=20+Marine+Vista,+Singapore+449035" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Get directions <a href="https://www.google.com/maps?client=safari&amp;rls=en&amp;oe=UTF-8&amp;um=1&amp;ie=UTF-8&amp;fb=1&amp;gl=sg&amp;sa=X&amp;geocode=KRf9PUyfItoxMbkrwOADGbRE&amp;daddr=20+Marine+Vista,+Singapore+449035" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p>If you are driving, parking is available at:</p>
+<p>🚇 Marine Terrace (TE27), Exit 6.</p>
+<p>🚍 13, 16, 31, 36, 43, 47, 48, 55, 196, 197</p>
+<p></p>
+<p>🚘 Parking is available at:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Marine Terrace, MP1 ($0.60 per 30 min)</p>

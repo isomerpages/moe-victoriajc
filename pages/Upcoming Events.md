@@ -20,107 +20,50 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 July 2024</p>
+<p>11 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>College Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 July 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>East Zone VJC DSTA-DSO Robotics</p>
-<p>Amazing Eco STEM Race</p>
+<p>Open House</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>27 July 2024</p>
+<p>13 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>40th Anniversary Gala Dinner</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 July 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Edvantage Fair</p>
+<p>Start of Term 1 for JC2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 August 2024</p>
+<p>28 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JC1 Parent Engagement Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day Celebration</p>
+<p>Chinese New Year Celebration</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9 August 2024</p>
+<p>29-30 January 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National Day</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Day School Holiday</p>
+<p>Chinese New Year Holiday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>19 August 2024</p>
+<p>5 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computing Prelim Practical</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>21 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JC2 Parents-Teacher Virtual Meeting</p>
+<p>Start of Term 1 for JC1 / JCO</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>22 August 2024</p>
+<p>15 March 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers' Day Celebration and Staff Lunch</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>30 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers' Day School Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 August 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 3 School Vacation</p>
+<p>Start of Term 1 School Vacation</p>
 </td>
 </tr>
 </tbody>
