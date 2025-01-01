@@ -8,9 +8,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025VJCOHBanner_Web.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main banner 2023/2025VJCOHBanner_Web.jpg">
-</div>
 <p>We can't wait to welcome you on <strong>11 January 2025</strong>!</p>
 <p>Here's a sneak peek of what you can expect 👀</p>
 <ul data-tight="true" class="tight">
@@ -42,7 +39,7 @@ description: ""
 <p>🚇 Marine Terrace (TE27), Exit 6.</p>
 <p>🚍 13, 16, 31, 36, 43, 47, 48, 55, 196, 197</p>
 <p></p>
-<p>If you are driving, parking is available at:</p>
+<p>🚘 Parking is available at:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Marine Terrace, MP1 ($0.60 per 30 min)</p>
