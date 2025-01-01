@@ -6,6 +6,9 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025VJCOHBanner_Web.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main banner 2023/2025VJCOHBanner_Web.jpg">
 </div>
 <p>We can't wait to welcome you on <strong>11 January 2025</strong>!</p>
