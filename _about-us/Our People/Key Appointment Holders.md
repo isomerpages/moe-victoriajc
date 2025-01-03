@@ -235,7 +235,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Tay
-<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.yong.chang.leroi@vjc.edu.sg</a>
+<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay.weili.audrey@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
