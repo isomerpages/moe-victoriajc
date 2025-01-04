@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/2025_Open_House.png
+      background: /images/Main banner 2023/2025VJCOHBanner_1895x765.jpg
       key_highlights:
         - title: 2025 Open House
           description: Programme
