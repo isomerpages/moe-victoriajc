@@ -195,6 +195,6 @@ There is a range of H3 offerings that are either taught by VJC teachers in colle
 
 The Singapore Examinations and Assessment Board (SEAB) provides comprehensive information on the subjects which are examined at GCE A-Levels. You may find out more from their website at&nbsp;[https://www.seab.gov.sg/home/examinations/gce-a-level](https://www.seab.gov.sg/home/examinations/gce-a-level)
 
-### VJC Academic Information 2024
+### VJC Academic Information 2025
 
-Download our 2024 Academic Information booklet&nbsp;[here](https://go.gov.sg/vjcacademicinfobooklet), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
+Download our 2025 Academic Information booklet&nbsp;[here](https://for.edu.sg/vjcacadbooklet2025), for a fuller understanding of the A-Level curriculum in VJC and the factors you should consider in choosing the right subject combination for yourself.
