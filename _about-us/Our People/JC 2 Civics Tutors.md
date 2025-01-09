@@ -49,10 +49,8 @@ variant: tiptap
 <p>24A13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Pei Fang Daphne
-<br><a href="mailto:lim.pei.fang.daphne@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.fang.daphne@vjc.edu.sg</a>
-<br>Mr Justin Ng
-<br><a href="mailto:ng.mong.rong.justin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.mong.rong.justin@vjc.edu.sg</a>
+<p>Ms Sandhya Perryn Singh
+<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -101,10 +99,10 @@ variant: tiptap
 <p>24S33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kok Ye Hong
-<br><a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok.ye.hong@vjc.edu.sg</a> 
-<br>Mr Goh Eng Chai
-<br><a href="mailto:goh.engchai@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.engchai@vjc.edu.sg</a>
+<p>Mdm Marliza Bte Muhamad
+<br><a href="mailto:marliza.bte.muhamad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marliza.bte.muhamad@vjc.edu.sg</a>
+<br>Mr Peter Wee
+<br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -113,7 +111,7 @@ variant: tiptap
 <p>24S34</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John JudeAlexander
+<p>Mr John Jude Alexander
 <br><a href="mailto:john.jude.alexander@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john.jude.alexander@vjc.edu.sg</a>
 </p>
 </td>
@@ -153,8 +151,8 @@ variant: tiptap
 <p>24S38</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Qian Wei
-<br><a href="mailto:soh.qian.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh.qian.wei@vjc.edu.sg</a>
+<p>Mr Ng Hak Yee
+<br><a href="mailto:ng.hak.yee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hak.yee@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -163,8 +161,8 @@ variant: tiptap
 <p>24S39</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Koon Ha
-<br><a href="mailto:lee.koon.ha@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.koon.ha@vjc.edu.sg</a>
+<p>Mdm Esther Lee Chia Wei
+<br><a href="mailto:esther.lee.chia.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee.chia.wei@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -195,6 +193,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Heng Wei Zhi Jonathan
 <br><a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng.wei.zhi.jonathan@vjc.edu.sg</a>
+<br>Mr Teo Zhiye
+<br><a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.zhiye@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -203,8 +203,8 @@ variant: tiptap
 <p>24S43</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Halim Susanto
-<br><a href="mailto:halim.susanto@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">halim.susanto@vjc.edu.sg</a>
+<p>Mdm Khaw Hwee Ju
+<br><a href="mailto:khaw.hwee.ju@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaw.hwee.ju@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -255,8 +255,8 @@ variant: tiptap
 <p>24S52</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Pang Keat
-<br><a href="mailto:kwok.pangkeat@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok.pangkeat@vjc.edu.sg</a>
+<p>Ms Clara Pay
+<br><a href="mailto:clara.pay@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clara.pay@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -335,8 +335,8 @@ variant: tiptap
 <p>24S64</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ngoh Siyuan
-<br><a href="mailto:ngoh.siyuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ngoh.siyuan@vjc.edu.sg</a>
+<p>Mr Edwin Lim Cher Chuan
+<br><a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
