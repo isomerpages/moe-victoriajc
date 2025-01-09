@@ -98,69 +98,67 @@ Head
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwok Pang Keat
-<br><a href="mailto:kwok.pangkeat@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok.pangkeat@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Lee Koon Ha
 <br><a href="mailto:lee.koon.ha@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.koon.ha@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Siang Hock
 <br><a href="mailto:lee.siang.hock@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.siang.hock@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Wang Ling Michelle
 <br><a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Mok Wai Heng
 <br><a href="mailto:mok.waiheng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mok.waiheng@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Hak Yee
 <br><a href="mailto:ng.hak.yee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hak.yee@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Poon Fook Weng
 <br><a href="mailto:poon.fook.weng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon.fook.weng@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Quek Tze Jen Eugene
 <br><a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Richard Goh Kee Chong
 <br><a href="mailto:richard.goh.kee.chong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">richard.goh.kee.chong@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yong Hui
 <br><a href="mailto:tan.yong.hui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yong.hui@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Yik Tee
 <br><a href="mailto:teo.yiktee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.yiktee@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
