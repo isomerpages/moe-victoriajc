@@ -22,11 +22,12 @@ variant: tiptap
 <p>Welcome to Victoria Junior College! As you stepped into our college, you
 may have noticed the lyrics of our Victorian Anthem proudly painted (by
 Victorians!) on the walkway. Over time, I hope these words will resonate
-deeply with you and take on</p>
-<p>new significance.</p>
+deeply with you and take on new significance.</p>
 <p></p>
-<p>Victoria is something more,</p>
-<p>The school that watch’d us grow.</p>
+<p><em>Victoria is something more, </em>
+</p>
+<p><em>The school that watch’d us grow.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
