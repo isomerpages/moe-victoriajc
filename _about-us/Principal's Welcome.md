@@ -32,7 +32,7 @@ deeply with you and take on new significance.</p>
 <p>The College vision taken from the College anthem has always seemed enigmatic.
 You might already be asking yourself,&nbsp;What makes Victoria something
 more?&nbsp;The answer lies in our spirit and community. Victoria isn’t
-just a Junior College— it is a community where the camaraderie is legendary
+just a Junior College - it is a community where the camaraderie is legendary
 and where Victorians uplift one another.</p>
 </td>
 <td rowspan="1" colspan="1">
