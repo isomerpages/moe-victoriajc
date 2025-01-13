@@ -28,12 +28,6 @@ deeply with you and take on new significance.</p>
 </p>
 <p><em>The school that watch’d us grow.</em>
 </p>
-<p></p>
-<p>The College vision taken from the College anthem has always seemed enigmatic.
-You might already be asking yourself,&nbsp;What makes Victoria something
-more?&nbsp;The answer lies in our spirit and community. Victoria isn’t
-just a Junior College - it is a community where the camaraderie is legendary
-and where Victorians uplift one another.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -52,6 +46,12 @@ and where Victorians uplift one another.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+<p>The College vision taken from the College anthem has always seemed enigmatic.
+You might already be asking yourself,&nbsp;What makes Victoria something
+more?&nbsp;The answer lies in our spirit and community. Victoria isn’t
+just a Junior College - it is a community where the camaraderie is legendary
+and where Victorians uplift one another.</p>
 <p></p>
 <p>I started my journey as an educator here in VJC 30 years ago and when
 I left for other postings, it was the camaraderie with colleagues and students
