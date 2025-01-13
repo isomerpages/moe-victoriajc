@@ -4,4 +4,91 @@ permalink: /about/principals-welcome/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Principal's%20Message.jpg"></div><p></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Victoria is something more</strong></p><p></p><p>The College vision taken from the College anthem has always seemed enigmatic. What is the ‘something more’ that VJC promises?&nbsp; What is that ‘something more’ that makes our school so special?</p><p></p><p>For me, it is camaraderie between everyone in the Victorian community that lies at the heart of our Victorian spirit. I started my journey as an educator here in VJC 30 years ago and when I left for other postings, it was the camaraderie with colleagues and students that I missed.</p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/JeffreyLow-1365x2048.jpeg"></div></td></tr></tbody></table><table><tbody><tr><td rowspan="1" colspan="2"><p>When I returned as the College’s principal, I can again feel the fellowship and warmth of this community. During our performing arts concerts, in the sport arena, various competitions and our College events, the legendary Victorian spirit is there for all to see.&nbsp;<strong>Because Victoria is Something More.</strong></p><p></p><p>This year, we celebrate our 40th anniversary. Our legacy and numerous achievements is the product of Victorians who’ve come through our gates. Victoria is Something More because Victorians always strived to give their best.&nbsp;</p><p></p><p>Today, we strive to continue that legacy through providing a caring and nurturing environment to support Victorians in their endeavor to be their best. We aspire to develop Victorians who are committed to all-round excellence, yet deeply anchored in values and guided by integrity. Our carefully designed total curriculum also empowers Victorians to&nbsp;<strong>lead</strong>&nbsp;with conviction and&nbsp;<strong>serve</strong>&nbsp;with empathy, so they can&nbsp;<strong>excel</strong>&nbsp;and become active contributors to the college and community, and social innovators for their chosen causes.&nbsp;</p><p></p><p>In VJC, you can rely on the&nbsp; efforts of our staff and the tight networks that the College has established. Our community of staff are always steadfast in their commitment to the holistic development of Victorians. They are reflective practitioners who evaluate their programmes critically and scan the landscape to keep pace with the forever changing and volatile environment. The solid and synergistic partnerships with our parents, alumni, the Victoria-Cedar Alliance partner schools, institutions of higher learning, industry players, government agencies and community organisations, amongst others, have provided plentiful opportunities for Victorians to extend their learning beyond the College. The Victoria Advisory Committee, the Old Victorians’ Association and the Parents Support Group have also provided invaluable support that made Victoria Something more.</p><p></p><p>Equally remarkable is how Victorians can always rely on one another. Victoria is Something More because&nbsp;<strong>V Got your Back</strong>. That is the theme of this year’s Open House and embodies the experience we want all Victorians to have. Everything we do, we do as a community. Any setback we encounter, we own as a community. Every victory we experience, we celebrate as a community.&nbsp;</p><p></p><p>Be part of the Victorian community, and be something more.</p><p></p><p>Nil Sine Labore!</p><p></p><p><strong>Mr Jeffrey Low</strong><br>Principal, Victoria Junior College</p></td></tr></tbody></table><p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Principal's%20Message.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Victoria is something more</strong>
+</p>
+<p></p>
+<p>Welcome to Victoria Junior College! As you stepped into our college, you
+may have noticed the lyrics of our Victorian Anthem proudly painted (by
+Victorians!) on the walkway. Over time, I hope these words will resonate
+deeply with you and take on new significance.</p>
+<p></p>
+<p><em>Victoria is something more,</em>
+</p>
+<p><em>The school that watch’d us grow.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JeffreyLow-1365x2048.jpeg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<p>The College vision taken from the College anthem has always seemed enigmatic.
+You might already be asking yourself,&nbsp;What makes Victoria something
+more?&nbsp;The answer lies in our spirit and community. Victoria isn’t
+just a Junior College - it is a community where the camaraderie is legendary
+and where Victorians uplift one another.</p>
+<p></p>
+<p>I started my journey as an educator here in VJC 30 years ago and when
+I left for other postings, it was the camaraderie with colleagues and students
+that I missed. When I returned as the College’s principal, I can again
+feel the fellowship and warmth of this community. During our performing
+arts concerts, in the sport arena, various competitions and our College
+events, the legendary Victorian spirit is there for all to see.&nbsp;<strong>Because Victoria is Something More.</strong>
+</p>
+<p></p>
+<p>Your two years here will be a time of growth, challenge, and discovery.
+Embrace new experiences, stretch your limits, and don’t be afraid to stumble
+along the way because <strong>V Got Your Back.</strong>&nbsp;This phrase,
+conceptualized by the Class of 2024, reflects their experiences and hopes
+for the College. Their peers, teachers, family, and the wider Victorian
+community supported them every step of the way. I am certain that you will
+share that experience.</p>
+<p></p>
+<p>At VJC, we are committed to helping you become the best version of yourself.
+We want you to experience the joy of learning, fuelled by curiosity, guided
+by integrity, and driven by a strong sense of purpose to make a positive
+impact. Our total curriculum goes beyond academics, building your character
+and resilience. It will empower you to actively lead the college and the
+community with conviction, courage and compassion.</p>
+<p></p>
+<p>Be bold. Be curious. Be the best version of yourself. It is your time
+to lead, serve and excel, in your chosen fields. As you embark on this
+journey, carry forward the Victorian spirit and let our anthem inspire
+you:</p>
+<p>Victoria’s fame and our intent, to keep her flag unfurled.</p>
+<p></p>
+<p><em>Nil Sine Labore!</em>
+</p>
+<p></p>
+<p><strong>Mr Jeffrey Low</strong>
+<br>Principal, Victoria Junior College</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
