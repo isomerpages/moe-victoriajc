@@ -23,25 +23,23 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Economics (Covering)
+<br>Level Head (JC2)
 <br>Ms Chong Cui Ying
 <br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (JC1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (JC2)
+<p>Level Head (JC1)
 <br>Ms Ang Hui Ling Mabel
 <br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
