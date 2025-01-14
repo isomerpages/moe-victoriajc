@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Mathematics
 <br>Ms Yang Chunxiu
 <br><a href="mailto:yang.chunxiu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang.chunxiu@vjc.edu.sg</a>
@@ -33,9 +33,6 @@ Head
 <br>Mr Russell Woo
 <br><a href="mailto:woo.yih.hau.russell@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.yih.hau.russell@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
