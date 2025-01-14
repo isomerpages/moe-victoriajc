@@ -52,7 +52,7 @@ Head
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh Sook Mui
-<br>(Level Head (JC2))
+<br>(Senior Teacher)
 <br><a href="mailto:loh.sookmui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.sookmui@vjc.edu.sg</a>
 </p>
 </td>
