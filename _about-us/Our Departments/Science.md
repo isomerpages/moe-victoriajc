@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Science
 <br>Dr Wu Jiang
 <br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
@@ -32,9 +32,6 @@ variant: tiptap
 <br>Ms Sharon Tey
 <br><a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey.li.wei.sharon@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
