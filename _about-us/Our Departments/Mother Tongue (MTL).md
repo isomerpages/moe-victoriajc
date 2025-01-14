@@ -23,20 +23,17 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Mother Tongue Languages
 <br>Mrs Lee Seow Wei
 <br><a href="mailto:ho.kar.hui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sem.seow.wei@vjc.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ng Kok Hwa
-<br>(Subject Head Mother Tongue Languages)
+<br>Subject Head Mother Tongue Languages
 <br><a href="mailto:ng.kok.hwa@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.kok.hwa@vjc.edu.sg</a>
 </p>
 </td>
@@ -71,7 +68,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Marliza Bte Muhamad
-<br><a href="mailto:marliza.bte.muhamad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marliza.bte.muhamad@vjc.edu.sg</a> 
+<br><a href="mailto:marliza.bte.muhamad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marliza.bte.muhamad@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
