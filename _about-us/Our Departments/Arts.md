@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Arts
 <br>Ms Goh Hui Hua
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
@@ -37,9 +37,6 @@ variant: tiptap
 <br>Ms Fatma Osman
 <br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
