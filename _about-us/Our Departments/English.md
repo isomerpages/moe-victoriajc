@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department English
 <br>Mr James Ho
 <br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
@@ -32,9 +32,6 @@ variant: tiptap
 <br>Mr Nazrul Rashidi B Mohd
 <br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
