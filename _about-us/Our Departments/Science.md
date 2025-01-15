@@ -37,13 +37,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Heman Kwok
-<br>(Subject Head Biology)
+<br>Subject Head Biology
 <br><a href="mailto:kwok.ho.man.heman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok.ho.man.heman@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Keng Hua
-<br>(Level Head Physics)
+<br>Level Head Physics
 <br><a href="mailto:lee.kenghua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.kenghua@vjc.edu.sg</a>
 </p>
 </td>
@@ -51,13 +51,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Shu Von
-<br>(Subject Head Chemistry)
+<br>Subject Head Chemistry
 <br><a href="mailto:ng.shuvon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.shuvon@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Caleb Ho
-<br>(Senior Teacher Physics)
+<br>Senior Teacher Physics
 <br><a href="mailto:ho.tianyu.basil.caleb@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho.tianyu.basil.caleb@vjc.edu.sg</a>
 </p>
 </td>
@@ -65,7 +65,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Edwin Lim Cher Chuan
-<br>(Senior Teacher Chemistry)
+<br>Senior Teacher Chemistry
 <br><a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a>
 </p>
 </td>
