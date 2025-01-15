@@ -23,7 +23,7 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Head of Department Physical Education
 <br>Mr Tan Yew Hwee
 <br><a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
@@ -36,9 +36,6 @@ variant: tiptap
 <br>Ms Evelyn Teoh
 <br><a href="mailto:teoh.huihoon.evelyn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh.huihoon.evelyn@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
