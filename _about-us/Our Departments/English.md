@@ -36,23 +36,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Audrey Tay
-<br>Subject Head Student Leadership (Covering)
-<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay.weili.audrey@vjc.edu.sg</a>
+<p>Mdm Janice Teo Siok Kuan
+<br>Level Head (General Paper)
+<br><a href="mailto:janice.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Lim Xue Yi
-<br>Subject Head 21CC
-<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
+<p>Ms Sarah Christian
+<br>Level Head (General Paper)
+<br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Janice Teo Siok Kuan
-<br>Level Head (General Paper)
-<br><a href="mailto:janice.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
+<p>Mr Teo Gene-En
+<br>Subject Head Literature
+<br><a href="mailto:teo.geneen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.geneen@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Aik Cher
+<br>Senior Teacher (General Paper)
+<br><a href="mailto:teo.aikcher@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.aikcher@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Lim Xue Yi
+<br>Subject Head 21CC
+<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,37 +78,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Christian
-<br>Level Head (General Paper)
-<br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Toh
-<br>Subject Head Project Work
-<br><a href="mailto:toh.yee.suan.susan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh.yee.suan.susan@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Han Zong
 <br>Senior Teacher Character &amp; Citizenship Education
 <br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Gene-En
-<br>Subject Head Literature
-<br><a href="mailto:teo.geneen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.geneen@vjc.edu.sg</a>
+<p>Ms Audrey Tay
+<br>Subject Head Student Leadership (Covering)
+<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay.weili.audrey@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Aik Cher
-<br>Senior Teacher (General Paper)
-<br><a href="mailto:teo.aikcher@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.aikcher@vjc.edu.sg</a>
+<p>Ms Susan Toh
+<br>Subject Head Project Work
+<br><a href="mailto:toh.yee.suan.susan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh.yee.suan.susan@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
