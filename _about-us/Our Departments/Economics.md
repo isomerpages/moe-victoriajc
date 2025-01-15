@@ -31,6 +31,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Mr Matthew Chua
+<br>Lead Teacher
+<br><a href="mailto:matthew.chua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthew.chua@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Level Head (JC1)
 <br>Ms Ang Hui Ling Mabel
@@ -38,28 +46,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Dunlin, Frances
 <br>Senior Teacher
 <br><a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Peng Yeow
 <br>Subject Head CCA
 <br><a href="mailto:lim.pengyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pengyeow@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Matthew Chua
-<br>(Lead Teacher)
-<br><a href="mailto:matthew.chua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthew.chua@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
