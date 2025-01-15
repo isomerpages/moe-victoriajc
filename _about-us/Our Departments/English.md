@@ -64,15 +64,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Lim Xue Yi
-<br>Subject Head 21CC
-<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lim Jia Yin Sharon
 <br>Assistant Year Head
 <br><a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharon.lim.jia.yin@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Lim Xue Yi
+<br>Subject Head 21CC
+<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
