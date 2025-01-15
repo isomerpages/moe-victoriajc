@@ -37,13 +37,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Janice Teo Siok Kuan
-<br>Level Head (General Paper)
+<br>Level Head General Paper
 <br><a href="mailto:janice.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarah Christian
-<br>Level Head (General Paper)
+<br>Level Head General Paper
 <br><a href="mailto:sarah.christian@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah.christian@vjc.edu.sg</a>
 </p>
 </td>
@@ -57,7 +57,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Aik Cher
-<br>Senior Teacher (General Paper)
+<br>Senior Teacher General Paper
 <br><a href="mailto:teo.aikcher@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.aikcher@vjc.edu.sg</a>
 </p>
 </td>
