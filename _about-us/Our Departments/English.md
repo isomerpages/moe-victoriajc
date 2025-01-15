@@ -28,7 +28,7 @@ variant: tiptap
 <br>Mr James Ho
 <br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
 <br>
-<br>Head of Department School Staff Developer
+<br>School Staff Developer
 <br>Mr Nazrul Rashidi B Mohd
 <br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
 </p>
@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Gene-En
-<br>(Subject Head Literature
+<br>Subject Head Literature
 <br><a href="mailto:teo.geneen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.geneen@vjc.edu.sg</a>
 </p>
 </td>
