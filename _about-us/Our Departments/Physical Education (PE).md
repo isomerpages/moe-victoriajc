@@ -28,7 +28,7 @@ variant: tiptap
 <br>Mr Tan Yew Hwee
 <br><a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
 <br>
-<br>Head of Department Student Development
+<br>Head of Student Development
 <br>Mr Seet Kok Wah
 <br><a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a>
 <br>
