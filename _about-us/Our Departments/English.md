@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Janice Teo Siok Kuan
+<p>Ms Janice Teo Siok Kuan
 <br>Level Head General Paper
 <br><a href="mailto:janice.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
@@ -171,21 +171,30 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Lee
-<br><a href="mailto:lee.tzeming.mark@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.tzeming.mark@vjc.edu.sg</a>
+<p>Mrs Lorraine Chng <a href="mailto:lorraine.chng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine.chng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Mark Lee
+<br><a href="mailto:lee.tzeming.mark@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.tzeming.mark@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Sandhya Perryn Singh
 <br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Duan Rong
 <br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
