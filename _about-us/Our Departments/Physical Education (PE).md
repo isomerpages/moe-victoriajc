@@ -68,27 +68,39 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Pung Chin Hong
-<br><a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a>
+<p>Mr Melvin Ong</p>
+<p><a href="mailto:melvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melvin.ong@vjc.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pung Chin Hong
+<br><a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mr Peter Wee
 <br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Ming Xin Judith
 <br><a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Zhiye
 <br><a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.zhiye@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Woo Kok Onn</p>
+<p><a href="mailto:woo.kok.onn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.kok.onn@vjc.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
