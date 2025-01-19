@@ -171,7 +171,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lorraine Chng <a href="mailto:lorraine.chng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine.chng@vjc.edu.sg</a>
+<p>Mrs Lorraine Chng</p>
+<p><a href="mailto:lorraine.chng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine.chng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
