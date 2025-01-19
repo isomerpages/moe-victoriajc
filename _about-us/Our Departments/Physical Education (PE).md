@@ -68,8 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Ong</p>
-<p><a href="mailto:melvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melvin.ong@vjc.edu.sg</a> 
+<p>Mr Melvin Ong <a href="mailto:melvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melvin.ong@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,8 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Woo Kok Onn</p>
-<p><a href="mailto:woo.kok.onn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.kok.onn@vjc.edu.sg</a> 
+<p>Mr Woo Kok Onn <a href="mailto:woo.kok.onn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.kok.onn@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
