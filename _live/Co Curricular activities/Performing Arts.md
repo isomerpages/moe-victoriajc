@@ -17,7 +17,7 @@ The Symphonic Band and the Drama Club have also performed at the Esplanade
 - Theatres on the Bay. VJC is also home to a full-sized Performance Theatre,
 which serves as the venue for our annual Concert Series.&nbsp;</p>
 <p>Victorians also get their aesthetic fix through exposure to various local
-and international arts performances, and annual inhouse concerts. Victorians
+and international arts performances, and annual in-house concerts. Victorians
 perform regularly at public venues such as the Esplanade and the amphitheatre
 at Vivo City.</p>
 <table style="minWidth: 75px">
