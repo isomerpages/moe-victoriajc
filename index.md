@@ -11,9 +11,6 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
-        - title: 2025 Open House
-          description: Programme
-          url: /2025-openhouse/
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
