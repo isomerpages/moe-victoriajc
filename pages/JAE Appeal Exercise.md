@@ -30,9 +30,9 @@ period. You are advised to submit early.</p>
 <p>Do take note of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants must meet the cut-off point for the respective course (Science
-COP of X or Arts COP of X) at VJC for the appeal to be considered. The
-cut-off points are indicated in the online form.</p>
+<p>Applicants must meet the cut-off point for the respective course at VJC
+for the appeal to be considered. Information on 2025 COP will only be available
+from 4 Feb 2025 onwards.</p>
 </li>
 <li>
 <p>If you were admitted into your posted school via Direct School Admission
