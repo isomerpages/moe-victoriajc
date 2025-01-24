@@ -9,9 +9,8 @@ description: ""
 open on <strong>4 Feb 2025, Tues, 10 am</strong>.</p>
 <p>The application period for JAE Appeal to VJC is 4 Feb 2025, Tues, 10 am
 - 7 Feb 2025, Fri, 12 pm.</p>
-<p>Applications must be made online this year. Students who wish to submit
-an appeal are to do so through this application form. (application system
-will be made available from 4 Feb 2025, 10am)</p>
+<p>Applications must be made online and the application system will be made
+available from 4 Feb 2025, 10am.</p>
 <p><strong>What documents do I need to submit?</strong>
 </p>
 <ul data-tight="true" class="tight">
