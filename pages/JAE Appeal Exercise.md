@@ -48,7 +48,7 @@ cut-off points are indicated in the online form.</p>
 <p>The decision of the college is final.</p>
 </li>
 </ul>
-<p>For more information, please email us at victoria_jc@moe.edu.sg, or call
+<p>For more information, please email us at <a href="mailto:victoria_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a> or call
 our General Office at 6448 5011.
 <br>
 </p>
