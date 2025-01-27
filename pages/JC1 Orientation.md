@@ -47,7 +47,7 @@ details regarding your first week in VJC.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>School Talks by Principal, Year Head, and HOD (Talent Development/Education
+<p>School Talks by Principal, Year Head and HOD (Talent Development/Education
 and Career Guidance)</p>
 </li>
 <li>
