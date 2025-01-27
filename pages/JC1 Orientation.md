@@ -38,11 +38,21 @@ details regarding your first week in VJC.</p>
 <p>Wed, 5 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Reporting Time: 7.50am</p>
+</li>
+<li>
 <p>Dismissal Time: 2.30pm*</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Secondary school PE T-shirt with school bottoms (skirt/pants)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -70,11 +80,21 @@ card!)</p>
 <p>Thur, 6 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Reporting Time: 7.50pm</p>
+</li>
+<li>
 <p>Dismissal Time: 3.30pm</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>VJC PE T-shirt and black shorts</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -98,11 +118,21 @@ card!)</p>
 <p>Fri, 7 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Reporting Time: 7.50pm</p>
+</li>
+<li>
 <p>Dismissal Time: 3.30pm</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Maroon V-Tee with black shorts</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -123,11 +153,21 @@ card!)</p>
 <p>Mon, 10 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Reporting Time: 7.50pm</p>
+</li>
+<li>
 <p>Dismissal Time: 5.00pm</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>VJC PE T-shirt and black shorts</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -148,16 +188,27 @@ card!)</p>
 <p>Tue, 11 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Reporting Time: 7.50pm</p>
+</li>
+<li>
 <p>Dismissal Time: 8.00pm</p>
+</li>
+<li>
 <p>(at Suntec City)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>AM: VJC PE T-shirt with black shorts</p>
-<p>
-<br>
-</p>
+</li>
+<li>
 <p>FOW: Fired Up T-shirt with black shorts</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
