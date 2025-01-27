@@ -12,9 +12,8 @@ third_nav_title: Achievements
 <p>Our Victorians sat for the 2023 Singapore-Cambridge GCE A-Level Examination
 and we are delighted to share that that they have achieved an excellent
 set of results.</p>
-<p>Kudos to the Class of 2022!</p>
-<p>We are incredibly proud of your accomplishments and wish you all the best
-as you embark on your future endeavours.</p>
+<p>Kudos to the Class of 2022! We are incredibly proud of your accomplishments
+and wish you all the best as you embark on your future endeavours.</p>
 <p>A big ‘Thank You’ goes out to our teachers, parents and partners for your
 dedicated support of our students’ efforts.</p>
 <p>Nil Sine Labore!</p>
