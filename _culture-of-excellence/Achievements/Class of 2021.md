@@ -3,20 +3,11 @@ title: Class of 2021
 permalink: /about/culture-of-excellence/student-achievements/class-of-2021/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
-
-
 ![](/images/2021-A-Level-Results-Montage.jpg)
 
-719 Victorians sat for the 2021 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an excellent set of results.
-
-1 out of 2 students attained a University Admission Score of at least 85 Rank Points, which places them strongly for competitive courses in university.
-
-2 out of 5 students achieved a distinction in all 4 of their Higher Two subjects.
-
-We congratulate students who attained outstanding results, with 130 students garnering at least 6 distinctions for their subjects.
-
-This cohort had sat for their Project Work examination in 2020, with about 9 in 10 achieving distinctions.
+719 Victorians sat for the 2021 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results which puts them in good stead for the most competitive courses in university.
 
 Congratulations to the Cohort of 2020! We are very proud of you and wish you the very best for your future endeavours.
 
@@ -35,8 +26,7 @@ _Aligned with our College vision of  **“Victoria is Something More"** ,we cele
 </strong></span>
 
 
-<img src="/images/Gilda-Kiran.png" 
-     style="width:75%">
+<img src="/images/Gilda-Kiran.png" style="width:75%">
 		 
 Gilda and Kiran took on their leadership roles as members of the 38th Students’ Council during a time of myriad challenges posed by the COVID-19 situation. Despite this, they fulfilled their duties with resilience during their term of office. They met every difficulty with fervour, simultaneously inspiring their peers to do the same.
 
@@ -53,8 +43,7 @@ In the course of their dedicated service to the College, they wholeheartedly sup
 <span style="font-size: 34px;"><strong>Lukas Ho, 20S47<br>
 (Victoria School)</strong></span>
 
-<img src="/images/Lukas.png" 
-     style="width:75%">
+<img src="/images/Lukas.png" style="width:75%">
 
 With a keen eye for detail and passion for cinematography, Lukas produced videos that his schoolmates found inspiring. Leading his peers in StudioV, Lukas worked tirelessly to capture the vibrant highlights of College life, such as the Singapore Youth Festival Arts Presentation performances and Open House publicity videos. Lukas also led the production of Virtuosity, a virtual concert stitched together to showcase performances of all the performing arts groups.
 
@@ -69,8 +58,7 @@ Lukas demonstrated tremendous grit and determination in balancing his academics,
 <span style="font-size: 34px;"><strong>Ayesha Faizal Ashral, 20A14<br>
 (Tanjong Katong Girls’ School)</strong></span>
 
-<img src="/images/Ayesha.png" 
-     style="width:75%">
+<img src="/images/Ayesha.png" style="width:75%">
 		 
 In 2019, Ayesha sat for the O-Level examinations for the second time. Trepidation turned to joy when she received a stellar set of results which got her into Victoria Junior College. Her achievement was testament to her resilience and hard work, and sweet reward for her supportive family.
 
@@ -87,8 +75,7 @@ Ayesha was truly a leader whom her peers looked to for direction and leadership.
 <span style="font-size: 34px;"><strong>Aw Shuo Jie, 20S51<br>
 (Victoria School)</strong></span>
 
-<img src="/images/Amsyar-Shuo-Jie.png" 
-     style="width:75%">
+<img src="/images/Amsyar-Shuo-Jie.png" style="width:75%">
 		 
 As sports captains, Amsyar and Shuo Jie led their respective teams with purpose and conviction.
 
@@ -109,8 +96,7 @@ While the pandemic placed many constraints on our student athletes, Amsyar and S
 <span style="font-size: 34px;"><strong>Lim Lyn-Zhou, 20S61<br>
 (Victoria School)</strong></span>
 
-<img src="/images/Jiarui-Lyn-Zhou-Kayleigh.png" 
-     style="width:75%">
+<img src="/images/Jiarui-Lyn-Zhou-Kayleigh.png" style="width:75%">
 
 As the Ad-Hoc heads for VJC’s e-Open House in 2021, both Kayleigh and Lyn-Zhou had the mammoth task of producing an Open House that was very different from the past, in that it had to go online. However, far beyond simply organising a virtual school tour, the duo led their team to design a virtual experience that was truly “Something More” – an innovative, interactive and “ridiculously detailed” replica of the school campus on Minecraft, which even caught the attention of local news outlets.
 
