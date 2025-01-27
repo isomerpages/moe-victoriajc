@@ -4,8 +4,9 @@ permalink: /admissions/joint-admissions-exercise/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Admissions%20JAE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2023_JCO1.jpg">
 </div>
 <h3>Joint Admissions Exercise</h3>
 <p><em>The JAE Appeal exercise for admission into Victoria Junior College will open on </em><strong><em>4 Feb 2025, Tues, 10 am</em></strong><em>. Visit our JAE appeal site for more details.</em>
@@ -89,7 +90,7 @@ find out more from their website at <a href="https://www.seab.gov.sg/home/examin
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong> Is CCA compulsory in JC?</strong>
+<summary><strong>Is CCA compulsory in JC?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>CCAs are not compulsory. However, we urge students to take up at least
