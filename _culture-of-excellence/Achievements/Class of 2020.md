@@ -3,39 +3,27 @@ title: Class of 2020
 permalink: /about/culture-of-excellence/student-achievements/class-of-2020/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
-
 ![](/images/2021-RAR-WebbannerS.jpg)
 
-775 Victorians sat for the 2020 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results.
+775 Victorians sat for the 2020 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results which places them strongly for the most competitive courses in university.
 
-The cohort achieved an excellent Median University Admission Score (UAS) of 85.
+Congratulations to the Cohort of 2019! We are very proud of you and wish you the very best for your future endeavours. A big&nbsp;**‘Thank You’**&nbsp;goes out to our&nbsp;**teachers, parents and partners**&nbsp;for your dedicated support of our students’ efforts.
 
-2 out of 5 students attained a University Admission Score of at least 87.5 Rank Points, which places them strongly for the most competitive courses in university.
-
-117 students attained the highest possible UAS of 90.
-
-184 students attained at least 6 distinctions for their subjects.
-
-4 out of 10 students attained a distinction in General Paper. This cohort had sat for their Project Work examination in 2019, with about 9 in 10 achieving distinctions.
-
-Congratulations to the Cohort of 2019! We are very proud of you and wish you the very best for your future endeavours. A big **‘Thank You’** goes out to our **teachers, parents and partners** for your dedicated support of our students’ efforts.
-
-_Nil Sine_ _Labore_!
+_Nil Sine_&nbsp;_Labore_!
 
 ### Outstanding Students
 
-_Aligned with our College vision of “_**_LiVE_** **_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_ **_V_**_isionary_ _leadership and_ **_E_**_xtraordinary service”._
+_Aligned with our College vision of “_**_LiVE_**&nbsp;**_like a Victorian_**_”, we also celebrate the accomplishments of students who have done very well academically, while being committed to serving others and to their role as leaders in co-curricular activities. They truly embody the qualities of “_**_L_**_egendary spirit,_&nbsp;**_V_**_isionary_&nbsp;_leadership and_&nbsp;**_E_**_xtraordinary service”._
 
 <span style="font-size: 34px;"><strong>Legendary Spirit (Sporting Excellence)<br>Mikail Sumono Ramli, 19S44<br>Deseree Khor You Li, 19S35
 </strong></span>
 
-<img src="/images/Mikail-scaled.jpg" 
-     style="width:50%" align="left">
+<img src="/images/Mikail-scaled.jpg" style="width:50%" align="left">
 
 
-<img src="/images/Deseree-scaled.jpg" 
-     style="width:50%" align="right">
+<img src="/images/Deseree-scaled.jpg" style="width:50%" align="right">
 		 
 ![](/images/name.png)
 
@@ -51,11 +39,9 @@ Deseree and Mikail’s excellent sports skills and leadership have not only won 
 </strong></span>
 
 
-<img src="/images/Keith-scaled.jpg" 
-     style="width:50%" align="left">
+<img src="/images/Keith-scaled.jpg" style="width:50%" align="left">
 
-<img src="/images/Miri-scaled.jpg" 
-     style="width:50%" align="right">
+<img src="/images/Miri-scaled.jpg" style="width:50%" align="right">
 
 ![](/images/name2.png)
 
@@ -87,17 +73,15 @@ As exemplary leaders, Shanmugaram, May Anne and Ashton have left a legacy in VJC
 <span style="font-size: 34px;"><strong>Extraordinary Service<br>Charmaine Sew Fan Ning, 19A11<br>Heather Tan Yung Yu, 19A11
 </strong></span>
 
-<img src="/images/Charmaine-scaled.jpg" 
-     style="width:50%" align="left">
+<img src="/images/Charmaine-scaled.jpg" style="width:50%" align="left">
 
-<img src="/images/Heather-scaled.jpg" 
-     style="width:50%" align="right">
+<img src="/images/Heather-scaled.jpg" style="width:50%" align="right">
 		 
 ![](/images/name4.png)
 
 As recipients of the MOE Humanities Scholarship, Charmaine and Heather had many opportunities to critically evaluate social issues and government policies, both in and out of the classroom. However, merely talking about problems did not help solve them. Both wanted to go out into the real world to interact with people, in order to better understand their predicaments and needs.
 
-Although Charmaine had heavy responsibilities as Chairperson of ODAC and as a member of both the Cross Country and Track & Field teams, she found time to embark on many VIA projects which sensitised her to the problems faced by a wide range of beneficiaries. For her academic excellence and her outstanding co-curricular achievements, Charmaine was awarded the VJC Scholarship in 2020.
+Although Charmaine had heavy responsibilities as Chairperson of ODAC and as a member of both the Cross Country and Track &amp; Field teams, she found time to embark on many VIA projects which sensitised her to the problems faced by a wide range of beneficiaries. For her academic excellence and her outstanding co-curricular achievements, Charmaine was awarded the VJC Scholarship in 2020.
 
 As a Home Group Leader in Interact Club, Heather had regular commitments to an eldercare services organisation. Yet, as she wanted to do more for the community, she became a frequent volunteer with several non-profit and grassroots organisations. Heather was awarded the Victoria Pioneer Award 2020, in recognition of her enterprising mind, innovative spirit and courage for a worthy cause.
 

@@ -393,7 +393,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Economics (Covering)</p>
+<p>Head of Economics (Covering) /
+<br>Level Head (JC2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Cui Ying
@@ -414,14 +415,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Level Head (JC1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (JC2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Hui Ling Mabel

@@ -1,6 +1,6 @@
 ---
-title: JC1 Orientation 2024
-permalink: /jc1orientation2024/
+title: JC1 Orientation
+permalink: /jc1orientation/
 variant: tiptap
 description: ""
 ---
@@ -69,9 +69,7 @@ find out more.</p>
 </li>
 <li>
 <p>Do note that all trials and auditions for appeals will only be conducted
-from 3pm onwards. Students are only allowed to leave the Orientation programmes
-of the school they have been posted to after 2pm to attend interviews,
-trials and auditions.</p>
+from 3pm onwards.</p>
 </li>
 <li>
 <p>Successful appellants should report to VJC in-person with the necessary
