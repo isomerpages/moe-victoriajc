@@ -11,8 +11,8 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
-        - title: "2025"
-          description: JAE Appeal Exercise
+        - title: JAE Appeal Exercise 2025
+          description: ""
           url: /jaeappealexercise/
         - title: We are Social
           description: Follow Us on Social Media
