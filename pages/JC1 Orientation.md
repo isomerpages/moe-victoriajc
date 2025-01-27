@@ -189,7 +189,8 @@ card!)</p>
 <p>Details on the following will be provided on Day 1 of Orientation</p>
 <p>1. Subject briefing and sample lessons
 <br>2. Online registration for subject combination
-<br>3. Subject selection test</p>
+<br>3. Subject selection test for Art, China Studies in English, Computing,
+Further Mathematics, Theatre Studies &amp; Drama</p>
 </div>
 </details>
 <details class="isomer-details">
