@@ -3,23 +3,21 @@ title: Class of 2022
 permalink: /about/culture-of-excellence/student-achievements/class-of-2022/
 description: ""
 third_nav_title: Achievements
+variant: tiptap
 ---
-![](/images/2023%20Images/Class%20of%202022.jpg)
-
-Our Victorians sat for the 2022 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an excellent set of results.
-
-2 out of 5 students attained a University Admission Score of at least 87.5 Rank Points, which places them strongly for competitive courses in university.
-
-1 out of 2 students achieved at least three H2 Distinctions.
-
-We congratulate students who attained outstanding results, with 91 students obtaining the coveted perfect 90 UAS and 130 students obtaining at least 6 distinctions!
-
-This cohort had sat for their Project Work examination in 2021, with about 9 in 10 achieving distinctions.
-
-Congratulations to the Class of 2022! We are very proud of you and wish you the very best for your future endeavours.
-
-A big ‘Thank You’ goes out to our teachers, parents and partners for your dedicated support of our students’ efforts.
-
-Nil Sine Labore!
-
-For more updates please visit our social media handles @victoriajc_official on [Instagram](https://www.instagram.com/victoriajc_official/) and [Facebook](https://www.facebook.com/victoriajuniorcollege/)!
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Images/Class%20of%202022.jpg">
+</div>
+<p>The 2022 Singapore-Cambridge GCE A-Level Examination saw our students
+perform exceptionally well, and we are thrilled to celebrate their outstanding
+achievements.</p>
+<p>The Class of 2021 demonstrated remarkable resilience, overcoming various
+hurdles to learning during the COVID-19 pandemic. Well done! We are immensely
+proud of you and wish you great success in your future pursuits.</p>
+<p>We extend our heartfelt gratitude to our teachers, parents, and partners
+for their unwavering support and encouragement, which played a vital role
+in our students' accomplishments.</p>
+<p>Nil Sine Labore!</p>
+<p>For more updates please visit our social media handles @victoriajc_official
+on <a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
+<a href="https://www.facebook.com/victoriajuniorcollege/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
