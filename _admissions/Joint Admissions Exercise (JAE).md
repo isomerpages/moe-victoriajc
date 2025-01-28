@@ -9,7 +9,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2023_JCO1.jpg">
 </div>
 <h3>Joint Admissions Exercise</h3>
-<p><em>The JAE Appeal exercise for admission into Victoria Junior College will open on </em><strong><em>4 Feb 2025, Tues, 10 am</em></strong><em>. Visit our JAE appeal site for more details.</em>
+<p><em>The JAE Appeal exercise for admission into Victoria Junior College will open on </em><strong><em>4 Feb 2025, Tues, 10 am</em></strong><em>. Visit our </em>
+<a href="/jaeappealexercise/" rel="noopener nofollow" target="_blank">JAE appeal site</a><em> for more details.</em>
 </p>
 <p>The Joint Admissions Exercise (JAE) to junior colleges, Millennia Institute,
 polytechnic and Institute of Technical Education&nbsp;is conducted by the
