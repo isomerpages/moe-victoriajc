@@ -438,7 +438,8 @@ be an alternative arrangement at a later date.</p>
 <li>
 <p>We can only accept appellants who meet the cut-off point (COP) and all
 appellants are to submit their application online via our college website.
-Head to our JAE Appeal page to find out more.</p>
+Head to our <a href="/jaeappealexercise/" rel="noopener nofollow" target="_blank">JAE Appeal page</a> to
+find out more.</p>
 </li>
 <li>
 <p>Do note that all trials and auditions for appeals will only be conducted
