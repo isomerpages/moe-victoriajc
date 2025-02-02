@@ -193,10 +193,7 @@ card!)</p>
 <p>Reporting Time: 7.50pm</p>
 </li>
 <li>
-<p>Dismissal Time: 8.00pm</p>
-</li>
-<li>
-<p>(at Suntec City)</p>
+<p>Dismissal Time: 8.00pm (at Suntec City)</p>
 </li>
 </ul>
 </td>
@@ -237,11 +234,11 @@ card!)</p>
 <details class="isomer-details">
 <summary>Academic Matters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Details on the following will be provided on Day 1 of Orientation</p>
-<p>1. Subject briefing and sample lessons
+<p>Details on the following are available on this <a href="https://go.gov.sg/vjc25jco-acad" rel="noopener nofollow" target="_blank">site</a>.</p>
+<p>1. Subject briefing and sample lessons of the subjects offered in VJC
 <br>2. Online registration for subject combination
-<br>3. Subject selection test for Art, China Studies in English, Computing,
-Further Mathematics, Theatre Studies &amp; Drama</p>
+<br>3. Schedule for <u>Subject Selection Test</u> for Art, China Studies in
+English, Computing, Further Mathematics, Theatre Studies &amp; Drama</p>
 </div>
 </details>
 <details class="isomer-details">
