@@ -61,7 +61,7 @@ details regarding your first week in VJC.</p>
 and Career Guidance)</p>
 </li>
 <li>
-<p>Purchase of uniform, PE attire, tie, badge</p>
+<p>Purchase of uniform and graphing calculator</p>
 </li>
 <li>
 <p>Exploration of subject booths</p>
