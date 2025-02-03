@@ -415,7 +415,7 @@ contact details:</p>
 </p>
 <ul>
 <li>
-<p>This sale price is only for the two days stated above.</p>
+<p>This sale price is only for date stated above.</p>
 </li>
 <li>
 <p>Remember to collect the Record of Purchase Card from the vendor for warranty.</p>
