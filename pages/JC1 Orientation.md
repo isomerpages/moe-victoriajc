@@ -61,7 +61,7 @@ details regarding your first week in VJC.</p>
 and Career Guidance)</p>
 </li>
 <li>
-<p>Purchase of uniform, PE attire, tie, badge</p>
+<p>Purchase of uniform and graphing calculator</p>
 </li>
 <li>
 <p>Exploration of subject booths</p>
@@ -415,7 +415,7 @@ contact details:</p>
 </p>
 <ul>
 <li>
-<p>This sale price is only for the two days stated above.</p>
+<p>This sale price is only for date stated above.</p>
 </li>
 <li>
 <p>Remember to collect the Record of Purchase Card from the vendor for warranty.</p>
