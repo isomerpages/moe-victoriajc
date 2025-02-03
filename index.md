@@ -14,12 +14,12 @@ sections:
         - title: JAE Appeal Exercise 2025
           description: ""
           url: /jaeappealexercise/
+        - title: JC1 Orientation
+          description: Schedule
+          url: /jc1orientation/
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
-        - title: Happenings at VJC
-          description: Featured News
-          url: /happenings-at-vjc/
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
