@@ -82,7 +82,7 @@ card!)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Reporting Time: 7.50pm</p>
+<p>Reporting Time: 7.50am</p>
 </li>
 <li>
 <p>Dismissal Time: 3.30pm</p>
@@ -120,7 +120,7 @@ card!)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Reporting Time: 7.50pm</p>
+<p>Reporting Time: 7.50am</p>
 </li>
 <li>
 <p>Dismissal Time: 3.30pm</p>
@@ -155,7 +155,7 @@ card!)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Reporting Time: 7.50pm</p>
+<p>Reporting Time: 7.50am</p>
 </li>
 <li>
 <p>Dismissal Time: 5.00pm</p>
@@ -190,7 +190,7 @@ card!)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Reporting Time: 7.50pm</p>
+<p>Reporting Time: 7.50am</p>
 </li>
 <li>
 <p>Dismissal Time: 8.00pm (at Suntec City)</p>
@@ -244,7 +244,7 @@ English, Computing, Further Mathematics, Theatre Studies &amp; Drama</p>
 <details class="isomer-details">
 <summary>Sale of School Uniform</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Dates:</strong>&nbsp; 5 Feb (Wed), 10am-4.30pm
+<p><strong>Dates:</strong>&nbsp; 5 Feb (Wed) and 6 Feb (Thu), 10am-4.30pm
 <br><strong>Payment Methods:</strong> Cash, PayNow or PayLah!</p>
 <p></p>
 <p><strong>Price List</strong>
@@ -398,7 +398,9 @@ contact details:</p>
 <details class="isomer-details">
 <summary>Sale of Graphing Calculator</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date:</strong> 5 Feb (Wed), 10.30am-1.30pm</p>
+<p><strong>Date:</strong> 5 Feb (Wed), 10.30am-1.30pm.</p>
+<p><em>^Second sale date will be provided in the third week of February</em>
+</p>
 <p><strong>Price: </strong>$178
 <br><strong>Payment Methods:</strong>
 </p>
@@ -415,7 +417,7 @@ contact details:</p>
 </p>
 <ul>
 <li>
-<p>This sale price is only for date stated above.</p>
+<p>This sale price is only for dates stated above.</p>
 </li>
 <li>
 <p>Remember to collect the Record of Purchase Card from the vendor for warranty.</p>
