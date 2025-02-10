@@ -18,11 +18,11 @@ and wish you all the best as you embark on your future endeavours.</p>
 dedicated support of our students’ efforts. Nil Sine Labore!</p>
 <p>Read on for stories from our Class of 2023!</p>
 <h4>Lead</h4>
+<p><strong>Philicia Geow, CHIJ Katong Convent | </strong><em><u>#whyVJ</u> The community in VJC is one that spurs you on no matter your background. It has given me friends who care for me even at my lowest point. I have graduated knowing that the memories and friends I made here will last a lifetime.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Philicia.jpg">
 </div>
-<p><strong>Philicia Geow, CHIJ Katong Convent | </strong><em><u>#whyVJ</u> The community in VJC is one that spurs you on no matter your background. It has given me friends who care for me even at my lowest point. I have graduated knowing that the memories and friends I made here will last a lifetime.</em>
-</p>
 <p>With nurturing guidance and loving support of family, teachers and friends,
 Philicia has blossomed into a confident learner and dynamic leader. For
 her achievements, she was recognised with the Lee Kuan Yew Award for Outstanding
@@ -43,11 +43,11 @@ lower secondary school students with =DREAMS Asia in 2023.&nbsp;</p>
 <p>Philicia embodies the values of a true Victorian, leading and serving
 with courage and compassion.</p>
 <hr>
+<p><strong>Dylan Gan, Victoria School | </strong><em><u>#whyVJ</u> VJC has been a safe space for me to fully express myself. The warmth of my peers and support of my teachers has been so important to me and I will miss it. This has been definitive in my VJ journey.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Dylan.jpg">
 </div>
-<p><strong>Dylan Gan, Victoria School | </strong><em><u>#whyVJ</u> VJC has been a safe space for me to fully express myself. The warmth of my peers and support of my teachers has been so important to me and I will miss it. This has been definitive in my VJ journey.</em>
-</p>
 <p>Although new to Track &amp; Field, Dylan embraced the sport with great
 aplomb. Dedicating hours to training, Dylan contributed to his team’s podium
 placing at the National School Games Track &amp; Field A Division Boys
@@ -69,12 +69,11 @@ Project V, a community service project. VJC would like to thank Dylan for
 his inspirational leadership and we are certain we will see more of him
 in the future.</p>
 <hr>
+<p><strong>Sherwyn Peck, Bowen Secondary School | </strong><em><u>#whyVJ</u> VJ provided me with so many opportunities, where I got to perform and develop myself as a leader. It made me a better person and I am grateful for that.</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Sherwyn.jpg">
 </div>
-<p>
-<br><strong>Sherwyn Peck, Bowen Secondary School | </strong><em><u>#whyVJ</u> VJ provided me with so many opportunities, where I got to perform and develop myself as a leader. It made me a better person and I am grateful for that.</em>
-</p>
 <p>Sherwyn’s passion for dance placed him in the spotlight. A talented and
 charismatic performer, he shone in every item he participated in during
 Dance concerts. As the Chairperson of Dance Club, Sherwyn was fiercely
@@ -96,11 +95,11 @@ commitments and their academic pursuits skillfully.&nbsp;</p>
 and leader.</p>
 <hr>
 <h4>Serve</h4>
+<p><strong>Faith Lum, Cedar Girls’ Secondary School | </strong><em><u>#whyvj</u> The fun-loving and supportive community in VJ has allowed me to meet so many amazing people and I'm truly grateful to have them in my life. My friends and teachers have also helped me create happy core memories that will definitely last a lifetime!</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Lum.jpg">
 </div>
-<p><strong>Faith Lum, Cedar Girls’ Secondary School | </strong><em><u>#whyvj</u> The fun-loving and supportive community in VJ has allowed me to meet so many amazing people and I'm truly grateful to have them in my life. My friends and teachers have also helped me create happy core memories that will definitely last a lifetime!</em>
-</p>
 <p>A kind and compassionate individual, Faith was always looking for opportunities
 to serve the community. Driven by genuine tenderness and an innate desire
 to empower others, she used her artistic talents to create merchandise
@@ -122,6 +121,11 @@ the National School Games Cross Country Championships.</p>
 <p>VJC is extremely heartened by her endeavours and her heart for the community.</p>
 <hr>
 <p><strong>Brishen Lin, Victoria School | </strong><em><u>#whyvj</u> My #whyvj is the people that define our unique culture! They drove me and gave me the space to constantly grow daily, both in academic and non-academic areas as well as to pursue other initiatives as part of well-rounded education 😃 This is how VJ has shaped me - teaching me the value of constant growth and learning to look out for and give back to those who have shaped us 🤟</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Brishen.jpg">
+</div>
+<p>
 <br>With courage and a zest for life, Brishen chose to take up the mantle
 of leadership and served the community. As a key member of the Students’
 Council, he planned various initiatives during the 2022 Mental Wellness
