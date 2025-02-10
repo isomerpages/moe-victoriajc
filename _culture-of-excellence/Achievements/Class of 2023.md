@@ -222,7 +222,7 @@ at the 2023 National School Games Badminton A Division Boys Championships.</p>
 interpersonal skills. VJC is proud of his achievements and certain we will
 see more from him in the future.</p>
 <hr>
-<p><strong>Denzel Chua, Victoria School | </strong><em><u>#whyvj</u>  With VJs’ work hard play hard culture, everyone pushes each other to become better in all aspects of JC Iife. This spurred me to strive for excellence, leaving me with a fruitful and fulfilling experience that I can look back on with pride. The camaraderie and the priceless friendships forged here helped see me through tough times and made my experience here even more memorable.</em>
+<p><strong>Denzel Chua, Victoria School | </strong><em><u>#whyvj</u> With VJs’ work hard play hard culture, everyone pushes each other to become better in all aspects of JC Iife. This spurred me to strive for excellence, leaving me with a fruitful and fulfilling experience that I can look back on with pride. The camaraderie and the priceless friendships forged here helped see me through tough times and made my experience here even more memorable.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
