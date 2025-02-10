@@ -9,7 +9,7 @@ variant: markdown
 
 775 Victorians sat for the 2020 Singapore-Cambridge GCE A-Level Examination. We are proud to announce that they have achieved an outstanding set of results which places them strongly for the most competitive courses in university.
 
-Congratulations to the Cohort of 2019! We are very proud of you and wish you the very best for your future endeavours. A big&nbsp;**‘Thank You’**&nbsp;goes out to our&nbsp;**teachers, parents and partners**&nbsp;for your dedicated support of our students’ efforts.
+Congratulations to the Class of 2020! We are very proud of you and wish you the very best for your future endeavours. A big&nbsp;**‘Thank You’**&nbsp;goes out to our&nbsp;**teachers, parents and partners**&nbsp;for your dedicated support of our students’ efforts.
 
 _Nil Sine_&nbsp;_Labore_!
 
