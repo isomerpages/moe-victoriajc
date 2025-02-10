@@ -16,7 +16,7 @@ set of results.</p>
 and wish you all the best as you embark on your future endeavours.</p>
 <p>A big ‘Thank You’ goes out to our teachers, parents and partners for your
 dedicated support of our students’ efforts. Nil Sine Labore!</p>
-<p>Read on for stories from our Class of 2023!</p>
+<hr>
 <h4>Lead</h4>
 <p><strong>Philicia Geow, CHIJ Katong Convent | </strong><em><u>#whyVJ</u> The community in VJC is one that spurs you on no matter your background. It has given me friends who care for me even at my lowest point. I have graduated knowing that the memories and friends I made here will last a lifetime.</em>
 </p>
@@ -39,9 +39,9 @@ helped to raise awareness of food insecurity in Singapore and raise funds
 for Food Bank Singapore. Despite having to cope with a rigorous A-Level
 curriculum, which includes Theatre Studies &amp; Drama, and her Council
 duties, Philicia found time to commit as a volunteer tutor for under-privileged
-lower secondary school students with =DREAMS Asia in 2023.&nbsp;</p>
-<p>Philicia embodies the values of a true Victorian, leading and serving
-with courage and compassion.</p>
+lower secondary school students with =DREAMS Asia in 2023.&nbsp;Philicia
+embodies the values of a true Victorian, leading and serving with courage
+and compassion.</p>
 <hr>
 <p><strong>Dylan Gan, Victoria School | </strong><em><u>#whyVJ</u> VJC has been a safe space for me to fully express myself. The warmth of my peers and support of my teachers has been so important to me and I will miss it. This has been definitive in my VJ journey.</em>
 </p>
@@ -65,9 +65,7 @@ of Photography Society, Dylan demonstrated strong leadership qualities.
 Recognised as a charismatic and effective leader, he was appointed the
 overall student leader in-charge of the Victoria-Cedar Alliance Initiation
 Programme. He communicated plans with clarity and zeal and helped to organise
-Project V, a community service project. VJC would like to thank Dylan for
-his inspirational leadership and we are certain we will see more of him
-in the future.</p>
+Project V, a community service project.</p>
 <hr>
 <p><strong>Sherwyn Peck, Bowen Secondary School | </strong><em><u>#whyVJ</u> VJ provided me with so many opportunities, where I got to perform and develop myself as a leader. It made me a better person and I am grateful for that.</em>
 </p>
@@ -90,9 +88,8 @@ not dancers. He was always ready to guide his peers and paid attention
 to their welfare throughout the long hours of rehearsals. With the A-Level
 exams on the horizon, Sherwyn was a role model of resilience and holistic
 education as he motivated the JC2 participants to balance both their NDP
-commitments and their academic pursuits skillfully.&nbsp;</p>
-<p>The college is extremely proud of Sherwyn and how he has grown as a dancer
-and leader.</p>
+commitments and their academic pursuits skillfully.&nbsp;VJC is proud of
+Sherwyn and how he has grown as a dancer and leader.</p>
 <hr>
 <h4>Serve</h4>
 <p><strong>Faith Lum, Cedar Girls’ Secondary School | </strong><em><u>#whyvj</u> The fun-loving and supportive community in VJ has allowed me to meet so many amazing people and I'm truly grateful to have them in my life. My friends and teachers have also helped me create happy core memories that will definitely last a lifetime!</em>
@@ -116,9 +113,9 @@ Silent Heroes Students Award.&nbsp;</p>
 Teams. Her hard work and discipline saw her achieve excellence in both
 sports.&nbsp; In the 2023 National School Games Track and Field A Division
 Girls Championships, Faith achieved Second Place in the 800m individual
-event. Faith also played an instrumental role in her team’s top spot in
-the National School Games Cross Country Championships.</p>
-<p>VJC is extremely heartened by her endeavours and her heart for the community.</p>
+event and played an instrumental role in her team’s top spot in the National
+School Games Cross Country Championships. VJC is extremely heartened by
+her endeavours and her heart for the community.</p>
 <hr>
 <p><strong>Brishen Lin, Victoria School | </strong><em><u>#whyvj</u> My #whyvj is the people that define our unique culture! They drove me and gave me the space to constantly grow daily, both in academic and non-academic areas as well as to pursue other initiatives as part of well-rounded education 😃 This is how VJ has shaped me - teaching me the value of constant growth and learning to look out for and give back to those who have shaped us 🤟</em>
 </p>
@@ -163,13 +160,13 @@ him. His resilience and willingness to work toward the team’s common goal
 was invaluable, and paid off handsomely in back-to-back championship victories
 at the National School Games. In recognition of his service to the team,
 the Singapore Schools Sports Council presented Hemanth with the Colours
-Award in both 2022 and 2023.&nbsp;&nbsp;&nbsp;</p>
-<p>With his infectious smile and sincerity, Hemanth was well-liked by his
-peers and teachers alike. His endeavours and supportive nature have enriched
-the community in VJC and we are extremely proud of his achievements!</p>
+Award in both 2022 and 2023.&nbsp;With his infectious smile and sincerity,
+Hemanth was well-liked by his peers and teachers alike. His endeavours
+and supportive nature have enriched the community in VJC and we are extremely
+proud of his achievements!</p>
 <hr>
 <h4>Excel</h4>
-<p><strong>Faith Ford, CHIJ St. Joseph’s Convent | </strong><em><u>#whyvj </u>The support for students - The teachers truly look out for us, asking how I’m coping, checking in on me, or even asking if I’ve eaten. During NSG, when we miss classes for competitions, they were very understanding and happily book consults for us to keep us on track. I really appreciate their patience with me because I always have a million questions🤣. That my teachers had my back really played a big part in ensuring I could juggle sports and academics. I wouldn’t have gotten through JC without their support :))</em>
+<p><strong>Faith Ford, CHIJ St. Joseph’s Convent | </strong><em><u>#whyvj </u>The teachers truly look out for us, asking how I’m coping, checking in on me, or even asking if I’ve eaten. During NSG, when we miss classes for competitions, they were very understanding and happily book consults for us to keep us on track. I really appreciate their patience with me because I always have a million questions🤣. That my teachers had my back really played a big part in ensuring I could juggle sports and academics. I wouldn’t have gotten through JC without their support :))</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
@@ -191,9 +188,9 @@ Her exceptional performance led her to be selected to represent Singapore
 in the 2023 Under-20 Asian Athletics Championships in South Korea. For
 her athletic excellence and tenacious spirit, Faith was awarded the VJC
 Sports Excellence Award in 2022, and the Singapore Sports Council Colours
-Award (Distinction) for being the Best Sports Girl for Cross Country.</p>
-<p>VJC is immensely proud of Faith’s growth and achievements in her time
-with us!</p>
+Award (Distinction) for being the Best Sports Girl for Cross Country. VJC
+is immensely proud of Faith’s growth and achievements in her time with
+us!</p>
 <hr>
 <p><strong>Tan Zhong Sing, Victoria School | </strong><em><u>#whyvj</u> The people in VJ inspire and bring out the best in me. This has motivated me to become a person dedicated to discovering the best in others.</em>
 </p>
@@ -220,13 +217,15 @@ tremendous drive and energy helped the team attain 4<sup>th</sup> place
 at the 2023 National School Games Badminton A Division Boys Championships.</p>
 <p>Zhong Sing is an intellectually gifted yet balanced individual with strong
 interpersonal skills. VJC is proud of his achievements and certain we will
-see more from him in the future.</p>
+see more of him in the future.</p>
 <hr>
 <p><strong>Denzel Chua, Victoria School | </strong><em><u>#whyvj</u> With VJs’ work hard play hard culture, everyone pushes each other to become better in all aspects of JC Iife. This spurred me to strive for excellence, leaving me with a fruitful and fulfilling experience that I can look back on with pride. The camaraderie and the priceless friendships forged here helped see me through tough times and made my experience here even more memorable.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
 </div>
+<p><em>(Photo from Singapore National Olympic Council, Facebook)</em>
+</p>
 <p>A highly motivated and exceptionally talented sportsman, Denzel excelled
 in not just one, but two different sports. A dexterous rock wall climber,
 he won the Men’s intermediate individual event at NUS Boulderactive, and
@@ -241,8 +240,7 @@ Council Colours Award during his time in the College.</p>
 himself with great diligence and intellect. This strong work ethic saw
 him consistently achieve good academic results. Denzel also unselfishly
 mentored his classmates in various subjects and patiently answered their
-questions.</p>
-<p>Denzel truly exemplifies what it means to be an all-rounder.</p>
+questions. Denzel truly exemplifies what it means to be an all-rounder.</p>
 <hr>
 <p>For more updates please visit our social media handles @victoriajc_official
 on <a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
