@@ -11,7 +11,7 @@ variant: tiptap
 <p>The 2022 Singapore-Cambridge GCE A-Level Examination saw our students
 perform exceptionally well, and we are thrilled to celebrate their outstanding
 achievements.</p>
-<p>The Class of 2021 demonstrated remarkable resilience, overcoming various
+<p>The Class of 2022 demonstrated remarkable resilience, overcoming various
 hurdles to learning during the COVID-19 pandemic. Well done! We are immensely
 proud of you and wish you great success in your future pursuits.</p>
 <p>We extend our heartfelt gratitude to our teachers, parents, and partners
