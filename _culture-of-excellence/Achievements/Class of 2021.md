@@ -9,7 +9,7 @@ variant: markdown
 
 719 Victorians sat for the 2021 Singapore-Cambridge GCE A-Level Examination. We are happy to announce that they have achieved an outstanding set of results which puts them in good stead for the most competitive courses in university.
 
-Congratulations to the Cohort of 2020! We are very proud of you and wish you the very best for your future endeavours.
+Congratulations to the Class of 2021! We are very proud of you and wish you the very best for your future endeavours.
 
 A big ‘Thank You’ goes out to our teachers, parents and partners for your dedicated support of our students’ efforts.
 
