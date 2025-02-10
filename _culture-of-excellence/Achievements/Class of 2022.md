@@ -17,9 +17,9 @@ of you and wish you great success in your future pursuits.</p>
 <p>We extend our heartfelt gratitude to our teachers, parents, and partners
 for their unwavering support and encouragement, which played a vital role
 in our students' accomplishments. Nil Sine Labore!</p>
-<p>Read on for inspiring stories of our Victorians.</p>
+<hr>
 <h4>Victoria is Something More</h4>
-<p><strong>Aaron Sim, Victoria School | </strong><em><u>#whyvj</u></em><strong> </strong><em>The best part of my VJ experience was its kind and supportive people who shared my passion for learning.</em>
+<p><strong>Aaron Sim, Victoria School |</strong><em><u>#whyvj</u></em><strong> </strong><em>The best part of my VJ experience was its kind and supportive people who shared my passion for learning.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Aaron.jpg">
