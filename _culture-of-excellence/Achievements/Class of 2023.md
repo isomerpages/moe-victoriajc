@@ -145,9 +145,105 @@ the MOE Regional Studies Programme (RSP) Scholarship.&nbsp;</p>
 <p>Brishen embodies the values of a Victorian and we are truly proud of his
 accomplishments. We know that he will continue to lead and serve with courage
 and compassion.</p>
-<p>
-<br>
+<hr>
+<p><strong>Hemanth Sivakumar, Victoria School | </strong><em><u>#whyvj</u> VJC provided me with opportunities to be a better individual, student and leader. The opportunities given to me in Interact and Football have greatly developed my willingness to serve, while the school culture always helped to keep my spirits high and taught me the importance of camaraderie during the tough times.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Hemanth.jpg">
+</div>
+<p>Hemanth is a charismatic and caring young man who made a concerted effort
+to be actively involved in community service initiatives during his time
+in VJC. As a member of the College Interact Club, he dedicated his time
+to tutoring children every Saturday. Furthermore, Hemanth actively participated
+in the Meals on Wheels volunteer program coordinated by TOUCH, delivering
+packed meals to elderly residents within Toa Payoh.</p>
+<p>Hemanth also served as a stalwart member of the Football team. He thrived
+on high-intensity situations, encouraging his peers to strive alongside
+him. His resilience and willingness to work toward the team’s common goal
+was invaluable, and paid off handsomely in back-to-back championship victories
+at the National School Games. In recognition of his service to the team,
+the Singapore Schools Sports Council presented Hemanth with the Colours
+Award in both 2022 and 2023.&nbsp;&nbsp;&nbsp;</p>
+<p>With his infectious smile and sincerity, Hemanth was well-liked by his
+peers and teachers alike. His endeavours and supportive nature have enriched
+the community in VJC and we are extremely proud of his achievements!</p>
+<hr>
+<h4>Excel</h4>
+<p><strong>Faith Ford, CHIJ St. Joseph’s Convent | </strong><em><u>#whyvj </u>The support for students - The teachers truly look out for us, asking how I’m coping, checking in on me, or even asking if I’ve eaten. During NSG, when we miss classes for competitions, they were very understanding and happily book consults for us to keep us on track. I really appreciate their patience with me because I always have a million questions🤣. That my teachers had my back really played a big part in ensuring I could juggle sports and academics. I wouldn’t have gotten through JC without their support :))</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
+</div>
+<p>Faith’s story is one of how her passion and determination to excel in
+her CCAs - Cross Country and Track and Field - led her down the path of
+sporting history. She started running competitively only in Secondary 4
+but blossomed during her time with the VJC Cross Country and Track and
+Field teams. As the Captain of the Cross Country team, she displayed great
+dedication to her role and was a strong motivating force for her team during
+training. While she was the fastest individual at the 2022 NSG Cross Country
+Championships, the team collectively clinched third position. Undeterred,
+she and her peers trained even harder, putting on a stellar performance
+at the 2023 edition of the Championships and reclaimed the team title that
+VJC last won in 2016.</p>
+<p>An outstanding athlete, Faith shattered not only several NSG Cross Country
+Championship records but also national school records for Track and Field.
+Her exceptional performance led her to be selected to represent Singapore
+in the 2023 Under-20 Asian Athletics Championships in South Korea. For
+her athletic excellence and tenacious spirit, Faith was awarded the VJC
+Sports Excellence Award in 2022, and the Singapore Sports Council Colours
+Award (Distinction) for being the Best Sports Girl for Cross Country.</p>
+<p>VJC is immensely proud of Faith’s growth and achievements in her time
+with us!</p>
+<hr>
+<p><strong>Tan Zhong Sing, Victoria School | </strong><em><u>#whyvj</u> The people in VJ inspire and bring out the best in me. This has motivated me to become a person dedicated to discovering the best in others.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Zhong_Sing.jpg">
+</div>
+<p>Zhong Sing is an extraordinary student who consistently topped the cohort
+while juggling the demands of taking two H3 subjects and playing active
+roles in two different CCAs. Having an insatiable thirst for knowledge,
+Zhong Sing seized opportunities that would expose him to more experiences,
+such as taking H3 History and H3 Game Theory. As a testament of his strong
+ability to capably handle a rigorous curriculum, he was a recipient of
+the Language Elective Scholarship (Spanish) and the VJC Scholarship in
+Appreciation of Mrs Lee Phui Mun.</p>
+<p>Zhong Sing’s excellence extended beyond the classroom. As a Student Councillor,
+he displayed strong leadership skills in leading a team to plan for Open
+House 2023. An empathetic and considerate leader, he encouraged and rallied
+the team to make the event successful. In his work to liaise with various
+stakeholders for other college-wide events, he demonstrated adroit negotiation
+skills in being able to reconcile differences between different parties.
+Zhong Sing also applied the same spirit of excellence to his involvement
+in the College’s Badminton Team. Always putting in his best effort, his
+tremendous drive and energy helped the team attain 4<sup>th</sup> place
+at the 2023 National School Games Badminton A Division Boys Championships.</p>
+<p>Zhong Sing is an intellectually gifted yet balanced individual with strong
+interpersonal skills. VJC is proud of his achievements and certain we will
+see more from him in the future.</p>
+<hr>
+<p><strong>Denzel Chua, Victoria School | </strong><em><u>#whyvj</u>  With VJs’ work hard play hard culture, everyone pushes each other to become better in all aspects of JC Iife. This spurred me to strive for excellence, leaving me with a fruitful and fulfilling experience that I can look back on with pride. The camaraderie and the priceless friendships forged here helped see me through tough times and made my experience here even more memorable.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+</div>
+<p>A highly motivated and exceptionally talented sportsman, Denzel excelled
+in not just one, but two different sports. A dexterous rock wall climber,
+he won the Men’s intermediate individual event at NUS Boulderactive, and
+went on to represent Singapore at the Asian Games 2022 in Hangzhou. He
+demonstrated admirable grit and resilience, juggling rock-climbing training
+with football training sessions. Denzel was part of the team which brought
+glory to the college by winning the A Division Boys’ Football Championship
+in 2022. In recognition of his outstanding athletic prowess, Denzel was
+awarded the VJC Sports Excellence Award and the Singapore Schools Sports
+Council Colours Award during his time in the College.</p>
+<p>Denzel’s drive for excellence extended to his studies, where he applied
+himself with great diligence and intellect. This strong work ethic saw
+him consistently achieve good academic results. Denzel also unselfishly
+mentored his classmates in various subjects and patiently answered their
+questions.</p>
+<p>Denzel truly exemplifies what it means to be an all-rounder.</p>
+<hr>
 <p>For more updates please visit our social media handles @victoriajc_official
 on <a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
 <a href="https://www.facebook.com/victoriajuniorcollege/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>!</p>
