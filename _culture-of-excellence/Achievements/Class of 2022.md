@@ -22,7 +22,7 @@ in our students' accomplishments. Nil Sine Labore!</p>
 <p><strong>Aaron Sim, Victoria School | </strong><em><u>#whyvj</u></em><strong> </strong><em>The best part of my VJ experience was its kind and supportive people who shared my passion for learning.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Aaron.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Aaron.jpg">
 </div>
 <p>From a young age, Aaron was diagnosed with Limb-Girdle Muscular Dystrophy
 and Asperger's Syndrome and requires the use of a wheelchair daily. Regardless,
