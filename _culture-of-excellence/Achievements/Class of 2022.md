@@ -48,7 +48,7 @@ alike.</p>
 <p><strong>Deborah Tan Chay Yee, Cedar Girls’ School | </strong><em><u>#whyvj</u></em><strong><em> </em></strong><em>All the people I’ve met in VJ! Having some of the craziest, most fun and supportive friends by my side has made every school experience even more enjoyable, and made me look forward to school. I think that in VJ there’s just the right balance of work and play, which I really love.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Deborah.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Deborah.jpg">
 </div>
 <p>It’s certainly not every day that you find a whole family of Victorians.
 Deborah however, is proud and happy to be the most recent member of her
@@ -68,7 +68,7 @@ Group Leader.</p>
 <p><strong>Fukushima Mizuki, St. Hilda’s Secondary School | </strong><em><u>#whyvj</u> The close ties that I make with the people around me and the supportive and ever-loving community in place for everyone.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Mizuki.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Mizuki.jpg">
 </div>
 <p>Mizuki served the College as the President of the 38th Students’ Council.&nbsp;
 A driven and compassionate student-leader, Mizuki’s sensitivity to team
@@ -90,7 +90,7 @@ a joy to have on and off stage.&nbsp;</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Arshul.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Arshul.jpg">
 </div>
 <p>With courage and passion on his side, Arshul chose to take up the mantle
 of leadership and was elected as Vice-President of the Students’ Council.
@@ -113,7 +113,7 @@ with courage and compassion.</p>
 <p><strong>Tay Tian Ning Faith, Methodist Girls’ School | </strong><em><u>#whyvj</u> My people in VJC. A leader is nothing without her team.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Faith.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith.jpg">
 </div>
 <p>Leadership was a very important part of Faith’s JC life where she excelled
 at bringing people together. She thrived on high-intensity situations,
@@ -134,7 +134,7 @@ lead and serve with courage and compassion.</p>
 <p><strong>Vaithiyanathan Posshika, Cedar Girls’ School | </strong><em><u>#whyvj</u> The numerous opportunities to participate in events which allowed me to form many new connections. Despite JC being stressful at times, my supportive friends and teachers along with precious memories from such events made my experience very wholesome.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Posshika.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Posshika.jpg">
 </div>
 <p>With a willing heart and a helpful pair of hands, Posshika made the most
 out of her College experience. She made it a point to go above and beyond
@@ -157,7 +157,7 @@ truly served with her head, heart and hands.</p>
 <p><strong>Nadia Koh Binte Mohd Haiquel, Tanjong Katong Girls’ School | </strong><em><u>#whyvj</u> The supportive and wholesome community! The friends and teachers I met in VJ have picked me up when I was at my lowest. I know the memories I made with them will stay with me for a long time!</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Nadia.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Nadia.jpg">
 </div>
 <p>A sincere and caring young lady, Nadia found her calling in community
 involvement. An active member of the VJC Interact Club, she committed to
@@ -182,7 +182,7 @@ and a true inspiration for her peers.</p>
 <p><strong>Teo Wei Xian, Dominique, Cedar Girls’ School | </strong><em><u>#whyvj</u> VJ has provided me with an incredibly nurturing environment and gave me the confidence to step out of my comfort zone, take up new roles and try many different things. I’ve learnt a lot during my 2 years here and I couldn’t have done it without the support of my friends and teachers!</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Dominique.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Dominique.jpg">
 </div>
 <p>In more ways than one, Dominique was a wearer of many hats throughout
 her time in College. On top of her role as Student Councillor, Dominique
@@ -206,7 +206,7 @@ and compassion.</p>
 <p><strong>Kuek Qiao Jun Charlotte, Anglican High School | </strong><em><u>#whyvj</u></em><strong> </strong><em>The cozy chair in the art room with a beautiful Murakami flower sitting on it - a wonderful reminder of the work and play that encapsulates my time in VJ.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Charlotte.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Charlotte.jpg">
 </div>
 <p>This talented young lady defined excellence as utilising one’s skills
 to uplift the community. It is hence no surprise that Charlotte’s design
@@ -225,7 +225,7 @@ as she seeks to create the future with courage and compassion.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Skyler.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Skyler.jpg">
 </div>
 <p>
 <br>Skyler’s fascination with computers was deepened in VJC when she took
@@ -247,7 +247,7 @@ trait that we all admire.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Iman.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Iman.jpg">
 </div>
 <p>Iman is charismatic both on and off the pitch. As Vice-Captain of the
 Football Boys’ Team, he worked alongside his fellow captains to ensure
@@ -272,7 +272,7 @@ Iman has won the hearts and minds of the college community.</p>
 <p><strong>Yeo Jun Wei, Victoria School | </strong><em><u>#whyvj</u> The true friends that I’ve made over the past 2 years -&nbsp; we went through so much together in such a short span of time. JC is indeed challenging but cheering each other on especially during tough times where we felt like giving up boosted our morale to strive for the best we can!</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Jun_Wei.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Jun_Wei.jpg">
 </div>
 <p>Jun Wei’s sporting excellence was evident when he was selected to be a
 member of the Singapore National Wushu Federation and represented Singapore
