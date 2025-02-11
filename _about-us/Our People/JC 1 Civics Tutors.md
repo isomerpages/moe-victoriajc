@@ -116,8 +116,8 @@ variant: tiptap
 <p>25S32</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Jude Alexander
-<br><a href="mailto:john.jude.alexander@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john.jude.alexander@vjc.edu.sg</a>
+<p>Mr Mark Lee Tze Ming
+<br><a href="mailto:lee.tzeming.mark@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.tzeming.mark@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,8 +126,11 @@ variant: tiptap
 <p>25S33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Ng Zhi Wei
-<br><a href="mailto:joseph.ng.zhi.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph.ng.zhi.wei@vjc.edu.sg</a>
+<p>Ms Tan Siew Hwee June
+<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
+</p>
+<p>Mr Kelvin Koh</p>
+<p><a href="mailto:kelvin.koh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.koh@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -136,8 +139,8 @@ variant: tiptap
 <p>25S34</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Wan Chin
-<br><a href="mailto:ng.wan.chin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.wan.chin@vjc.edu.sg</a>
+<p>Mr Eric Foo Peow Meng
+<br><a href="mailto:foo.peowmeng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo.peowmeng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
