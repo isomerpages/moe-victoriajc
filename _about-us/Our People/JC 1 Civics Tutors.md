@@ -149,8 +149,8 @@ variant: tiptap
 <p>25S35</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kan Chien-Yi
-<br><a href="mailto:kan.chien-yi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.chien-yi@vjc.edu.sg</a>
+<p>Ms Farahdilah bte Abas
+<br><a href="mailto:farahdilah.abas@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farahdilah.abas@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -159,8 +159,8 @@ variant: tiptap
 <p>25S36</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Hak Yee
-<br><a href="mailto:ng.hak.yee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hak.yee@vjc.edu.sg</a>
+<p>Ms Suhana Subhan
+<br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
