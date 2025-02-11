@@ -169,7 +169,7 @@ variant: tiptap
 <p>25S37</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Esther Lee Chia Wei
+<p>Mr Chng Chao Han
 <br><a href="mailto:esther.lee.chia.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee.chia.wei@vjc.edu.sg</a>
 </p>
 </td>
