@@ -297,7 +297,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Meichan
-<br><a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a>
+<br><a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -307,7 +307,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Larry Lim Beng Teck
-<br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay.weili.audrey@vjc.edu.sg</a>
+<br><a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">larry.lim.bengteck@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -317,9 +317,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Han Zong
-<br><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg"</a> Mr
-Jiang Jing
-<br>
+<br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
+<br>Mr Jiang Jing
+<br><a href="mailto:jiang.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang.jing@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -329,7 +329,7 @@ Jiang Jing
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Han Loong
-<br><a href="mailto:tan.wee.yong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wee.yong@vjc.edu.sg</a>
+<br><a href="mailto:loh.han.loong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.han.loong@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -339,7 +339,7 @@ Jiang Jing
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Michelle Lee
-<br><a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a>
+<br><a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
