@@ -86,6 +86,9 @@ variant: tiptap
 <p>Mdm Toh Chui Hoon
 <br><a href="mailto:toh.chuihoon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh.chuihoon@vjc.edu.sg</a>
 </p>
+<p>Melvin Ong</p>
+<p><a href="mailto:melvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melvin.ong@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,8 +106,8 @@ variant: tiptap
 <p>25S311</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Marliza Bte Muhamad
-<br><a href="mailto:marliza.bte.muhamad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marliza.bte.muhamad@vjc.edu.sg</a>
+<p>Mr Andy Luo Kangshun
+<br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
 <br>Mr Peter Wee
 <br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
 </p>
