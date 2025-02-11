@@ -30,8 +30,8 @@ variant: tiptap
 <p>25A11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Lim Xueyi
-<br><a href="mailto:chloe.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chloe.lim@vjc.edu.sg</a>
+<p>Mr Justin Ng
+<br><a href="mailto:ng.mong.rong.justin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.mong.rong.justin@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -40,8 +40,11 @@ variant: tiptap
 <p>25A12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jacinth Thyagarajan
-<br><a href="mailto:jacinth.rajan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacinth.rajan@vjc.edu.sg</a>
+<p>Ms Low Mun Fei
+<br><a href="mailto:low.mun.fei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.mun.fei@vjc.edu.sg</a>
+</p>
+<p>Mdm Lee Woon Leng</p>
+<p><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
