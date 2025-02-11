@@ -108,8 +108,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Andy Luo Kangshun
 <br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
-<br>Mr Peter Wee
-<br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
