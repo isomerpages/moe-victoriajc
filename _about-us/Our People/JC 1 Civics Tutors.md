@@ -73,8 +73,8 @@ variant: tiptap
 <p>25A15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chua Mei Ling
-<br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
+<p>Ms Nur Farzanna Bte Sham Shudin
+<br><a href="mailto:farzanna.sham@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farzanna.sham@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -83,8 +83,8 @@ variant: tiptap
 <p>25S31</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hazrin Bin Zainal
-<br><a href="mailto:hazrin.zainal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazrin.zainal@vjc.edu.sg</a>
+<p>Mdm Toh Chui Hoon
+<br><a href="mailto:toh.chuihoon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh.chuihoon@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,8 +93,8 @@ variant: tiptap
 <p>24S310</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Siew Mee
-<br><a href="mailto:chin.siewmee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.siewmee@vjc.edu.sg</a>
+<p>Ms Elinor Trudy Chia
+<br><a href="mailto:chia.elinor.trudy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia.elinor.trudy@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
