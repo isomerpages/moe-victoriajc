@@ -53,8 +53,8 @@ variant: tiptap
 <p>25A13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandhya Perryn Singh
-<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
+<p>Ms Wong Duan Rong</p>
+<p><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -63,8 +63,8 @@ variant: tiptap
 <p>25A14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Chan
-<br><a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>
+<p>Mr Thiruselvan
+<br><a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thiruselvan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
