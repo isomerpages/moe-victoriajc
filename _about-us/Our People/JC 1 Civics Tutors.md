@@ -89,26 +89,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24S310</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elinor Trudy Chia
-<br><a href="mailto:chia.elinor.trudy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia.elinor.trudy@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>25S311</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Luo Kangshun
-<br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>25S32</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -186,6 +166,26 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chang Yueh Fong
 <br><a href="mailto:chang.yueh.fong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang.yueh.fong@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25S310</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elinor Trudy Chia
+<br><a href="mailto:chia.elinor.trudy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia.elinor.trudy@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25S311</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Luo Kangshun
+<br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -338,7 +338,7 @@ variant: tiptap
 <p>25S64</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Michelle Lee
+<p>Ms Michelle Lee
 <br><a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a>
 </p>
 </td>
