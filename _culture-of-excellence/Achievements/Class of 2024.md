@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<p><strong>[INSERT BIG GROUP PHOTO]</strong>
+<p><strong>[INSERT 90 RP PHOTO]</strong>
 </p>
 <p>Our Victorians from the Class of 2024 have completed the Singapore-Cambridge
 GCE A-Level Examination, and we are proud to celebrate their outstanding
@@ -15,6 +15,8 @@ to this moment, and we are excited for your next journey as you keep our
 flag unfurled.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
+<p><strong>[INSERT BIG GROUP PHOTO OF FEATURED STUDENTS]</strong>
+</p>
 <hr>
 <h4>Service Leadership</h4>
 <p><strong>Aufal Aulya | Victoria School</strong>
@@ -34,7 +36,7 @@ highlights his compassionate, selfless, and empathetic nature, serving
 as a strong testament to his unwavering commitment to supporting those
 around him.</p>
 <hr>
-<p><strong>Wang Zhi Rong Asher | Victoria School </strong>
+<p><strong>Wang Zhi Rong Asher | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Dylan.jpg">
@@ -74,7 +76,7 @@ essence of a service leader—one who uplifts, empowers, and inspires those
 around her.</p>
 <hr>
 <h4>Lead</h4>
-<p><strong>Beatrice Priscilla Yaury | Tanjong Katong Girls’ School </strong>
+<p><strong>Beatrice Priscilla Yaury | Tanjong Katong Girls’ School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Lum.jpg">
@@ -112,7 +114,7 @@ his teammates during intense training sessions. His dedication was a driving
 force behind the team’s impressive 2nd place finish at the 2024 Taekwondo
 NSG—a result not seen in over a decade!</p>
 <hr>
-<p><strong>Lee Seungwon | Victoria School </strong>
+<p><strong>Lee Seungwon | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Hemanth.jpg">
@@ -129,7 +131,7 @@ Whether supporting children with critical illnesses or mentoring classmates,
 Seungwon leads with warmth, humility, and a genuine desire to help others.</p>
 <hr>
 <h4>Inspire</h4>
-<p><strong>Sneha Radhey Shyam | Crescent Girls School </strong>
+<p><strong>Sneha Radhey Shyam | Crescent Girls School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
@@ -149,7 +151,7 @@ performance. Sneha’s journey in discovering her passion and her zest for
 life is indeed inspiring, demonstrating her courage and fervour to pursue
 her interests with excellence.</p>
 <hr>
-<p><strong>Maria Shabbir Rangwala | CHIJ Katong Convent </strong>
+<p><strong>Maria Shabbir Rangwala | CHIJ Katong Convent</strong>
 </p>
 <p>Maria’s education journey was not a straight path. A perfectionist at
 heart, she struggled to meet her expectations and decided to leave VJC
@@ -168,7 +170,7 @@ efforts. Maria’s exceptional maturity, together with her tenacity when
 things get tough are truly inspiring for her peers.</p>
 <hr>
 <h4>Excel</h4>
-<p><strong>Veniko Borislavov Belinski | Victoria School </strong>
+<p><strong>Veniko Borislavov Belinski | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
@@ -248,9 +250,6 @@ proving that resilience and determination can overcome any challenge.</p>
 <p>A multi-talented athlete, Conrad inspires with his commitment to excellence
 in both sports and academics. His journey is a testament to the power of
 hard work and dedication.</p>
-<p>
-<br>
-</p>
 <hr>
 <p>For more updates please visit our social media handles @victoriajc_official
 on <a href="https://www.instagram.com/victoriajc_official/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> and
