@@ -10,16 +10,16 @@ third_nav_title: Achievements
 <p>Our Victorians from the Class of 2024 have completed the Singapore-Cambridge
 GCE A-Level Examination, and we are proud to celebrate their outstanding
 achievements.</p>
-<p>Congratulations, Class of 2024! Your hard work and perseverance have led
-to this moment, and we are excited for your next journey as you keep our
-flag unfurled.</p>
+<p>Congratulations, Class of 2024! Your hard work and perseverance have produced
+stellar outcomes, and we are excited for your next journey as you keep
+our flag unfurled.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
 <p><strong>[INSERT BIG GROUP PHOTO OF FEATURED STUDENTS]</strong>
 </p>
 <hr>
 <h4>Service Leadership</h4>
-<p><strong>Aufal Aulya | Victoria School</strong>
+<p><strong>Aufal Aufiya | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Philicia.jpg">
