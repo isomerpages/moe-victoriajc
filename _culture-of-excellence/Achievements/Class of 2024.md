@@ -59,15 +59,15 @@ and stayed energetic and positive throughout.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Sherwyn.jpg">
 </div>
 <p>Audrey's service leadership shines through her unwavering commitment to
-uplifting others and creating positive change. In her role as Head of Welfare
-in the Students’ Council, Audrey launched “Our Victorian Voices,” a platform
-that amplified student perspectives and fostered a positive school culture,
-while creating meaningful change. Beyond the Students’ Council, Audrey
-also served as Cabinet Chair for the Environment Cabinet in the Singapore
-Model Cabinet 2024 where she led a rigorous research initiative, developing
-study guides that empowered delegates to engage in thoughtful discussions.
-Her dedication extended to mentoring juniors in the Global Affairs Society,
-where she inspired confidence and imparted valuable expertise.&nbsp;</p>
+uplifting others and creating positive change. As Head of Welfare in the
+Students’ Council, Audrey launched “Our Victorian Voices,” a platform that
+amplified student perspectives and fostered a positive school culture.
+Beyond the Students’ Council, Audrey also served as Cabinet Chair for the
+Environment Cabinet in the Singapore Model Cabinet 2024 where she led a
+rigorous research initiative, developing study guides that empowered delegates
+to engage in thoughtful discussions. Her dedication extended to mentoring
+juniors in the Global Affairs Society, where she inspired confidence and
+imparted valuable expertise.&nbsp;</p>
 <p>Audrey’s heart for the community was also evident through the Grassroots
 and Governance Programme where she helped residents articulate concerns
 to statutory boards, ensuring community voices were heard. With unwavering
@@ -86,16 +86,15 @@ Chairperson of the VJC Dance Club, but she also broke stereotypes by being
 one of only three girls taking Computing – an area typically dominated
 by boys.</p>
 <p>During the intense National Day Parade period, Beatrice truly shined.
-Her leadership skills were unparalleled. Managing the operations of over
-100 participants with such poise and precision, she made sure everything
-ran smoothly. Firm yet tactful, authoritative yet caring, Beatrice had
-a unique ability to balance it all. She inspired every student involved
-to give their best, and the results spoke for themselves.</p>
+Managing the operations of over 100 participants with such poise and precision,
+she made sure everything ran smoothly. Her leadership skills were unparalleled
+- firm yet friendly, authoritative yet caring, Beatrice had a unique ability
+to balance it all. She inspired every student involved to give their best,
+and the results spoke for themselves.</p>
 <p>Her discipline and time management are beyond impressive. Even with the
 heavy CCA commitments, especially during the NDP period, she never missed
-a beat in her lessons. She is diligent, focused, and takes immense pride
-in her work. Beatrice is a true inspiration—motivated, disciplined, and
-always leading by example.</p>
+a beat in her lessons. Beatrice is a true inspiration—motivated, disciplined,
+and always leading by example.</p>
 <hr>
 <p><strong>Jarrett Goh Bing Heng | Geylang Methodist Secondary School</strong>
 </p>
@@ -119,16 +118,18 @@ NSG—a result not seen in over a decade!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Hemanth.jpg">
 </div>
-<p>Seungwon is a natural leader who brings people together. As theChief Photographer
-of the Photography Society, he mentored peers and ensured events were well-documented.
-He also spearheaded a Student-Initiated Group, the Korean Cultural Society,
-sharing his heritage with enthusiasm, and helped organise the Victorian
-Cup to introduce Bridge to more students.</p>
-<p>Seungwon’s leadership was also evident in his heart for the community
-- his&nbsp; passion for service shone in VCares Week, where he championed
-mental well-being initiatives and confidently moderated a sharing session.
-Whether supporting children with critical illnesses or mentoring classmates,
-Seungwon leads with warmth, humility, and a genuine desire to help others.</p>
+<p>Seungwon is a natural leader who brings people together. As the Chief
+Photographer of the Photography Society, he mentored peers and ensured
+events were well-documented. He also spearheaded a Student-Initiated Group,
+the Korean Cultural Society, sharing his heritage with enthusiasm, and
+helped organise the Victorian Cup to introduce Bridge to more students.</p>
+<p>Seungwon’s leadership was also evident in his heart for others. As a Peer
+Support Leader, he created a strong sense of community in his class, making
+sure everyone felt valued and supported. His&nbsp; passion for service
+shone in VCares Week, where he championed mental well-being initiatives
+and confidently moderated a sharing session. Whether supporting children
+with critical illnesses or mentoring classmates, Seungwon leads with warmth,
+humility, and a genuine desire to help others.</p>
 <hr>
 <h4>Inspire</h4>
 <p><strong>Sneha Radhey Shyam | Crescent Girls School</strong>
