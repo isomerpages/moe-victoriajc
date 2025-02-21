@@ -27,7 +27,7 @@ sections:
       description: Class of 2024 did us proud! Explore their achievements and
         unforgettable Victorian journey.
       button: Read about it  here
-      url: /about/culture-of-excellence/student-achievements/class-of-2024/
+      url: /about/culture-of-excellence/student-achievements/class-of-2024
       alt: Image alt text
       image: /images/2024 A Level Results/DSC02333.jpg
   - infopic:
