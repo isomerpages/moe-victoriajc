@@ -28,6 +28,7 @@ sections:
       button: Click here
       url: /about/culture-of-excellence/student-achievements/class-of-2024/
       alt: Image alt text
+      image: /images/2025/Nadia.jpg
   - infopic:
       title: 9-Day Timetable
       image: /images/2024/latebanner24.jpg
