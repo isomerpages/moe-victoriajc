@@ -10,8 +10,9 @@ third_nav_title: Achievements
 <p>Our Victorians from the Class of 2024 have completed the Singapore-Cambridge
 GCE A-Level Examination, and we are proud to celebrate their outstanding
 achievements.</p>
-<p>Congratulations, Class of 2024! Your hard work and perseverance have produced
-stellar outcomes, and you have set new benchmarks.</p>
+<p>Congratulations Class of 2024, we are immensely proud of you! Your hard
+work and perseverance have produced stellar outcomes, and you have set
+new benchmarks.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
 <p><strong>[INSERT BIG GROUP PHOTO OF FEATURED STUDENTS]</strong>
