@@ -22,7 +22,7 @@ unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
 <p><strong>Aufal Aufiya | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Philicia.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/1.jpg">
 </div>
 <p>While in College, Aufal demonstrated a genuine desire towards service
 to others, beyond his role in the Students’ Council. As a Student Councillor,
@@ -39,7 +39,7 @@ around him.</p>
 <p><strong>Wang Zhi Rong Asher | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Dylan.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/2.jpg">
 </div>
 <p>Despite his heavy commitments in the Students’ Council, Asher found time
 to engage in other pursuits – founding a Student Interest Group (SIG) for
@@ -55,8 +55,9 @@ and stayed energetic and positive throughout.</p>
 <hr>
 <p><strong>Audrey Lau Hwee Kia | Cedar Girls' Secondary School</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Sherwyn.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/3.jpg">
 </div>
 <p>Audrey's service leadership shines through her unwavering commitment to
 uplifting others and creating positive change. As Head of Welfare in the
@@ -79,7 +80,7 @@ around her.</p>
 <p><strong>Beatrice Priscilla Yaury | Tanjong Katong Girls’ School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Lum.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/13.jpg">
 </div>
 <p>A true force of nature and an incredible leader. Not only was she the
 Chairperson of the VJC Dance Club, but she also broke stereotypes by being
@@ -99,7 +100,7 @@ and always leading by example.</p>
 <p><strong>Jarrett Goh Bing Heng | Geylang Methodist Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Brishen.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/4.jpg">
 </div>
 <p>Meet Jarrett, the Captain of VJC Taekwondo, a true embodiment of resilience,
 leadership, and hard work. Despite battling an ACL injury in Year 1, Jarrett
@@ -116,7 +117,7 @@ NSG—a result not seen in over a decade!</p>
 <p><strong>Lee Seungwon | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Hemanth.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/5.jpg">
 </div>
 <p>Seungwon is a natural leader who brings people together. As the Chief
 Photographer of the Photography Society, he mentored peers and ensured
@@ -135,7 +136,7 @@ humility, and a genuine desire to help others.</p>
 <p><strong>Sneha Radhey Shyam | Crescent Girls School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/7.jpg">
 </div>
 <p>Sneha matriculated in VJC as a Science student, but after a year, realised
 that her interests lay in the Arts and Humanities domains and took the
@@ -155,7 +156,7 @@ her interests with excellence.</p>
 <p><strong>Maria Shabbir Rangwala | CHIJ Katong Convent</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/8.jpg">
 </div>
 <p>Maria’s education journey was not a straight path. A perfectionist at
 heart, she struggled to meet her expectations and decided to leave VJC
@@ -177,7 +178,7 @@ things get tough are truly inspiring for her peers.</p>
 <p><strong>Veniko Borislavov Belinski | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Faith_Ford.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/9.jpg">
 </div>
 <p>A passionate learner and dedicated leader, Veniko Belinski is a standout
 student who juggled 13 academic units while leading his CCA and serving
@@ -199,7 +200,7 @@ his heart out!</p>
 <p><strong>Charlene Ng Ying Xuan | Anglican High School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Zhong_Sing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/10.jpg">
 </div>
 <p>From academics to leadership, Charlene is a true all-rounder who shines
 in everything she does! In class, her curiosity and insightful questions
@@ -221,7 +222,7 @@ make her an inspiration to all!</p>
 <p><strong>Zavdiel Teng | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/6.jpg">
 </div>
 <p>Zavdiel’s passion for the Arts was evident in both his academic and co-curricular
 pursuits. A dedicated Humanities student, he took up H3 Literature and
@@ -240,7 +241,7 @@ to Boys' Brigade and continued to mentor his juniors.</p>
 <p><strong>Sahoo Garv | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/12.jpg">
 </div>
 <p>A standout in Singapore’s youth football scene, Garv has demonstrated
 exceptional skills and resilience both on and off the pitch. As a midfielder
@@ -258,7 +259,9 @@ of his discipline and drive.</p>
 <hr>
 <p><strong>Conrad Kangli Emery | Victoria School</strong>
 </p>
-<p>[INSERT PHOTO]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/11.jpg">
+</div>
 <p>Balancing elite athletics with academics is no easy feat, but Conrad has
 done it with remarkable poise. In 2024, he shattered the National School
 Games (NSG) A Division Boys’ Long Jump record with a 7.36m leap, cementing
