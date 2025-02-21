@@ -10,7 +10,7 @@ third_nav_title: Achievements
 <p>Our Victorians from the Class of 2024 have completed the Singapore-Cambridge
 GCE A-Level Examination, and we are proud to celebrate their outstanding
 achievements.</p>
-<p>Congratulations Class of 2024, we are immensely proud of you! Your hard
+<p>Congratulations, Class of 2024, we are immensely proud of you! Your hard
 work and perseverance have produced stellar outcomes, and you have set
 new benchmarks.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
@@ -24,7 +24,7 @@ unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/1.jpg">
 </div>
-<p>While in College, Aufal demonstrated a genuine desire towards service
+<p>While in college, Aufal demonstrated a genuine desire towards service
 to others, beyond his role in the Students’ Council. As a Student Councillor,
 he led a committee in planning and facilitating the JC Orientation in 2024
 and showcased exemplary leadership qualities throughout the year.</p>
@@ -82,9 +82,9 @@ around her.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/13.jpg">
 </div>
-<p>A true force of nature and an incredible leader. Not only was she the
-Chairperson of the VJC Dance Club, but she also broke stereotypes by being
-one of only three girls taking Computing – an area typically dominated
+<p>Beatrice is a true force of nature and an incredible leader. Not only
+was she the Chairperson of the VJC Dance Club, she also broke stereotypes
+by being one of only three girls taking Computing – an area typically dominated
 by boys.</p>
 <p>During the intense National Day Parade period, Beatrice truly shined.
 Managing the operations of over 100 participants with such poise and precision,
@@ -147,8 +147,8 @@ Scholarship Programme recipient.</p>
 as an Arts student. Her tutors and peers valued her contributions in class
 - she was articulate, perceptive and always willing to share her views,
 yet respectful of differing perspectives. Sneha participated actively in
-college life and was not only engaged in her CCA, Art Club, but was also
-an emcee for VJC’s Teachers’ Day celebration and Guitar Ensemble’s public
+college life, being deeply engaged in her CCA, Art Club, and was also an
+emcee for VJC’s Teachers’ Day celebration and Guitar Ensemble’s public
 performance. Sneha’s journey in discovering her passion and her zest for
 life is indeed inspiring, demonstrating her courage and fervour to pursue
 her interests with excellence.</p>
@@ -164,7 +164,8 @@ at the start of JC2 to pursue her studies in a Polytechnic instead. There,
 she was actively engaged in various activities there but ultimately decided
 that the A-Level route was more&nbsp; suited for her and thus returned
 to VJC. Though Maria had difficulties adjusting back to the JC curriculum,
-she plucked her courage and with grit, persisted and soon found her footing.</p>
+she plucked up her courage and demonstrated grit by persisting, and soon
+found her footing.</p>
 <p>Through the camaraderie and support from her classmates and teachers,
 Maria integrated herself well and once again thrived and immersed herself
 in school life. Despite having to make constant adjustments to her school
@@ -172,7 +173,7 @@ environment, Maria’s heart for the community remained evident. She was
 a regular and committed volunteer with the Ground-Up Initiative (GUI),
 a non-profit organisation known for environmental sustainability and community-building
 efforts. Maria’s exceptional maturity, together with her tenacity when
-things get tough are truly inspiring for her peers.</p>
+things get tough, are truly inspiring for her peers.</p>
 <hr>
 <h4>Excel</h4>
 <p><strong>Veniko Borislavov Belinski | Victoria School</strong>
@@ -191,7 +192,7 @@ Tech Programme Scholarship.&nbsp;</p>
 <p>Veniko’s passion for the sciences extended to astronomy. As Research Head
 of the Astronomy Club, he shared his knowledge and enthusiasm with peers
 and led fellow team members in Astrochallenge 2023 and 2024. He too earned
-a silver medal at the Singapore Astronomy Olympiad 2024 🔭.&nbsp;</p>
+a silver medal at the Singapore Astronomy Olympiad 2024.</p>
 <p>Beyond academics, Veniko’s passion for music thrived in the String Ensemble,
 where he led as Vice Chairperson and Section Leader. From performances
 at the Esplanade to the SYF Arts Presentation 2023, he certainly played
@@ -203,7 +204,7 @@ his heart out!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/10.jpg">
 </div>
 <p>From academics to leadership, Charlene is a true all-rounder who shines
-in everything she does! In class, her curiosity and insightful questions
+in everything she does. In class, her curiosity and insightful questions
 sparked engaging discussions, benefitting not just herself but also her
 peers. Her thirst for knowledge led her to participate in the Singapore
 Biology Olympiad, where her dedication and independent research earned
@@ -234,8 +235,8 @@ played a key role in the College’s Humanities Symposium, inspiring students
 to explore the Arts.&nbsp;</p>
 <p>Beyond academics, Zavdiel balanced his leadership responsibilities as
 a Students’ Councillor with numerous commitments. As House Captain, he
-fostered school spirit, and as Head of Planning for VJC’s Open House, he
-led a large-scale event with strategic vision. Zavdiel also remained committed
+fostered school spirit, and as Head of Planning for VJC’s Open House, led
+a large-scale event with strategic vision. Zavdiel also remained committed
 to Boys' Brigade and continued to mentor his juniors.</p>
 <hr>
 <p><strong>Sahoo Garv | Victoria School</strong>
@@ -245,8 +246,8 @@ to Boys' Brigade and continued to mentor his juniors.</p>
 </div>
 <p>A standout in Singapore’s youth football scene, Garv has demonstrated
 exceptional skills and resilience both on and off the pitch. As a midfielder
-for the Young Lions and a student VJC, he has mastered the art of juggling
-academics and excelling in high-performance sports.</p>
+for the Young Lions while preparing for the A-Levels, he has mastered the
+art of juggling academics and excelling in high-performance sports.</p>
 <p>Garv scored the winning goal in the National School Games (NSG) A Division
 Boys' Football Finals, securing VJC’s victory over SJI and retaining their
 title. On the international stage, he shone at the ASEAN Under-19 Boys
@@ -268,8 +269,8 @@ Games (NSG) A Division Boys’ Long Jump record with a 7.36m leap, cementing
 his status as one of Singapore’s top young jumpers. Beyond long jump, he
 has excelled in track and field, finishing 4th in the A Division 100m and
 claiming silver in the Triple Jump at NSG 2023. His dedication extends
-beyond local competitions, as he continues to compete internationally—even
-before his A Levels.</p>
+beyond local competitions, as he continued to compete internationally,
+even before his A Levels.</p>
 <p>Conrad has worked hard to improve academically. Through perseverance and
 discipline, he has managed to balance intense training with his studies,
 proving that resilience and determination can overcome any challenge.</p>
