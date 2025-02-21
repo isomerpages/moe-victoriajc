@@ -22,12 +22,12 @@ sections:
           url: /upcoming-events/
       variant: center
   - infopic:
-      title: 2023 A-Level Results
+      title: 2024 A-Level Results
+      subtitle: Add an image and text
       id: infopic
-      description: Updates
-      button: FIND OUT MORE
-      url: /about/culture-of-excellence/student-achievements/class-of-2023/
-      image: /images/Group_shot_New__webite_.jpg
+      description: Read about our outstanding students
+      button: Click here
+      url: /about/culture-of-excellence/student-achievements/class-of-2024/
       alt: Image alt text
   - infopic:
       title: 9-Day Timetable
