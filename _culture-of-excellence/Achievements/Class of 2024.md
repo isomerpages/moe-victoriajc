@@ -100,7 +100,7 @@ and always leading by example.</p>
 <p><strong>Jarrett Goh Bing Heng | Geylang Methodist Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/4.jpg">
 </div>
 <p>Meet Jarrett, the Captain of VJC Taekwondo, a true embodiment of resilience,
 leadership, and hard work. Despite battling an ACL injury in Year 1, Jarrett
