@@ -17,8 +17,6 @@ work and perseverance have produced stellar outcomes, and you have set
 new benchmarks.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
-<p><strong>[INSERT BIG GROUP PHOTO OF FEATURED STUDENTS]</strong>
-</p>
 <hr>
 <h4>Service Leadership</h4>
 <p><strong>Aufal Aufiya | Victoria School</strong>
