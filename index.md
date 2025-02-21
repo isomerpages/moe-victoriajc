@@ -23,7 +23,6 @@ sections:
       variant: center
   - infopic:
       title: 2024 A-Level Results
-      subtitle: Add an image and text
       id: infopic
       description: Read about our outstanding students
       button: Click here
