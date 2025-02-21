@@ -5,8 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Achievements
 ---
-<p><strong>[INSERT 90 RP PHOTO]</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/DSC02333.jpg">
+</div>
 <p>Our Victorians from the Class of 2024 have completed the Singapore-Cambridge
 GCE A-Level Examination, and we are proud to celebrate their outstanding
 achievements.</p>
