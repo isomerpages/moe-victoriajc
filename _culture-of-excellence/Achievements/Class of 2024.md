@@ -178,7 +178,7 @@ things get tough are truly inspiring for her peers.</p>
 <p><strong>Veniko Borislavov Belinski | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/9.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/9.jpg">
 </div>
 <p>A passionate learner and dedicated leader, Veniko Belinski is a standout
 student who juggled 13 academic units while leading his CCA and serving
@@ -200,7 +200,7 @@ his heart out!</p>
 <p><strong>Charlene Ng Ying Xuan | Anglican High School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/10.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/10.jpg">
 </div>
 <p>From academics to leadership, Charlene is a true all-rounder who shines
 in everything she does! In class, her curiosity and insightful questions
@@ -222,7 +222,7 @@ make her an inspiration to all!</p>
 <p><strong>Zavdiel Teng | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/6.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/6.jpg">
 </div>
 <p>Zavdiel’s passion for the Arts was evident in both his academic and co-curricular
 pursuits. A dedicated Humanities student, he took up H3 Literature and
@@ -241,7 +241,7 @@ to Boys' Brigade and continued to mentor his juniors.</p>
 <p><strong>Sahoo Garv | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/12.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/12.jpg">
 </div>
 <p>A standout in Singapore’s youth football scene, Garv has demonstrated
 exceptional skills and resilience both on and off the pitch. As a midfielder
@@ -260,7 +260,7 @@ of his discipline and drive.</p>
 <p><strong>Conrad Kangli Emery | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/11.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2024 A Level Results/11.jpg">
 </div>
 <p>Balancing elite athletics with academics is no easy feat, but Conrad has
 done it with remarkable poise. In 2024, he shattered the National School
