@@ -11,8 +11,7 @@ third_nav_title: Achievements
 GCE A-Level Examination, and we are proud to celebrate their outstanding
 achievements.</p>
 <p>Congratulations, Class of 2024! Your hard work and perseverance have produced
-stellar outcomes, and we are excited for your next journey as you keep
-our flag unfurled.</p>
+stellar outcomes, and you have set new benchmarks.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
 <p><strong>[INSERT BIG GROUP PHOTO OF FEATURED STUDENTS]</strong>
@@ -154,6 +153,9 @@ her interests with excellence.</p>
 <hr>
 <p><strong>Maria Shabbir Rangwala | CHIJ Katong Convent</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+</div>
 <p>Maria’s education journey was not a straight path. A perfectionist at
 heart, she struggled to meet her expectations and decided to leave VJC
 at the start of JC2 to pursue her studies in a Polytechnic instead. There,
@@ -214,6 +216,25 @@ Representative, where she led a class-based community project with Dementia
 Singapore. As a recipient of the MOE Pre-University Scholarship and VJC
 Scholarship, Charlene’s resilience, adaptability, and passion for excellence
 make her an inspiration to all!</p>
+<hr>
+<p><strong>Zavdiel Teng | Victoria School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Denzel2.jpg">
+</div>
+<p>Zavdiel’s passion for the Arts was evident in both his academic and co-curricular
+pursuits. A dedicated Humanities student, he took up H3 Literature and
+participated in the NTU Social Science Challenge, a reflection of his ability
+to apply critical thinking to real-world issues. As a member of the Writers’
+Circle and Creative Writing &amp; Press Club, he contributed to Glossolalia,
+bringing creative works to life through dramatic performances. He also
+played a key role in the College’s Humanities Symposium, inspiring students
+to explore the Arts.&nbsp;</p>
+<p>Beyond academics, Zavdiel balanced his leadership responsibilities as
+a Students’ Councillor with numerous commitments. As House Captain, he
+fostered school spirit, and as Head of Planning for VJC’s Open House, he
+led a large-scale event with strategic vision. Zavdiel also remained committed
+to Boys' Brigade and continued to mentor his juniors.</p>
 <hr>
 <p><strong>Sahoo Garv | Victoria School</strong>
 </p>
