@@ -17,6 +17,10 @@ work and perseverance have produced stellar outcomes, and you have set
 new benchmarks.</p>
 <p>A heartfelt thank you to our teachers, parents, and partners for your
 unwavering support in guiding and uplifting our students. Nil Sine Labore!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 A Level Results/2024_A_Level_Acad_Excellence.png">
+</div>
 <hr>
 <h4>Service Leadership</h4>
 <p><strong>Aufal Aufiya | Victoria School</strong>
