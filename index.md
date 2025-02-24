@@ -22,13 +22,14 @@ sections:
           url: /upcoming-events/
       variant: center
   - infopic:
-      title: 2023 A-Level Results
+      title: 2024 A-Level Results
       id: infopic
-      description: Updates
-      button: FIND OUT MORE
-      url: /about/culture-of-excellence/student-achievements/class-of-2023/
-      image: /images/Group_shot_New__webite_.jpg
+      description: Class of 2024 did us proud! Explore their achievements and their
+        unforgettable Victorian journey.
+      button: Read about it  here
+      url: /about/culture-of-excellence/student-achievements/class-of-2024
       alt: Image alt text
+      image: /images/2024 A Level Results/DSC02333.jpg
   - infopic:
       title: 9-Day Timetable
       image: /images/2024/latebanner24.jpg
