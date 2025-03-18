@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_2025.jpg">
+</div>
 <p>The VJC Open House was a whirlwind of energy, excitement, and pure Victorian
 spirit! With the theme <em>“V Got Your Back!”</em> in full swing, the campus
 was buzzing as future Victorians and their families explored all that we
