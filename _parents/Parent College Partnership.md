@@ -28,79 +28,49 @@ and growth. Equip yourself with skills and knowledge to parent confidently!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-1-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <p>
 <br>JC1 Civics Tutors</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-2-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <p>
 <br>JC2 Civics Tutors</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://for.edu.sg/vjcstudenthandbook25"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png"></a>
 <p>
 <br>Student Handbook</p>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/gender.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/sexuality-education-in-schools/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/gender.png"></a>
 <p>
 <br>Sexuality Education in Schools</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/graduate.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/education-and-career-guidance-ecg/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/graduate.png"></a>
 <p>
 <br>Education and Career Guidance</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/instagram.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/parentingwith.moesg/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/instagram.png"></a>
 <p>
 <br>MOE Parenting with you</p>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/shield.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/vjcmoeresilience"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/shield.png"></a>
 <p>
 <br>Building Resilience in our students</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/view.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/watching-for-distress/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/view.png"></a>
 <p>
 <br>Watching for signs of distress</p>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://for.edu.sg/vjcntucfactsheet"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png"></a>
 <p>
 <br>Accident Insurance Plan for Students</p>
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/smartphone.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/parent-gateway-mobile-app/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/smartphone.png"></a>
 <p>
 <br>Parent Gateway Mobile App</p>
 </th>
