@@ -31,9 +31,6 @@ and growth. Equip yourself with skills and knowledge to parent confidently!</p>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-1-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <h4><sub>JC1 Civics Tutors</sub></h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/civics.png">
-</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-2-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <h4><sub>JC2 Civics Tutors</sub></h4>
