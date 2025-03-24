@@ -30,6 +30,10 @@ and growth. Equip yourself with skills and knowledge to parent confidently!</p>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-1-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <h4><sub>JC1 Civics Tutors</sub></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/civics.png">
+</div>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-2-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
 <h4><sub>JC2 Civics Tutors</sub></h4>
@@ -75,18 +79,4 @@ and growth. Equip yourself with skills and knowledge to parent confidently!</p>
 </table>
 <p></p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/about/our-staff/jc-1-civics-tutors/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="jc1civics" src="/images/2025/civics.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JC1 Civics Tutors</div><div class="isomer-card-link">Click here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/about/our-staff/jc-2-civics-tutors/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="http://for.edu.sg/vjcstudenthandbook" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <p></p>
