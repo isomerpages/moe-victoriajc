@@ -2,6 +2,7 @@
 title: Watching for Distress
 permalink: /parents/watching-for-distress/
 description: ""
+variant: markdown
 ---
 ![](/images/Watching-for-Distress-banner-1024x365.jpg)
 ### Watching for Signs of Distress in Children
@@ -10,7 +11,7 @@ When our children are going through distress, they send out warning signs throug
 
 Being familiar with these distress signs will help us identify problems early. If these signs are present in combination, or in more extreme or long-lasting forms, it may be an indication that your child is experiencing significant distress. If in doubt, please seek help and advice from your child's School Counsellor or mental health professionals. If you suspect your child is at risk of suicide, get help immediately from SOS 1800 221 4444.
 
-Also, find out more about [how parents can talk about issues related to anxiety, distress and suicide](https://www.schoolbag.sg/story/suicide-games-and-online-media-what-should-parents-do).
+Also, find out more about&nbsp;[how parents can talk about issues related to anxiety, distress and suicide](https://www.schoolbag.edu.sg/story/watching-for-signs-of-distress-in-children/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
