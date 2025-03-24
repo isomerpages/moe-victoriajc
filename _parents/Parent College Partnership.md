@@ -29,50 +29,40 @@ and growth. Equip yourself with skills and knowledge to parent confidently!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-1-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
-<p>
-<br>JC1 Civics Tutors</p>
+<h4><sub>JC1 Civics Tutors</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/about/our-staff/jc-2-civics-tutors/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/classroom.png"></a>
-<p>
-<br>JC2 Civics Tutors</p>
+<h4><sub>JC2 Civics Tutors</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://for.edu.sg/vjcstudenthandbook25"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png"></a>
-<p>
-<br>Student Handbook</p>
+<h4><sub>Student Handbook</sub></h4>
 </th>
 </tr>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/sexuality-education-in-schools/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/gender.png"></a>
-<p>
-<br>Sexuality Education in Schools</p>
+<h4><sub>Sexuality Education in Schools</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/education-and-career-guidance-ecg/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/graduate.png"></a>
-<p>
-<br>Education and Career Guidance</p>
+<h4><sub>Education and Career Guidance</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/parentingwith.moesg/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/instagram.png"></a>
-<p>
-<br>MOE Parenting with you</p>
+<h4><sub>MOE Parenting with you</sub></h4>
 </th>
 </tr>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/vjcmoeresilience"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/shield.png"></a>
-<p>
-<br>Building Resilience in our students</p>
+<h4><sub>Building Resilience in our students</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/watching-for-distress/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/view.png"></a>
-<p>
-<br>Watching for signs of distress</p>
+<h4><sub>Watching for signs of distress</sub></h4>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://for.edu.sg/vjcntucfactsheet"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/pdf.png"></a>
-<p>
-<br>Accident Insurance Plan for Students</p>
+<h4><sub>Accident Insurance Plan for Students</sub></h4>
 </th>
 </tr>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/parents/parent-gateway-mobile-app/"><img style="width:80px" height="auto" width="100%" src="/images/PNG%202023/smartphone.png"></a>
-<p>
-<br>Parent Gateway Mobile App</p>
+<h4><sub>Parent Gateway Mobile App</sub></h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
