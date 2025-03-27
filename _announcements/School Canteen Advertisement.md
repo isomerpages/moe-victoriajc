@@ -76,19 +76,19 @@ email OR to the School's General Office.</p>
 <p>Contact No: 6448 5011</p>
 </li>
 <li>
-<p>Email: <a href="mailto:tommy_low_boon_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tommy_low_boon_heng@schools.gov.sg</a> /
-<a href="mailto:KOH_Seow_Chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">KOH_Seow_Chin@schools.gov.sg</a>
+<p>Email: <a href="mailto:KOH_Seow_Chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">KOH_Seow_Chin@schools.gov.sg</a> /
+<a href="mailto:tommy_low_boon_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tommy_low_boon_heng@schools.gov.sg</a>
 </p>
 </li>
 <li>
-<p>Contact Person: Mr Tommy Low / Mdm Koh Seow Chin</p>
+<p>Contact Person: Mdm Koh Seow Chin / Mr Tommy Low</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Kembangan, Eunos</p>
+<p>Nearest MRT: Marine Terrace MRT station</p>
 </li>
 <li>
 <p>Bus number: 13, 16, 31, 36, 43, 47, 48, 55, 196, 197</p>
