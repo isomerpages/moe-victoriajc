@@ -10,4 +10,4 @@ variant: markdown
 
 We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! 
 
-The DSA-JC application will be open soon! Check back for our list of talent areas. 
+The DSA-JC application will be open soon! Check back for our list of talent areas.
