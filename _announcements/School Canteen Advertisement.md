@@ -28,7 +28,7 @@ description: ""
 <p>Non Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>04 April 2025</p>
+<p>30 April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mixed Economy Rice / Similar Dishes Food Stall</p>
