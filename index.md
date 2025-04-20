@@ -11,6 +11,9 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
+        - title: DSA at VJC
+          description: "Find your #whyvj"
+          url: /admissions/direct-school-admissions/
         - title: Happenings at VJC
           description: Featured News
           url: /happenings-at-vjc/
