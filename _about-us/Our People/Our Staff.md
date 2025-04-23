@@ -21,7 +21,7 @@ their way in a complex and challenging world and to ease their transition
 to adulthood.</p>
 <h3>School Leaders</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SL and VAC Photos/2025_P_and_VPs__Jan_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P_and_VPs.png">
 </div>
 <p>Standing from left to right:</p>
 <table style="minWidth: 50px">
@@ -45,16 +45,6 @@ to adulthood.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Jeffrey Low
 <br><a href="mailto:Jeffrey_Low@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeffrey_Low@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Grace Lee Yun Yun
-<br><a href="mailto:LEE_Yun_Yun_Grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Yun_Yun_Grace@schools.gov.sg</a>
 </p>
 </td>
 </tr>
