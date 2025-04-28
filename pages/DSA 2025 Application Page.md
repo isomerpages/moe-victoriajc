@@ -13,8 +13,9 @@ in year 2026.</p>
 <p>If you are applying to Victoria Junior College through DSA-JC, please:</p>
 <ol>
 <li>
-<p>Complete and submit the&nbsp;<a href="https://portal.vjc.edu.sg/dsa" rel="noopener noreferrer nofollow" target="_blank">online DSA application form</a>, with
-supporting documents as pdf or photo attachments</p>
+<p>Complete and submit the&nbsp;<a href="https://portal.vjc.edu.sg/dsa" rel="noopener noreferrer nofollow" target="_blank">online DSA application form</a> (open
+from 7 May 2025 to 6 July 2025), with supporting documents as pdf or photo
+attachments</p>
 </li>
 <li>
 <p>Take note of the <strong>key information</strong> for your chosen talent
@@ -42,7 +43,7 @@ specific Talent Area</p>
 </ul>
 <p><em>You should get these documents and a digital passport-sized photograph of yourself ready before you start the online application.</em>
 </p>
-<p><em>*We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 30 June 2024 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.</em>
+<p><em><sup>*We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 6 July 2025 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.</sup></em>
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
@@ -68,7 +69,6 @@ CCA at <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow
 teacher i/c as indicated below.</p>
 </li>
 </ul>
-<p>Please note the following:</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -76,8 +76,41 @@ teacher i/c as indicated below.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><em>Students who have been successfully allocated a school via DSA-JC are NOT allowed to participate in the Joint Admissions Exercise (JAE). They will also NOT be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</em>
+<p><em>Before you submit your application, please ensure that your parent acknowledges, understands and agrees to the following:</em>
 </p>
+<ul>
+<li>
+<p><em>The Government of Singapore may collect, use, and disclose any personal data which I have provided in this application for the purpose of facilitating my child’s junior college arrangement and where my child is allocated to a DSA-JC school, for administering and managing my child’s relationship with that school and the Ministry of Education.</em>
+</p>
+</li>
+<li>
+<p><em>Once my child is successfully allocated to a DSA-JC school, he/she will not be able to participate in the annual Joint Admissions Exercise (JAE) to opt for another school/course.</em>
+</p>
+</li>
+<li>
+<p><em>My child is required to honour his/her commitment to the allocated DSA-JC school for the duration of the JC course.</em>
+</p>
+</li>
+<li>
+<p><em>I undertake not to transfer my child to another school after the release of the O-Level results.</em>
+</p>
+</li>
+<li>
+<p><em>Should the other parent contest my child’s allocation to a DSA-JC school, I undertake to resolve the issue with him/her directly.</em>
+</p>
+</li>
+<li>
+<p><em>All the information provided by me in this application is true and correct.</em>
+</p>
+</li>
+<li>
+<p><em>The Ministry of Education is entitled to remove my child from the allocated DSA-JC school and enroll my child in any school as may be determined by the Ministry of Education in its sole discretion if:</em>
+<br><em>(a) I have provided false information in this application;</em>
+<br><em>(b) I am unable to resolve any dispute with the child’s other parent with regard to my child’s choice of school as stated above; or</em>
+<br><em>(c) Any person (including me or the other parent or any other person connected with my child) has offered or given or agreed to give to any other person any gift or consideration of any kind as an inducement or reward for showing favour or disfavour to any person in relation to my child’s DSA application.</em>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
@@ -101,17 +134,17 @@ to confirm the date and time allocated.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong> 
+<p><strong>Date and Time of Audition :</strong>
 </p>
-<p>13 July 2024, Saturday, 8.30am – 1.00pm
-<br>17 July 2024, Wednesday, 4.30pm – 7.00pm&nbsp;</p>
+<p>12 July 2025, Saturday, 8.30am – 1.00pm
+<br>16 July 2025, Wednesday, 4.30pm – 7.00pm&nbsp;</p>
 <p><strong>Venue : </strong>Chinese Orchestra Music Room</p>
 <p><strong>Format :</strong> All applicants are required to perform a piece
 that contains at least 16 bars each of fast and slow tempo. Applicants
 for percussion instruments are to prepare a piece that showcases contrasting
 tempo as well.
-<br>Applicants will also be given a sight-reading exercise and undergo an
-interview after the audition.</p>
+<br>Applicants will also be given a sight-reading exercise comprising at least
+8 bars of music and undergo an interview after the audition.</p>
 <p><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -126,9 +159,9 @@ interview after the audition.</p>
 of the JC curriculum.</p>
 </li>
 <li>
-<p>Priority will be given to players from the wind, bowed strings and percussion
-sections, as these are our areas of need. We are not offering DSA places
-for Guzheng.</p>
+<p>Priority will be given to players from the wind, plucked strings and bowed
+strings sections, as these are our areas of need. We are not offering DSA
+places for Guzheng.</p>
 </li>
 </ol>
 <p><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
@@ -142,8 +175,8 @@ for Guzheng.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
-<br>29 June 2024, Saturday, 9.30am – 2.00pm
-<br>6 July 2024, Saturday, 9.30am – 1.00pm&nbsp;</p>
+<br>12 July 2025, Saturday, 9.30am – 2.00pm
+<br>19 July 2025, Saturday, 9.30am – 11.00am</p>
 <p><strong>Venue : </strong>LT3&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to undergo an audition
 (vocal testing exercise) conducted by the choir master, as well as an interview.
@@ -162,8 +195,8 @@ No song preparation is required.&nbsp;</p>
 of the JC curriculum.</p>
 </li>
 <li>
-<p>Priority will be given to singers from the soprano, tenor and bass sections
-as these are our areas of need.&nbsp;</p>
+<p>Priority will be given to singers from the male chorus as these are our
+areas of need.&nbsp;</p>
 </li>
 </ol>
 <p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
@@ -178,30 +211,32 @@ as these are our areas of need.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
-</p>
-<p>6 July 2024, Saturday, 8.30am – 1.30pm</p>
-<p>9 July 2024, Tuesday, 4.30pm –7.30pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>Band Room</p>
-<p>&nbsp;</p>
+<br>5 July 2025, Saturday, 8.00am – 1.30pm
+<br>12 July 2025, Saturday, 8.00am – 10.00am&nbsp;</p>
+<p><strong>Venue : </strong>Band Room&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to play two contrasting
 pieces of their choice, and to prepare all major scales. Percussionists
 should prepare one piece on mallets and another piece on drums or drum
-set. Applicants will also undergo an interview.</p>
-<p>&nbsp;</p>
+set. Applicants will also undergo an interview.&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should have experience in competitions
-and/or public performances.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
-with the academic rigour of the JC curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Priority will be given to players from the
-brass and percussion sections, as these are our areas of need. We are not
-looking for pianists.</p>
-<p><strong>&nbsp;</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Priority will be given to players from the brass section, as this is our
+area of need. We are not looking for pianists.<strong>&nbsp;</strong>
 </p>
+</li>
+</ol>
 <p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
 <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
 </td>
@@ -213,55 +248,81 @@ looking for pianists.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
-</p>
-<p>2 July 2024, Tuesday, 4.30pm – 7.30pm</p>
-<p>8 July 2024, Monday, 4.30pm – 7.30pm</p>
-<p>&nbsp;</p>
+<br>10 July 2025, Thursday, 4.30pm – 7.30pm
+<br>15 July 2025, Tuesday, 4.30pm – 7.30pm&nbsp;</p>
 <p><strong>Venue : </strong>T18, T19</p>
 <p><strong>Format :</strong>&nbsp; There will be 3 rounds to the auditions.
 Shortlisted candidates who clear each round will complete all 3 rounds
 within the allocated slot.</p>
-<p><u>Round 1</u>
+<p><strong>IMPORTANT NOTES</strong>
+<br>We warmly invite dancers with strong technical foundations, confident
+performance skills, and versatility across genres to audition. We therefore
+encourage applicants to thoughtfully consider their readiness and not treat
+the audition as a trial or exploratory attempt. This ensures that your
+time and energy are respected, and that the audition experience is meaningful
+for all involved.
+<br>
 </p>
-<p>All applicants will be required to prepare a solo dance piece to a song
+<p>We are especially keen to welcome more male dancers into our ensemble
+given the variety of genres offered in our dance programme — if you’re
+technically strong and ready to grow further, we’d love to see you at auditions.</p>
+<p></p>
+<p><u>Round 1</u>
+<br>All applicants will be required to prepare a solo dance piece to a song
 of their choice, of <strong>not more than 1 minute</strong>.</p>
 <p>Please note that candidates must apply based on only <strong>one </strong>of
 the following dance genres:</p>
-<p>1) Contemporary</p>
-<p>2) Standard Ballroom</p>
-<p>3) Latin Ballroom</p>
-<p>4) Street Dance (<strong>only </strong>Hip Hop , Break Dancing, Popping,
+<ol data-tight="true" class="tight">
+<li>
+<p>Contemporary</p>
+</li>
+<li>
+<p>Standard Ballroom</p>
+</li>
+<li>
+<p>Latin Ballroom</p>
+</li>
+<li>
+<p>Street Dance (<strong>only </strong>Hip Hop , Break Dancing, Popping,
 Locking)</p>
+<p></p>
+</li>
+</ol>
 <p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
 fusion dance forms or other forms of street dance will<strong> not</strong> be
 eligible for consideration.</p>
-<p>&nbsp;<u>Round 2</u>
-</p>
-<p>Applicants who pass Round 1 will proceed to Round 2.</p>
-<p>All shortlisted applicants will be invited to learn a contemporary choreography
-from our instructor, after which applicants will perform the piece taught
-to them.</p>
-<p>&nbsp;<u>Round 3</u>
-</p>
-<p>Applicants who pass Round 2 will proceed to Round 3.</p>
-<p>All shortlisted applicants will undergo an interview with the selection
+<p></p>
+<p><u>Round 2</u>
+<br>Applicants who pass Round 1 will learn and perform a contemporary choreography
+taught by our instructor. This round assesses your ability to translate
+instruction into performance effectively, embody and execute choreography
+with precision under time constraints.
+<br>
+<br><u>Round 3</u>
+<br>Applicants who pass Round 2 will proceed to Round 3.
+<br>All shortlisted applicants will undergo an interview with the selection
 panel.</p>
 <p><strong>Attire :</strong>
-</p>
-<p>All applicants should audition in the dance gear and footwear suitable
+<br>All applicants should audition in the dance gear and footwear suitable
 for their respective dance genres.</p>
 <p>&nbsp;<strong>Selection Criteria :</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display high levels of musicality,
-performance quality and technical skills in both their respective areas
-of dance expertise (round 1), as well as showcasing the choreographer’s
-piece (round 2).</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of versatility,
-preferably excelling in more than one genre of dance.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
-with the academic rigour of the JC curriculum.</p>
-<p><strong>&nbsp;</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display technical excellence<strong>,</strong> musicality,
+and performance quality in your solo performance (Round 1) and during choreography
+execution (Round 2).</p>
+</li>
+<li>
+<p>Applicants should display versatility. While you audition in one genre,
+those with demonstrated strength across multiple styles are highly regarded.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.<strong>&nbsp;</strong>
 </p>
+</li>
+</ol>
 <p><strong>Contact Person, email and number :</strong> Mrs Ting Siang Leng
 | <a href="mailto:goh.siangleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.siangleng@vjc.edu.sg</a> |
 62402125&nbsp;</p>
@@ -274,28 +335,28 @@ with the academic rigour of the JC curriculum.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
-</p>
-<p>8 July 2024, Monday, 4.00pm – 6.30pm</p>
-<p>9 July 2024, Tuesday, 4.00pm – 6.30pm</p>
-<p>15 July 2024, Monday, 4.00pm – 6.30pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>T16, T17</p>
-<p>&nbsp;</p>
+<br>2 July 2025, Wednesday, 3.30pm – 6.30pm
+<br>9 July 2025, Wednesday, 3.30pm – 6.30pm&nbsp;</p>
+<p><strong>Venue : </strong>T16, T17&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to play a solo piece
 (not section score or ensemble part) of their choice lasting not more than
 5 minutes. Applicants are also required to sight read a piece provided
-by the conductor. Applicants will undergo an interview after the audition.</p>
-<p>&nbsp;</p>
+by the conductor. Applicants will undergo an interview after the audition.&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should have experience in competitions
-and/or public performances.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
-with the academic rigour of the JC curriculum.</p>
-<p><strong>&nbsp;</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.<strong>&nbsp;</strong>
 </p>
+</li>
+</ol>
 <p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
 Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
 62402147</p>
@@ -308,9 +369,11 @@ Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferr
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
+<br>21 July 2025, Monday, 4.30pm – 7.00pm
+<br>24 July 2025, Thursday, 4.30pm – 7.00pm</p>
+<p>
+<br>
 </p>
-<p>8 July 2024, Monday, 4.30pm – 7.00pm</p>
-<p>11 July 2024, Thursday, 4.30pm – 7.00pm</p>
 <p>&nbsp;</p>
 <p><strong>Venue : </strong>T14, T15</p>
 <p>&nbsp;</p>
