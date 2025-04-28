@@ -370,28 +370,30 @@ Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferr
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
 <br>21 July 2025, Monday, 4.30pm – 7.00pm
-<br>24 July 2025, Thursday, 4.30pm – 7.00pm</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
+<br>24 July 2025, Thursday, 4.30pm – 7.00pm&nbsp;</p>
 <p><strong>Venue : </strong>T14, T15</p>
-<p>&nbsp;</p>
-<p><strong>Format :</strong> All applicants are required to prepare two contrasting
-pieces (eg musical periods, tempo) of their choice. Applicants must have
-experience playing one of the string instruments - violin, viola, cello
-or double bass. Applicants will also undergo an interview.</p>
-<p>&nbsp;</p>
+<p><strong>Format :</strong> All applicants are required to prepare two contrasting <u>solo</u> pieces
+(eg musical periods, tempo) of their choice. <u>No accompaniment</u> will
+be available. Applicants must have experience playing one of the string
+instruments - violin, viola, cello or double bass. Applicants will also
+undergo an interview.&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
-with the academic rigour of the JC curriculum.</p>
-<p>
-<br>&nbsp;<strong>Contact Person, email and number :</strong> Ms Geraldine
-Tay | <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a> |&nbsp;
-62402134</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
+<a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp; 62402134</p>
 </td>
 </tr>
 </tbody>
