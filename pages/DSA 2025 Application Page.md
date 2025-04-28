@@ -46,7 +46,7 @@ specific Talent Area</p>
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
-<p>Applications should reach us by&nbsp;<strong>30 June 2024, 2359hr</strong>.
+<p>Applications should reach us by&nbsp;<strong>06 July 2025, 2359hr</strong>.
 Incomplete applications (such as those with incomplete information or without
 a complete set of supporting documents) may not be considered.</p>
 <p>For general enquiries, you may email us at <a href="mailto:victoria_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a>, or call
@@ -101,30 +101,36 @@ to confirm the date and time allocated.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong> &nbsp;</p>
-<p>13 July 2024, Saturday, 8.30am – 1.00pm</p>
-<p>17 July 2024, Wednesday, 4.30pm – 7.00pm</p>
-<p>&nbsp;</p>
+<p><strong>Date and Time of Audition :</strong> 
+</p>
+<p>13 July 2024, Saturday, 8.30am – 1.00pm
+<br>17 July 2024, Wednesday, 4.30pm – 7.00pm&nbsp;</p>
 <p><strong>Venue : </strong>Chinese Orchestra Music Room</p>
 <p><strong>Format :</strong> All applicants are required to perform a piece
 that contains at least 16 bars each of fast and slow tempo. Applicants
 for percussion instruments are to prepare a piece that showcases contrasting
-tempo as well.</p>
-<p>Applicants will also be given a sight-reading exercise and undergo an
+tempo as well.
+<br>Applicants will also be given a sight-reading exercise and undergo an
 interview after the audition.</p>
 <p><strong>Selection Criteria :</strong>
 </p>
-<p>1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of musicality.</p>
-<p>2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview</p>
-<p>3. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Priority will be given to players from the wind, bowed strings and percussion
+</li>
+<li>
+<p>Priority will be given to players from the wind, bowed strings and percussion
 sections, as these are our areas of need. We are not offering DSA places
 for Guzheng.</p>
+</li>
+</ol>
 <p><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
 <a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>| 62402138</p>
 </td>
@@ -136,25 +142,30 @@ for Guzheng.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Audition :</strong>
-</p>
-<p>29 June 2024, Saturday, 9.30am – 2.00pm</p>
-<p>6 July 2024, Saturday, 9.30am – 1.00pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>LT3</p>
-<p>&nbsp;</p>
+<br>29 June 2024, Saturday, 9.30am – 2.00pm
+<br>6 July 2024, Saturday, 9.30am – 1.00pm&nbsp;</p>
+<p><strong>Venue : </strong>LT3&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to undergo an audition
 (vocal testing exercise) conducted by the choir master, as well as an interview.
-No song preparation is required.</p>
-<p>&nbsp;</p>
+No song preparation is required.&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should display a high level of musicality.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Applicants should possess the ability to cope
-with the academic rigour of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp; Priority will be given to singers from the
-soprano, tenor and bass sections as these are our areas of need.</p>
-<p>&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Priority will be given to singers from the soprano, tenor and bass sections
+as these are our areas of need.&nbsp;</p>
+</li>
+</ol>
 <p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
 | <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
 62402168&nbsp;</p>
