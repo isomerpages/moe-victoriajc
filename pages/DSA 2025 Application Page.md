@@ -82,10 +82,7 @@ teacher i/c as indicated below.</p>
 </tr>
 </tbody>
 </table>
-<ul>
-<li>
-<p>Performing Arts</p>
-<p></p>
+<h4>Performing Arts</h4>
 <p>Selection will be based on a basket of criteria for the respective talent
 area.
 <br>Auditions will take place in Victoria Junior College. Note the dates and
@@ -160,8 +157,7 @@ soprano, tenor and bass sections as these are our areas of need.</p>
 <p>&nbsp;</p>
 <p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
 | <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
-62402168</p>
-<p>&nbsp;</p>
+62402168&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -257,9 +253,7 @@ with the academic rigour of the JC curriculum.</p>
 </p>
 <p><strong>Contact Person, email and number :</strong> Mrs Ting Siang Leng
 | <a href="mailto:goh.siangleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.siangleng@vjc.edu.sg</a> |
-62402125</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+62402125&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +288,6 @@ with the academic rigour of the JC curriculum.</p>
 <p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
 Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
 62402147</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -325,15 +318,12 @@ with the academic rigour of the JC curriculum.</p>
 <br>&nbsp;<strong>Contact Person, email and number :</strong> Ms Geraldine
 Tay | <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a> |&nbsp;
 62402134</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p>Sports</p>
+<h4>Sports</h4>
 <p>Selection will be considered on a basket of criteria for the respective
 talent area.</p>
 <p>Physical trials will be conducted at Victoria Junior College. No trials
@@ -858,9 +848,7 @@ skillsets / competition routines).</p>
 </tbody>
 </table>
 <p></p>
-</li>
-<li>
-<p>Niche Academic Programmes</p>
+<h4>Niche Academic Programmes</h4>
 <p>Physical interviews will be conducted in Victoria Junior College. Students
 applying for Niche Academic Programmes are required to produce an additional
 personal statement/essay, which can be uploaded as a PDF as an additional
@@ -1114,13 +1102,10 @@ events.</p>
 <p><strong>Contact persons</strong>:</p>
 <p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> |
 64485011</p>
-<p>Mr Eugene Quek | <a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a> |64485011</p>
-<p>&nbsp;</p>
+<p>Mr Eugene Quek | <a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a> |
+64485011</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-</li>
-</ul>
 <p></p>
