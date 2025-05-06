@@ -621,41 +621,46 @@ Singapore Schools.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Boys &amp; Girls</p>
-<p>1<sup>st</sup> trial - 23 May 2024 (Thursday) 5pm</p>
-<p>2<sup>nd</sup> trial -&nbsp; 2 July 2024 (Tuesday) 5pm</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>Boys &amp; Girls
+<br>1<sup>st</sup> trial - 28 May (Wednesday) 4pm
+<br>2<sup>nd</sup> trial -&nbsp; 16 July (Wednesday) 4pm</p>
+<p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Field</p>
+<p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of technical ability, game awareness
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicant’s past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific playing positions.</p>
-<p><strong>&nbsp;</strong>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;
+<br><strong>&nbsp;</strong>
 </p>
+</li>
+</ol>
 <p><strong>Contact Persons:</strong>
-</p>
-<p>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a> |&nbsp;64438315</p>
-<p>Mr Lim Wei Quan<strong> </strong><a href="mailto:lim.wei.quan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.wei.quan@vjc.edu.sg</a> | 64438315</p>
-<p>&nbsp;</p>
+<br>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a> |&nbsp;64438315
+<br>Mr Lim Wei Quan<strong> </strong><a href="mailto:lim.wei.quan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.wei.quan@vjc.edu.sg</a> | 64438315&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -664,44 +669,61 @@ Selection will consider the school’s needs in specific playing positions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Girls: 1<sup>st</sup> trial - 23 May (Thursday) 5pm;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2<sup>nd</sup> trial
-– 2 July (Tuesday) 5 pm</p>
-<p>&nbsp;</p>
-<p>Boys: 1<sup>st</sup> trial - 21 May (Tuesday) 5pm;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2<sup>nd</sup> trial
-– 2 July (Tuesday) 5 pm</p>
-<p>&nbsp;</p>
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>Girls:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> trial - 26 May (Monday) 4.30pm;</p>
+</li>
+<li>
+<p>2<sup>nd</sup> trial – 15 July (Tuesday) 4.30pm</p>
+</li>
+</ul>
+<p>Boys:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> trial - 29 May (Thursday) 5pm;</p>
+</li>
+<li>
+<p>2<sup>nd</sup> trial – 15 July (Tuesday) 4.30pm</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Blue hockey D</p>
+<p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also undergo an interview
 after the trial.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of technical ability, game awareness
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicant’s past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific playing positions.</p>
-<p>&nbsp;</p>
-<p><strong>Contact Person:</strong>
-</p>
-<p>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a> |&nbsp;64438315</p>
-<p>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a> I
-64438315</p>
-<p><strong>&nbsp;</strong>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p>
+<br><strong>Contact Person:</strong>
+<br>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a> |&nbsp;64438315
+<br>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a> I
+64438315<strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -712,38 +734,47 @@ Selection will consider the school’s needs in specific playing positions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Trial:</strong>
+<br>1<sup>st</sup> trial - 26 May (Monday) 5pm
+<br>2<sup>nd</sup> trial - 17 July (Thursday) 5pm
+<br><em>*shortlisted applicants will be asked to come back for the 2nd trial</em>
+<br>
 </p>
-<p>&nbsp;</p>
-<p>1<sup>st</sup> trial - 20 May (Monday) 6pm</p>
-<p>2<sup>nd</sup> trial - 9 July (Tuesday) 6pm</p>
-<p><strong>&nbsp;</strong>
+<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court
+<br>
 </p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court/Hall</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
+after the trial.
+<br>
+</p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of technical ability, game awareness
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicant’s past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific playing positions.</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Contact Person:&nbsp;</strong>
-</p>
-<p>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
-64438315
-<br>&nbsp;</p>
+<br>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
+64438315</p>
 </td>
 </tr>
 <tr>
