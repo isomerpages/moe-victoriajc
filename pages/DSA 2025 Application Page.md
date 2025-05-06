@@ -115,7 +115,7 @@ teacher i/c as indicated below.</p>
 </tr>
 </tbody>
 </table>
-<h4>Performing Arts</h4>
+<h3>Performing Arts</h3>
 <p>Selection will be based on a basket of criteria for the respective talent
 area.
 <br>Auditions will take place in Victoria Junior College. Note the dates and
@@ -398,7 +398,7 @@ of the JC curriculum.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Sports</h4>
+<h3>Sports</h3>
 <p>Selection will be considered on a basket of criteria for the respective
 talent area.
 <br>Physical trials will be conducted at Victoria Junior College. No trials
@@ -1026,7 +1026,7 @@ Singapore Schools.</p>
 </tbody>
 </table>
 <p></p>
-<h4>Niche Academic Programmes</h4>
+<h3>Niche Academic Programmes</h3>
 <p>Physical interviews will be conducted in Victoria Junior College. Students
 applying for Niche Academic Programmes are required to produce an additional
 personal statement/essay, which can be uploaded as a PDF as an additional
@@ -1178,8 +1178,7 @@ programmes, competitions and/or events;
 <p><strong>Venue: </strong>L28</p>
 <p></p>
 <p><strong>Format:&nbsp;</strong>
-</p>
-<p>(1)&nbsp;&nbsp; All applicants must submit a personal statement (maximum
+<br>(1)&nbsp;&nbsp; All applicants must submit a personal statement (maximum
 500 words) describing their involvement in Computing-related activities,
 accompanied by relevant supporting documents.
 <br>
