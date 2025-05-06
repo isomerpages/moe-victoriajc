@@ -420,8 +420,8 @@ for their respective sports trial..</p>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Trial:&nbsp;</strong>
 <br>Boys &amp; Girls:
-<br>1<sup>st</sup> trial - 28 May (Wednesday) 5pm
-<br>2<sup>nd</sup> trial - 14 July (Monday) 5pm
+<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 5pm
+<br>2<sup>nd</sup> trial - 14 July 2025 (Monday) 5pm
 <br>
 </p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
@@ -469,8 +469,8 @@ Singapore Schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Trial:&nbsp;</strong>
-<br>1<sup>st</sup> trial - 28 May (Wednesday) 4.30pm
-<br>2<sup>nd</sup> trial - 17 July (Wednesday) 4.30pm
+<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4.30pm
+<br>2<sup>nd</sup> trial - 17 July 2025 (Wednesday) 4.30pm
 <br>
 </p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Courts</p>
@@ -560,10 +560,10 @@ Singapore Schools.</p>
 <br>Girls:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 28 May (Wednesday) 4.30pm;</p>
+<p>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4.30pm;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 5 July (Friday) 4.30pm</p>
+<p>2<sup>nd</sup> trial - 5 July 2025 (Friday) 4.30pm</p>
 </li>
 </ul>
 <p></p>
@@ -623,8 +623,8 @@ Singapore Schools.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Trial:</strong>&nbsp;
 <br>Boys &amp; Girls
-<br>1<sup>st</sup> trial - 28 May (Wednesday) 4pm
-<br>2<sup>nd</sup> trial -&nbsp; 16 July (Wednesday) 4pm</p>
+<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4pm
+<br>2<sup>nd</sup> trial -&nbsp; 16 July 2025 (Wednesday) 4pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Field</p>
 <p></p>
@@ -673,19 +673,19 @@ Singapore Schools.</p>
 <br>Girls:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 26 May (Monday) 4.30pm;</p>
+<p>1<sup>st</sup> trial - 26 May 2025 (Monday) 4.30pm;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial – 15 July (Tuesday) 4.30pm</p>
+<p>2<sup>nd</sup> trial – 15 July 2025 (Tuesday) 4.30pm</p>
 </li>
 </ul>
 <p>Boys:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 29 May (Thursday) 5pm;</p>
+<p>1<sup>st</sup> trial - 29 May 2025 (Thursday) 5pm;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial – 15 July (Tuesday) 4.30pm</p>
+<p>2<sup>nd</sup> trial – 15 July 2025 (Tuesday) 4.30pm</p>
 </li>
 </ul>
 <p></p>
@@ -734,8 +734,8 @@ Singapore Schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Trial:</strong>
-<br>1<sup>st</sup> trial - 26 May (Monday) 5pm
-<br>2<sup>nd</sup> trial - 17 July (Thursday) 5pm
+<br>1<sup>st</sup> trial - 26 May 2025 (Monday) 5pm
+<br>2<sup>nd</sup> trial - 17 July 2025 (Thursday) 5pm
 <br><em>*shortlisted applicants will be asked to come back for the 2nd trial</em>
 <br>
 </p>
@@ -785,8 +785,8 @@ Singapore Schools.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Trial:</strong>&nbsp;
 <br>Boys and Girls:&nbsp;
-<br>1<sup>st</sup> trial - 26 May (Monday) 5pm;
-<br>2<sup>nd</sup> trial - 16 July (Wednesday) 5pm</p>
+<br>1<sup>st</sup> trial - 26 May 2025 (Monday) 5pm;
+<br>2<sup>nd</sup> trial - 16 July 2025 (Wednesday) 5pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
 <p></p>
@@ -833,8 +833,8 @@ Singapore Schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Trial:</strong>&nbsp;
-<br>1<sup>st</sup> trial - 22 May (Thursday) 4.30 - 6.30 pm
-<br>2<sup>nd</sup> trial - 10 July (Thursday) 4.30 - 6.30 pm</p>
+<br>1<sup>st</sup> trial - 22 May 2025 (Thursday) 4.30 - 6.30 pm
+<br>2<sup>nd</sup> trial - 10 July 2025 (Thursday) 4.30 - 6.30 pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC Tennis Courts</p>
 <p></p>
@@ -926,20 +926,20 @@ Singapore Schools.</p>
 <br>Girls:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 29 May (Thursday) 5pm;</p>
+<p>1<sup>st</sup> trial - 29 May 2025 (Thursday) 5pm;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 15 July (Tuesday) 5pm</p>
+<p>2<sup>nd</sup> trial - 15 July 2025 (Tuesday) 5pm</p>
 </li>
 </ul>
 <p></p>
 <p>Boys:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 31 May (Saturday) 9am;</p>
+<p>1<sup>st</sup> trial - 31 May 2025 (Saturday) 9am;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 17 July (Thursday) 5pm</p>
+<p>2<sup>nd</sup> trial - 17 July 2025 (Thursday) 5pm</p>
 </li>
 </ul>
 <p></p>
@@ -1045,9 +1045,9 @@ found in the descriptions below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Audition:</strong>
-<br>23 July (Wednesday) 3pm – 7pm
-<br>24 July (Thursday) 3pm – 7pm
-<br>25 July (Friday) 3pm – 7pm</p>
+<br>23 July 2025 (Wednesday) 3pm – 7pm
+<br>24 July 2025 (Thursday) 3pm – 7pm
+<br>25 July 2025 (Friday) 3pm – 7pm</p>
 <p></p>
 <p><strong>Venue: </strong>TSD Studio 1</p>
 <p></p>
@@ -1108,8 +1108,8 @@ Arts Presentation and;
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Interview:</strong>
-<br>15 July (Tuesday): 2pm - 5pm
-<br>17 July (Thursday): 2pm - 5pm</p>
+<br>15 July 2025 (Tuesday): 2pm - 5pm
+<br>17 July 2025 (Thursday): 2pm - 5pm</p>
 <p></p>
 <p><strong>Venue: </strong>Victoria Junior College</p>
 <p></p>
@@ -1174,7 +1174,7 @@ programmes, competitions and/or events;
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Computing Aptitude Test:&nbsp;</strong>
 <br>Shortlisted applicants will be be provided with more details.
-<br>11 July (Friday) 3pm - 4pm</p>
+<br>11 July 2025 (Friday) 3pm - 4pm</p>
 <p><strong>Venue: </strong>L28</p>
 <p></p>
 <p><strong>Format:&nbsp;</strong>
@@ -1237,8 +1237,8 @@ events at VJC and beyond
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date &amp; Time of Interview:</strong>
-<br>15 July (Tuesday) 3.30pm – 6.30pm
-<br>17 July (Thursday) 3.30pm – 6.30pm</p>
+<br>15 July 2025 (Tuesday) 3.30pm – 6.30pm
+<br>17 July 2025 (Thursday) 3.30pm – 6.30pm</p>
 <p></p>
 <p><strong>Format:</strong>
 <br>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants must submit
