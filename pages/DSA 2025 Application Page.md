@@ -783,39 +783,45 @@ Singapore Schools.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Boys and Girls:&nbsp;</p>
-<p>1<sup>st</sup> trial - 20th May (Monday) 5pm;</p>
-<p>2<sup>nd</sup> trial - 3 July (Wednesday) 5pm</p>
-<p>&nbsp;</p>
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>Boys and Girls:&nbsp;
+<br>1<sup>st</sup> trial - 26 May (Monday) 5pm;
+<br>2<sup>nd</sup> trial - 16 July (Wednesday) 5pm</p>
+<p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also undergo an interview
 after the trial.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of technical ability, game awareness
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicant’s past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific playing positions.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
+<p></p>
+</li>
+</ol>
 <p><strong>Contact Person:</strong>
-</p>
-<p>Mr Peter Wee | <a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peterwee@vjc.edu.sg</a> &nbsp;|
-64438315</p>
-<p>&nbsp;</p>
+<br>Mr Peter Wee | <a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peterwee@vjc.edu.sg</a> &nbsp;|
+64438315&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -826,39 +832,44 @@ Selection will consider the school’s needs in specific playing positions.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>&nbsp;</p>
-<p>1<sup>st</sup> trial - 16 May (Thursday) 4.30 - 6.30 pm</p>
-<p>2<sup>nd</sup> trial - 11 July (Thursday) 4.30 - 6.30 pm</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>1<sup>st</sup> trial - 22 May (Thursday) 4.30 - 6.30 pm
+<br>2<sup>nd</sup> trial - 10 July (Thursday) 4.30 - 6.30 pm</p>
+<p></p>
 <p><strong>Venue: </strong>VJC Tennis Courts</p>
+<p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of technical ability, game awareness
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in the applicant’s past experience, achievements
-or awards in the following categories of competition: International / Regional
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
 / National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific playing positions.</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p></p>
 <p><strong>Contact Person:</strong>
-</p>
-<p>Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow.siewfoong@vjc.edu.sg</a> |
-64485011</p>
-<p><strong>&nbsp;</strong>
+<br>Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow.siewfoong@vjc.edu.sg</a> |
+64485011<strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -870,33 +881,39 @@ Selection will consider the school’s needs in specific playing positions.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
-in official competitions for the sport.</p>
-<p>&nbsp;</p>
+in official competitions for the sport.
+<br>
+</p>
 <p>Shortlisted applicants will be invited for an interview.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of potential in the sport to compete
-at the National School Games A Division competition.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicant’s past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific events.</p>
-<p>
-<br><strong>Contact Person:</strong>
-</p>
-<p>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
-64438315</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Contact Person:</strong>
+<br>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
+64438315&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -906,43 +923,60 @@ Selection will consider the school’s needs in specific events.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
-</p>
-<p><em>&nbsp;</em>
-</p>
-<p>Girls: 1<sup>st</sup> trial - 21 May (Tuesday) 5pm;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2<sup>nd</sup> trial
-- 2 July (Tuesday) 5pm</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp; Boys: 1<sup>st</sup> trial - 23 May (Thursday) 5pm;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2<sup>nd</sup> trial
-- 9 July (Tuesday) 5pm</p>
-<p>&nbsp;</p>
+<br>Girls:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> trial - 29 May (Thursday) 5pm;</p>
+</li>
+<li>
+<p>2<sup>nd</sup> trial - 15 July (Tuesday) 5pm</p>
+</li>
+</ul>
+<p></p>
+<p>Boys:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1<sup>st</sup> trial - 31 May (Saturday) 9am;</p>
+</li>
+<li>
+<p>2<sup>nd</sup> trial - 17 July (Thursday) 5pm</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Venue: </strong>VJC Hall</p>
+<p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
-display a high level of technical ability, game awareness and insight of
-the game.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
-pass the interview.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants should
-possess the ability to cope with the academic rigour of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection will
-factor in applicant’s past experience, achievements or awards in the following
-categories of competition: International / Regional / National inter-school
-competitions / Represented nation or selected for Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Selection will
-consider the school’s needs in specific playing positions.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.&nbsp;</p>
+</li>
+</ol>
+<p></p>
 <p><strong>Contact Person:</strong>
-</p>
-<p>Mr Pung Chin Hong| <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a> |
-64438315</p>
-<p>&nbsp;</p>
+<br>Mr Pung Chin Hong| <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a> |
+64438315&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -954,34 +988,39 @@ consider the school’s needs in specific playing positions.</p>
 <p><strong>Format: </strong>Trials are usually not conducted, as applicants
 will be shortlisted based on the quality of their applications, including
 past results in the National School Games or other official Wushu competitions.
-Shortlisted applicants will be invited for an interview.</p>
-<p><strong>&nbsp;</strong>
+Shortlisted applicants will be invited for an interview.<strong>&nbsp;</strong>
 </p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should display a high level of potential in the sport to compete
-at the National School Games A Division competition.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should pass the interviews, where their attitude, motivation
-and resilience will be considered.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Applicants should possess the ability to cope with the academic rigour
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
 of the JC curriculum.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will factor in applicants’ past experience, achievements or awards
-in the following categories of competition: International / Regional /
-National inter-school competitions / Represented nation or selected for
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Selection will consider the school’s needs in specific categories (e.g.
-skillsets / competition routines).</p>
-<p>
-<br><strong>Contact Person:</strong>
-</p>
-<p>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharon.lim.jia.yin@vjc.edu.sg</a> I
-62402192</p>
-<p>&nbsp;</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Contact Person:</strong>
+<br>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon.lim.jia.yin@vjc.edu.sg</u></a> I
+62402192
+<br>Mr Teo Zhiye I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+64438315</p>
 </td>
 </tr>
 </tbody>
