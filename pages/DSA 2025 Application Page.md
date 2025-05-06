@@ -1045,72 +1045,60 @@ found in the descriptions below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Audition:</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; 24<sup>th</sup> July 2024 (Wednesday) 3pm –
-7pm</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; 25<sup>th</sup> July 2024 (Thursday) 4 – 7pm</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; 26<sup>th</sup> July 2024 (Friday) 3.30pm –
-7pm</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>23 July (Wednesday) 3pm – 7pm
+<br>24 July (Thursday) 3pm – 7pm
+<br>25 July (Friday) 3pm – 7pm</p>
+<p></p>
 <p><strong>Venue: </strong>TSD Studio 1</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Format:&nbsp;</strong>
-</p>
-<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants <strong>must submit a personal statement (maximum 500 words)</strong> detailing
-why he/she wants to join DEP and his/her involvement in drama related activities <strong>with supporting documents where relevant <u>by Sunday, 30th June</u></strong>.
-These supporting documents may include:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your curriculum vitae</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; portfolio of sketches, drawings,
-photos showcasing design process/ideas</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates of drama accreditation
-or evidence of participation in drama-related activities</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; links to videos of past performances</p>
-<p><strong>&nbsp;</strong>
+<br>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All applicants <strong>must submit a personal statement (maximum 500 words)</strong> detailing
+why he/she wants to join DEP and his/her involvement in drama related activities <strong>with supporting documents where relevant <u>by 30 June, Monday</u></strong>.
+These supporting documents may include:
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your curriculum vitae
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; portfolio of sketches, drawings,
+photos showcasing design process/ideas
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates of drama accreditation
+or evidence of participation in drama-related activities
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; links to videos of past performances<strong>&nbsp;</strong>
 </p>
 <p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants will then be
-notified via email and required to attend an audition where they:</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp; perform a short scene live (6-7mins in length)
-provided by</p>
-<p>the school on the day of audition,</p>
-<p>(ii)&nbsp;&nbsp;&nbsp; answer accompanying short response questions to
-the scene</p>
-<p>(iii)&nbsp; will be interviewed</p>
-<p><strong>&nbsp;</strong>
-</p>
+notified via email and required to attend an audition where they:
+<br>-&nbsp;&nbsp;&nbsp;&nbsp; perform a short scene live (6-7mins in length)
+provided by the school on the day of audition,
+<br>-&nbsp;&nbsp;&nbsp; answer accompanying short response questions to the
+scene
+<br>-&nbsp; will be interviewed</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
-</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of passion in
-theatre</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of clear potential
-in acting and/or design</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possesses the requisite traits
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of passion in
+theatre
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstration of clear potential
+in acting and/or design
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Possesses the requisite traits
 of a DEP student – confident, well spoken, adaptable and takes direction
-well</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to cope with the rigour
-of the A-Level curriculum</p>
-<p><strong>&nbsp;</strong>
+well
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to cope with the rigour
+of the A-Level curriculum<strong>&nbsp;</strong>
 </p>
+<p></p>
 <p><strong>Expectations of students selected into the programme</strong>
+<br>Students admitted through DSA Drama Elective Programme must
+<br>(1)&nbsp;&nbsp; offer H2 Theatre Studies and Drama (this is an examinable
+A-Level subject);
+<br>(2)&nbsp;&nbsp; *participate in English Drama Singapore Youth Festival
+Arts Presentation and;
+<br>(3)&nbsp;&nbsp; be involved in TSD workshops and outreach events
+<br>
 </p>
-<p>Students admitted through DSA Drama Elective Programme must</p>
-<p>(1)&nbsp;&nbsp; offer H2 Theatre Studies and Drama (this is an examinable
-A-Level subject);</p>
-<p>(2)&nbsp;&nbsp; *participate in English Drama Singapore Youth Festival
-Arts Presentation and;</p>
-<p>(3)&nbsp;&nbsp; be involved in TSD workshops and outreach events</p>
-<p>&nbsp;</p>
 <p><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.wen.zhi.cheryl@vjc.edu.sg</a> |
+<br>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.wen.zhi.cheryl@vjc.edu.sg</a> |
+64485011 (ext. 128)
+<br>Ms Low Mun Fei | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.mun.fei@vjc.edu.sg</u></a> |
 64485011 (ext. 128)</p>
-<p>Ms Michelle Lim | <a href="mailto:michelle.lim@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lim@vjc.edu.sg</a> | 64485011
-(ext. 128)</p>
 </td>
 </tr>
 <tr>
@@ -1120,53 +1108,62 @@ Arts Presentation and;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of Interview:</strong>
-</p>
-<p>6 July 2024 (Saturday): 8.30am-12.30pm</p>
-<p>17 July 2024 (Wednesday): 2.00pm-5.00pm</p>
-<p><strong>Venue: </strong>Humanities Room (E13)</p>
+<br>15 July (Tuesday): 2pm - 5pm
+<br>17 July (Thursday): 2pm - 5pm</p>
+<p></p>
+<p><strong>Venue: </strong>Victoria Junior College</p>
+<p></p>
 <p><strong>Format:</strong>
-</p>
-<p>(1) Applicant must submit the following:</p>
-<p>(a) ONE essay containing the applicant’s response to ONE of the following
+<br>(1) Applicant must submit the following:
+<br>(a) ONE essay containing the applicant’s response to ONE of the following
 prompts:</p>
 <p>Share about a book, movie, performance, or work of art, which you find
 so compelling, that you will engage with it again. Why does it captivate
 or bewilder you?</p>
-<p>Share about a place in Singapore or overseas you have visited, which made
-such a deep impression on you, that you keep thinking about it. How can
-you make it a better place?</p>
-<p>The essay must not exceed 500 words and must not be written using the
-aid of generative AI tools.</p>
-<p>(b) Portfolio consisting of a maximum of THREE writing samples showcasing
-the applicant’s ability in the Humanities subjects (e.g. English Literature,
-Geography, History, Art, Drama) <u>AND</u> English Language.</p>
+<p></p>
+<p>The essay<strong> must not</strong> exceed 500 words and <strong>must not</strong> be
+written using the aid of generative AI tools.
+<br>
+</p>
+<p>(b) Portfolio consisting of a maximum of <strong>THREE</strong> writing
+samples showcasing the applicant’s ability in the Humanities subjects (e.g.
+English Literature, Geography, History, Art, Drama) <u>AND</u> English Language.</p>
+<p></p>
 <p>The writing samples in the portfolio may be work done for school or external
-competitions and/or publications.</p>
+competitions and/or publications <strong>but must not be group work</strong>.
+If you are submitting work that is part of group work, please highlight
+the individual component.</p>
+<p></p>
 <p>(c) Supporting documents providing evidence of the applicant’s participation
 and/or achievements in Humanities-related programmes, competitions and/or
 events (e.g. Model United Nations conferences, current affairs competitions,
 creative writing programmes, school-based Humanities talent development
 programmes)</p>
+<p></p>
 <p>(2) Shortlisted applicants will attend a group interview, which includes
 a written and/or oral response to stimulus resources.</p>
+<p><strong>*Please note incomplete essay/portfolio submissions will not be entertained.</strong>
+</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
-</p>
-<p>(1) Demonstration of strong interest and aptitude in the Humanities;</p>
-<p>(2) Evidence of participation and/or achievements in Humanities-related
-programmes, competitions and/or events;</p>
-<p>(3) Ability to cope with the rigour of the A-level curriculum.</p>
+<br>(1) Demonstration of strong interest and aptitude in the Humanities;
+<br>(2) Evidence of participation and/or achievements in Humanities-related
+programmes, competitions and/or events;
+<br>(3) Ability to cope with the rigour of the A-level curriculum.</p>
+<p></p>
 <p><strong>Expectations of students selected into the programme:</strong>
-</p>
-<p>Students admitted to VJC via DSA (Humanities Programme) must</p>
-<p>(1) Enrol in the Arts course;</p>
-<p>(2) Offer H2 Literature in English at the A-level Examinations;</p>
-<p>(3) Be actively involved in the Humanities Programme in VJC.</p>
+<br>Students admitted to VJC via DSA (Humanities Programme) must
+<br>(1) Enrol in the Arts course;
+<br>(2) Offer H2 Literature in English at the A-level Examinations;
+<br>(3) Be actively involved in the Humanities Programme in VJC.</p>
+<p></p>
 <p><strong>Contact Persons:</strong>
-</p>
-<p>Ms Loh Ver-May | <a href="mailto:loh.ver-may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.ver-may@vjc.edu.sg</a> | 64485011
-(ext 128)</p>
-<p>Ms Chong Cui Ying | <a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a> | 64485011
-(ext 175)</p>
+<br>Ms Chong Cui Ying | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a> |
+64485011 (ext 175)
+<br>Ms Audrey Ngerng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngerng.xiuru.audrey@vjc.edu.sg</u></a> |
+64485011 (ext 127)
+<br>Mr Justin Ng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng.mong.rong.justin@vjc.edu.sg</u></a> |
+64485011 (ext 128)</p>
 </td>
 </tr>
 <tr>
@@ -1175,59 +1172,62 @@ programmes, competitions and/or events;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time of Interview:&nbsp;&nbsp;</strong>Shortlisted applicants
-will be given the details. Interviews are scheduled in July.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Venue: </strong>via Zoom</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p><strong>Date and Time of Computing Aptitude Test:&nbsp;</strong>
+<br>Shortlisted applicants will be be provided with more details.
+<br>11 July (Friday) 3pm - 4pm</p>
+<p><strong>Venue: </strong>L28</p>
+<p></p>
 <p><strong>Format:&nbsp;</strong>
 </p>
 <p>(1)&nbsp;&nbsp; All applicants must submit a personal statement (maximum
-500 words) detailing his/her involvement in Computing-related activities
-with relevant supporting documents.</p>
-<p>&nbsp;</p>
+500 words) describing their involvement in Computing-related activities,
+accompanied by relevant supporting documents.
+<br>
+</p>
 <p>Supporting documents may include:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certificates from competitions such
-as the National Olympiad in Informatics and hackathons.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Certifications or evidence of completed
-courses, workshops, bootcamps, and work attachments.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Examples of computing-related projects.</p>
-<p>&nbsp;</p>
-<p>(2)&nbsp;&nbsp; Shortlisted applicants are required to undergo a Computing
-Selection Test in early July which will assess the applicants’ problem-solving
-skills, numerical ability, logical reasoning, perceptual reasoning and
-programming concepts.</p>
-<p>&nbsp;</p>
-<p>(3)&nbsp;&nbsp; Shortlisted applicants will then be invited to an interview.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificates from competitions such as the National Olympiad in Informatics,
+National Cybersecurity Olympiad, National Olympiad in AI and other hackathons.</p>
+</li>
+<li>
+<p>Certifications or evidence of completed courses, workshops, bootcamps,
+or work attachments.</p>
+</li>
+<li>
+<p>Examples of Computing-related projects.&nbsp;</p>
+</li>
+</ul>
+<p></p>
+<p>(2)&nbsp;&nbsp; Shortlisted applicants will be required to complete a
+Computing Aptitude Test, which assesses problem-solving skills, numerical
+ability, logical reasoning, perceptual reasoning, and understanding of
+programming concepts. The test will not include any coding questions.</p>
+<p></p>
+<p>(3)&nbsp;&nbsp; Shortlisted applicants will then be invited for an interview.</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
-</p>
-<p>(1)&nbsp;&nbsp; Applicants should demonstrate a strong aptitude and interest
-in Computing.</p>
-<p>(2)&nbsp;&nbsp; Applicants should present evidence of involvement in Computing-related
-activities.</p>
-<p>(3)&nbsp;&nbsp; Applicants should offer H2 Computing and be able to cope
-with the rigour of the A-Level curriculum.</p>
-<p>&nbsp;</p>
+<br>(1)&nbsp;&nbsp; Applicants should demonstrate a strong aptitude for and
+interest in Computing.
+<br>(2)&nbsp;&nbsp; Applicants should provide evidence of active involvement
+in Computing-related activities.
+<br>(3)&nbsp;&nbsp;Applicants should offer H2 Computing and demonstrate the
+ability to manage the rigour of the A-Level curriculum.</p>
+<p></p>
 <p><strong>Expectations of students selected into the programme</strong>
-</p>
-<p>Students admitted through Computing DSA must</p>
-<p>(i)&nbsp;&nbsp;&nbsp;&nbsp; offer H2 Computing,</p>
-<p>(ii)&nbsp;&nbsp;&nbsp; participate and lead in computing-related events
-at VJC and beyond, and</p>
-<p>(iii)&nbsp; provide peer tutoring to selected H2 Computing students.</p>
-<p>&nbsp;</p>
+<br>Students admitted through Computing DSA must
+<br>(i)&nbsp;&nbsp;&nbsp; offer H2 Computing,
+<br>(ii)&nbsp;&nbsp;&nbsp;actively participate in and lead Computing-related
+events at VJC and beyond
+<br>(iii)&nbsp; provide peer tutoring to selected H2 Computing students.</p>
+<p></p>
 <p><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Mr. Ridzwan Suri | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ridzwan.suri@vjc.edu.sg</a> | 64485011</p>
-<p>Mrs. Yong | <a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.meichan@vjc.edu.sg</a> |
-64485011</p>
-<p>Mr. Eugene Quek | <a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a> |
-64485011</p>
-<p>&nbsp;</p>
+<br>Mr. Ridzwan Suri | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ridzwan.suri@vjc.edu.sg</u></a> |
+64485011
+<br>Mrs. Yong | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng.meichan@vjc.edu.sg</u></a> |
+64485011
+<br>Mr. Eugene Quek | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek.tze.jen.eugene@vjc.edu.sg</u></a> |
+64485011&nbsp;</p>
 </td>
 </tr>
 <tr>
