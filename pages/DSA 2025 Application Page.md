@@ -1237,51 +1237,44 @@ events at VJC and beyond
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date &amp; Time of Interview:</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>1. 17 July 2024 (Wednesday) 3.30pm – 6.30pm</p>
-<p>2. 18 July 2024 (Thursday) 3.30pm – 6.30pm</p>
-<p>&nbsp;</p>
+<br>15 July (Tuesday) 3.30pm – 6.30pm
+<br>17 July (Thursday) 3.30pm – 6.30pm</p>
+<p></p>
 <p><strong>Format:</strong>
-</p>
-<p>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicant must submit
+<br>(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants must submit
 a personal statement (maximum 500 words) detailing his/her involvement
 in STEM/research activities with relevant supporting documents.</p>
-<p>&nbsp;</p>
-<p>Supporting documents may include:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abstracts of research reports</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photos of exhibits, prototypes</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates related to courses,
+<p></p>
+<p>Supporting documents may include:
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; abstracts of research reports
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photos of exhibits, prototypes
+<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; certificates related to courses,
 workshops, or other involvement in the field of STEM/Science research</p>
-<p>&nbsp;</p>
+<p></p>
 <p>(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shortlisted applicants will
 attend an interview which includes an oral review of a research article</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Selection Criteria:</strong>
-</p>
-<p>(1) &nbsp;&nbsp;&nbsp; Demonstration of knowledge, interest and passion
-in STEM Research</p>
-<p>(2) &nbsp;&nbsp;&nbsp; Clear articulation of motivation and purpose in
-joining Research@VJC</p>
-<p>(3) &nbsp;&nbsp;&nbsp; Evidence of past experiences relevant to STEM Research</p>
-<p>(4)&nbsp;&nbsp;&nbsp;&nbsp; Ability to cope with the rigour of the A-Level
+<br>(1) &nbsp;&nbsp;&nbsp; Demonstration of knowledge, interest and passion
+in STEM Research
+<br>(2) &nbsp;&nbsp;&nbsp; Clear articulation of motivation and purpose in
+joining Research@VJC
+<br>(3) &nbsp;&nbsp;&nbsp; Evidence of past experiences relevant to STEM Research
+<br>(4)&nbsp;&nbsp;&nbsp;&nbsp; Ability to cope with the rigour of the A-Level
 curriculum</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Expectations of students selected into the programme</strong>
-</p>
-<p>Students admitted through DSA Science Research must</p>
-<p>(i) &nbsp;&nbsp;&nbsp;&nbsp; offer H3 NAV Science Research (this is an
-examinable A-Level subject);</p>
-<p>(ii) &nbsp;&nbsp;&nbsp; participate in SSEF and</p>
-<p>(iii)&nbsp;&nbsp;&nbsp; be involved in VJC Science and Technology Centre
+<br>Students admitted through DSA Science Research must
+<br>(i) &nbsp;&nbsp;&nbsp;&nbsp; offer H3 NAV Science Research (this is an
+examinable A-Level subject);
+<br>(ii) &nbsp;&nbsp;&nbsp; participate in SSEF and
+<br>(iii)&nbsp;&nbsp;&nbsp; be involved in VJC Science and Technology Centre
 events.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Contact persons</strong>:</p>
 <p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> |
-64485011</p>
-<p>Mr Eugene Quek | <a href="mailto:quek.tze.jen.eugene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">quek.tze.jen.eugene@vjc.edu.sg</a> |
-64485011</p>
+64485011
+<br>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim.cherchuan@vjc.edu.sg</u></a> |64485011</p>
 </td>
 </tr>
 </tbody>
