@@ -1115,8 +1115,7 @@ Arts Presentation and;
 <p></p>
 <p><strong>Format:</strong>
 <br>(1) Applicant must submit the following:
-<br>(a) ONE essay containing the applicant’s response to ONE of the following
-prompts:</p>
+<br>(a) ONE essay containing the applicant’s response to the following prompt:</p>
 <p>Share about a book, movie, performance, or work of art, which you find
 so compelling, that you will engage with it again. Why does it captivate
 or bewilder you?</p>
