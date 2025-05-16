@@ -564,18 +564,21 @@ Singapore Schools.</p>
 <p>First Trial - 28 May 2025 (Wednesday), 4.30pm to 6.00pm</p>
 </li>
 <li>
-<p>Second Trial - 11 July 2025 (Friday), 5.00pm to 6.30pm</p>
+<p>Second Trial* - 11 July 2025 (Friday), 5.00pm to 6.30pm</p>
 </li>
 </ul>
 <p>Boys:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>First Trial - 28 May 2025 (Wednesday), 6.00pm to 7.30pm</p>
+<p>First Trial* - 28 May 2025 (Wednesday), 6.00pm to 7.30pm</p>
 </li>
 <li>
-<p>Second Trial - 11 July 2025 (Friday), 6.30pm to 8.00pm</p>
+<p>Second Trial* - 11 July 2025 (Friday), 6.30pm to 8.00pm</p>
 </li>
 </ul>
+<p></p>
+<p><em>(*Trial dates have been updated)</em>
+</p>
 <p></p>
 <p><strong>Venue: </strong>VJC Sheltered Netball Court
 <br>
