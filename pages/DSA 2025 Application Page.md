@@ -557,25 +557,28 @@ Singapore Schools.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
-<br>Girls:</p>
+</p>
+<p>Girls:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4.30pm;</p>
+<p>First Trial - 28 May 2025 (Wednesday), 4.30pm to 6.00pm</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 5 July 2025 (Friday) 4.30pm</p>
+<p>Second Trial* - 11 July 2025 (Friday), 5.00pm to 6.30pm</p>
 </li>
 </ul>
-<p></p>
 <p>Boys:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1<sup>st</sup> trial - 17 May 6.30pm;</p>
+<p>First Trial* - 28 May 2025 (Wednesday), 6.00pm to 7.30pm</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 5 July (Friday) 6.30pm</p>
+<p>Second Trial* - 11 July 2025 (Friday), 6.30pm to 8.00pm</p>
 </li>
 </ul>
+<p></p>
+<p><em>(*Trial dates have been updated)</em>
+</p>
 <p></p>
 <p><strong>Venue: </strong>VJC Sheltered Netball Court
 <br>
