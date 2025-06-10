@@ -25,17 +25,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Non Halal Food Stall</p>
+<p>Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 April 2025</p>
+<p>18 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mixed Economy Rice / Similar Dishes Food Stall</p>
+<p>Muslim Cooked Food (Noodles and Rice)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>We are looking for a stallholder to operate a food stall in our school
+canteen.</p>
 <h4>Application Procedure</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -81,7 +83,7 @@ email OR to the School's General Office.</p>
 </p>
 </li>
 <li>
-<p>Contact Person: Mdm Koh Seow Chin / Mr Tommy Low</p>
+<p>Contact Person: Mdm Koh Seow Chin / Mr Tommy Low Boon Heng</p>
 </li>
 </ul>
 <p><strong>How to get there?</strong>
