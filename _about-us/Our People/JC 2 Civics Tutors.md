@@ -191,9 +191,7 @@ variant: tiptap
 <p>24S42</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Heng Wei Zhi Jonathan
-<br><a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng.wei.zhi.jonathan@vjc.edu.sg</a>
-<br>Mr Teo Zhiye
+<p>Mr Teo Zhiye
 <br><a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.zhiye@vjc.edu.sg</a>
 </p>
 </td>
