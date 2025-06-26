@@ -125,6 +125,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Kang</p>
+<p><a href="mailto:kang.yen.yen.jasmine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.yen.yen.jasmine@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>STEM Instructors (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
