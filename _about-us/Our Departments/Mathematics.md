@@ -24,11 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Mathematics
-<br>Ms Yang Chunxiu
-<br><a href="mailto:yang.chunxiu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang.chunxiu@vjc.edu.sg</a>
-<br>
-<br>Head of Department Information and Communication Technology &amp; Year
+<p>Head of Department Information and Communication Technology &amp; Year
 Head
 <br>Mr Russell Woo
 <br><a href="mailto:woo.yih.hau.russell@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.yih.hau.russell@vjc.edu.sg</a>
