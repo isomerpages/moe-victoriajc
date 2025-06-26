@@ -67,8 +67,9 @@ variant: tiptap
 <br>Mdm Tan Goke Hong Jasmine
 <br><a href="mailto:tan.goke.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.goke.hong@vjc.edu.sg</a> 
 <br>Mr Morgan Kanapathy
-<br><a href="mailto:morgan.kanapathy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">morgan.kanapathy@vjc.edu.sg </a>Mdm
-Norhasliza Bte Ithnin <a href="mailto:norhasliza.ithnin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhasliza.ithnin@vjc.edu.sg</a>
+<br><a href="mailto:morgan.kanapathy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">morgan.kanapathy@vjc.edu.sg</a>
+</p>
+<p>Mdm Norhasliza Bte Ithnin <a href="mailto:norhasliza.ithnin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhasliza.ithnin@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
