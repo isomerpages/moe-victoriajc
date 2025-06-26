@@ -123,26 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jasmine Kang
-<br><a href="mailto:kang.yen.yen.jasmine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.yen.yen.jasmine@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ECG Counsellor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Ng
-<br><a href="mailto:ryan.ng.chee.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ryan.ng.chee.wei@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>STEM Instructors (Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,9 +172,7 @@ variant: tiptap
 <p>Operations Support Officers (Estate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Woon Tai Tok
-<br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
-<br>Mr Edward Cheo Tay Boon
+<p>Mr Edward Cheo Tay Boon
 <br><a href="mailto:cheo.tay.boon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheo.tay.boon@vjc.edu.sg</a>
 <br>Mr Malcolm Ng
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
