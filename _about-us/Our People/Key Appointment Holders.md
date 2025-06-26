@@ -464,7 +464,7 @@ variant: tiptap
 <p>Level Head General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janice Teo
+<p>Ms Janice Teo
 <br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
