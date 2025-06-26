@@ -38,16 +38,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Lee Yun Yun
-<br><a href="mailto:LEE_Yun_Yun_Grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yun_yun_grace@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Karen Tay
 <br><a href="mailto:karen_tay@schools.gov.sg" rel="noopener nofollow" target="_blank">karen_tay@schools.gov.sg</a>
 </p>
@@ -518,16 +508,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Chunxiu
-<br><a href="mailto:yang.chunxiu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang.chunxiu@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Level Head (JC1)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -590,16 +570,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Lee Seow Wei
 <br><a href="mailto:sem.seow.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sem.seow.wei@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kok Hwa
-<br><a href="mailto:ng.kok.hwa@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.kok.hwa@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
