@@ -37,7 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Beng Soon <a href="mailto:gan.beng.soon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan.beng.soon@vjc.edu.sg</a>
+<p>Mr Gan Beng Soon</p>
+<p><a href="mailto:gan.beng.soon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan.beng.soon@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Tow Wee <a href="mailto:lim.tow.wee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.tow.wee@vjc.edu.sg</a>
+<p>Mr Lim Tow Wee</p>
+<p><a href="mailto:lim.tow.wee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.tow.wee@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
