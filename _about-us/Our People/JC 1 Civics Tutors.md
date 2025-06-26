@@ -40,8 +40,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Low Mun Fei
 <br><a href="mailto:low.mun.fei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.mun.fei@vjc.edu.sg</a>
-<br>Mdm Lee Woon Leng
-<br><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
