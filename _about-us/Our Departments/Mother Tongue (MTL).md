@@ -32,49 +32,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kok Hwa
-<br>Subject Head Mother Tongue Languages
-<br><a href="mailto:ng.kok.hwa@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.kok.hwa@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ashika Siddeeqa
 <br><a href="mailto:ashika.siddeeqa@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ashika.siddeeqa@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jiang Jing
-<br><a href="mailto:jiang.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang.jing@vjc.edu.sg</a>
+<p>Mr Gan Beng Soon <a href="mailto:gan.beng.soon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan.beng.soon@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Woon Leng
-<br><a href="mailto:lee.woonleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.woonleng@vjc.edu.sg</a>
+<p>Mr Jiang Jing
+<br><a href="mailto:jiang.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang.jing@vjc.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Tow Wee <a href="mailto:lim.tow.wee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.tow.wee@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Lin Danwei
 <br><a href="mailto:lin.danwei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin.danwei@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Marliza Bte Muhamad
 <br><a href="mailto:marliza.bte.muhamad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marliza.bte.muhamad@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Veerasamy Kasinathan
 <br><a href="mailto:k.veerasamy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k.veerasamy@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
