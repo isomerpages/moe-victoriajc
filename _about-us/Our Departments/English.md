@@ -195,7 +195,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nyimas Andreana Binti Kemas Muhamad Rodzman <a href="mailto:nyimas.andreana@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nyimas.andreana@vjc.edu.sg</a>
+<p>Ms Nyimas Andreana Binti Kemas Muhamad Rodzman</p>
+<p><a href="mailto:nyimas.andreana@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nyimas.andreana@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
