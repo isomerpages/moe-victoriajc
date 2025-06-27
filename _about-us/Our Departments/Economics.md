@@ -33,7 +33,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Matthew Chua
-<br>Lead Teacher
+<br>Lead Teacher Economics
 <br><a href="mailto:matthew.chua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthew.chua@vjc.edu.sg</a>
 </p>
 </td>
@@ -41,13 +41,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Hui Ling Mabel
-<br>Level Head
+<br>Level Head Economics
 <br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Dunlin, Frances
-<br>Senior Teacher
+<br>Senior Teacher Economics
 <br><a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>
 </p>
 </td>
