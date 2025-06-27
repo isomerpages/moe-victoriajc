@@ -68,8 +68,7 @@ variant: tiptap
 <br><a href="mailto:tan.goke.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.goke.hong@vjc.edu.sg</a> 
 <br>Mr Morgan Kanapathy
 <br><a href="mailto:morgan.kanapathy@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">morgan.kanapathy@vjc.edu.sg</a>
-</p>
-<p>Mdm Norhasliza Bte Ithnin <a href="mailto:norhasliza.ithnin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhasliza.ithnin@vjc.edu.sg</a>
+<br>Mdm Norhasliza Bte Ithnin <a href="mailto:norhasliza.ithnin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norhasliza.ithnin@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,8 +127,8 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Kang</p>
-<p><a href="mailto:kang.yen.yen.jasmine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.yen.yen.jasmine@vjc.edu.sg</a>
+<p>Ms Jasmine Kang
+<br><a href="mailto:kang.yen.yen.jasmine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.yen.yen.jasmine@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -184,8 +183,8 @@ variant: tiptap
 <p>Operations Support Officers (Estate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Edward Cheo Tay Boon
-<br><a href="mailto:cheo.tay.boon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheo.tay.boon@vjc.edu.sg</a>
+<p>Mr Andrew Woon Tai Tok
+<br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
 <br>Mr Malcolm Ng
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
