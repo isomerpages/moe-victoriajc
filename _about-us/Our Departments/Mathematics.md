@@ -25,13 +25,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Tan Wei Liang
-<br>Head of Mathematics (Covering) / Level Head
+<br>Head of Mathematics Department (Covering) / Level Head
 <br><a href="mailto:tan.wei.liang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wei.liang@vjc.edu.sg</a>
 <br>
 </p>
 <p>Mr Russell Woo
-<br>Head of Department Information and Communication Technology &amp; Year
-Head
+<br>Head of Information and Communication Technology &amp; Year Head
 <br><a href="mailto:woo.yih.hau.russell@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.yih.hau.russell@vjc.edu.sg</a>
 </p>
 </td>
@@ -39,13 +38,13 @@ Head
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jean Chong
-<br>Level Head
+<br>Level Head Mathematics
 <br><a href="mailto:tan.yenjun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yenjun@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kok Ye Hong
-<br>Senior Teacher
+<br>Senior Teacher Mathematics
 <br><a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok.ye.hong@vjc.edu.sg</a>
 </p>
 </td>
@@ -53,7 +52,7 @@ Head
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh Sook Mui
-<br>Senior Teacher
+<br>Senior Teacher Mathematics
 <br><a href="mailto:loh.sookmui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.sookmui@vjc.edu.sg</a>
 </p>
 </td>
