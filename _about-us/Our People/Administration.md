@@ -74,16 +74,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AV Technician</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Teck Huat
-<br><a href="mailto:ho.teckhuat@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho.teckhuat@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
