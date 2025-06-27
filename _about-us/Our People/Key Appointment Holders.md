@@ -191,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Character &amp; Citizenship Education (Covering)</p>
+<p>Subject Head Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms June Tan
@@ -383,7 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Economics (Covering) /
+<p>Head of Economics /
 <br>Level Head (JC2)</p>
 </td>
 <td rowspan="1" colspan="1">
