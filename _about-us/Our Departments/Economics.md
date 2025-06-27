@@ -25,7 +25,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Ms Chong Cui Ying
-<br>Head of Department Economics
+<br>Head of Economics Department / Level Head
 <br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
