@@ -24,8 +24,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Mother Tongue Languages
-<br>Mrs Lee Seow Wei
+<p>Mrs Lee Seow Wei
+<br>Head of Department Mother Tongue Languages
 <br><a href="mailto:ho.kar.hui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sem.seow.wei@vjc.edu.sg</a>
 </p>
 </td>
