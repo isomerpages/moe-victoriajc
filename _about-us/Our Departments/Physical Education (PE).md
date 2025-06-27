@@ -24,16 +24,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Physical Education
-<br>Mr Tan Yew Hwee
+<p>Mr Tan Yew Hwee
+<br>Head of Physical Education Department
 <br><a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
 <br>
-<br>Head of Student Development
 <br>Mr Seet Kok Wah
+<br>Head of Student Development
 <br><a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a>
 <br>
-<br>Year Head
 <br>Ms Evelyn Teoh
+<br>Year Head
 <br><a href="mailto:teoh.huihoon.evelyn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh.huihoon.evelyn@vjc.edu.sg</a>
 </p>
 </td>
