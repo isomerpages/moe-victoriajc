@@ -24,12 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Science
-<br>Dr Wu Jiang
+<p>Dr Wu Jiang
+<br>Head of Science Department
 <br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
 <br>
-<br>Head of Department Science
 <br>Ms Sharon Tey
+<br>Head of Science Department
 <br><a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey.li.wei.sharon@vjc.edu.sg</a>
 </p>
 </td>
