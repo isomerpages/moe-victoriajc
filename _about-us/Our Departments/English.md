@@ -24,12 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department English
-<br>Mr James Ho
+<p>Mr James Ho
+<br>Head of Department English
 <br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
 <br>
-<br>School Staff Developer
 <br>Mr Nazrul Rashidi B Mohd
+<br>School Staff Developer
 <br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
 </p>
 </td>
