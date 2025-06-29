@@ -24,12 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department English
-<br>Mr James Ho
+<p>Mr James Ho
+<br>Head of English Department
 <br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
 <br>
-<br>School Staff Developer
 <br>Mr Nazrul Rashidi B Mohd
+<br>School Staff Developer
 <br><a href="mailto:nazrul.rashidi.mohd@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazrul.rashidi.mohd@vjc.edu.sg</a>
 </p>
 </td>
@@ -183,19 +183,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sandhya Perryn Singh
-<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
+<p>Ms Nyimas Andreana
+<br><a href="mailto:nyimas.andreana@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nyimas.andreana@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Duan Rong
-<br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
+<p>Ms Sandhya Perryn Singh
+<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wong Duan Rong
+<br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

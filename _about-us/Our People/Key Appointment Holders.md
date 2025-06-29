@@ -38,16 +38,6 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Lee Yun Yun
-<br><a href="mailto:LEE_Yun_Yun_Grace@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yun_yun_grace@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mrs Karen Tay
 <br><a href="mailto:karen_tay@schools.gov.sg" rel="noopener nofollow" target="_blank">karen_tay@schools.gov.sg</a>
 </p>
@@ -201,7 +191,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Character &amp; Citizenship Education (Covering)</p>
+<p>Subject Head Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms June Tan
@@ -326,7 +316,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Arts</p>
+<p>Head of Arts Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Hui Hua
@@ -393,8 +383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Economics (Covering) /
-<br>Level Head (JC2)</p>
+<p>Head of Economics Department / Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Cui Ying
@@ -404,7 +393,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
+<p>Lead Teacher Economics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Matthew Chua
@@ -414,7 +403,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (JC1)</p>
+<p>Level Head Economics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Hui Ling Mabel
@@ -424,7 +413,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher Economics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Frances Lee
@@ -451,7 +440,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of English</p>
+<p>Head of English Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr James Ho
@@ -474,7 +463,7 @@ variant: tiptap
 <p>Level Head General Paper</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Janice Teo
+<p>Ms Janice Teo
 <br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
@@ -518,31 +507,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yang Chunxiu
-<br><a href="mailto:yang.chunxiu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang.chunxiu@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (JC1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jean Chong
-<br><a href="mailto:tan.yenjun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yenjun@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head (JC2)</p>
+<p>Head of Mathematics Department (Covering) / Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wei Liang
 <br><a href="mailto:tan.wei.liang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wei.liang@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jean Chong
+<br><a href="mailto:tan.yenjun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yenjun@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -590,16 +569,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Lee Seow Wei
 <br><a href="mailto:sem.seow.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sem.seow.wei@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Kok Hwa
-<br><a href="mailto:ng.kok.hwa@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.kok.hwa@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -669,7 +638,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head</p>
+<p>Subject Head Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Susan Toh
@@ -679,7 +648,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
+<p>Senior Teacher Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ting Siang Leng
@@ -706,7 +675,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Science</p>
+<p>Head of Science Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dr Wu Jiang
@@ -716,7 +685,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Science</p>
+<p>Head of Science Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharon Tey

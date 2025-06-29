@@ -24,17 +24,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Arts
-<br>Ms Goh Hui Hua
+<p>Ms Goh Hui Hua
+<br>Head of Arts Department
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
 <br>
-<br>Head of Department Talent Development &amp; Education and Career Guidance
 <br>Mr Ivan Toh
+<br>Head of Talent Development &amp; Education and Career Guidance
 <br><a href="mailto:ivan.toh.chun.siong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan.toh.chun.siong@vjc.edu.sg</a>
 </p>
 <p></p>
-<p>Head of Engagement &amp; Partnerships
-<br>Ms Fatma Osman
+<p>Ms Fatma Osman
+<br>Head of Engagement &amp; Partnerships
 <br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
 </p>
 </td>

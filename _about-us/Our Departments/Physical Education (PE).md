@@ -24,16 +24,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Physical Education
-<br>Mr Tan Yew Hwee
+<p>Mr Tan Yew Hwee
+<br>Head of Physical Education Department
 <br><a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
 <br>
-<br>Head of Student Development
 <br>Mr Seet Kok Wah
+<br>Head of Student Development
 <br><a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a>
 <br>
-<br>Year Head
 <br>Ms Evelyn Teoh
+<br>Year Head
 <br><a href="mailto:teoh.huihoon.evelyn@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teoh.huihoon.evelyn@vjc.edu.sg</a>
 </p>
 </td>
@@ -47,18 +47,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Eng Chai
-<br><a href="mailto:goh.engchai@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.engchai@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Heng Wei Zhi Jonathan
-<br><a href="mailto:heng.wei.zhi.jonathan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng.wei.zhi.jonathan@vjc.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>

@@ -24,8 +24,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Economics (Covering) &amp; Level Head (JC2)
-<br>Ms Chong Cui Ying
+<p>Ms Chong Cui Ying
+<br>Head of Economics Department / Level Head
 <br><a href="mailto:chong.cuiying@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong.cuiying@vjc.edu.sg</a>
 </p>
 </td>
@@ -33,21 +33,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Matthew Chua
-<br>Lead Teacher
+<br>Lead Teacher Economics
 <br><a href="mailto:matthew.chua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">matthew.chua@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head (JC1)
-<br>Ms Ang Hui Ling Mabel
+<p>Ms Ang Hui Ling Mabel
+<br>Level Head Economics
 <br><a href="mailto:ang.hui.ling.mabel@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang.hui.ling.mabel@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Dunlin, Frances
-<br>Senior Teacher
+<br>Senior Teacher Economics
 <br><a href="mailto:lee.dunlin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.dunlin@vjc.edu.sg</a>
 </p>
 </td>

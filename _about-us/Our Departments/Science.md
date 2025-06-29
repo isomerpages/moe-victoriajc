@@ -24,12 +24,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Science
-<br>Dr Wu Jiang
+<p>Dr Wu Jiang
+<br>Head of Science Department
 <br><a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a> 
 <br>
-<br>Head of Department Science
 <br>Ms Sharon Tey
+<br>Head of Science Department
 <br><a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey.li.wei.sharon@vjc.edu.sg</a>
 </p>
 </td>
@@ -56,21 +56,24 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Caleb Ho
-<br>Senior Teacher Physics
-<br><a href="mailto:ho.tianyu.basil.caleb@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho.tianyu.basil.caleb@vjc.edu.sg</a>
+<p>Ms June Tan
+<br>Subject Head Character &amp; Citizenship Education
+<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Caleb Ho
+<br>Senior Teacher Physics
+<br><a href="mailto:ho.tianyu.basil.caleb@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho.tianyu.basil.caleb@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Edwin Lim Cher Chuan
 <br>Senior Teacher Chemistry
 <br><a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.cherchuan@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -147,44 +150,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms June Tan
-<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Khaw Hwee Ju
 <br><a href="mailto:khaw.hwee.ju@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaw.hwee.ju@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kwek Eng Yeow
 <br><a href="mailto:kwek.engyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek.engyeow@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lau Wee Hua
 <br><a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Lim Siew Mee
 <br><a href="mailto:chin.siewmee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin.siewmee@vjc.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Shu'en Joanne
-<br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Maggie Mak Foon Mui
-<br><a href="mailto:mak.foon.mui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mak.foon.mui@vjc.edu.sg</a>
+<p>Ms Low Shu'en Joanne
+<br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

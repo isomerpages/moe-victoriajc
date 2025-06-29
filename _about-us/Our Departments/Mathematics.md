@@ -24,13 +24,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Head of Department Mathematics
-<br>Ms Yang Chunxiu
-<br><a href="mailto:yang.chunxiu@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang.chunxiu@vjc.edu.sg</a>
+<p>Mr Tan Wei Liang
+<br>Head of Mathematics Department (Covering) / Level Head
+<br><a href="mailto:tan.wei.liang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wei.liang@vjc.edu.sg</a>
 <br>
-<br>Head of Department Information and Communication Technology &amp; Year
-Head
-<br>Mr Russell Woo
+</p>
+<p>Mr Russell Woo
+<br>Head of Information and Communication Technology &amp; Year Head
 <br><a href="mailto:woo.yih.hau.russell@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo.yih.hau.russell@vjc.edu.sg</a>
 </p>
 </td>
@@ -38,54 +38,43 @@ Head
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Jean Chong
-<br>Level Head (JC1)
+<br>Level Head Mathematics
 <br><a href="mailto:tan.yenjun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yenjun@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Wei Liang
-<br>Level Head (JC2)
-<br><a href="mailto:tan.wei.liang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wei.liang@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Loh Sook Mui
-<br>Senior Teacher
-<br><a href="mailto:loh.sookmui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.sookmui@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Kok Ye Hong
-<br>Senior Teacher
+<br>Senior Teacher Mathematics
 <br><a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok.ye.hong@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Loh Sook Mui
+<br>Senior Teacher Mathematics
+<br><a href="mailto:loh.sookmui@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.sookmui@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Ding Yih
 <br>Subject Head Aesthetics
 <br><a href="mailto:ding.yih@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding.yih@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ridzwan Bin Suri
 <br>Subject Head Information &amp; Communication Technology
 <br><a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ridzwan.suri@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Valerie Tan Jiahui
 <br>Subject Head Education &amp; Career Guidance
 <br><a href="mailto:tan.jiahui.valerie@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.jiahui.valerie@vjc.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
