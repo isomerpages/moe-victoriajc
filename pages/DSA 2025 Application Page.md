@@ -942,7 +942,7 @@ Singapore Schools.</p>
 <p>1<sup>st</sup> trial - 31 May 2025 (Saturday) 9am;</p>
 </li>
 <li>
-<p>2<sup>nd</sup> trial - 17 July 2025 (Thursday) 5pm</p>
+<p>2<sup>nd</sup> trial - 15 July 2025 (Tuesday) 6.30pm</p>
 </li>
 </ul>
 <p></p>
