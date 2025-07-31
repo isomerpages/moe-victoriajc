@@ -23,9 +23,9 @@ hold.</p>
 <p>Most importantly, the greatest achievement of our college is the transformation
 of each and every Victorian into a confident individual ready to create
 a future with conviction, courage and compassion.</p>
-<p>Click on the respective links below to hear the stories of how different
-Victorians have exemplified our college vision of&nbsp;<em>Victoria is Something More</em>.
-For more details of students' achievements beyond these individual stories,
-check out our College Day Report!!</p>
+<p>Read the stories of Victorians from various cohorts who have exemplified
+our college vision of&nbsp;<em>Victoria is Something More</em>. For more
+details of students' achievements beyond these individual stories, check
+out our College Day <a href="https://for.edu.sg/vjcollegeday25" rel="noopener nofollow" target="_blank">Report</a>.</p>
 <p><em>Victoria is really something more </em>– <em>the school that watch’d us grow.</em>
 </p>
