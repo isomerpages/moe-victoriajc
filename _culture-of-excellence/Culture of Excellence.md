@@ -1,6 +1,6 @@
 ---
 title: Culture of Excellence
-permalink: /culture-of-excellence/permalink/
+permalink: /culture-of-excellence/culture-of-excellence/
 description: ""
 variant: markdown
 ---
