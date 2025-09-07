@@ -15,5 +15,5 @@ events – the DSTA-DSO-VJC Robotics Challenge, the A*STAR-VJC Science Fair,
 and the 2025 Amazing Eco-STEM Race. This year, an overwhelming number of
 research project entries from more than 30 schools featured in the Science
 Fair, and the STEM Festival saw more than 400 participants from primary
-and secondary schools around Singapore.</p>
+and secondary schools in total.</p>
 <p>Congratulations to everyone who took part!</p>
