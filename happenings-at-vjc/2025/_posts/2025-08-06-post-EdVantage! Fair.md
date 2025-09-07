@@ -15,5 +15,5 @@ by the Education &amp; Career Guidance (ECG) and Talent Development Committees
 to broaden students’ horizons on future study and career pathways. With
 booths by partner organisations from Institutes of Higher Learning (IHLs),
 Ministries, and Statutory Boards, as well as insightful ECG talks delivered
-by Alumni and IHL partners, Victorians had the opportunity to actively
-explore and chart their next steps with confidence.</p>
+by Victorian alumni and IHL partners, Victorians had the opportunity to
+actively explore and chart their next steps with confidence.</p>
