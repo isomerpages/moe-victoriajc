@@ -1,6 +1,6 @@
 ---
 title: Singapore Model Cabinet 2025
-permalink: /singapore-model-cabinet-2025/
+permalink: /happenings-at-vjc/2025/singapore-model-cabinet-2025/
 date: 2025-03-21
 layout: post
 description: ""

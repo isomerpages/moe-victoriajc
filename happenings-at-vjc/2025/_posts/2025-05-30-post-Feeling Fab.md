@@ -1,6 +1,6 @@
 ---
 title: Feeling Fab
-permalink: /feeling-fab/
+permalink: /happenings-at-vjc/2025/feeling-fab/
 date: 2025-05-30
 layout: post
 description: ""

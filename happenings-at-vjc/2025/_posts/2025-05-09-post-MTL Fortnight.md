@@ -1,6 +1,6 @@
 ---
 title: MTL Fortnight
-permalink: /mtl-fortnight/
+permalink: /happenings-at-vjc/2025/mtl-fortnight/
 date: 2025-05-09
 layout: post
 description: ""

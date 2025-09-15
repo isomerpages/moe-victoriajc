@@ -1,6 +1,6 @@
 ---
 title: VIA Fair @ VJC
-permalink: /via-fair-vjc/
+permalink: /happenings-at-vjc/2025/via-fair-vjc/
 date: 2025-04-05
 layout: post
 description: ""
