@@ -5,7 +5,8 @@ description: ""
 variant: markdown
 ---
 ![](/images/Culture-of-Excellence-banner-1024x365.jpg)
-Victoria Junior College (VJC) was established in 1984 and quickly became a college of distinction. The College has grown from strength to strength, nurturing Victorians who have made their mark in society, from the academic, business, and public sectors to the arts and sports arenas.  
+
+Victoria Junior College (VJC) was established in 1984 and quickly became a college of distinction. The College has grown from strength to strength, nurturing Victorians who have made their mark in society, from the academic, business, and public sectors to the arts and sport arenas.  
   
 As a Victorian, you can expect to be engaged in learning that develops your talent, character and leadership, and just as importantly, you will forge strong friendships and create memories that will last beyond your school years.
 
@@ -13,9 +14,9 @@ As a Victorian, you can expect to be engaged in learning that develops your tale
 
 #### Lead. Serve. Excel.
 
-Our College Vision, Victoria is Something More: Lead Serve, Excel stems from our college anthem and encapsulates the spirit of challenging Victorians to be better, to go above and beyond in their pursuit of excellence. 
+Our College Vision - Victoria is Something More: Lead, Serve, Excel - stems from our college anthem and encapsulates the spirit of challenging Victorians to be better, and to go above and beyond in their pursuit of excellence. 
 
-At Victoria Junior College, we aim to nurture Victorians who are committed to all-round excellence yet deeply anchored in values. Victorians will develop as individuals, and as part of the larger community, become leaders who lead with courage, serve the college and community with conviction and compassion, and excel in their areas of passion and interest.
+At Victoria Junior College, we aim to nurture Victorians who are committed to all-round excellence, yet being deeply anchored in values. Victorians will develop as individuals, and as part of the larger community, become leaders who lead with courage, serve the college and community with conviction and compassion, and excel in their areas of passion and interest.
 
 We remain steadfast in our mission to ignite the imagination of all Victorians to create the future with conviction, courage and compassion. Our values keep us rooted to what Victoria Junior College stands for and to what we hold dear - camaraderie, excellence with integrity, and conviction, courage and compassion in our thoughts and actions.
 
