@@ -27,8 +27,8 @@ sections:
   - infopic:
       title: 2024 A-Level Results
       id: infopic
-      description: Class of 2024 did us proud! Explore their achievements and their
-        unforgettable Victorian journey.
+      description: The Class of 2024 did us proud! Explore their achievements and
+        their unforgettable Victorian journey.
       button: Read about it  here
       url: /about/culture-of-excellence/student-achievements/class-of-2024
       alt: Image alt text
