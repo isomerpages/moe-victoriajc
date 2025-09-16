@@ -14,7 +14,7 @@ As a Victorian, you can expect to be engaged in learning that develops your tale
 
 #### Lead. Serve. Excel.
 
-Our College Vision - Victoria is Something More: Lead, Serve, Excel - stems from our college anthem and encapsulates the spirit of challenging Victorians to be better, and to go above and beyond in their pursuit of excellence. 
+Our College Vision           – Victoria is Something More: Lead, Serve, Excel           – stems from our college anthem and encapsulates the spirit of challenging Victorians to be better, and to go above and beyond in their pursuit of excellence.&nbsp;
 
 At Victoria Junior College, we aim to nurture Victorians who are committed to all-round excellence, yet being deeply anchored in values. Victorians will develop as individuals, and as part of the larger community, become leaders who lead with courage, serve the college and community with conviction and compassion, and excel in their areas of passion and interest.
 
@@ -41,8 +41,8 @@ And carried to the world
 Victoria’s fame and our intent  
 To keep her flag unfurled.
 
-**Lyrics by:** J A Frazer  
-**Music by:** W E Meyer
+**Lyrics by:**&nbsp;J A Frazer  
+**Music by:**&nbsp;W E Meyer
 
 ### Our Crest
 
