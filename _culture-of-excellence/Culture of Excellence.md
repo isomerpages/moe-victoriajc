@@ -18,7 +18,7 @@ Our College Vision           – Victoria is Something More: Lead, Serve, Excel 
 
 At Victoria Junior College, we aim to nurture Victorians who are committed to all-round excellence, yet being deeply anchored in values. Victorians will develop as individuals, and as part of the larger community, become leaders who lead with courage, serve the college and community with conviction and compassion, and excel in their areas of passion and interest.
 
-We remain steadfast in our mission to ignite the imagination of all Victorians to create the future with conviction, courage and compassion. Our values keep us rooted to what Victoria Junior College stands for and to what we hold dear - camaraderie, excellence with integrity, and conviction, courage and compassion in our thoughts and actions.
+We remain steadfast in our mission to ignite the imagination of all Victorians to create the future with conviction, courage and compassion. Our values keep us rooted to what Victoria Junior College stands for and to what we hold dear           – camaraderie, excellence with integrity, and conviction, courage and compassion in our thoughts and actions.
 
 ![](/images/Crest-and-Anthem-Banner-1-1024x394.jpg)
 ### The Victorian Anthem
