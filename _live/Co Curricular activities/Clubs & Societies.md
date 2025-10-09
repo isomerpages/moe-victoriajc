@@ -48,7 +48,7 @@ and help you cultivate your interests.</p>
 <td rowspan="1" colspan="1">
 <p>Malay Cultural Society
 <br>
-<br>Mathematics Society
+<br>DaTA Club
 <br>
 <br>Medical Society
 <br>
