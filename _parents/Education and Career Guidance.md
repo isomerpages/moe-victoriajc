@@ -42,6 +42,6 @@ A suggested education and career plan for your child can take the form provided 
 
 ### The Next Step Forward. Navigating the Education and Career Pathways.
 
-Browse through this [e-book](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972) which features portraits of youths who have gone through diverse education and career pathways. Our education system offers many options that cater to your child’s interests and needs, and can help them succeed in their selected path.
+Browse through this [e-book](https://www.moe.gov.sg/-/media/files/about-us/moe-corporate-brochure.pdf) which features portraits of youths who have gone through diverse education and career pathways. Our education system offers many options that cater to your child’s interests and needs, and can help them succeed in their selected path.
 
 Using these stories as springboards, you can discuss with your child his/her education and career options. Take your child’s interests, abilities and passion into consideration during the discussion!
