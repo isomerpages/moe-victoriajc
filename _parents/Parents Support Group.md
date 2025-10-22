@@ -2,12 +2,13 @@
 title: Parents Support Group
 permalink: /parents/parent-support-group-content/
 description: ""
+variant: markdown
 ---
-![](/images/2023%20Images/2022%20Parents%20PSG.jpg)
+![](/images/PSG/2025_PSG_Meeting_Aug3.jpg)
 Our students succeed when parents and school work hand in hand. It is through dedicated partnership with parents that we can create a place where our students can achieve their potential and lead a fulfilling life. We are blessed in VJC to have a wonderfully supportive Parent Support Group who work closely with the school to provide a holistic nurturing environment for our students. Join us on this meaningful journey now!
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScHfLBEll9l-IeiJ3s-ZK5KWs-d3xQypIWUO8kgK7djDMadLA/viewform">
-<img src="/images/join%20psg.png"  style="width:50%">
+<img src="/images/join%20psg.png" style="width:50%">
 </a>
 
 ### Parent Support Group Activities
