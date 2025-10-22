@@ -3,8 +3,9 @@ title: Active Citizenry
 permalink: /live-like-a-victorian/character-development-programme/active-citizenry/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
-![](/images/Active-Citizenry-banner-1024x365.jpg)
+![](/images/2025%20Photo%20Updates/2025_Yarnimal.jpg)
 The Active Citizenry programme in VJC aims to develop in our students an understanding of what it means to be a Singaporean and a global citizen. This objective is achieved through both the National Education programme and Values-in-Action (VIA) projects. Through a framework of 'Expose, Inspire and Lead', experiences are designed in a manner to enable students to progressively deepen their involvement as active citizens in their communities. Together with other co-curricular programmes, these experiences complement the development of 21st century competencies needed for Victorians to be future-ready citizens.
 
 <center> <h3>ACTIVE CITIZENRY FRAMEWORK</h3> </center>
@@ -23,7 +24,7 @@ td, th {
 
 | Citizenship Education @VJC | Service Leadership Venture | 
 | :--------: | :--------: |
-| At VJC, we aim to develop national cohesion, cultivate the instinct for survival as a nation and boost students' confidence in our nation's future through the commemoration of significant events such as Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. To cultivate a sense of belonging and emotional rootedness to Singapore, we host SG Perspectives Dialogues with Senior Civil Servants and Office Holders     | To encourage students to be active in community involvement, VJC launched the Service Leadership Venture. This programme was born out of the college’s move towards Service Leadership which focuses on how students can further enhance their leadership skills through active service to the community. </br></br>The SLV empowers and encourages students to develop class based service learning projects with different segments of the community ranging from environmental conservation, elder care, special needs, to palliative care.     | 
+| At VJC, we aim&nbsp;to develop national cohesion, cultivate the instinct for survival as a nation and boost students' confidence in our nation's future through the commemoration of significant events such as Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. To cultivate a sense of belonging and emotional rootedness to Singapore, we host SG Perspectives Dialogues with Senior Civil Servants and Office Holders     | To encourage students to be active in community involvement, VJC launched the Service Leadership Venture. This programme was born out of the college’s move towards Service Leadership which focuses on how students can further enhance their leadership skills through active service to the community. <br><br>The SLV empowers and encourages students to develop class based service learning projects with different segments of the community ranging from environmental conservation, elder care, special needs, to palliative care.     | 
 
 
 
