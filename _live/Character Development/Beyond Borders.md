@@ -3,13 +3,14 @@ title: Beyond Borders
 permalink: /live-like-a-victorian/character-development-programme/beyond-borders/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 ![](/images/Beyond-Borders-Banner-3-1024x377.jpg)
-At Victoria Junior College, we do not believe in staying within our comfort zones. During the pandemic, we ventured beyond borders virtually, and now that borders have reopened, we are thrilled to embark on more adventures with you! The Beyond Borders programme cuts across academic, co-curricular, service and leadership domains in providing Victorians with the exposure, experience and perspective to be future-ready global citizens.  Every year, students embark on learning trips to places far and wide like China, Hong Kong, Vietnam, Cambodia, Indonesia, Taiwan and Japan. These trips not only provide an opportunity for greater self-discovery and growth, but also allow Victorians to appreciate multiple cultures and perspectives, inspiring them to drive human progress and be ambassadors for harmonious co-existence. 
+At Victoria Junior College, we do not believe in staying within our comfort zones. The Beyond Borders programme cuts across academic, co-curricular, service and leadership domains in providing Victorians with the exposure, experience and perspective to be future-ready global citizens.&nbsp; Every year, students embark on learning trips to places far and wide like China, Hong Kong, Vietnam, Cambodia, Indonesia, Taiwan and Japan. These trips not only provide an opportunity for greater self-discovery and growth, but also allow Victorians to appreciate multiple cultures and perspectives, inspiring them to drive human progress and be ambassadors for harmonious co-existence.&nbsp;
 
 For those keen to serve beyond our shores, the College organises Overseas Values-in-Action (OVIA) trips to the region. Our Students’ Council and Outdoor Activities Club (ODAC) have ventured to countries such as Cambodia, Indonesia and Nepal to serve the needs of various communities. In addition, the Active Citizenry Committee also plans OVIA trips for the general student population.
 
-### Learning Journeys & Cultural Immersion
+### Learning Journeys &amp; Cultural Immersion
 
 
 <figure>
@@ -17,7 +18,7 @@ For those keen to serve beyond our shores, the College organises Overseas Values
 <img src="/images/Humanities-Scholars-Programme-2.jpg">
 
 <figcaption> <strong> Humanities Scholars Programme <br>
-Hiroshima & Kyoto, Japan </strong> </figcaption>
+Hiroshima &amp; Kyoto, Japan </strong> </figcaption>
 
 </figure>
 
@@ -26,7 +27,7 @@ Hiroshima & Kyoto, Japan </strong> </figcaption>
 <img src="/images/Suzhou-Learning-Journey-2.jpg">
 
 <figcaption> <strong> Learning Journey to China<br>
-Suzhou & Shanghai, China </strong> </figcaption>
+Suzhou &amp; Shanghai, China </strong> </figcaption>
 
 </figure>
 
@@ -36,7 +37,7 @@ Suzhou & Shanghai, China </strong> </figcaption>
 <img src="/images/Hangzhou-Learning-Journey-2.jpg">
 
 <figcaption> <strong> Learning Journey to China<br>
-Hangzhou & Shanghai, China </strong> </figcaption>
+Hangzhou &amp; Shanghai, China </strong> </figcaption>
 
 </figure>
 
