@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Our Departments
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d-arts-1024x455.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,6 +14,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/Arts.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
