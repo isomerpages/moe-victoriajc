@@ -18,7 +18,9 @@ significant distress. If in doubt, please seek help and advice from your
 child's School Counsellor or mental health professionals. If you suspect
 your child is at risk of suicide, get help immediately from SOS 1800 221
 4444.</p>
-<p>Also, find out more about&nbsp;<a href="https://www.schoolbag.edu.sg/story/watching-for-signs-of-distress-in-children/" rel="noopener noreferrer nofollow" target="_blank">how parents can talk about issues related to anxiety, distress and suicide</a>.</p>
+<p>Also, find out more about&nbsp;<a href="https://www.schoolbag.edu.sg/story/watching-for-signs-of-distress-in-children/" rel="noopener noreferrer nofollow" target="_blank">how parents can talk about issues related to anxiety, distress and suicide</a>.
+This <a href="https://www.schoolbag.edu.sg/story/stressed-distressed-or-depressed-there-is-a-difference/" rel="noopener nofollow" target="_blank">article</a> helps
+differentiate between stress, distress and depression.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
