@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JC-1-Civics-Tutors-banner-1024x365.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025_JC1.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
