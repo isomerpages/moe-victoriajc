@@ -52,9 +52,7 @@ activities, and general relaxation!</p>
 <td rowspan="1" colspan="1">
 <p>Netball
 <br>
-<br>Rockwall Climbing
-<br>
-<br>Sailing</p>
+<br>Rockwall Climbing</p>
 <p></p>
 <p>Soccer
 <br>
