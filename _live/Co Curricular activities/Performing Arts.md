@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Co Curricular activities
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Performing%20Arts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/PA_String.jpg">
 </div>
 <p>Known for its world-class performing arts groups, VJC nurtures and develops
 Victorians through music, theatre and dance. Our performing arts CCAs offer
