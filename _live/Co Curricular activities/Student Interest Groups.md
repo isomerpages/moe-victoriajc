@@ -12,6 +12,4 @@ Past SIGs initiated by our Victorians included VGastronomy, Pets and Animal Welf
 
 ![](/images/Picture2.jpg)
 
-![](/images/Picture3.jpg)
-
 ![](/images/Picture4.jpg)
