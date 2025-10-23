@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Co Curricular activities
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Sports%20and%20Games.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/Sports_XC.jpg">
 </div>
 <p>Yo VJC! What’s up? The ever –familiar cheer is heard loud and clear during
 sports season at VJC.</p>
