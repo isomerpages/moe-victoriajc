@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Images/2023%20MM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025_MM.jpg">
 </div>
 <p>Here at Victoria Junior College, we have an exceptional team of educators
 and support staff committed to providing a nurturing and holistic education

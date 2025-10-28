@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Co Curricular activities
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Clubs%20and%20Societies.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/ClubsSoc_StudioV.jpg">
 </div>
 <p>Victorians are fascinated with and curious about many aspects of our complex
 world. As such, many clubs and societies cater to the plethora of&nbsp;interests.&nbsp;Whether

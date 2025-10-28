@@ -4,8 +4,9 @@ permalink: /parents/parent-college-partnership/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20Images/2022%20Parents%20PSG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025_PSG_JLow.jpg">
 </div>
 <h3>Parent-College Partnership</h3>
 <p>It takes a community to educate a child. In VJC, we recognise the importance
@@ -14,7 +15,7 @@ for our students. We believe that working with parents is one of the best
 ways to support learning and provide the best educational experience for
 our students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources-for-Parents-2-1024x425.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/2025_Staff_Day_PSG2.jpg">
 </div>
 <h3>Resources for Parents</h3>
 <p>For the most updated VJC College calendar, check <a href="http://for.edu.sg/vjcalendar25" rel="noopener nofollow" target="_blank">here</a>.</p>

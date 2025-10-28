@@ -20,50 +20,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 January 2025</p>
+<p>26 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open House</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 January 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 1 for JC2</p>
+<p>Victorian Affair</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 January 2025</p>
+<p>29 Nov 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29-30 January 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 February 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 1 for JC1 / JCO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 March 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 1 School Vacation</p>
+<p>Start of Term 4 School Vacation</p>
 </td>
 </tr>
 </tbody>

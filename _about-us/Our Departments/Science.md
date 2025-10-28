@@ -5,8 +5,14 @@ description: ""
 third_nav_title: Our Departments
 variant: tiptap
 ---
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/d-sci-1024x455.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/Science.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
