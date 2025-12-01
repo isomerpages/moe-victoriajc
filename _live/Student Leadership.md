@@ -9,17 +9,11 @@ At VJC, we believe that a Victorian Leader is one who strives to grow in the 3 f
 
 ### The VJC Leadership Language
 
-At VJC, leadership development is opportunities can be found in the following domains:
-
-
-
 | Being a Good Influence| Serving With Excellence | Building Camaraderie|
 | -------- | -------- | -------- |
 | I am honest and respectful in my interactions with others.     |  I am committed to high-quality work and outcomes.     | I create an environment where people feel valued, recognised and empowered to contribute. 
 I take responsibility for my actions, own up to mistakes and take steps to make things right. | I anticipate the needs of others and respond to the feedback of others. | I encourage my team to have open and honest communication. | 
 I follow through on the promises and commitments that I make. | I explore innovative options to derive the best possible outcomes. | I celebrate successes and acknowledge individual and team contributions.
-
-
 
 ### Leadership Opportunities
  
