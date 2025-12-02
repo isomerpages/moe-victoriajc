@@ -5,23 +5,15 @@ description: ""
 variant: markdown
 ---
 ![](/images/2025%20Photo%20Updates/42nd_students__council.jpg)
-At VJC, we believe that leadership is about making choices to positively influence others. All Victorians have the potential to be leaders and have the capacity to bring about change for the betterment of others.&nbsp; Indeed, our Victorian leaders strive beyond personal growth and fulfilment – they work towards creating a vibrant Victorian community and keeping our Victorian spirit alive.
+At VJC, we believe that a Victorian Leader is one who strives to grow in the 3 facets of leadership - being a good influence, serving with excellence and building camaraderie. Captured in the VJC Leadership Language, the Victorian Leader is one who is armed with the knowledge, skills and competencies, and, most importantly, right values and attitudes, through the various student development programmes in the College.
 
-### Leadership Framework
+### The VJC Leadership Language
 
-At VJC, leadership development is opportunities can be found in the following domains:
-
-<img src="/images/personal%20leadership.png" style="width:50%">
-		 
-Taking ownership of your own growth and development based on keen self-knowledge and sound values.
-
-<img src="/images/community%20leadership.png" style="width:50%">
-		 
-Having the dispositions and social skills of influence to lead others and manage relationships effectively.
-
-<img src="/images/thought%20leadership.png" style="width:50%">
-		 
-Having the critical and inventive thinking to set strategic direction and break new ground in order to engender positive change.
+| Being a Good Influence| Serving With Excellence | Building Camaraderie|
+| -------- | -------- | -------- |
+| I am honest and respectful in my interactions with others.     |  I am committed to high-quality work and outcomes.     | I create an environment where people feel valued, recognised and empowered to contribute. 
+I take responsibility for my actions, own up to mistakes and take steps to make things right. | I anticipate the needs of others and respond to the feedback of others. | I encourage my team to have open and honest communication. | 
+I follow through on the promises and commitments that I make. | I explore innovative options to derive the best possible outcomes. | I celebrate successes and acknowledge individual and team contributions.
 
 ### Leadership Opportunities
  
