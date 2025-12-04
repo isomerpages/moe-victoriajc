@@ -24,39 +24,35 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 <td>Mr Tan Choon Seng</td>
 <td>Treasurer</td>
 </tr>
-<tr bgcolor="#CDCDCD">
-<td bgcolor="#E1E1E1">MG David Neo</td>
+<tr>
+<td bgcolor="#E1E1E1">Mr Kelvin Wong</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
-<tr>
-<td bgcolor="#CDCDCD">Mr Kelvin Wong</td>
-<td bgcolor="#CDCDCD">Member</td>
-</tr>
-<tr bgcolor="#E1E1E1">
+<tr bgcolor="#CDCDCD">
 <td>Mr Lim Han Feng</td>
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#CDCDCD">Mr Lim Siang Chin</td>
-<td bgcolor="#CDCDCD">Member</td>
+<td bgcolor="#E1E1E1">Mr Lim Siang Chin</td>
+<td bgcolor="#E1E1E1">Member</td>
 </tr>
-<tr bgcolor="#E1E1E1">
+<tr bgcolor="#CDCDCD">
 <td>Mr Tan Pei-San</td>
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#CDCDCD">Miss Gwenda Fong</td>
-<td bgcolor="#CDCDCD">Member</td>
+<td bgcolor="#E1E1E1">Miss Gwenda Fong</td>
+<td bgcolor="#E1E1E1">Member</td>
 </tr>
-<tr bgcolor="#E1E1E1">
+<tr bgcolor="#CDCDCD">
 <td>Mr Tang Shiuh Huei</td>
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#CDCDCD">Mr Low Chun Meng</td>
-<td bgcolor="#CDCDCD">Secretary, Principal/Victoria School</td>
+<td bgcolor="#E1E1E1">Mr Low Chun Meng</td>
+<td bgcolor="#E1E1E1">Secretary, Principal/Victoria School</td>
 </tr>
-<tr bgcolor="#E1E1E1">
+<tr bgcolor="#CDCDCD">
 <td>Mr Low Swee Heng Jeffrey</td>
 <td>Secretary, Principal/Victoria Junior College</td>
 </tr>
