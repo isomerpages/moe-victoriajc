@@ -1,4 +1,5 @@
 collections:
   the-victorian-seal:
     output: true
-    order: []
+    order:
+      - The Victorian Seal.md
