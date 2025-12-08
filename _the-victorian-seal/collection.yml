@@ -2,4 +2,5 @@ collections:
   the-victorian-seal:
     output: true
     order:
+      - Domains/.keep
       - The Victorian Seal.md
