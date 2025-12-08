@@ -2,9 +2,9 @@ collections:
   the-victorian-seal:
     output: true
     order:
+      - The Victorian Seal.md
       - Domains/.keep
       - Domains/Service at the Heart.md
       - Domains/Excellence in Co Curricular Domains.md
       - Domains/Academic Enrichment & Achievement.md
       - Domains/Leadership Impact & Influence.md
-      - The Victorian Seal.md
