@@ -2,5 +2,6 @@ collections:
   the-victorian-seal:
     output: true
     order:
+      - Domains/Example TitleService at the Heart.md
       - Domains/.keep
       - The Victorian Seal.md
