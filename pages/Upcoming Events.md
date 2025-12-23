@@ -34,6 +34,14 @@ variant: tiptap
 <p>Start of Term 1</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of JC Orientation</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
