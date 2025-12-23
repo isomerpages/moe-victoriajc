@@ -11,9 +11,9 @@ sections:
   - hero:
       background: /images/Main banner 2023/2026VJCOHBanner_1895x765_1280x450_1080x450.jpg
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: 2026 Open House
+          description: Join Us!
+          url: /2026-openhouse/
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
