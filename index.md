@@ -11,15 +11,18 @@ sections:
   - hero:
       background: /images/Main banner 2023/2026VJCOHBanner_1895x765_1280x450_1080x450.jpg
       key_highlights:
-        - title: Happenings at VJC
-          description: Featured News
-          url: /happenings-at-vjc/
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
         - title: Upcoming Events
           description: Calendar Of Events
           url: /upcoming-events/
+        - title: Happenings at VJC
+          description: Featured News
+          url: /happenings-at-vjc/
       variant: center
   - infopic:
       title: 2024 A-Level Results
