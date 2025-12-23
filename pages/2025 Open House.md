@@ -5,29 +5,27 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025VJCOHBanner_Web.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Main banner 2023/2026VJCOHBanner_1895x765_1280x450_1080x450.jpg">
 </div>
-<p>We can't wait to welcome you on <strong>11 January 2025</strong>!</p>
+<p>We can't wait to welcome you on <strong>10 January 2026</strong>!</p>
 <p>Here's a sneak peek of what you can expect 👀</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>👨🏻‍🏫 Principal's Sharing: 10 am and 11.30 am</p>
+<p>👨🏻‍🏫 Principal's Sharing: 10.30</p>
 </li>
 <li>
-<p>🥁 Live performances: 9.30 am and 11 am</p>
+<p>🥁 CCA Showcase: 10 am and 11.30 am</p>
 </li>
 <li>
-<p>🚪 Escape Room @ LVA 🤓</p>
+<p>👩🏻👦🏾 Students' Sharing @ Living Room: 11.15am 🤓</p>
 </li>
 <li>
-<p>🪩 Mass Dances 👯‍♀️</p>
+<p>🪩 Mass Dances and Live Performances 👯‍♀️</p>
 </li>
 </ul>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prospectus_Image.png">
-</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>All fired up? Find out how to get to VJC! 🚴🏼🚶🏻‍♀️🚍🚇🚕</summary>
@@ -36,7 +34,8 @@ description: ""
 <p>Get directions <a href="https://www.google.com/maps?client=safari&amp;rls=en&amp;oe=UTF-8&amp;um=1&amp;ie=UTF-8&amp;fb=1&amp;gl=sg&amp;sa=X&amp;geocode=KRf9PUyfItoxMbkrwOADGbRE&amp;daddr=20+Marine+Vista,+Singapore+449035" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p></p>
-<p>🚇 Marine Terrace (TE27), Exit 6.</p>
+<p>🚇 Marine Terrace (TE27), Exit 6</p>
+<p></p>
 <p>🚍 13, 16, 31, 36, 43, 47, 48, 55, 196, 197</p>
 <p></p>
 <p>🚘 Parking is available at:</p>
@@ -65,7 +64,3 @@ get to VJC</p>
 <p></p>
 <p>Can't wait for Open House? Browse the site and take a peek into life as
 a Victorian, and imagine your future with us!</p>
-<div class="iframe-wrapper">
-<iframe height="380" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7aIX91RDM_0?&amp;autoplay=1 si=IRMnO4zRnqaKL7qK"></iframe>
-</div>
-<p></p>
