@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Page1.jpg
+      background: /images/Main banner 2023/2026VJCOHBanner_1895x765_1280x450_1080x450.jpg
       key_highlights:
         - title: Happenings at VJC
           description: Featured News
