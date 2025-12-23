@@ -19,7 +19,7 @@ description: ""
 <p>🥁 CCA Showcase: 10 am and 11.30 am</p>
 </li>
 <li>
-<p>👩🏻👦🏾 Students' Sharing @ Living Room: 11.15am 🤓</p>
+<p>👩🏻👦🏾 Students' Sharing @ Living Room: 11.15 am 🤓</p>
 </li>
 <li>
 <p>🪩 Mass Dances and Live Performances 👯‍♀️</p>
