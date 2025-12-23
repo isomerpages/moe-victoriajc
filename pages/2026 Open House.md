@@ -13,7 +13,7 @@ description: ""
 <p>Here's a sneak peek of what you can expect 👀</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>👨🏻‍🏫 Principal's Sharing: 10.30</p>
+<p>👨🏻‍🏫 Principal's Sharing: 10.30 am</p>
 </li>
 <li>
 <p>🥁 CCA Showcase: 10 am and 11.30 am</p>
