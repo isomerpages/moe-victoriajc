@@ -103,8 +103,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Tan Siew Hwee June
 <br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
-<br>Mr Kelvin Koh
-<br><a href="mailto:kelvin.koh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.koh@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -263,9 +261,7 @@ variant: tiptap
 <p>25S53</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jayesh Kumar Jasvantlal
-<br><a href="mailto:jayeshkumar.jasvantlal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayeshkumar.jasvantlal@vjc.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
