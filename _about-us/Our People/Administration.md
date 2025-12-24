@@ -115,11 +115,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Education and Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Kang
-<br><a href="mailto:kang.yen.yen.jasmine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kang.yen.yen.jasmine@vjc.edu.sg</a>
+<p>Ms Gong Hsien-Ying Rachel
+<br><a href="mailto:rachel.gong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel.gong@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -160,8 +160,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Aslinda binte Salom
 <br><a href="mailto:aslinda.bintesalom@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aslinda.bintesalom@vjc.edu.sg</a> 
-<br>Mdm Habsah Binte Aripin
-<br><a href="mailto:habsah.bintearipin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">habsah.bintearipin@vjc.edu.sg</a> 
 <br>Mdm Rahmah Bte Ahmad
 <br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmah.bte.ahmad@vjc.edu.sg</a> 
 <br>Mdm Rohani Binte Sulaimi
@@ -180,16 +178,6 @@ variant: tiptap
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
 <br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Receptionist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kok Poh Chun
-<br><a href="mailto:kok.poh.chun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kok.poh.chun@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
