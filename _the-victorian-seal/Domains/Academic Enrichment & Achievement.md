@@ -15,7 +15,7 @@ to have a zest for knowledge. They stretch their thinking, embrace academic
 rigour, and become critical, adaptive, creative thinkers ready to tackle
 real-world problems.</p>
 <blockquote>
-<p><strong><em>At VJC, you nurture curiosity, think critically and adaptively, and learn to learn – for life.</em></strong>
+<p><em>At VJC, you nurture curiosity, think critically and adaptively, and learn to learn – for life.</em>
 </p>
 </blockquote>
 <p></p>
