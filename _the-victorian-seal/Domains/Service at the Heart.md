@@ -17,7 +17,7 @@ and a deeper sense of social responsibility. They do not just serve, they
 become changemakers, inspiring others and leading communities toward positive
 transformation.</p>
 <blockquote>
-<p><strong><em>Use your talents to serve causes that matter and create change that lasts.</em></strong>
+<p><em>Use your talents to serve causes that matter and create change that lasts.</em>
 </p>
 </blockquote>
 <p></p>
