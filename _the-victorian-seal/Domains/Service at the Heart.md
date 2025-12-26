@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Domains
 ---
-<p></p>
+<h3><strong>Expose. Inspire. Lead.</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/Service.jpg">
 </div>
@@ -16,6 +16,8 @@ to sustain impact.</p>
 and a deeper sense of social responsibility. They do not just serve, they
 become changemakers, inspiring others and leading communities toward positive
 transformation.</p>
-<p><strong><em>Expose. Inspire. Lead. Use your talents to serve causes that matter and create change that lasts.</em></strong>
+<blockquote>
+<p><strong><em>Use your talents to serve causes that matter and create change that lasts.</em></strong>
 </p>
+</blockquote>
 <p></p>
