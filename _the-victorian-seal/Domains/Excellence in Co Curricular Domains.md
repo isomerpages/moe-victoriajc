@@ -17,7 +17,7 @@ world.</p>
 <p>We nurture well-rounded individuals who are ready to adapt, contribute,
 and grow.</p>
 <blockquote>
-<p><strong><em>At VJC, you find your passion, shape your purpose and learn for life.</em></strong>
+<p><em>At VJC, you find your passion, shape your purpose and learn for life.</em>
 </p>
 </blockquote>
 <p></p>
