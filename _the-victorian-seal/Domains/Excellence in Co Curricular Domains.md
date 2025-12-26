@@ -6,9 +6,6 @@ description: ""
 third_nav_title: Domains
 ---
 <h3><strong>Learning for Life</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/CCA.jpg">
-</div>
 <p>At VJC, learning comes alive as we prepare students for life. We challenge
 every student to embrace life beyond the classroom. Through CCAs and other
 co-curricular platforms, Victorians learn communication, collaboration,
