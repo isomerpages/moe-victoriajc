@@ -16,7 +16,7 @@ vision and becoming role models grounded in service and excellence.</p>
 action. This is leadership that uplifts, unites, and rallies Victorians
 towards a shared vision.</p>
 <blockquote>
-<p>&nbsp;<em>Be a good influence, build camaraderie, lead and serve with excellence.</em>
+<p><em>Be a good influence, build camaraderie, lead and serve with excellence.</em>
 </p>
 </blockquote>
 <p></p>
