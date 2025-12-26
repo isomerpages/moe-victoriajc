@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Domains
 ---
-<h4><strong>Learning for Life</strong></h4>
+<h3><strong>Learning for Life</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/CCA.jpg">
 </div>
@@ -16,5 +16,8 @@ discipline, and creativity - qualities vital for thriving in a complex
 world.</p>
 <p>We nurture well-rounded individuals who are ready to adapt, contribute,
 and grow.</p>
+<blockquote>
 <p><strong><em>At VJC, you find your passion, shape your purpose and learn for life.</em></strong>
 </p>
+</blockquote>
+<p></p>
