@@ -144,13 +144,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Julia Eng Lee Huang
-<br><a href="mailto:julia.eng.lee.huang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julia.eng.lee.huang@vjc.edu.sg</a>
+<p>Mr Lim Kai Ming</p>
+<p><a href="mailto:lim.kai.ming@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.kai.ming@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Julius Chan
-<br><a href="mailto:chan.sooheong.julius@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.sooheong.julius@vjc.edu.sg</a>
+<p>Ms Julia Eng Lee Huang
+<br><a href="mailto:julia.eng.lee.huang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julia.eng.lee.huang@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
