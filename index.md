@@ -18,7 +18,7 @@ sections:
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
         - title: Upcoming Events
-          description: Calendar Of Events
+          description: Calendar of Events
           url: /upcoming-events/
         - title: Happenings at VJC
           description: Featured News
