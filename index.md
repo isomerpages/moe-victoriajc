@@ -24,13 +24,6 @@ sections:
           description: Featured News
           url: /happenings-at-vjc/
       variant: center
-  - infobar:
-      title: The Victorian SEAL
-      subtitle: Be Outstanding
-      id: infobar
-      description: Graduate with the Victorian SEAL and be ready to shape the world.
-      url: /the-victorian-seal/
-      button: Find out more
   - infopic:
       title: The Victorian SEAL
       subtitle: Be Outstanding
