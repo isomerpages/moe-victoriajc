@@ -9,5 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025_JC1.jpg">
 </div>
-<h3>We’re working on this page and will be updating it soon. Thank you for your patience.</h3>
+<p><em>JC1 Civics Tutor contact list will be updated after 2026 JC Orientation.</em>
+</p>
 <p></p>
