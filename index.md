@@ -24,6 +24,12 @@ sections:
           description: Featured News
           url: /happenings-at-vjc/
       variant: center
+  - infobar:
+      title: The Victorian SEAL
+      subtitle: Be Outstanding
+      id: infobar
+      description: Infobar description
+      button: Button Text
   - infopic:
       title: 2024 A-Level Results
       id: infopic
