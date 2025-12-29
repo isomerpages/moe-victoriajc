@@ -32,6 +32,15 @@ sections:
       url: /the-victorian-seal/
       button: Find out more
   - infopic:
+      title: The Victorian SEAL
+      subtitle: Be Outstanding
+      id: infopic
+      description: Graduate with the Victorian SEAL and be ready to shape the world.
+      button: Button Text
+      url: /the-victorian-seal/
+      image: /images/2025 Photo Updates/Group_Photo_with_wax_seal.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 A-Level Results
       id: infopic
       description: The Class of 2024 did us proud! Explore their achievements and
