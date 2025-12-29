@@ -81,6 +81,16 @@ to adulthood.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sheryl Ang Si Ling</p>
+<p><a href="mailto:ang_si_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ling@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Vice-Principal (Administration)</p>
 </td>
 <td rowspan="1" colspan="1">
