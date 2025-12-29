@@ -11,7 +11,7 @@ third_nav_title: Domains
 </div>
 <blockquote>
 <p></p>
-<p><em>Use your talents to serve causes that matter and create change that lasts.</em>
+<p><em>Victorians use their talents to serve causes that matter and create change that lasts.</em>
 </p>
 </blockquote>
 <p>Service is at the heart of a Victorian education. We believe that growth
