@@ -9,13 +9,15 @@ third_nav_title: Domains
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/Academic.jpg">
 </div>
+<blockquote>
+<p></p>
+<p><em>At VJC, you nurture curiosity, think critically and adaptively, and learn to learn – for life.</em>
+</p>
+</blockquote>
 <p>Academic success at VJC goes beyond grades.</p>
 <p>We nurture a "learning to learn" mindset where Victorians are encouraged
 to have a zest for knowledge. They stretch their thinking, embrace academic
 rigour, and become critical, adaptive, creative thinkers ready to tackle
 real-world problems.</p>
-<blockquote>
-<p><em>At VJC, you nurture curiosity, think critically and adaptively, and learn to learn – for life.</em>
-</p>
-</blockquote>
+<p>Find out more about how Victorians <a href="https://www.victoriajc.moe.edu.sg/learn-like-a-victorian/" rel="noopener nofollow" target="_blank">Learn</a>.</p>
 <p></p>
