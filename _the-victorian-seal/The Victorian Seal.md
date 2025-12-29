@@ -4,8 +4,9 @@ permalink: /the-victorian-seal/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/Victorian_SEAL.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Group_Photo_with_wax_seal.jpg">
 </div>
 <p>The Victorian SEAL is our commitment that every Victorian is holistically
 developed, grounded in strong core values and ready for the challenges
@@ -21,6 +22,6 @@ with peers to encourage and cheer them on too.<em> </em><strong><em>#vgotyourbac
 </p>
 <p>Through SEAL, every Victorian is empowered to choose their own “Outstanding”,
 defining what excellence means to them and growing into their fullest potential.
-They graduate with the Victorian SEAL, as Victorians who are not just ready
-for the world, but ready to <em>shape </em>it.</p>
+With the Victorian SEAL, Victorians are not just ready for the world, but
+ready to <em>shape </em>it.</p>
 <p></p>
