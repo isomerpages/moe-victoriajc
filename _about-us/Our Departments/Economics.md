@@ -139,15 +139,27 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Farzanna Binte Sham Shudin
-<br><a href="mailto:farzanna.sham@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farzanna.sham@vjc.edu.sg</a>
+<p>Mr Donovan Low</p>
+<p><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nur Farzanna Binte Sham Shudin
+<br><a href="mailto:farzanna.sham@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farzanna.sham@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Suhana Subhan
 <br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Yuanxin</p>
+<p><a href="mailto:chen.yuanxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.yuanxin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
