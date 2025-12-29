@@ -162,16 +162,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Talent Development &amp; Education and Career Guidance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ivan Toh
-<br><a href="mailto:ivan.toh.chun.siong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan.toh.chun.siong@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Head of Engagement &amp; Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,11 +441,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of English Department</p>
+<p>Head of English Department (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr James Ho
-<br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a>
+<p>Ms Janice Teo
+<br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -466,16 +456,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Teo Gene En
 <br><a href="mailto:teo.geneen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.geneen@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Level Head General Paper</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Janice Teo
-<br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice.teo@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -518,7 +498,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Mathematics Department (Covering) / Level Head</p>
+<p>Head of Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wei Liang
