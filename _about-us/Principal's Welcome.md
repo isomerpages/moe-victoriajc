@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sub%20Page%20Banners%202023/Principal's%20Message.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025_Group_DSC03284_LR.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
