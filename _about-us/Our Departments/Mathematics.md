@@ -31,7 +31,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Tan Wei Liang
-<br>Head of Mathematics Department (Covering) / Level Head
+<br>Head of Mathematics Department / Level Head
 <br><a href="mailto:tan.wei.liang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.wei.liang@vjc.edu.sg</a>
 <br>
 </p>
@@ -153,6 +153,16 @@ variant: tiptap
 <p>Mr Teo Yik Tee
 <br><a href="mailto:teo.yiktee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.yiktee@vjc.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jocelyn Teo Wan Lin</p>
+<p><a href="mailto:teo.wan.lin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.wan.lin@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
