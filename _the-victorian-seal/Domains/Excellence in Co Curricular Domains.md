@@ -11,7 +11,7 @@ third_nav_title: Domains
 </div>
 <blockquote>
 <p></p>
-<p><em>At VJC, you find your passion, shape your purpose and learn for life.</em>
+<p><em>Find your passion, shape your purpose and learn for life.</em>
 </p>
 </blockquote>
 <p>At VJC, learning comes alive as we prepare students for life. We challenge
