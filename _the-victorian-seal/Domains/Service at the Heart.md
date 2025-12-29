@@ -9,6 +9,11 @@ third_nav_title: Domains
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/Service.jpg">
 </div>
+<blockquote>
+<p></p>
+<p><em>Use your talents to serve causes that matter and create change that lasts.</em>
+</p>
+</blockquote>
 <p>Service is at the heart of a Victorian education. We believe that growth
 begins with exposure to real needs, inspiration to act, and the leadership
 to sustain impact.</p>
@@ -16,8 +21,6 @@ to sustain impact.</p>
 and a deeper sense of social responsibility. They do not just serve, they
 become changemakers, inspiring others and leading communities toward positive
 transformation.</p>
-<blockquote>
-<p><em>Use your talents to serve causes that matter and create change that lasts.</em>
-</p>
-</blockquote>
+<p>Read more about the <a href="https://www.victoriajc.moe.edu.sg/live-like-a-victorian/character-development-programme/active-citizenry/" rel="noopener nofollow" target="_blank">Active Citizenry</a> programme
+at VJC.</p>
 <p></p>
