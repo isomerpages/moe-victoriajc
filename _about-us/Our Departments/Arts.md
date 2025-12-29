@@ -27,10 +27,6 @@ variant: tiptap
 <p>Ms Goh Hui Hua
 <br>Head of Arts Department
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
-<br>
-<br>Mr Ivan Toh
-<br>Head of Talent Development &amp; Education and Career Guidance
-<br><a href="mailto:ivan.toh.chun.siong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan.toh.chun.siong@vjc.edu.sg</a>
 </p>
 <p></p>
 <p>Ms Fatma Osman
@@ -80,8 +76,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jia En
-<br><a href="mailto:lee.jia.en@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.jia.en@vjc.edu.sg</a>
+<p>Mr Shaun Lim</p>
+<p><a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaun.lim.tyan.gin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
