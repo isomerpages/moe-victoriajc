@@ -12,7 +12,7 @@ a foundation of excellence, refined by decades of experience in guiding
 students through the rigour of the A-Level examinations. However, we believe
 that education must go beyond grades; true learning should ignite understanding,
 fuel curiosity, and empower students to truly master their subjects.</p>
-<p>At VJC, we empower you to delve deeper into your chosen fields and explore
+<p>At VJC, we encourage you to delve deeper into your chosen fields and explore
 real-world applications of what you study. Our curriculum is designed to
 cultivate critical thinking and a spirit of inquiry, transforming lessons
 into opportunities for meaningful discovery.</p>
