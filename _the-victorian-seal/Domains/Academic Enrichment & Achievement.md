@@ -19,5 +19,6 @@ third_nav_title: Domains
 to have a zest for knowledge. They stretch their thinking, embrace academic
 rigour, and become critical, adaptive, creative thinkers ready to tackle
 real-world problems.</p>
-<p>Find out more about how Victorians <a href="https://www.victoriajc.moe.edu.sg/learn-like-a-victorian/" rel="noopener nofollow" target="_blank">Learn</a>.</p>
+<p>Find out more about how Victorians <a href="https://www.victoriajc.moe.edu.sg/learn-like-a-victorian/" rel="noopener nofollow" target="_blank">Learn</a> and
+<a href="https://www.victoriajc.moe.edu.sg/level-up/talent-development-programme/" rel="noopener nofollow" target="_blank">Level Up</a>.</p>
 <p></p>
