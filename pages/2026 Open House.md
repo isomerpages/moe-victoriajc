@@ -22,6 +22,9 @@ description: ""
 <p>👩🏻👦🏾 Students' Sharing @ Living Room: 11.15 am 🤓</p>
 </li>
 <li>
+<p>👩🏻‍💻👨🏽‍🏫 Admin and Subject Booths @ Hall 🏫</p>
+</li>
+<li>
 <p>🪩 Mass Dances and Live Performances 👯‍♀️</p>
 </li>
 </ul>
@@ -63,4 +66,4 @@ get to VJC</p>
 </div>
 <p></p>
 <p>Can't wait for Open House? Browse the site and take a peek into life as
-a Victorian, and imagine your future with us!</p>
+a Victorian, and imagine your future with us! ✨</p>
