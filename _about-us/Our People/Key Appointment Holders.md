@@ -498,7 +498,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Mathematics Department</p>
+<p>Head of Mathematics Department / Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wei Liang
