@@ -28,7 +28,9 @@ sections:
       title: The Victorian SEAL
       subtitle: Be Outstanding
       id: infobar
-      description: Infobar description
+      description: Graduate with the Victorian SEAL and be ready to shape the world.
+      url: /the-victorian-seal/
+      button: Find out more
   - infopic:
       title: 2024 A-Level Results
       id: infopic
