@@ -238,6 +238,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wang Yiming
+<br><a href="mailto:wang.yiming@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang.yiming@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
