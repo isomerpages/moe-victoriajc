@@ -327,6 +327,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Head of Arts Department (Covering, Sem 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fatma Osman
+<br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Subject Head Geography</p>
 </td>
 <td rowspan="1" colspan="1">
