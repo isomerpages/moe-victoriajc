@@ -186,8 +186,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lye Jee Lee</p>
-<p><a href="mailto:lye.jee.lee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye.jee.lee@vjc.edu.sg</a>
+<p>Ms Lye Jee Lee
+<br><a href="mailto:lye.jee.lee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye.jee.lee@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -210,8 +210,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Charlene Teh</p>
-<p><a href="mailto:teh.kai.ling.charlene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh.kai.ling.charlene@vjc.edu.sg</a>
+<p>Ms Charlene Teh
+<br><a href="mailto:teh.kai.ling.charlene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh.kai.ling.charlene@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
