@@ -20,10 +20,7 @@ links:
   - title: Level Up
     collection: level-up
   - title: Parents
-    url: /parents/parent-college-partnership/
-    sublinks:
-      - title: Parent Support Group
-        url: /parents/parent-support-group-content/
+    collection: parents
   - title: Alumni
     url: /alumni/
     sublinks:
@@ -35,5 +32,3 @@ links:
         url: /alumni/passing-the-torch-content/
       - title: Alumni Feature
         url: /alumni/alumni-feature/
-  - title: Contact Us
-    url: /contact-us
