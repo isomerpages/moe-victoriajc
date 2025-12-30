@@ -43,20 +43,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Beng Soon
-<br><a href="mailto:gan.beng.soon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan.beng.soon@vjc.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jiang Jing
 <br><a href="mailto:jiang.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang.jing@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Tow Wee
-<br><a href="mailto:lim.tow.wee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.tow.wee@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
