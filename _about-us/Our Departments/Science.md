@@ -144,8 +144,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kai Ming</p>
-<p><a href="mailto:lim.kai.ming@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.kai.ming@vjc.edu.sg</a>
+<p>Mr Lim Kai Ming
+<br><a href="mailto:lim.kai.ming@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.kai.ming@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
