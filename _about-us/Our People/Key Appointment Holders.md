@@ -323,14 +323,7 @@ variant: tiptap
 <p>Ms Goh Hui Hua
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Arts Department (Covering, Sem 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Fatma Osman
+<p>Ms Fatma Osman (Covering, Sem 1)
 <br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
 </p>
 </td>
