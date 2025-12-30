@@ -67,8 +67,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms See Hui Chen</p>
-<p><a href="mailto:see.hui.chen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see.hui.chen@vjc.edu.sg</a>
+<p>Ms See Hui Chen
+<br><a href="mailto:see.hui.chen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see.hui.chen@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
