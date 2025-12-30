@@ -73,8 +73,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Shaun Lim</p>
-<p><a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaun.lim.tyan.gin@vjc.edu.sg</a>
+<p>Mr Shaun Lim
+<br><a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaun.lim.tyan.gin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
