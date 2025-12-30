@@ -12,7 +12,7 @@ description: ""
 developed, grounded in strong core values and ready for the challenges
 of the future. It is a frame that places our College Values and the Emerging
 21st Century Competencies at the centre of the Victorian experience.</p>
-<p></p>
+<h4>The Victorian SEAL</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025SEAL__Transparent_.png">
 </div>
