@@ -198,7 +198,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siraj Ansari Mohd Shariff
+<p>Mr Siraj Ansari Mohamed Shariff
 <br><a href="mailto:siraj.sahib@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siraj.sahib@vjc.edu.sg</a>
 </p>
 </td>
