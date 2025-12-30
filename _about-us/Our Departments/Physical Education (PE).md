@@ -57,8 +57,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Hoo</p>
-<p><a href="mailto:hoo.kang.sean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo.kang.sean@vjc.edu.sg</a>
+<p>Mr Sean Hoo
+<br><a href="mailto:hoo.kang.sean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo.kang.sean@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
