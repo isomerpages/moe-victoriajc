@@ -32,7 +32,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Janice Teo Siok Kuan
 <br>Head of English Department (Covering) / Level Head
-<br><a href="mailto:james.ho@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james.ho@vjc.edu.sg</a> 
+<br><a href="mailto:janice.teo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>janice.teo@vjc.edu.sg</u></a>
 <br>
 <br>Mr Nazrul Rashidi B Mohd
 <br>School Staff Developer
@@ -198,19 +198,31 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Siraj Ansari Mohd Shariff</p>
+<p>Mr Siraj Ansari Mohd Shariff
+<br><a href="mailto:siraj.sahib@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siraj.sahib@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Jun Ming
+<br><a href="mailto:tan.jun.ming@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.jun.ming@vjc.edu.sg</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Ms Charlene Teh</p>
 <p><a href="mailto:teh.kai.ling.charlene@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh.kai.ling.charlene@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Duan Rong
 <br><a href="mailto:wong.duan.rong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong.duan.rong@vjc.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
