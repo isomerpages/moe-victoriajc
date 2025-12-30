@@ -2,7 +2,7 @@ collections:
   the-victorian-seal:
     output: true
     order:
-      - The Victorian Seal.md
+      - The Victorian SEAL.md
       - Domains/.keep
       - Domains/Service at the Heart.md
       - Domains/Excellence in Co Curricular Domains.md
