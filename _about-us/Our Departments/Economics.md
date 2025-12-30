@@ -86,8 +86,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Yuanxin</p>
-<p><a href="mailto:chen.yuanxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.yuanxin@vjc.edu.sg</a>
+<p>Mr Chen Yuanxin
+<br><a href="mailto:chen.yuanxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.yuanxin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -134,8 +134,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Donovan Low</p>
-<p><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
+<p>Mr Donovan Low
+<br><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
