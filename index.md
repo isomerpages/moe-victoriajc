@@ -9,18 +9,30 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Page1.jpg
+      background: /images/Main banner 2023/2026VJCOHBanner_1895x765_1280x450_1080x450.jpg
       key_highlights:
-        - title: Happenings at VJC
-          description: Featured News
-          url: /happenings-at-vjc/
+        - title: 2026 Open House
+          description: Join Us!
+          url: /2026-openhouse/
         - title: We are Social
           description: Follow Us on Social Media
           url: https://linktr.ee/victoriajc
         - title: Upcoming Events
-          description: Calendar Of Events
+          description: Calendar of Events
           url: /upcoming-events/
+        - title: Happenings at VJC
+          description: Featured News
+          url: /happenings-at-vjc/
       variant: center
+  - infopic:
+      title: The Victorian SEAL
+      subtitle: Be Outstanding
+      id: infopic
+      description: Graduate with the Victorian SEAL and be ready to shape the world.
+      button: Button Text
+      url: /the-victorian-seal/
+      image: /images/2025 Photo Updates/Group_Photo_with_wax_seal.jpg
+      alt: Image alt text
   - infopic:
       title: 2024 A-Level Results
       id: infopic
@@ -35,33 +47,6 @@ sections:
       image: /images/2024/latebanner24.jpg
       alt: Late Start Banner
       description: Late Start EVERY DAY
-  - infopic:
-      title: Learn
-      subtitle: Feed Your Curiosity
-      description: With more than 60 subject combinations, whether you are inclined to
-        the Arts or Sciences, you will be spoilt for choice.
-      button: Find out more
-      url: /learn-like-a-victorian/
-      alt: Image alt text
-      image: /images/Sub Page Banners 2023/Learn Like a Victorian.jpg
-  - infopic:
-      title: Live
-      subtitle: Expand Your Horizons
-      button: Find out more
-      url: /live-like-a-victorian/
-      alt: Image alt text
-      description: Get inspired, deepen your passion or learn a new skill. We’re
-        certain you’ll find something, or more, to explore!
-      image: /images/Sub Page Banners 2023/Live Like a Victorian.jpg
-  - infopic:
-      title: Level Up
-      subtitle: Lead, Serve and Excel
-      button: Find out more
-      url: /level-up/talent-development-programme/
-      alt: Image alt text
-      description: Stretch your potential, lead, serve and excel. Level up with our
-        programmes and create the future.
-      image: /images/Sub Page Banners 2023/Talent Development Programme.jpg
   - resources:
       title: Happenings At VJC
       subtitle: EXPLORE

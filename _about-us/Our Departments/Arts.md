@@ -12,14 +12,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/Arts.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -27,13 +24,10 @@ variant: tiptap
 <p>Ms Goh Hui Hua
 <br>Head of Arts Department
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
-<br>
-<br>Mr Ivan Toh
-<br>Head of Talent Development &amp; Education and Career Guidance
-<br><a href="mailto:ivan.toh.chun.siong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan.toh.chun.siong@vjc.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Fatma Osman
+<p>Ms Fatma Osman</p>
+<p>Head of Arts Department (Covering, Sem 1)
 <br>Head of Engagement &amp; Partnerships
 <br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
 </p>
@@ -80,8 +74,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Jia En
-<br><a href="mailto:lee.jia.en@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.jia.en@vjc.edu.sg</a>
+<p>Mr Shaun Lim
+<br><a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shaun.lim.tyan.gin@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

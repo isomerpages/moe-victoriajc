@@ -9,15 +9,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2023_JCO1.jpg">
 </div>
 <h3>Joint Admissions Exercise</h3>
-<p><em>The JAE Appeal exercise for admission into Victoria Junior College will open on </em><strong><em>4 Feb 2025, Tues, 10 am</em></strong><em>. Visit our </em>
-<a href="/jaeappealexercise/" rel="noopener nofollow" target="_blank">JAE appeal site</a><em> for more details.</em>
-</p>
 <p>The Joint Admissions Exercise (JAE) to junior colleges, Millennia Institute,
 polytechnic and Institute of Technical Education&nbsp;is conducted by the
 Ministry of Education in January each year. Secondary 4&nbsp;Express and
 5 Normal (Academic)&nbsp;students&nbsp;can find&nbsp;out details on the
 JAE timeline application process at MOE's website <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>In 2024, the cut-off points for VJC Science stream is 6 and Arts stream
+<p>In 2025, the cut-off points for VJC Science stream is 6 and Arts stream
 is 8.</p>
 <p></p>
 <h3>Frequently Asked Questions</h3>
@@ -58,10 +55,9 @@ You may also find out more from our teacher advisors. Please write to:</p>
 <p>Dr Wu Jiang, Head of Science at:&nbsp; <a href="wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu.jiang@vjc.edu.sg</a>
 <br>Ms Sharon Tey, Head of Science at:&nbsp; <a href="tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tey.li.wei.sharon@vjc.edu.sg</a>
 </p>
-<p>Ms Goh Hui Hua, Head of Dept/Arts at:&nbsp; <a href="goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
+<p>Ms Goh Hui Hua, Head of Arts at:&nbsp; <a href="goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
 </p>
-<p>Mr Ivan Toh, Head of Talent Development &amp; Education and Career Guidance
-at:&nbsp; <a href="ivan.toh.chun.siong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ivan.toh.chun.siong@vjc.edu.sg</a>
+<p>Mr Ivan Toh, Subject Head, Education and Career Guidance at:&nbsp; <a href="mailto:tan.jiahui.valerie@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.jiahui.valerie@vjc.edu.sg</u></a>
 </p>
 </div>
 </details>

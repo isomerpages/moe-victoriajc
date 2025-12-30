@@ -20,18 +20,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2025</p>
+<p>10 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Victorian Affair</p>
+<p>Open House and Alumni Homecoming</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Nov 2025</p>
+<p>12 Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of Term 4 School Vacation</p>
+<p>Start of Term 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Feb 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of JC Orientation</p>
 </td>
 </tr>
 </tbody>

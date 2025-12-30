@@ -4,10 +4,10 @@ permalink: /parents/parent-gateway-mobile-app/
 description: ""
 variant: markdown
 ---
-![](/images/Parent-Gateway-App-Banner-2-1024x449.jpg)
-The&nbsp;Parent Gateway(PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this app to stay updated on school’s programme and activities.&nbsp;
+![](/images/PSG/2025_PSG_EOY_Meeting.jpg)
+The&nbsp;Parents Gateway(PG) Mobile App is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this app to stay updated on school’s programme and activities.&nbsp;
 
-The PG App will be implemented in all schools over the course of 2019. If you have two or more children and they are in different schools, you will be able to receive notifications for all your children on the same PG App.
+If you have two or more children and they are in different schools, you will be able to receive notifications for all your children on the same PG App.
 
 
 <img src="/images/parents-gateway-app-1.jpg" style="width:50%">

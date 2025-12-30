@@ -86,37 +86,37 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chen Yuanxin
+<br><a href="mailto:chen.yuanxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.yuanxin@vjc.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Clara Pay
 <br><a href="mailto:clara.pay@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">clara.pay@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Chua Mei Ling
 <br><a href="mailto:chue.meiling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chue.meiling@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Geraldine Tay Rou Jun
 <br><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Huang Yunqing
 <br><a href="mailto:huang.yunqing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang.yunqing@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Joseph Ng Zhi Wei
 <br><a href="mailto:joseph.ng.zhi.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph.ng.zhi.wei@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Koh Hau Keat
-<br><a href="mailto:kelvin.koh@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin.koh@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -127,15 +127,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Keng Hoe
-<br><a href="mailto:lee.kenghoe@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.kenghoe@vjc.edu.sg</a>
+<p>Ms Lim Pei Wen
+<br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Pei Wen
-<br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
+<p>Mr Donovan Low
+<br><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,12 +146,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Suhana Subhan
-<br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
+<p>Mr Syed Nazir Hussain
+<br><a href="mailto:syed.nazir.hussain@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">syed.nazir.hussain@vjc.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Suhana Subhan
+<br><a href="mailto:suhana.subhan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhana.subhan@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

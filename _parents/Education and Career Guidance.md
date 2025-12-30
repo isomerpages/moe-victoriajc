@@ -34,8 +34,6 @@ The ECG curriculum aims to:
 
 To find out more and to learn about the ECG curriculum, click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
 
-Want to find out more about ECG? Watch this quick [video](https://www.youtube.com/watch?v=12ass4FSCcg) on what ECG is about!
-
 ### Education and Career Guidance For Your Child
 
 A suggested education and career plan for your child can take the form provided in the flow chart found [here](https://www.myskillsfuture.gov.sg/content/student/en/preu/about/education-and-career-plan.html).
