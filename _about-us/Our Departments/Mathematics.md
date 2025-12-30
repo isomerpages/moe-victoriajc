@@ -162,8 +162,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jocelyn Teo Wan Lin</p>
-<p><a href="mailto:teo.wan.lin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.wan.lin@vjc.edu.sg</a>
+<p>Ms Jocelyn Teo Wan Lin
+<br><a href="mailto:teo.wan.lin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.wan.lin@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
