@@ -118,7 +118,9 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah</p>
+<p>Ms Nadiah Nizam
+<br><a href="mailto:nadiah.nizam@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadiah.nizam@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
