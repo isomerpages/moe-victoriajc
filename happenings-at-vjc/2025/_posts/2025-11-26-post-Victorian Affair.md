@@ -19,6 +19,6 @@ from everyone lit up the venue, making it a celebration to remember and
 marking a fitting conclusion to the school year. Here’s to an amazing 2026
 ahead! 🎉</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happening at VJC/LA_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/VA_Flag_IMG_0745.jpg">
 </div>
 <p></p>
