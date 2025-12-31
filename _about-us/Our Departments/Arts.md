@@ -26,8 +26,8 @@ variant: tiptap
 <br><a href="mailto:goh.huihua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.huihua@vjc.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Fatma Osman</p>
-<p>Head of Arts Department (Covering, Sem 1)
+<p>Ms Fatma Osman
+<br>Head of Arts Department (Covering, Sem 1)
 <br>Head of Engagement &amp; Partnerships
 <br><a href="mailto:fatma.osman@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatma.osman@vjc.edu.sg</a>
 </p>
