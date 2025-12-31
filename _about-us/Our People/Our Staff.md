@@ -22,7 +22,7 @@ their way in a complex and challenging world and to ease their transition
 to adulthood.</p>
 <h3>School Leaders</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P_and_VPs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2026_SL_Photo.jpg">
 </div>
 <p>Standing from left to right:</p>
 <table style="minWidth: 50px">
