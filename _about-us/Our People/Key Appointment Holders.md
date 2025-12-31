@@ -49,8 +49,8 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheryl Ang Si Ling
-<br><a href="mailto:ang_si_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ling@schools.gov.sg</a>
+<p>Mr Koh Weining
+<br><a href="mailto:koh_weining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_weining@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,8 +59,8 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Weining
-<br><a href="mailto:koh_weining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_weining@schools.gov.sg</a>
+<p>Ms Sheryl Ang Si Ling
+<br><a href="mailto:ang_si_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>

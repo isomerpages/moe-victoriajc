@@ -22,7 +22,7 @@ their way in a complex and challenging world and to ease their transition
 to adulthood.</p>
 <h3>School Leaders</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_P_and_VPs.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2026_SL_Photo.jpg">
 </div>
 <p>Standing from left to right:</p>
 <table style="minWidth: 50px">
@@ -64,8 +64,8 @@ to adulthood.</p>
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sheryl Ang Si Ling
-<br><a href="mailto:ang_si_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ling@schools.gov.sg</a>
+<p>Mr Koh Weining
+<br><a href="mailto:koh_weining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_weining@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -74,8 +74,8 @@ to adulthood.</p>
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Weining
-<br><a href="mailto:koh_weining@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_weining@schools.gov.sg</a>
+<p>Ms Sheryl Ang Si Ling
+<br><a href="mailto:ang_si_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_si_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
