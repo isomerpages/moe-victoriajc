@@ -7,8 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happening at VJC/Singsongsocialclub2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/Collage_SSSC_.png">
 </div>
 <p><strong>@singsongsocialclub </strong>came down to VJC and filled the campus
 with music, bringing the whole VJ family together in a massive singalong
@@ -17,3 +18,7 @@ truly felt like there was no place we would rather be than right here with
 the VJ community!</p>
 <p><a href="https://www.instagram.com/reel/DSEl7gYEUjz/?igsh=MTh2YWo3NnFqMHY5aQ==" rel="noopener noreferrer nofollow" target="_blank">Watch the Instagram reel here</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happening at VJC/Singsongsocialclub2.jpg">
+</div>
+<p></p>
