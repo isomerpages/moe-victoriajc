@@ -85,7 +85,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Tay
-<br>Subject Head Student Leadership (Covering)
+<br>Subject Head Student Leadership
 <br><a href="mailto:tay.weili.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay.weili.audrey@vjc.edu.sg</a>
 </p>
 </td>
@@ -121,61 +121,49 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Celine Leow
-<br><a href="mailto:cheong.siewyin.celine@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong.siewyin.celine@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Chng Chao Han
 <br><a href="mailto:chng.chao.han@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chng.chao.han@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Hazrin Bin Zainal
 <br><a href="mailto:hazrin.zainal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazrin.zainal@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jacinth Thyagarajan
 <br><a href="mailto:jacinth.rajan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jacinth.rajan@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jean Lee
 <br><a href="mailto:lee.yuling.jean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.yuling.jean@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Julia Catherine Chan
 <br><a href="mailto:julia.catherine.chan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">julia.catherine.chan@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr John Jude Alexander
 <br><a href="mailto:john.jude.alexander@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">john.jude.alexander@vjc.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kan Chien-Yi
 <br><a href="mailto:kan.chien-yi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan.chien-yi@vjc.edu.sg</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lionel Loh Han Loong
 <br><a href="mailto:loh.han.loong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.han.loong@vjc.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lorraine Chng
-<br><a href="mailto:lorraine.chng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lorraine.chng@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
