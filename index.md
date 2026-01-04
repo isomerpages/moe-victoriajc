@@ -29,7 +29,7 @@ sections:
       subtitle: Be Outstanding
       id: infopic
       description: Graduate with the Victorian SEAL and be ready to shape the world.
-      button: Button Text
+      button: Read about it here
       url: /the-victorian-seal/
       image: /images/2025 Photo Updates/Group_Photo_with_wax_seal.jpg
       alt: Image alt text
