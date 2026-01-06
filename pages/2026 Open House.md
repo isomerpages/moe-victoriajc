@@ -41,7 +41,8 @@ description: ""
 <p></p>
 <p>🚍 13, 16, 31, 36, 43, 47, 48, 55, 196, 197</p>
 <p></p>
-<p>🚘 Parking is available at:</p>
+<p>❌ No visitor parking</p>
+<p>🚘 Public carparks are available at:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Marine Terrace, MP1 ($0.60 per 30 min)</p>
