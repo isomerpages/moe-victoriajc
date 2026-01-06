@@ -172,8 +172,6 @@ variant: tiptap
 <br><a href="mailto:aslinda.bintesalom@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aslinda.bintesalom@vjc.edu.sg</a> 
 <br>Mdm Rahmah Bte Ahmad
 <br><a href="mailto:rahmah.bte.ahmad@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahmah.bte.ahmad@vjc.edu.sg</a> 
-<br>Mdm Rohani Binte Sulaimi
-<br><a href="mailto:rohani.bintesulaimi@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rohani.bintesulaimi@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
