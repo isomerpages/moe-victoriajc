@@ -134,7 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Donovan Low
+<p>Mr Donavan Low
 <br><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
 </p>
 </td>
