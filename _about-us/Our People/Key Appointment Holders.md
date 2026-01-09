@@ -222,7 +222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Student Leadership (Covering)</p>
+<p>Subject Head Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Audrey Tay
@@ -387,7 +387,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Economics Department / Level Head</p>
+<p>Head of Economics Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Cui Ying
@@ -501,7 +501,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Mathematics Department / Level Head</p>
+<p>Head of Mathematics Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Wei Liang
