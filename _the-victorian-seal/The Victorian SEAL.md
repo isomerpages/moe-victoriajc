@@ -14,7 +14,7 @@ of the future. It is a frame that places our College Values and the Emerging
 21st Century Competencies at the centre of the Victorian experience.</p>
 <h4>The Victorian SEAL</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Photo Updates/2025SEAL__Transparent_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The Victorian SEAL/2025SEAL__Final_.jpg">
 </div>
 <p>These values and competencies are demonstrated, discerned, and developed
 via the four SEAL domains. All Victorians will benefit from a strong academic
