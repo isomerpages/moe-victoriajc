@@ -71,11 +71,12 @@ the main focus on relationships.
 </ol>
 <p><strong>At Victoria Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_cce.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEJC1CCE.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_cce2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEJC2CCE.jpg">
 </div>
 <h3>eTeens Programme:</h3>
 <ol start="6">
@@ -101,8 +102,9 @@ and seeking help. Abstinence and upholding family values are the key messages.
 </ol>
 <p><strong>At Victoria Junior College, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_eteens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/eteens26.jpg">
 </div>
 <h3>Information for Parents</h3>
 <ol start="8">
