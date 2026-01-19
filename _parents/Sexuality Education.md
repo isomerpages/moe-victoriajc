@@ -48,15 +48,14 @@ ones.</p>
 </ol>
 <p>You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more
 information on MOE Sexuality Education.</p>
-<h3>OVERVIEW OF VICTORIA JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2025</h3>
+<h3>OVERVIEW OF VICTORIA JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2026</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on the scope of Sexuality Education
-in the school curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 </ol>
 <h3>Sexuality Education:</h3>
@@ -70,18 +69,26 @@ the main focus on relationships.
 </p>
 </li>
 </ol>
-<p><strong>At Victoria Junior College, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Victoria Junior College, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_cce.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEJC1CCE.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_cce2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/SEJC2CCE.jpg">
 </div>
 <h3>eTeens Programme:</h3>
 <ol start="6">
 <li>
-<p><em>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</em>
+<p><em>eTeens</em> is a programme that was developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide JC/MI Year
+1 students with accurate information on STIs/HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. The desired outcome of the eTeens
+programme is that students are empowered to make wise, informed and sensible
+decisions to protect themselves from sexually transmitted infectious diseases<em>.</em>
 <br>
 </p>
 </li>
@@ -93,10 +100,11 @@ and seeking help. Abstinence and upholding family values are the key messages.
 </p>
 </li>
 </ol>
-<p><strong>At Victoria Junior College, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Victoria Junior College, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/2025_eteens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/eteens26.jpg">
 </div>
 <h3>Information for Parents</h3>
 <ol start="8">
@@ -109,21 +117,21 @@ Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/vjcannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 21/04/2025.
+to parents at the start of the year and is also available&nbsp;<a href="https://go.gov.sg/vjcannexa" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by <strong>14/04/2026 for JC1 students</strong> and <strong>25/03/2026 for JC2 students</strong>.
 <br>
 </p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<a href="https://go.gov.sg/vjcannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 21/04/2025.
+at the start of the year and is also available&nbsp;<a href="https://go.gov.sg/vjcannexb" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by <strong>14/04/2026</strong>.
 <br>
 </p>
 </li>
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a> or
+<p>Parents can contact the school at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a>&nbsp;or
 6448 5011 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>
 </li>
