@@ -11,12 +11,6 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
-        - title: 2026 Open House
-          description: Join Us!
-          url: /2026-openhouse/
-        - title: We are Social
-          description: Follow Us on Social Media
-          url: https://linktr.ee/victoriajc
         - title: Upcoming Events
           description: Calendar of Events
           url: /upcoming-events/
