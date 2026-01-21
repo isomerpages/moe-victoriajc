@@ -11,6 +11,9 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
+        - title: We Are Social!
+          description: Follow us on social media
+          url: https://linktr.ee/victoriajc
         - title: Upcoming Events
           description: Calendar of Events
           url: /upcoming-events/
