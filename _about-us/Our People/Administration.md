@@ -168,7 +168,7 @@ variant: tiptap
 <p>Operations Support Officers (Science Laboratory)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Aslinda binte Salom
+<p>Mdm Aslinda Binte Salom
 <br><a href="mailto:aslinda.bintesalom@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aslinda.bintesalom@vjc.edu.sg</a> 
 <br>Ms Norima Binte Abdul Jalal
 <br><a href="mailto:norima.abdul.jalal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norima.abdul.jalal@vjc.edu.sg</a>
@@ -184,9 +184,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Andrew Woon Tai Tok
 <br><a href="mailto:woon.tai.tok@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woon.tai.tok@vjc.edu.sg</a>
-<br>Mr Franco Ang
+<br>Mr Franco Ang Yeok Nah
 <br><a href="mailto:franco.ang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">franco.ang@vjc.edu.sg</a>
-<br>Mr Malcolm Ng
+<br>Mr Malcolm Ng Hin Fatt
 <br><a href="mailto:malcolm.ng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malcolm.ng@vjc.edu.sg</a> 
 <br>Mr Razali Bin Iswan
 <br><a href="mailto:razali.iswan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">razali.iswan@vjc.edu.sg</a>
