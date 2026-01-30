@@ -30,6 +30,7 @@ sections:
       button: Find out more
       url: /jaeappealexercise/
       alt: Image alt text
+      image: /images/2025_Road_Run_Class.jpg
   - infopic:
       title: The Victorian SEAL
       subtitle: Be Outstanding
