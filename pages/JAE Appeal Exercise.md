@@ -4,14 +4,14 @@ permalink: /jaeappealexercise/
 variant: tiptap
 description: ""
 ---
-<h1><strong>JAE Appeal Exercise 2025</strong></h1>
+<h1><strong>JAE Appeal Exercise 2026</strong></h1>
 <p>The JAE Appeal exercise for admission into Victoria Junior College will
-open on <strong>4 Feb 2025, Tues, 10 am</strong>.</p>
-<p>The application period for JAE Appeal to VJC is 4 Feb 2025, Tues, 10 am
-- 7 Feb 2025, Fri, 12 pm.</p>
+open on <strong>3 Feb 2026, Tues, 9.00 am</strong>.</p>
+<p>The application period for JAE Appeal to VJC is 3 Feb 2026 (Tuesday),
+9.00am - 9 Feb 2026, Fri, 12.00pm.</p>
 <p>Applications must be made online this year. Students who wish to submit
 an appeal are to do so through <a href="https://jae.vjc.edu.sg/" rel="noopener nofollow" target="_blank">this application form</a>. (The application
-system will be made available from 4 Feb 2025, 10am.)</p>
+system will be made available from 3 Feb 2025, 9.00.)</p>
 <p><strong>What documents do I need to submit?</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -30,9 +30,9 @@ period. You are advised to submit early.</p>
 <p>Do take note of the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Applicants must meet the cut-off point for the respective course at VJC
-(Science COP of 6 and Arts COP of 8) for the appeal to be considered. Information
-on 2025 COP will only be available from 4 Feb 2025 onwards.</p>
+<p><strong>Applicants must meet the cut-off point for the respective course at VJC</strong> (Science
+COP of 6 and Arts COP of 8) for the appeal to be considered. Information
+on 2026 COP will only be available from 3 Feb 2026 onwards.</p>
 </li>
 <li>
 <p>If you were admitted into your posted school via Direct School Admission
@@ -42,7 +42,8 @@ on 2025 COP will only be available from 4 Feb 2025 onwards.</p>
 <p>Late and/or incomplete applications will not be considered.</p>
 </li>
 <li>
-<p>Applications will be considered on merit.</p>
+<p>Applications will be considered on merit. Shortlisted applicants will
+be contacted.</p>
 </li>
 <li>
 <p>The decision of the college is final.</p>
