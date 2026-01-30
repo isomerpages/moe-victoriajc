@@ -25,6 +25,12 @@ sections:
           url: /happenings-at-vjc/
       variant: center
   - infopic:
+      title: JAE Appeal Exercise
+      id: infopic
+      button: Find out more
+      url: /jc1orientation/
+      alt: Image alt text
+  - infopic:
       title: The Victorian SEAL
       subtitle: Be Outstanding
       id: infopic
