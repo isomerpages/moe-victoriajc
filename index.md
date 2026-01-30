@@ -28,7 +28,7 @@ sections:
       title: JAE Appeal Exercise
       id: infopic
       button: Find out more
-      url: /jc1orientation/
+      url: /jaeappealexercise/
       alt: Image alt text
   - infopic:
       title: The Victorian SEAL
