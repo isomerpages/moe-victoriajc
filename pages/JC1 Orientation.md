@@ -184,7 +184,8 @@ card!)</p>
 <details class="isomer-details">
 <summary>Academic Matters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Please refer to <strong>this document</strong> for information on the following
+<p>Please refer to <a href="https://for.edu.sg/vjc26jco-acad" rel="noopener nofollow" target="_blank">this document</a> for
+information on the following
 <br>1. Subject briefing and sample lessons
 <br>2. Online registration for subject combination
 <br>3. Subject selection test</p>
