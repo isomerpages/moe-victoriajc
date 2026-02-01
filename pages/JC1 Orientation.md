@@ -397,11 +397,11 @@ of the school they have been posted to after 2pm to attend interviews,
 trials and auditions.</p>
 </li>
 <li>
-<p>Successful appellants should report to VJC in-person with the necessary
-documents for verification. The successful appellants should return to
-their original posted school to complete the withdrawal process. Successful
-appellants should join VJC’s Orientation only after they have completed
-the full process.</p>
+<p>Shortlisted appellants who have been contacted by the college to attend
+interviews, trials and/or auditions should report to VJC in-person with
+the necessary documents for verification. Successful appellants should
+return to their original posted school to complete the withdrawal process
+and join VJC’s Orientation only after they have completed the full process.</p>
 </li>
 </ul>
 </div>
@@ -416,8 +416,14 @@ college websites.</p>
 </li>
 <li>
 <p>Students who intend to leave Orientation to attend an interview or audition,
-can only leave after 2pm. If there you have other specific requests, please
-inform your Orientation Group Leaders.</p>
+can only leave after 2pm. You must inform the Orientation Group Leaders
+and the General Office. If you have other specific requests, please speak
+to your Orientation Group Leaders.</p>
+</li>
+<li>
+<p>Students who are successful in your appeal out and have been offered a
+place in another JC must return and inform VJC as soon as possible of your
+transfer out.</p>
 </li>
 </ul>
 </div>
