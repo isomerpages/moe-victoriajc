@@ -348,7 +348,7 @@ contact details:</p>
 <details class="isomer-details">
 <summary>Sale of Graphing Calculator</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date:</strong> 4 Feb (Wed), 10.30am-1.30pm.</p>
+<p><strong>Date:</strong> 4 Feb (Wed)*, 10.30am-1.30pm.</p>
 <p><strong>Price: </strong>$178
 <br><strong>Payment Methods:</strong>
 </p>
@@ -365,7 +365,12 @@ contact details:</p>
 </p>
 <ul>
 <li>
-<p>This sale price is only for the date stated above.</p>
+<p>A second sale date, in the month of February, will be available. Please
+check with your Mathematics tutors during the first week of lessons.</p>
+</li>
+<li>
+<p>This sale price is only for the date stated above, and the second sale
+date.</p>
 </li>
 <li>
 <p>Remember to collect the Record of Purchase Card from the vendor for warranty.</p>
