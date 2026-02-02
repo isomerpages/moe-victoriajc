@@ -82,9 +82,6 @@ card!)</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>School Talks</p>
-</li>
-<li>
 <p>Icebreakers</p>
 </li>
 <li>
