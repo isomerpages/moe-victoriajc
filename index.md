@@ -11,9 +11,6 @@ sections:
   - hero:
       background: /images/Main banner 2023/Home Page1.jpg
       key_highlights:
-        - title: JC1 Orientation
-          description: Schedule
-          url: /jc1orientation/
         - title: We Are Social!
           description: Follow us on social media
           url: https://linktr.ee/victoriajc
@@ -24,13 +21,6 @@ sections:
           description: Featured News
           url: /happenings-at-vjc/
       variant: center
-  - infopic:
-      title: JAE Appeal Exercise
-      id: infopic
-      button: Find out more
-      url: /jaeappealexercise/
-      alt: Image alt text
-      image: /images/2025_Road_Run_Class.jpg
   - infopic:
       title: The Victorian SEAL
       subtitle: Be Outstanding
