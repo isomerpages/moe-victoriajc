@@ -18,6 +18,7 @@ you have become.</p>
 <p>&lt;Cohort wefie&gt;</p>
 <hr>
 <h3>LEAD</h3>
-<p>Muhammad Edel Mahbub Harahap | Victoria School</p>
+<p><strong>Muhammad Edel Mahbub Harahap | Victoria School</strong>
+</p>
 <p>&lt;Photo&gt;</p>
 <p>Write-up</p>
