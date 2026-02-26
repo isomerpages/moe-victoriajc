@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main banner 2023/Home Page1.jpg
+      background: /images/Main banner 2023/2026_OHWelcome.jpg
       key_highlights:
         - title: We Are Social!
           description: Follow us on social media
