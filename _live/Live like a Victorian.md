@@ -2,8 +2,9 @@
 title: Live like a Victorian
 permalink: /live-like-a-victorian/
 description: ""
+variant: markdown
 ---
-![](/images/Sub%20Page%20Banners%202023/Live%20Like%20a%20Victorian.jpg)
+![](/images/2025%20Photo%20Updates/2026_JCO1__LowRes_.jpg)
 ### Living like a Victorian
 
 Life in VJC is more than just grades and accolades. It’s about becoming part of a bigger family, working hard and playing harder. We exult in one another’s triumphs, comfort one another in times of uncertainty, and cheer like mad for one another’s achievements. 
