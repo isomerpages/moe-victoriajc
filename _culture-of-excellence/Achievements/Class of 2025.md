@@ -37,6 +37,7 @@ steadfast support in nurturing, guiding, and journeying alongside our students. 
 <p>Write-up</p>
 <hr>
 <h3>Serve</h3>
-<p>Muhammad Darwisy bin Khalid | Dunman Secondary School</p>
+<p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
+</p>
 <p>&lt;Photo&gt;</p>
 <p>Write-up</p>
