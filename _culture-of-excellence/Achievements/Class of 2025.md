@@ -22,3 +22,18 @@ you have become.</p>
 </p>
 <p>&lt;Photo&gt;</p>
 <p>Write-up</p>
+<hr>
+<p><strong>Cheryl Koh Xin Yu | Cedar Girls' School</strong>
+</p>
+<p>&lt;Photo&gt;</p>
+<p>Write-up</p>
+<hr>
+<p><strong>Aaron Jacob | Victoria School</strong>
+</p>
+<p>&lt;Photo&gt;</p>
+<p>Write-up</p>
+<hr>
+<h3>Serve</h3>
+<p>Muhammad Darwisy bin Khalid | Dunman Secondary School</p>
+<p>&lt;Photo&gt;</p>
+<p>Write-up</p>
