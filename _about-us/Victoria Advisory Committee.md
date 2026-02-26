@@ -6,7 +6,7 @@ variant: markdown
 ---
 # Victoria Advisory Committee
 
-![](/images/2024/2024_vac_group_photo.jpg)
+![](/images/2025%20Photo%20Updates/2026_VAC_Group.jpg)
 
 The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support the College’s programmes and activities. The committee also sponsors awards to recognise the accomplishments and contributions of outstanding students.
 
