@@ -15,6 +15,9 @@ demanding seasons, and continued to show up for one another.</p>
 <p>Class of 2025, you completed your final lap in VJC with grit and grace,
 and we are proud not only of what you have accomplished, but of the people
 you have become.</p>
+<p>Our deepest appreciation to our teachers, parents, and partners for your
+steadfast support in nurturing, guiding, and journeying alongside our students. <em>Nil Sine Labore!</em>
+</p>
 <p>&lt;Cohort wefie&gt;</p>
 <hr>
 <h3>LEAD</h3>
