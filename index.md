@@ -27,7 +27,7 @@ sections:
       description: The Class of 2025 did us proud! Explore their achievements and
         their unforgettable Victorian journey.
       button: Read about it  here
-      url: class-of-2025/
+      url: /about/culture-of-excellence/student-achievements/class-of-2025/
       alt: Image alt text
       image: /images/2025 A Level Results/Featured_students_group_photo.jpg
   - infopic:
