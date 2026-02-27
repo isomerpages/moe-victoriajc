@@ -6,7 +6,10 @@ description: ""
 image: /images/2025_FA1__LowRes_.jpg
 third_nav_title: Achievements
 ---
-<p>&lt;Featured Students Group Photo&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Featured_students_group_photo.jpg">
+</div>
 <p>The Class of 2025 has completed the Singapore-Cambridge GCE A-Level Examination,
 and we are proud to celebrate their outstanding achievements.</p>
 <p>Over two years, the Victorians of the Class of 2025 excelled across academics,
@@ -18,7 +21,9 @@ you have become.</p>
 <p>Our deepest appreciation to our teachers, parents, and partners for your
 steadfast support in nurturing, guiding, and journeying alongside our students. <em>Nil Sine Labore!</em>
 </p>
-<p>&lt;Cohort wefie&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Cohort_photo.jpg">
+</div>
 <hr>
 <h3>LEAD</h3>
 <p><strong>Muhammad Edel Mahbub Harahap | Victoria School</strong>
@@ -80,7 +85,9 @@ leads next.</p>
 <h3>Serve</h3>
 <p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Darwisy2.jpg">
+</div>
 <p>Balancing rhythm and responsibility, Darwisy made the most of his time
 at VJC by throwing himself wholeheartedly into both student life and service.
 A committed member of the VJC Dance Club, Darwisy brought energy, discipline,
@@ -122,7 +129,9 @@ create positive impact within and beyond the college community.</p>
 <hr>
 <p><strong>Tan Teng Ives | Temasek Secondary School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Ives.jpg">
+</div>
 <p>Having received both the Humanities Scholarship and VJC Scholarship, Ives’s
 journey in VJC goes beyond academic excellence. From participating in the
 2024 Humanities Symposium to co-leading its 2025 edition, he played an
@@ -157,7 +166,7 @@ within and beyond the college.</p>
 <h3>Excel</h3>
 <p><strong>Tan Chia Lok Gerald | Victoria School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<p></p>
 <p>Balancing A-Level exams and national sporting commitments is no small
 feat — but Gerald did it with discipline, resilience and quiet leadership.</p>
 <p>A consistent pillar of the VJC Floorball Team, he played a key role in
@@ -216,7 +225,9 @@ but by creating impact and opening doors for others along the way.</p>
 <hr>
 <p><strong>Goh Li Xin | Tanjong Katong Girls' School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Li_Xin2.jpg">
+</div>
 <p>Meet Li Xin, a student whose journey has been defined by vibrant energy
 and a steady, positive presence across campus!</p>
 <p>As a key player on our Netball team, Li Xin showed true grit through hours
