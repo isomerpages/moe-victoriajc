@@ -29,7 +29,7 @@ steadfast support in nurturing, guiding, and journeying alongside our students. 
 <p><strong>Aaron Jacob | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Aaron.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Aaron.jpg">
 </div>
 <p>A recipient of the VJC Scholarship, Aaron’s leadership journey is marked
 by both excellence and impact. As President of the 41st Students’ Council,
