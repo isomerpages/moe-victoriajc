@@ -26,6 +26,25 @@ steadfast support in nurturing, guiding, and journeying alongside our students. 
 </div>
 <hr>
 <h3>LEAD</h3>
+<p><strong>Aaron Jacob | Victoria School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Aaron.jpg">
+</div>
+<p>A recipient of the VJC Scholarship, Aaron’s leadership journey is marked
+by both excellence and impact. As President of the 41st Students’ Council,
+he led with clarity and heart, orchestrating key college milestones such
+as JCO, VJC Open House, and the VJC 40th Anniversary Gala Dinner — bringing
+people together through steady leadership and genuine care for the community.</p>
+<p>Beyond his formal role, Aaron consistently used his initiative and voice
+to serve others, leading and contributing to projects like Project Cognitio
+and Project MediLens, and conducting outreach workshops with Montfort Care’s
+GoodLife Bedok Reservoir to engage and uplift learners of all ages.</p>
+<p>Grounded in curiosity and driven by purpose, Aaron exemplifies leadership
+that goes beyond achievement — leadership that builds connection, empowers
+others, and leaves a lasting impact. We can’t wait to see where his journey
+leads next.</p>
+<hr>
 <p><strong>Muhammad Edel Mahbub Harahap | Victoria School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -62,25 +81,6 @@ primary school children. Her community impact was recognised when she received
 the Singapore Silent Heroes Award in 2025, a testament to the impact of
 her genuine care for others. Cheryl's remarkable ability to nurture potential
 in others whilst building inclusive communities makes her a beacon of inspiration!</p>
-<hr>
-<p><strong>Aaron Jacob | Victoria School</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Aaron.jpg">
-</div>
-<p>A recipient of the VJC Scholarship, Aaron’s leadership journey is marked
-by both excellence and impact. As President of the 41st Students’ Council,
-he led with clarity and heart, orchestrating key college milestones such
-as JCO, VJC Open House, and the VJC 40th Anniversary Gala Dinner — bringing
-people together through steady leadership and genuine care for the community.</p>
-<p>Beyond his formal role, Aaron consistently used his initiative and voice
-to serve others, leading and contributing to projects like Project Cognitio
-and Project MediLens, and conducting outreach workshops with Montfort Care’s
-GoodLife Bedok Reservoir to engage and uplift learners of all ages.</p>
-<p>Grounded in curiosity and driven by purpose, Aaron exemplifies leadership
-that goes beyond achievement — leadership that builds connection, empowers
-others, and leaves a lasting impact. We can’t wait to see where his journey
-leads next.</p>
 <hr>
 <h3>Serve</h3>
 <p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
