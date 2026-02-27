@@ -79,8 +79,8 @@ leads next.</p>
 </p>
 <p>&lt;Photo&gt;</p>
 <p>Balancing rhythm and responsibility, Darwisy made the most of his time
-at VJC by throwing himself wholeheartedly into both student life and service.A
-committed member of the VJC Dance Club, Darwisy brought energy, discipline,
+at VJC by throwing himself wholeheartedly into both student life and service.
+A committed member of the VJC Dance Club, Darwisy brought energy, discipline,
 and creativity to the stage, performing at key College events and representing
 the College at the Singapore Youth Festival Arts Presentation. Dance was
 more than a CCA for him; it was a space where teamwork, resilience, and
