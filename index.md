@@ -22,6 +22,15 @@ sections:
           url: /happenings-at-vjc/
       variant: center
   - infopic:
+      title: 2025 A-Level Results
+      id: infopic
+      description: The Class of 2025 did us proud! Explore their achievements and
+        their unforgettable Victorian journey.
+      button: Read about it  here
+      url: /about/culture-of-excellence/student-achievements/class-of-2025
+      alt: Image alt text
+      image: /images/2025 A Level Results/Featured_students_group_photo.jpg
+  - infopic:
       title: The Victorian SEAL
       subtitle: Be Outstanding
       id: infopic
@@ -30,15 +39,6 @@ sections:
       url: /the-victorian-seal/
       image: /images/2025 Photo Updates/Group_Photo_with_wax_seal.jpg
       alt: Image alt text
-  - infopic:
-      title: 2024 A-Level Results
-      id: infopic
-      description: The Class of 2024 did us proud! Explore their achievements and
-        their unforgettable Victorian journey.
-      button: Read about it  here
-      url: /about/culture-of-excellence/student-achievements/class-of-2024
-      alt: Image alt text
-      image: /images/2024 A Level Results/DSC02333.jpg
   - infopic:
       title: 9-Day Timetable
       image: /images/2024/latebanner24.jpg
