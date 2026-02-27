@@ -1,6 +1,6 @@
 ---
 title: Class of 2025
-permalink: /class-of-2025/
+permalink: /about/culture-of-excellence/student-achievements/class-of-2025/
 variant: tiptap
 description: ""
 image: /images/2025_FA1__LowRes_.jpg
