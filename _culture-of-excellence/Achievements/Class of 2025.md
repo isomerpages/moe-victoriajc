@@ -83,6 +83,45 @@ her genuine care for others. Cheryl's remarkable ability to nurture potential
 in others whilst building inclusive communities makes her a beacon of inspiration!</p>
 <hr>
 <h3>Serve</h3>
+<p><strong>Abhiraj Saxena | Victoria School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Abhiraj.jpg">
+</div>
+<p>Throughout his time in VJC, Abhiraj has consistently demonstrated a deep
+commitment to service and community engagement. As an Active Citizenry
+Representative, he not only led his class in a Values in Action (VIA) initiative
+but also co-designed an interactive role-playing game for Total Defence
+Day. The thoughtfully crafted experience resonated strongly with his peers,
+reflecting his creativity, sense of responsibility, and ability to make
+complex national issues accessible and meaningful. He further broadened
+his service perspective through an Overseas VIA at the end of JC1.</p>
+<p>Beyond school-based initiatives, Abhiraj has been a regular volunteer
+with Beyond Social Services, contributing his time to support the wider
+community. In JC2, he also tutored his peers in Mathematics, offering steady
+academic support and guidance. Through both structured programmes and informal
+acts of service, Abhiraj has shown a sincere desire to uplift others and
+create positive impact within and beyond the college community.</p>
+<hr>
+<p><strong>Shena Tan Qing | Anglican High School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Shena.jpg">
+</div>
+<p>Shena’s service to the community is where her impact is most deeply felt.
+As Chairperson of Care in Action, Shena led sustained outreach to elderly
+residents at Tampines NTUC Health Nursing Home, coordinating volunteers
+and partners to provide companionship to those facing isolation. Her empathy
+and commitment have made a meaningful difference in this community.</p>
+<p>In recognition of her service to the community, Shena received the Victorian
+Goes the Extra Mile Award and the Anglican High School Outstanding Contribution
+to Society Award in 2024. She was also nominated for the Presidential Volunteerism
+and Philanthropy Awards and was featured on the Making Our Healthcare Happen
+Holdings (MOHH) and NTUC Health website for her exceptional contributions.</p>
+<p>We’re incredibly proud of Shena — her journey reflects a commitment to
+serve with empathy, leadership and heart, making a lasting difference both
+within and beyond the college.</p>
+<hr>
 <p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -107,26 +146,6 @@ to give back, even amid a full student life.</p>
 <p>Whether on stage, in school leadership roles, or in service to the community,
 Darwisy exemplifies a student who leads with dedication, empathy, and purpose.</p>
 <hr>
-<p><strong>Abhiraj Saxena | Victoria School</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Abhiraj.jpg">
-</div>
-<p>Throughout his time in VJC, Abhiraj has consistently demonstrated a deep
-commitment to service and community engagement. As an Active Citizenry
-Representative, he not only led his class in a Values in Action (VIA) initiative
-but also co-designed an interactive role-playing game for Total Defence
-Day. The thoughtfully crafted experience resonated strongly with his peers,
-reflecting his creativity, sense of responsibility, and ability to make
-complex national issues accessible and meaningful. He further broadened
-his service perspective through an Overseas VIA at the end of JC1.</p>
-<p>Beyond school-based initiatives, Abhiraj has been a regular volunteer
-with Beyond Social Services, contributing his time to support the wider
-community. In JC2, he also tutored his peers in Mathematics, offering steady
-academic support and guidance. Through both structured programmes and informal
-acts of service, Abhiraj has shown a sincere desire to uplift others and
-create positive impact within and beyond the college community.</p>
-<hr>
 <p><strong>Tan Teng Ives | Temasek Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -144,46 +163,7 @@ at the Oldham Cup International Debate Competition. As a Students’ Council
 Relations Committee member, he designed bonding activities for JC1 Orientation,
 making freshmen feel welcomed and supported.</p>
 <hr>
-<p><strong>Shena Tan Qing | Anglican High School</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Shena.jpg">
-</div>
-<p>Shena’s service to the community is where her impact is most deeply felt.
-As Chairperson of Care in Action, Shena led sustained outreach to elderly
-residents at Tampines NTUC Health Nursing Home, coordinating volunteers
-and partners to provide companionship to those facing isolation. Her empathy
-and commitment have made a meaningful difference in this community.</p>
-<p>In recognition of her service to the community, Shena received the Victorian
-Goes the Extra Mile Award and the Anglican High School Outstanding Contribution
-to Society Award in 2024. She was also nominated for the Presidential Volunteerism
-and Philanthropy Awards and was featured on the Making Our Healthcare Happen
-Holdings (MOHH) and NTUC Health website for her exceptional contributions.</p>
-<p>We’re incredibly proud of Shena — her journey reflects a commitment to
-serve with empathy, leadership and heart, making a lasting difference both
-within and beyond the college.</p>
-<hr>
 <h3>Excel</h3>
-<p><strong>Tan Chia Lok Gerald | Victoria School</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Gerald.jpg">
-</div>
-<p>Balancing A-Level exams and national sporting commitments is no small
-feat — but Gerald did it with discipline, resilience and quiet leadership.</p>
-<p>A consistent pillar of the VJC Floorball Team, he played a key role in
-securing back-to-back NSG A Division Boys titles (2024 and 2025), including
-converting the decisive penalty in the 2024 final. Beyond school, Gerald
-represented Singapore on the international stage as U19 Team Captain, leading
-the team through multiple competitions. Shortly after completing his A-Level
-examinations, Gerald also competed at the 33rd SEA Games in Bangkok, Thailand,
-securing a Bronze medal with the Men’s National Team. Training through
-the examination period required careful planning and mental fortitude,
-underscoring his commitment to representing Singapore while fulfilling
-his academic responsibilities, and earning him the VJC Scholarship.</p>
-<p>Approachable, committed and steady under pressure, Gerald’s journey reflects
-the balance, responsibility and determination of a true student-athlete.</p>
-<hr>
 <p><strong>Alexis Kwek Lexin | Tanjong Katong Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -225,6 +205,26 @@ a belief that growth is amplified when shared. Whether in academics, sports
 or service, Divyansh excels not only by striving for personal distinction
 but by creating impact and opening doors for others along the way.</p>
 <hr>
+<p><strong>Tan Chia Lok Gerald | Victoria School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Gerald.jpg">
+</div>
+<p>Balancing A-Level exams and national sporting commitments is no small
+feat — but Gerald did it with discipline, resilience and quiet leadership.</p>
+<p>A consistent pillar of the VJC Floorball Team, he played a key role in
+securing back-to-back NSG A Division Boys titles (2024 and 2025), including
+converting the decisive penalty in the 2024 final. Beyond school, Gerald
+represented Singapore on the international stage as U19 Team Captain, leading
+the team through multiple competitions. Shortly after completing his A-Level
+examinations, Gerald also competed at the 33rd SEA Games in Bangkok, Thailand,
+securing a Bronze medal with the Men’s National Team. Training through
+the examination period required careful planning and mental fortitude,
+underscoring his commitment to representing Singapore while fulfilling
+his academic responsibilities, and earning him the VJC Scholarship.</p>
+<p>Approachable, committed and steady under pressure, Gerald’s journey reflects
+the balance, responsibility and determination of a true student-athlete.</p>
+<hr>
 <p><strong>Goh Li Xin | Tanjong Katong Girls' School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -250,24 +250,6 @@ for well-rounded excellence. We look forward to the positive impact she
 will continue to make in her next chapter!</p>
 <hr>
 <h3>INSPIRE</h3>
-<p><strong>Ong Tze Hsien Joshua | Anglo-Chinese School (Independent)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Joshua.jpg">
-</div>
-<p>Joshua inspires by redefining leadership through presence, energy and
-resilience. A constant force in VJC life, he showed that effective leaders
-do not need physical speed to make an impact—only conviction and heart.
-Whether as an Orientation Group Leader or a peer tutor, Joshua led with
-charisma, patience and determination, excelling academically while uplifting
-those around him.</p>
-<p>His inspiration lies equally in service and empathy. From shaping national-level
-discussions through iGlobe and the Singapore Model Cabinet to mentoring
-a cancer survivor and supporting anxious juniors, Joshua consistently turned
-personal challenges into strength for others. As he leaves VJC, he stands
-as a powerful reminder that true leadership is about connection, compassion
-and the courage to serve beyond oneself.</p>
-<hr>
 <p><strong>Goh Xin Zhi Elizabeth | Temasek Secondary School</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -304,5 +286,23 @@ and confidence follows when you’re supported.</p>
 through community service and creating inclusive, meaningful experiences
 for others. Through every challenge and triumph, she carries herself with
 humility, resilience, and purpose. VJC is proud of the leader she has become.</p>
+<hr>
+<p><strong>Ong Tze Hsien Joshua | Anglo-Chinese School (Independent)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Joshua.jpg">
+</div>
+<p>Joshua inspires by redefining leadership through presence, energy and
+resilience. A constant force in VJC life, he showed that effective leaders
+do not need physical speed to make an impact—only conviction and heart.
+Whether as an Orientation Group Leader or a peer tutor, Joshua led with
+charisma, patience and determination, excelling academically while uplifting
+those around him.</p>
+<p>His inspiration lies equally in service and empathy. From shaping national-level
+discussions through iGlobe and the Singapore Model Cabinet to mentoring
+a cancer survivor and supporting anxious juniors, Joshua consistently turned
+personal challenges into strength for others. As he leaves VJC, he stands
+as a powerful reminder that true leadership is about connection, compassion
+and the courage to serve beyond oneself.</p>
 <p></p>
 <p></p>
