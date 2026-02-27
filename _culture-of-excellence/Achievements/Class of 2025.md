@@ -11,9 +11,9 @@ third_nav_title: Achievements
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Featured_students_group_photo.jpg">
 </div>
 <p>The Class of 2025 has completed the Singapore-Cambridge GCE A-Level Examination,
-and we are proud to celebrate their outstanding achievements.</p>
-<p>Over two years, the Victorians of the Class of 2025 excelled across academics,
-CCAs, service and leadership. They met challenges head-on, persevered through
+and we are proud to celebrate their outstanding achievements. Over two
+years, the Victorians of the Class of 2025 excelled across academics, CCAs,
+service and leadership. They met challenges head-on, persevered through
 demanding seasons, and continued to show up for one another.</p>
 <p>Class of 2025, you completed your final lap in VJC with grit and grace,
 and we are proud not only of what you have accomplished, but of the people
