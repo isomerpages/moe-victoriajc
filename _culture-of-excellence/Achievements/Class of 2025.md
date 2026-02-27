@@ -78,9 +78,26 @@ leads next.</p>
 <p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
 </p>
 <p>&lt;Photo&gt;</p>
-<p>Write-up</p>
+<p>Balancing rhythm and responsibility, Darwisy made the most of his time
+at VJC by throwing himself wholeheartedly into both student life and service.A
+committed member of the VJC Dance Club, Darwisy brought energy, discipline,
+and creativity to the stage, performing at key College events and representing
+the College at the Singapore Youth Festival Arts Presentation. Dance was
+more than a CCA for him; it was a space where teamwork, resilience, and
+self-expression came together, shaping his confidence and sense of commitment.</p>
+<p>Beyond the stage, Darwisy lived out our #VGotYourBack spirit. As a Mathematics
+peer tutor, mentor to Secondary Four students, and Orientation Group Leader,
+he consistently put others first — guiding, encouraging, and supporting
+his peers while balancing his own commitments. His commitment to service
+also extended beyond school. Darwisy volunteered with PERTAPIS’ Ramadhan
+Food on Wheels initiative and, alongside his family, took part in SalamSG’s
+Korban food distribution. For Darwisy, carving out time to serve the community
+with his family is a norm and reflects a quiet consistency in how he chooses
+to give back, even amid a full student life.</p>
+<p>Whether on stage, in school leadership roles, or in service to the community,
+Darwisy exemplifies a student who leads with dedication, empathy, and purpose.</p>
 <hr>
-<p><strong>Abhiraj Saxena  | Victoria School</strong>
+<p><strong>Abhiraj Saxena | Victoria School</strong>
 </p>
 <p>&lt;Photo&gt;</p>
 <p>Throughout his time in VJC, Abhiraj has consistently demonstrated a deep
@@ -98,7 +115,7 @@ academic support and guidance. Through both structured programmes and informal
 acts of service, Abhiraj has shown a sincere desire to uplift others and
 create positive impact within and beyond the college community.</p>
 <hr>
-<p><strong>Tan Teng Ives  | Temasek Secondary School</strong>
+<p><strong>Tan Teng Ives | Temasek Secondary School</strong>
 </p>
 <p>&lt;Photo&gt;</p>
 <p>Having received both the Humanities Scholarship and VJC Scholarship, Ives’s
@@ -113,7 +130,7 @@ at the Oldham Cup International Debate Competition. As a Students’ Council
 Relations Committee member, he designed bonding activities for JC1 Orientation,
 making freshmen feel welcomed and supported.</p>
 <hr>
-<p><strong>Shena Tan Qing  | Anglican High School</strong>
+<p><strong>Shena Tan Qing | Anglican High School</strong>
 </p>
 <p>&lt;Photo&gt;</p>
 <p>Shena’s service to the community is where her impact is most deeply felt.
