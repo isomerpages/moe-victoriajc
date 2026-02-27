@@ -166,7 +166,9 @@ within and beyond the college.</p>
 <h3>Excel</h3>
 <p><strong>Tan Chia Lok Gerald | Victoria School</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Gerald.jpg">
+</div>
 <p>Balancing A-Level exams and national sporting commitments is no small
 feat — but Gerald did it with discipline, resilience and quiet leadership.</p>
 <p>A consistent pillar of the VJC Floorball Team, he played a key role in
