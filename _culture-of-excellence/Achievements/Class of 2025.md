@@ -23,7 +23,9 @@ steadfast support in nurturing, guiding, and journeying alongside our students. 
 <h3>LEAD</h3>
 <p><strong>Muhammad Edel Mahbub Harahap | Victoria School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Edel.jpg">
+</div>
 <p>As Captain of the Victoria Junior College Floorball Team, Edel led with
 resilience and teamwork, playing a pivotal role in motivating his team
 and securing National School Games A Division Boys titles in 2024 and 2025.</p>
@@ -33,11 +35,12 @@ with the Singapore Disability Sports Council, and engaging seniors in thoughtful
 sessions on AI through a Service Leadership Venture.</p>
 <p>Edel shows that true leadership lies not just in achievement, but in uplifting
 others every step of the way.</p>
-<p></p>
 <hr>
 <p><strong>Cheryl Koh Xin Yu | Cedar Girls' School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Cheryl.jpg">
+</div>
 <p>Cheryl exemplifies purposeful leadership through excellence, service,
 and impact. As a recipient of the prestigious Lee Kuan Yew Award for All-Round
 Excellence alongside the Goh Chok Tong Outstanding Student Leader Award,
@@ -54,11 +57,12 @@ primary school children. Her community impact was recognised when she received
 the Singapore Silent Heroes Award in 2025, a testament to the impact of
 her genuine care for others. Cheryl's remarkable ability to nurture potential
 in others whilst building inclusive communities makes her a beacon of inspiration!</p>
-<p></p>
 <hr>
 <p><strong>Aaron Jacob | Victoria School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Aaron.jpg">
+</div>
 <p>A recipient of the VJC Scholarship, Aaron’s leadership journey is marked
 by both excellence and impact. As President of the 41st Students’ Council,
 he led with clarity and heart, orchestrating key college milestones such
@@ -72,7 +76,6 @@ GoodLife Bedok Reservoir to engage and uplift learners of all ages.</p>
 that goes beyond achievement — leadership that builds connection, empowers
 others, and leaves a lasting impact. We can’t wait to see where his journey
 leads next.</p>
-<p></p>
 <hr>
 <h3>Serve</h3>
 <p><strong>Muhammad Darwisy bin Khalid | Dunman Secondary School</strong>
@@ -99,7 +102,9 @@ Darwisy exemplifies a student who leads with dedication, empathy, and purpose.</
 <hr>
 <p><strong>Abhiraj Saxena | Victoria School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Abhiraj.jpg">
+</div>
 <p>Throughout his time in VJC, Abhiraj has consistently demonstrated a deep
 commitment to service and community engagement. As an Active Citizenry
 Representative, he not only led his class in a Values in Action (VIA) initiative
@@ -132,7 +137,9 @@ making freshmen feel welcomed and supported.</p>
 <hr>
 <p><strong>Shena Tan Qing | Anglican High School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Shena.jpg">
+</div>
 <p>Shena’s service to the community is where her impact is most deeply felt.
 As Chairperson of Care in Action, Shena led sustained outreach to elderly
 residents at Tampines NTUC Health Nursing Home, coordinating volunteers
@@ -168,7 +175,9 @@ the balance, responsibility and determination of a true student-athlete.</p>
 <hr>
 <p><strong>Alexis Kwek Lexin | Tanjong Katong Secondary School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Alexis.jpg">
+</div>
 <p>Having received both the MOE Pre-University Scholarship and the VJC Scholarship,
 Alexis showed herself to be a stellar student. But her love for learning
 goes far beyond textbooks — whether in biology competitions or leading
@@ -189,7 +198,9 @@ Cabinet, navigating challenges with strategies and collaboration.</p>
 <hr>
 <p><strong>Divyansh Jain | Victoria School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Divyansh.jpg">
+</div>
 <p>Divyansh exemplifies excellence through a rare balance of intellect, leadership
 and drive. A recipient of the SPF Book Prize and an award winner in national
 and international academic competitions, he consistently pushed the boundaries
@@ -228,7 +239,9 @@ will continue to make in her next chapter!</p>
 <h3>INSPIRE</h3>
 <p><strong>Ong Tze Hsien Joshua | Anglo-Chinese School (Independent)</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Joshua.jpg">
+</div>
 <p>Joshua inspires by redefining leadership through presence, energy and
 resilience. A constant force in VJC life, he showed that effective leaders
 do not need physical speed to make an impact—only conviction and heart.
@@ -244,7 +257,9 @@ and the courage to serve beyond oneself.</p>
 <hr>
 <p><strong>Goh Xin Zhi Elizabeth | Temasek Secondary School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Elizabeth.jpg">
+</div>
 <p>Elizabeth’s journey is one of resilience and creativity. Returning to
 Singapore, she transformed the challenge of feeling out of place into a
 drive to grow, emerging as a vibrant presence at VJC. Entering through
@@ -262,7 +277,9 @@ others up and making them feel at home.</p>
 <hr>
 <p><strong>Kaela Si-Hoe Shu En | Methodist Girls' School</strong>
 </p>
-<p>&lt;Photo&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 A Level Results/Kaela.jpg">
+</div>
 <p>In her time in VJC, Kaela was known as a steady presence on the court
 and a quiet leader beyond it. As a core player of VJC Netball, Kaela was
 someone the team leaned on in high-pressure moments — anchoring play with
