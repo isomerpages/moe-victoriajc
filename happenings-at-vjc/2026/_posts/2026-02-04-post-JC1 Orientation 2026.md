@@ -22,7 +22,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Happening at VJC/Happenings at VJC 2026/JCO4.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/Happening at VJC/Happenings at VJC 2026/JCO4.jpg">
 </div>
 </th>
 </tr>
