@@ -20,74 +20,122 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Jan 2026</p>
+<p>20 March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open House and Alumni Homecoming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 Jan 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of Term 1</p>
+<p>Singapore Model Cabinet</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4 Feb 2026</p>
+<p>21 March&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start of JC Orientation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 Feb 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>JC2 Total Defence Dialogue</p>
+<p>Hari Raya Puasa</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Feb 2026</p>
+<p>1 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JC1 Principal-Parents Session</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Feb 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese New Year Celebration</p>
+<p>VIA Fair @ VJC</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17-18 Feb 2026</p>
+<p>6 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year Holiday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4 Mar 2026</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of JC2 Timed Practice 1</p>
+<p>Start of JC1 WA1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Mar 2026</p>
+<p>3 April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Road Run at The Kallang</p>
+<p>Good Friday&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICS Night</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23-24 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance Club Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Orchestra &amp; String Ensemble Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Drama Performance</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Limelight @ Esplanade</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir Concert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Leaders’ Investiture 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Feeling Fab</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vesak Day</p>
 </td>
 </tr>
 </tbody>
