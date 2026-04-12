@@ -1,6 +1,6 @@
 ---
-title: DSA 2025 Application Page
-permalink: /dsa2025application/
+title: DSA 2026 Application Page
+permalink: /dsa2026application/
 variant: tiptap
 description: ""
 ---
