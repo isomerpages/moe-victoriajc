@@ -25,13 +25,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Non-Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>30 April 2026</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Non-Halal Food Stall (Preferably Mixed Economy Rice. Open to other food stall proposals that do not include items currently sold in the school canteen).</strong>
+</p>
 </td>
 </tr>
 </tbody>
