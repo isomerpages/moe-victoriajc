@@ -4,28 +4,25 @@ permalink: /dsa2026application/
 variant: tiptap
 description: ""
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_DSA_Banner.jpg">
-</div>
 <h3>DSA-JC Application Process</h3>
-<p>Welcome to the application page for the 2025 DSA-JC exercise, for admission
-in year 2026.</p>
+<p>Welcome to the application page for the 2026 DSA-JC exercise, for admission
+in year 2027.&nbsp;</p>
 <p>If you are applying to Victoria Junior College through DSA-JC, please:</p>
 <ol>
 <li>
-<p>Complete and submit the&nbsp;<a href="https://portal.vjc.edu.sg/dsa" rel="noopener noreferrer nofollow" target="_blank">online DSA application form</a> (open
-from 7 May 2025 to 6 July 2025), with supporting documents as pdf or photo
-attachments</p>
+<p>Complete and submit <a href="https://portal.vjc.edu.sg/0/dsa.html" rel="noopener noreferrer nofollow" target="_blank"><u>this&nbsp;online DSA application form</u></a> (open
+from 6 May 2026 to 3 July 2026),&nbsp;with supporting documents as pdf
+or photo attachments</p>
 </li>
 <li>
-<p>Take note of the <strong>key information</strong> for your chosen talent
-area, such as selection process, criteria and dates.</p>
+<p>Take note of the key information for your chosen talent area, such as
+selection process, criteria and dates.</p>
 </li>
 </ol>
 <p>The set of supporting documents comprises the following:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>CCA records – (all available records in Secondary school);</p>
+<p>CCA records (all available records in Secondary school);</p>
 </li>
 <li>
 <p>Exam result slips – Sec 3 (End of Year exams and Overall), Sec 4 (Weighted
@@ -41,32 +38,34 @@ include any relevant supporting documents as per the instructions for the
 specific Talent Area</p>
 </li>
 </ul>
-<p><em>You should get these documents and a digital passport-sized photograph of yourself ready before you start the online application.</em>
-</p>
-<p><em><sup>*We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 6 July 2025 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.</sup></em>
+<p>You should get these documents and a digital passport-sized photograph
+of yourself ready <em>before</em> you start the online application.</p>
+<p><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 3 July 2026 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.&nbsp;</em>
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
-<p>Applications should reach us by&nbsp;<strong>06 July 2025, 2359hr</strong>.
+<p>Applications should reach us latest by&nbsp;<strong>03 July 2026, 2359hr</strong>.
 Incomplete applications (such as those with incomplete information or without
 a complete set of supporting documents) may not be considered.</p>
-<p>For general enquiries, you may email us at <a href="mailto:victoria_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victoria_jc@moe.edu.sg</a>, or call
-the General Office at 64485011.</p>
+<p>All shortlisted applicants who have participated in the phase 1 selection
+will be informed of the outcome between 28 July and 11 August 2026.</p>
+<p>For general enquiries, you may email us at&nbsp;<a href="mailto:victoria_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>victoria_jc@moe.edu.sg</u></a>,
+or call the General Office at 64485011.</p>
 <p>For enquiries relating to:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p><strong>Performing Arts</strong>, please write to Ms Ding Yih, Subject
-Head/Aesthetics at <a href="mailto:ding.yih@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding.yih@vjc.edu.sg</a>
+<p>Performing Arts, please contact Ms Ding Yih, Subject Head/Aesthetics at&nbsp;
+<a href="mailto:ding.yih@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ding.yih@vjc.edu.sg</u>
+</a>
 </p>
 </li>
 <li>
-<p><strong>Sports</strong>, please write to Mr Tan Yew Hwee, HOD/ PE &amp;
-CCA at <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a>
+<p>Sports, please contact Mr Tan Yew Hwee, HOD/ PE &amp; CCA at&nbsp;<a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.yewhwee@vjc.edu.sg</u></a>
 </p>
 </li>
 <li>
-<p><strong>Niche Academic Programmes</strong>, please write to the respective
-teacher i/c as indicated below.</p>
+<p>Niche Academic Programmes, please contact the respective teacher i/c as
+indicated below.</p>
 </li>
 </ul>
 <table style="minWidth: 25px">
@@ -105,9 +104,12 @@ teacher i/c as indicated below.</p>
 </li>
 <li>
 <p><em>The Ministry of Education is entitled to remove my child from the allocated DSA-JC school and enroll my child in any school as may be determined by the Ministry of Education in its sole discretion if:</em>
-<br><em>(a) I have provided false information in this application;</em>
-<br><em>(b) I am unable to resolve any dispute with the child’s other parent with regard to my child’s choice of school as stated above; or</em>
-<br><em>(c) Any person (including me or the other parent or any other person connected with my child) has offered or given or agreed to give to any other person any gift or consideration of any kind as an inducement or reward for showing favour or disfavour to any person in relation to my child’s DSA application.</em>
+</p>
+<p><em>(a) I have provided false information in this application;</em>
+</p>
+<p><em>(b) I am unable to resolve any dispute with the child’s other parent with regard to my child’s choice of school as stated above; or</em>
+</p>
+<p><em>(c) Any person (including me or the other parent or any other person connected with my child) has offered or given or agreed to give to any other person any gift or consideration of any kind as an inducement or reward for showing favour or disfavour to any person in relation to my child’s DSA application.</em>
 </p>
 </li>
 </ul>
@@ -115,35 +117,31 @@ teacher i/c as indicated below.</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h3>Performing Arts</h3>
 <p>Selection will be based on a basket of criteria for the respective talent
-area.
-<br>Auditions will take place in Victoria Junior College. Note the dates and
+area.</p>
+<p>Auditions will take place in Victoria Junior College. Note the dates and
 times for auditions. The teacher in-charge will contact shortlisted applicants
-to confirm the date and time allocated.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Chinese Orchestra</strong>
-</p>
+to confirm the date and time allocated.&nbsp;</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Chinese Orchestra</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :</strong> &nbsp;</p>
+<p>11 July 2026, Saturday, 8.30am – 1.00pm</p>
+<p>15 July 2026, Wednesday, 4.30pm – 7.00pm</p>
 <p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>12 July 2025, Saturday, 8.30am – 1.00pm
-<br>16 July 2025, Wednesday, 4.30pm – 7.00pm&nbsp;</p>
 <p><strong>Venue : </strong>Chinese Orchestra Music Room</p>
+<p></p>
 <p><strong>Format :</strong> All applicants are required to perform a piece
 that contains at least 16 bars each of fast and slow tempo. Applicants
 for percussion instruments are to prepare a piece that showcases contrasting
-tempo as well.
-<br>Applicants will also be given a sight-reading exercise comprising at least
+tempo as well.</p>
+<p>Applicants will also be given a sight-reading exercise comprising at least
 8 bars of music and undergo an interview after the audition.</p>
+<p></p>
 <p><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -163,23 +161,26 @@ strings sections, as these are our areas of need. We are not offering DSA
 places for Guzheng.</p>
 </li>
 </ol>
-<p><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
+<p>
+<br><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
 <a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>| 62402138</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Choir</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Choir</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>12 July 2025, Saturday, 9.30am – 2.00pm
-<br>19 July 2025, Saturday, 9.30am – 11.00am</p>
-<p><strong>Venue : </strong>LT3&nbsp;</p>
+<p>11 July 2026, Saturday, 9.30am – 1.00pm</p>
+<p>18 July 2026, Saturday, 9.30am – 11.00am</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>LT3</p>
+<p>&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to undergo an audition
 (vocal testing exercise) conducted by the choir master, as well as an interview.
-No song preparation is required.&nbsp;</p>
+No song preparation is required.</p>
+<p>&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -194,29 +195,32 @@ No song preparation is required.&nbsp;</p>
 of the JC curriculum.</p>
 </li>
 <li>
-<p>Priority will be given to singers from the male chorus as these are our
-areas of need.&nbsp;</p>
+<p>Priority will be given to singers from the male chorus as that is our
+area of need.</p>
 </li>
 </ol>
+<p>&nbsp;</p>
 <p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
 | <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
-62402168&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Concert Band</strong>
+62402168</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Concert Band</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>5 July 2025, Saturday, 8.00am – 1.30pm
-<br>12 July 2025, Saturday, 8.00am – 10.00am&nbsp;</p>
-<p><strong>Venue : </strong>Band Room&nbsp;</p>
+<p>7 July 2026, Tuesday, 4.30pm – 6.30pm</p>
+<p>11 July 2026, Saturday, 8.00am – 12.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>Band Room</p>
+<p>&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to play two contrasting
-pieces of their choice, and to prepare all major scales. Percussionists
+pieces of their choice, and to prepare all 12 major scales. Percussionists
 should prepare one piece on mallets and another piece on drums or drum
-set. Applicants will also undergo an interview.&nbsp;</p>
+set. Applicants will also undergo an interview.</p>
+<p>&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -232,42 +236,43 @@ of the JC curriculum.</p>
 </li>
 <li>
 <p>Priority will be given to players from the brass section, as this is our
-area of need. We are not looking for pianists.<strong>&nbsp;</strong>
-</p>
+area of need. We are not looking for pianists.</p>
 </li>
 </ol>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
 <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Contemporary Dance</strong>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Contemporary Dance</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>10 July 2025, Thursday, 4.30pm – 7.30pm
-<br>15 July 2025, Tuesday, 4.30pm – 7.30pm&nbsp;</p>
+<p>09 June 2026, Thursday, 4.30pm – 7.30pm</p>
+<p>10 July 2026, Friday, 4.30pm – 7.30pm</p>
 <p><strong>Venue : </strong>T18, T19</p>
 <p><strong>Format :</strong>&nbsp; There will be 3 rounds to the auditions.
 Shortlisted candidates who clear each round will complete all 3 rounds
 within the allocated slot.</p>
+<p></p>
 <p><strong>IMPORTANT NOTES</strong>
-<br>We warmly invite dancers with strong technical foundations, confident
-performance skills, and versatility across genres to audition. We therefore
-encourage applicants to thoughtfully consider their readiness and not treat
-the audition as a trial or exploratory attempt. This ensures that your
-time and energy are respected, and that the audition experience is meaningful
-for all involved.
-<br>
 </p>
+<p>We invite dancers with strong technical foundations, confident performance
+skills, and versatility across genres to audition. We encourage applicants
+to thoughtfully consider their readiness and not treat the audition as
+a trial or exploratory attempt. This ensures that your time and energy
+are respected, and that the audition experience is meaningful for all involved.</p>
+<p>&nbsp;</p>
 <p>We are especially keen to welcome more male dancers into our ensemble
 given the variety of genres offered in our dance programme — if you’re
 technically strong and ready to grow further, we’d love to see you at auditions.</p>
 <p></p>
 <p><u>Round 1</u>
-<br>All applicants will be required to prepare a solo dance piece to a song
+</p>
+<p>All applicants will be required to prepare a solo dance piece to a song
 of their choice, of <strong>not more than 1 minute</strong>.</p>
 <p>Please note that candidates must apply based on only <strong>one </strong>of
 the following dance genres:</p>
@@ -284,98 +289,38 @@ the following dance genres:</p>
 <li>
 <p>Street Dance (<strong>only </strong>Hip Hop , Break Dancing, Popping,
 Locking)</p>
-<p></p>
 </li>
 </ol>
+<p></p>
 <p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
 fusion dance forms or other forms of street dance will<strong> not</strong> be
 eligible for consideration.</p>
 <p></p>
 <p><u>Round 2</u>
-<br>Applicants who pass Round 1 will learn and perform a contemporary choreography
+</p>
+<p>Applicants who pass Round 1 will learn and perform a contemporary choreography
 taught by our instructor. This round assesses your ability to translate
 instruction into performance effectively, embody and execute choreography
-with precision under time constraints.
-<br>
-<br><u>Round 3</u>
-<br>Applicants who pass Round 2 will proceed to Round 3.
-<br>All shortlisted applicants will undergo an interview with the selection
-panel.</p>
-<p><strong>Attire :</strong>
-<br>All applicants should audition in the dance gear and footwear suitable
-for their respective dance genres.</p>
-<p>&nbsp;<strong>Selection Criteria :</strong>
+with precision under time constraints.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Guitar Ensemble</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :&nbsp;</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Applicants should display technical excellence<strong>,</strong> musicality,
-and performance quality in your solo performance (Round 1) and during choreography
-execution (Round 2).</p>
-</li>
-<li>
-<p>Applicants should display versatility. While you audition in one genre,
-those with demonstrated strength across multiple styles are highly regarded.</p>
-</li>
-<li>
-<p>Applicants should possess the ability to cope with the academic rigour
-of the JC curriculum.<strong>&nbsp;</strong>
-</p>
-</li>
-</ol>
-<p><strong>Contact Person, email and number :</strong> Mrs Ting Siang Leng
-| <a href="mailto:goh.siangleng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.siangleng@vjc.edu.sg</a> |
-62402125&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Guitar Ensemble</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>2 July 2025, Wednesday, 3.30pm – 6.30pm
-<br>9 July 2025, Wednesday, 3.30pm – 6.30pm&nbsp;</p>
-<p><strong>Venue : </strong>T16, T17&nbsp;</p>
+<p>8 July 2026, Wednesday, 3.30pm – 6.30pm</p>
+<p>15 July 2026, Wednesday, 3.30pm – 6.30pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>T16, T17</p>
+<p>&nbsp;</p>
 <p><strong>Format : </strong>All applicants are required to play a solo piece
-(not section score or ensemble part) of their choice lasting not more than
-5 minutes. Applicants are also required to sight read a piece provided
-by the conductor. Applicants will undergo an interview after the audition.&nbsp;</p>
-<p><strong>Selection Criteria :</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Applicants should display a high level of musicality.</p>
-</li>
-<li>
-<p>Applicants should pass the interview.</p>
-</li>
-<li>
-<p>Applicants should possess the ability to cope with the academic rigour
-of the JC curriculum.<strong>&nbsp;</strong>
-</p>
-</li>
-</ol>
-<p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
-Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
-62402147</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>String Ensemble</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Audition :</strong>
-<br>21 July 2025, Monday, 4.30pm – 7.00pm
-<br>24 July 2025, Thursday, 4.30pm – 7.00pm&nbsp;</p>
-<p><strong>Venue : </strong>T14, T15</p>
-<p><strong>Format :</strong> All applicants are required to prepare two contrasting <u>solo</u> pieces
-(eg musical periods, tempo) of their choice. <u>No accompaniment</u> will
-be available. Applicants must have experience playing one of the string
-instruments - violin, viola, cello or double bass. Applicants will also
-undergo an interview.&nbsp;</p>
+(not section score or ensemble part) of their choice on a classical guitar
+lasting not more than 5 minutes. Applicants are also required to sight
+read a piece provided by the conductor. Applicants will undergo an interview
+after the audition.</p>
+<p>&nbsp;</p>
 <p><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -390,50 +335,76 @@ undergo an interview.&nbsp;</p>
 of the JC curriculum.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
+Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
+62402147</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>String Ensemble</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Audition :</strong>&nbsp;</p>
+<p>13 July 2026, Monday, 4.30pm – 7.00pm</p>
+<p>16 July 2026, Thursday, 4.30pm – 7.00pm</p>
+<p>&nbsp;</p>
+<p><strong>Venue : </strong>T14, T15</p>
+<p>&nbsp;</p>
+<p><strong>Format :</strong> All applicants are required to prepare two contrasting <u>solo</u> pieces
+(eg musical periods, tempo) of their choice. <u>No accompaniment</u> will
+be available. Applicants must have experience playing one of the string
+instruments - violin, viola, cello or double bass. Applicants will also
+undergo an interview.</p>
+<p>&nbsp;</p>
+<p><strong>Selection Criteria :</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Applicants should display a high level of musicality.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+</ol>
+<p>
+<br><strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
 <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp; 62402134</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p></p>
 <h3>Sports</h3>
 <p>Selection will be considered on a basket of criteria for the respective
-talent area.
-<br>Physical trials will be conducted at Victoria Junior College. No trials
+talent area.&nbsp;</p>
+<p>Physical trials will be conducted at Victoria Junior College. No trials
 will be conducted for applicants to Cross-Country, Track &amp; Field and
-Wushu (see details below).
-<br>Note the dates and times for trials. Applicants should be suitably attired
-for their respective sports trial..</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Badminton</strong>
+Wushu (see details below).</p>
+<p>Note the dates and times for trials. Applicants should be suitably attired
+for their respective sports trial.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Badminton</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Trial:</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:&nbsp;</strong>
-<br>Boys &amp; Girls:
-<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 5pm
-<br>2<sup>nd</sup> trial - 14 July 2025 (Monday) 5pm
-<br>
-</p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
 <p></p>
+<p>Boys &amp; Girls:&nbsp;</p>
+<p>1<sup>st</sup> trial - 25 May 2026 (Monday) 5.00pm&nbsp;</p>
+<p>2<sup>nd</sup> trial - 13 July 2026 (Monday) 5.00pm</p>
+<p></p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.
-<br>
-</p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+after the trial.</p>
+<p></p>
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
@@ -456,32 +427,28 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Contact Persons:</strong>
-<br>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
-64438315<strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Basketball (Girls only)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Contact Persons:</strong>&nbsp;</p>
+<p>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Basketball (Girls Only)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:&nbsp;</strong>
-<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4.30pm
-<br>2<sup>nd</sup> trial - 17 July 2025 (Wednesday) 4.30pm
-<br>
 </p>
+<p></p>
+<p>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00pm&nbsp;</p>
+<p>2<sup>nd</sup> trial - 9 July 2026 (Thursday) 5.00pm</p>
+<p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Courts</p>
 <p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
@@ -505,28 +472,26 @@ Singapore Schools.</p>
 </ol>
 <p></p>
 <p><strong>Contact Person:&nbsp;</strong>
-<br>Mr Larry Lim |&nbsp;<a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">larry.lim.bengteck@vjc.edu.sg</a> |
-62402178<strong>&nbsp;</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Cross-country</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>Mr Larry Lim |&nbsp;<a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>larry.lim.bengteck@vjc.edu.sg</u></a> |
+62402178
+<br>Mr Sean Hoo |&nbsp;<a href="mailto:hoo.kang.sean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hoo.kang.sean@vjc.edu.sg</u></a> |
+64438315&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Cross Country</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
-in official competitions for the sport.
-<br>
-</p>
+in official competitions for the sport.</p>
+<p></p>
 <p>Shortlisted applicants will be invited for an interview.
 <br>
 </p>
-<p><strong>Selection Criteria:</strong>
+<p><strong>Selection Criteria:&nbsp;</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
 <p>Applicants should display a high level of potential in the sport to compete
 at the National School Games A Division competition.</p>
@@ -545,57 +510,35 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person:</strong>
-<br>Mrs Lin Yehong I <a href="mailto:kok.ye.hong@vjc.sg" rel="noopener noreferrer nofollow" target="_blank">kok.ye.hong@vjc.edu.sg</a> I 62402135&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Floorball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>
+<br><strong>Contact Person: </strong>Mrs Lin Yehong I <a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kok.ye.hong@vjc.edu.sg</u></a> I
+62402135</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Floorball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
 </p>
-<p>Girls:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>First Trial - 28 May 2025 (Wednesday), 4.30pm to 6.00pm</p>
-</li>
-<li>
-<p>Second Trial* - 11 July 2025 (Friday), 5.00pm to 6.30pm</p>
-</li>
-</ul>
-<p>Boys:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>First Trial* - 28 May 2025 (Wednesday), 6.00pm to 7.30pm</p>
-</li>
-<li>
-<p>Second Trial* - 11 July 2025 (Friday), 6.30pm to 8.00pm</p>
-</li>
-</ul>
-<p></p>
-<p><em>(*Trial dates have been updated)</em>
+<p>Boys &amp; Girls:&nbsp;</p>
+<p>1<sup>st</sup> trial - 25 May (Monday) 6.00pm;&nbsp;</p>
+<p>2<sup>nd</sup> trial - 15 July (Wednesday) 6.00pm</p>
+<p><strong>&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p></p>
-<p><strong>Venue: </strong>VJC Sheltered Netball Court
-<br>
-</p>
+<p><strong>Venue: </strong>VJC Sheltered Netball Court</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
 </li>
 <li>
-<p>Applicants should pass the interview.</p>
+<p>Applicants should be able to share their thoughts eloquently during the
+interview.</p>
 </li>
 <li>
 <p>Applicants should possess the ability to cope with the academic rigour
@@ -608,42 +551,44 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 <li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;</p>
+<p>Selection will consider the school’s needs in specific playing positions.
+<br>
+</p>
 </li>
 </ol>
 <p><strong>Contact Persons:&nbsp;</strong>
-<br>Mr Thiruselvan | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thiruselvan@vjc.edu.sg</u></a> |
-64438315
-<br>Ms Sharon Tey | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tey.li.wei.sharon@vjc.edu.sg</u></a>|
-64438315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Football</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;
-<br>Boys &amp; Girls
-<br>1<sup>st</sup> trial - 28 May 2025 (Wednesday) 4pm
-<br>2<sup>nd</sup> trial -&nbsp; 16 July 2025 (Wednesday) 4pm</p>
+<p>Mr Thiruselvan | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thiruselvan@vjc.edu.sg</u></a> |
+64438315</p>
+<p>Ms Sharon Tey | <a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tey.li.wei.sharon@vjc.edu.sg</u></a> |
+64438315</p>
+<p>Mr Donavan Low | <a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.wei.jie.donavan@vjc.edu.sg</u></a> |
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Football</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>Boys &amp; Girls&nbsp;</p>
+<p>1<sup>st</sup> trial - 25 May 2026 (Monday) 4:30pm</p>
+<p>2<sup>nd</sup> trial -&nbsp; 8 July 2026 (Wednesday) 4pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC<strong> </strong>Field</p>
 <p></p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
-a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
+a physical trial. Shortlisted&nbsp; applicants will also likely undergo
+an interview after the trial.</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
 </li>
 <li>
-<p>Applicants should pass the interview.</p>
+<p>Applicants should be able to share their thoughts eloquently during the
+interview.</p>
 </li>
 <li>
 <p>Applicants should possess the ability to cope with the academic rigour
@@ -656,150 +601,79 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 <li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;
-<br><strong>&nbsp;</strong>
-</p>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p><strong>Contact Persons:</strong>
-<br>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.yewhwee@vjc.edu.sg</a> |&nbsp;64438315
-<br>Mr Lim Wei Quan<strong> </strong><a href="mailto:lim.wei.quan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.wei.quan@vjc.edu.sg</a> | 64438315&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hockey</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;
-<br>Girls:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1<sup>st</sup> trial - 26 May 2025 (Monday) 4.30pm;</p>
-</li>
-<li>
-<p>2<sup>nd</sup> trial – 15 July 2025 (Tuesday) 4.30pm</p>
-</li>
-</ul>
-<p>Boys:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1<sup>st</sup> trial - 29 May 2025 (Thursday) 5pm;</p>
-</li>
-<li>
-<p>2<sup>nd</sup> trial – 15 July 2025 (Tuesday) 4.30pm</p>
-</li>
-</ul>
 <p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Blue hockey D</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
-a physical trial. Shortlisted applicants will also undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Applicants should display a high level of technical ability, game awareness
-and insight of the game.</p>
-</li>
-<li>
-<p>Applicants should pass the interview.</p>
-</li>
-<li>
-<p>Applicants should possess the ability to cope with the academic rigour
-of the JC curriculum.</p>
-</li>
-<li>
-<p>Selection will factor in applicant’s past experience, achievements or
-awards in the following categories of competition: International / Regional
-/ National inter-school competitions / Represented nation or selected for
-Singapore Schools.</p>
-</li>
-<li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
-</li>
-</ol>
-<p>
-<br><strong>Contact Person:</strong>
-<br>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seet.kokwah@vjc.edu.sg</a> |&nbsp;64438315
-<br>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a> I
-64438315<strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Netball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of&nbsp;Trial:</strong>
-<br>1<sup>st</sup> trial - 26 May 2025 (Monday) 5pm
-<br>2<sup>nd</sup> trial - 17 July 2025 (Thursday) 5pm
-<br><em>*shortlisted applicants will be asked to come back for the 2nd trial</em>
-<br>
-</p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court
-<br>
-</p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
-a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.
-<br>
-</p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Applicants should display a high level of technical ability, game awareness
-and insight of the game.</p>
-</li>
-<li>
-<p>Applicants should pass the interview.</p>
-</li>
-<li>
-<p>Applicants should possess the ability to cope with the academic rigour
-of the JC curriculum.</p>
-</li>
-<li>
-<p>Selection will factor in applicant’s past experience, achievements or
-awards in the following categories of competition: International / Regional
-/ National inter-school competitions / Represented nation or selected for
-Singapore Schools.</p>
-</li>
-<li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
-<p></p>
-</li>
-</ol>
-<p><strong>Contact Person:&nbsp;</strong>
-<br>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
+<p><strong>Contact Persons:</strong>&nbsp;</p>
+<p>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.yewhwee@vjc.edu.sg</u></a> |&nbsp;64438315</p>
+<p>Mr Melvin <a href="mailto:Ongmelvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong<u>melvin.ong@vjc.edu.sg</u></a> |
 64438315</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Table Tennis</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;
-<br>Boys and Girls:&nbsp;
-<br>1<sup>st</sup> trial - 26 May 2025 (Monday) 5pm;
-<br>2<sup>nd</sup> trial - 16 July 2025 (Wednesday) 5pm</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Hockey</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>Girls: 1<sup>st</sup> trial - 26 May 2026 (Tuesday) 5pm; 2<sup>nd</sup> trial
+–&nbsp; 8 July (Wednesday) 4:30 pm</p>
+<p>Boys: 1<sup>st</sup> trial - 28 May 2026(Thursday) 5pm; 2<sup>nd</sup> trial
+– 8 July (Wednesday) 4:30 pm</p>
 <p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
-<p></p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Blue hockey D&nbsp;</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also undergo an interview
 after the trial.</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+</li>
+<li>
+<p>Applicants should pass the interview.</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Contact Person:</strong> 
 </p>
-<ol data-tight="true" class="tight">
+<p>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet.kokwah@vjc.edu.sg</u></a> |&nbsp;64438315</p>
+<p>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee.heanteck.peter@vjc.edu.sg</u></a> I
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Netball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of&nbsp;Trial:</strong>
+</p>
+<p>1<sup>st</sup> trial - 28 May (Thursday) 5pm&nbsp;</p>
+<p>2<sup>nd</sup> trial - 16 July (Thursday) 5pm&nbsp;</p>
+<p><em>*Shortlisted applicants may be asked to come back for the 2nd trial</em>
+</p>
+<p></p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court</p>
+<p></p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also likely undergo an interview
+after the trial.</p>
+<p></p>
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
@@ -822,22 +696,58 @@ Singapore Schools.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Contact Person:</strong>
-<br>Mr Peter Wee | <a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peterwee@vjc.edu.sg</a> &nbsp;|
-64438315&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tennis</strong>
-</p>
-<p><strong>(Boys only)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Date and Time of Trial:</strong>&nbsp;
-<br>1<sup>st</sup> trial - 22 May 2025 (Thursday) 4.30 - 6.30 pm
-<br>2<sup>nd</sup> trial - 10 July 2025 (Thursday) 4.30 - 6.30 pm</p>
+<p><strong>Contact Person:&nbsp;</strong>Ms Judith Sim |<a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Table Tennis</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>Boys and Girls:&nbsp;&nbsp;</p>
+<p>1<sup>st</sup> trial - 22th May 2026 (Friday) 5pm;&nbsp;</p>
+<p>2<sup>nd</sup> trial - 15 July 2026 (Wednesday) 5pm</p>
+<p></p>
+<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<p></p>
+<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+a physical trial. Shortlisted applicants will also undergo an interview
+after the trial.</p>
+<p></p>
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
+<li>
+<p>Applicants should display a high level of technical ability, game awareness
+and insight of the game.</p>
+</li>
+<li>
+<p>Applicants should pass the interview</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Selection will factor in applicant’s past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
+</li>
+</ol>
+<p>
+<br><strong>Contact Person:</strong> Mr Peter Wee |<a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peterwee@vjc.edu.sg</u></a> &nbsp;|
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tennis (Boys Only)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
+<p>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00 pm</p>
+<p>2<sup>nd</sup> trial - 10 July 2026 (Friday) 5.00 pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC Tennis Courts</p>
 <p></p>
@@ -845,9 +755,8 @@ Singapore Schools.</p>
 a physical trial. Shortlisted applicants will also likely undergo an interview
 after the trial.</p>
 <p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<p><strong>Selection Criteria:</strong>&nbsp;</p>
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
@@ -860,41 +769,36 @@ and insight of the game.</p>
 of the JC curriculum.</p>
 </li>
 <li>
-<p>Selection will factor in applicant’s past experience, achievements or
-awards in the following categories of competition: International / Regional
+<p>Selection will factor in the applicant’s past experience, achievements
+or awards in the following categories of competition: International / Regional
 / National inter-school competitions / Represented nation or selected for
 Singapore Schools.</p>
 </li>
 <li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person:</strong>
-<br>Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow.siewfoong@vjc.edu.sg</a> |
-64485011<strong>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Track &amp; Field</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
+64485011</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Track &amp; Field</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
-in official competitions for the sport.
+in official competitions for the sport.</p>
+<p></p>
+<p>Shortlisted applicants will be invited for an interview.
 <br>
 </p>
-<p>Shortlisted applicants will be invited for an interview.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
+<p><strong>Selection Criteria:&nbsp;</strong>
 </p>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
-<p>Applicants should display a high level of technical ability, game awareness
-and insight of the game.</p>
+<p>Applicants should display a high level of potential in the sport to compete
+at the National School Games A Division competition.</p>
 </li>
 <li>
 <p>Applicants should pass the interview.</p>
@@ -910,41 +814,23 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 <li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;&nbsp;</p>
+<p>Selection will consider the school’s needs in specific events.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person:</strong>
-<br>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">judith.sim.mingxin@vjc.edu.sg</a> |
-64438315&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;Volleyball</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<p>
+<br><strong>Contact Person: </strong>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
+64438315</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Volleyball</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
-<br>Girls:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1<sup>st</sup> trial - 29 May 2025 (Thursday) 5pm;</p>
-</li>
-<li>
-<p>2<sup>nd</sup> trial - 15 July 2025 (Tuesday) 5pm</p>
-</li>
-</ul>
-<p></p>
-<p>Boys:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>1<sup>st</sup> trial - 31 May 2025 (Saturday) 9am;</p>
-</li>
-<li>
-<p>2<sup>nd</sup> trial - 15 July 2025 (Tuesday) 6.30pm</p>
-</li>
-</ul>
+</p>
+<p>Girls: 1<sup>st</sup> trial - 26 May (Tuesday) 5.00pm; 2<sup>nd</sup> trial
+- 14 July (Tuesday) 5.00pm</p>
+<p>Boys: 1<sup>st</sup> trial - 28 May (Thursday) 5.00pm; 2<sup>nd</sup> trial
+- 16 July (Thursday) 5.00pm</p>
 <p></p>
 <p><strong>Venue: </strong>VJC Hall</p>
 <p></p>
@@ -954,49 +840,7 @@ after the trial.</p>
 <p></p>
 <p><strong>Selection Criteria:</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Applicants should display a high level of technical ability, game awareness
-and insight of the game.</p>
-</li>
-<li>
-<p>Applicants should pass the interview.</p>
-</li>
-<li>
-<p>Applicants should possess the ability to cope with the academic rigour
-of the JC curriculum.</p>
-</li>
-<li>
-<p>Selection will factor in applicant’s past experience, achievements or
-awards in the following categories of competition: International / Regional
-/ National inter-school competitions / Represented nation or selected for
-Singapore Schools.</p>
-</li>
-<li>
-<p>Selection will consider the school’s needs in specific playing positions.&nbsp;</p>
-</li>
-</ol>
-<p></p>
-<p><strong>Contact Person:</strong>
-<br>Mr Pung Chin Hong| <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pung.chin.hong@vjc.edu.sg</a> |
-64438315&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Wushu</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Format: </strong>Trials are usually not conducted, as applicants
-will be shortlisted based on the quality of their applications, including
-past results in the National School Games or other official Wushu competitions.
-Shortlisted applicants will be invited for an interview.<strong>&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
-</p>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
 and insight of the game.</p>
@@ -1019,16 +863,54 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Contact Person:</strong>
-<br>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon.lim.jia.yin@vjc.edu.sg</u></a> I
-62402192
-<br>Mr Teo Zhiye I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+<p><strong>Contact Person: </strong>Mr Pung Chin Hong | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pung.chin.hong@vjc.edu.sg</u></a> |
 64438315</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Wushu</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Format: </strong>Trials are usually not conducted, as applicants
+will be shortlisted based on the quality of their applications, including
+past results in the National School Games or other official Wushu competitions.
+Shortlisted applicants will be invited for an interview.</p>
 <p></p>
+<p><strong>Selection Criteria:&nbsp;</strong>
+</p>
+<ol>
+<li>
+<p>Applicants should display a high level of potential in the sport to compete
+at the National School Games A Division competition.</p>
+</li>
+<li>
+<p>Applicants should pass the interviews, where their attitude, motivation
+and resilience will be considered.&nbsp;</p>
+</li>
+<li>
+<p>Applicants should possess the ability to cope with the academic rigour
+of the JC curriculum.</p>
+</li>
+<li>
+<p>Selection will factor in applicants’ past experience, achievements or
+awards in the following categories of competition: International / Regional
+/ National inter-school competitions / Represented nation or selected for
+Singapore Schools.</p>
+</li>
+<li>
+<p>Selection will consider the school’s needs in specific categories (e.g.
+skillsets / competition routines).</p>
+</li>
+</ol>
+<p>
+<br><strong>Contact Person:&nbsp;</strong>
+</p>
+<p>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon.lim.jia.yin@vjc.edu.sg</u></a> I
+62402192</p>
+<p>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+64438315</p>
+</div>
+</details>
+</div>
 <h3>Niche Academic Programmes</h3>
 <p>Physical interviews will be conducted in Victoria Junior College. Students
 applying for Niche Academic Programmes are required to produce an additional
