@@ -389,7 +389,8 @@ Wushu (see details below).</p>
 for their respective sports trial.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Badminton</summary>
+<summary><strong>Badminton</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>
 </p>
@@ -433,7 +434,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Basketball (Girls Only)</summary>
+<summary><strong>Basketball (Girls Only)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:&nbsp;</strong>
 </p>
@@ -480,7 +482,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Cross Country</summary>
+<summary><strong>Cross Country</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
@@ -516,7 +519,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Floorball</summary>
+<summary><strong>Floorball</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
 </p>
@@ -567,7 +571,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Football</summary>
+<summary><strong>Football</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>&nbsp;</p>
 <p>Boys &amp; Girls&nbsp;</p>
@@ -612,7 +617,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Hockey</summary>
+<summary><strong>Hockey</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>&nbsp;</p>
 <p>Girls: 1<sup>st</sup> trial - 26 May 2026 (Tuesday) 5pm; 2<sup>nd</sup> trial
@@ -657,7 +663,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Netball</summary>
+<summary><strong>Netball</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:</strong>
 </p>
@@ -701,7 +708,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Table Tennis</summary>
+<summary><strong>Table Tennis</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>&nbsp;</p>
 <p>Boys and Girls:&nbsp;&nbsp;</p>
@@ -743,7 +751,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Tennis (Boys Only)</summary>
+<summary><strong>Tennis (Boys Only)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>&nbsp;</p>
 <p>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00 pm</p>
@@ -784,7 +793,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Track &amp; Field</summary>
+<summary><strong>Track &amp; Field</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
@@ -823,7 +833,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Volleyball</summary>
+<summary><strong>Volleyball</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
 </p>
@@ -868,7 +879,8 @@ Singapore Schools.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Wushu</summary>
+<summary><strong>Wushu</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format: </strong>Trials are usually not conducted, as applicants
 will be shortlisted based on the quality of their applications, including
@@ -1180,6 +1192,92 @@ beyond</p>
 64485011</p>
 <p>Mrs. Yong | <a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng.meichan@vjc.edu.sg</u></a> |
 64485011</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Science Research</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Date &amp; Time of Interview:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>8 July 2026 (Wednesday) 3.30pm – 6.30pm</p>
+</li>
+<li>
+<p>9 July 2026 (Thursday) 3.30pm – 6.30pm</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Format:</strong>
+</p>
+<ol>
+<li>
+<p>Applicants must submit a <u>personal statement</u> (maximum 500 words) detailing
+his/her involvement in STEM/research activities with relevant <u>supporting documents.</u>&nbsp;</p>
+</li>
+</ol>
+<blockquote>
+<p>Supporting documents may include:</p>
+<ul>
+<li>
+<p>abstracts of research reports</p>
+</li>
+<li>
+<p>photos of exhibits, prototypes</p>
+</li>
+<li>
+<p>certificates related to courses, workshops, or other involvement in the
+field of STEM/Science research</p>
+</li>
+</ul>
+</blockquote>
+<p>This personal statement and supporting documents should be submitted as
+an attachment.</p>
+<p></p>
+<ol start="2">
+<li>
+<p>Shortlisted applicants will attend an interview which includes an oral
+review of a research article</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Selection Criteria:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Demonstration of knowledge, interest and passion in STEM Research</p>
+</li>
+<li>
+<p>Clear articulation of motivation and purpose in joining Research@VJC</p>
+</li>
+<li>
+<p>Evidence of past experiences relevant to STEM Research</p>
+</li>
+<li>
+<p>Ability to cope with the rigour of the A-Level curriculum</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Expectations of students selected into the programme</strong>
+</p>
+<p>Students admitted through DSA Science Research must</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete a research project under the school-based research programme;</p>
+</li>
+<li>
+<p>Participate in SSEF and</p>
+</li>
+<li>
+<p>Be involved in VJC Science and Technology Centre events.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Contact persons</strong>:&nbsp;</p>
+<p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu.jiang@vjc.edu.sg</u></a> |
+64485011</p>
+<p>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim.cherchuan@vjc.edu.sg</u></a> |64485011</p>
 </div>
 </details>
 </div>
