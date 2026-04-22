@@ -10,7 +10,7 @@ variant: markdown
 
 We offer Direct School Admission (DSA) to VJC in a number of talent areas. If you want to be part of a vibrant and supportive community, look no further! Join us for our Virtual DSA Outreach Session to find out more about VJC and our talent areas. Register your interest [here](https://for.edu.sg/vjcdsa)!
 
-The DSA-JC application opens on 6 May. Dive into the details on required documents, selection criteria, and trial dates right here! Don’t miss the deadline— submit your applications by 3 July 2025 (2359hrs). Wishing you all the best, and we can’t wait to see you in VJC!
+The DSA-JC application opens on 6 May. Dive into the details on required documents, selection criteria, and trial dates right [here](/dsa2026application/)! Don’t miss the deadline— submit your applications by 3 July 2026 (2359hrs). Wishing you all the best, and we can’t wait to see you in VJC!
 
 The DSA talent areas for the 2026 DSA-JC Admission Exercise are listed below.
 
