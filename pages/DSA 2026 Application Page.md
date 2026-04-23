@@ -6,8 +6,8 @@ description: ""
 ---
 <h3>DSA-JC Application Process</h3>
 <p>Welcome to the application page for the 2026 DSA-JC exercise, for admission
-in year 2027.&nbsp;</p>
-<p>If you are applying to Victoria Junior College through DSA-JC, please:</p>
+in year 2027.&nbsp;
+<br>If you are applying to Victoria Junior College through DSA-JC, please:</p>
 <ol>
 <li>
 <p>Complete and submit <a href="https://portal.vjc.edu.sg/0/dsa.html" rel="noopener noreferrer nofollow" target="_blank"><u>this&nbsp;online DSA application form</u></a> (open
@@ -39,8 +39,8 @@ specific Talent Area</p>
 </li>
 </ul>
 <p>You should get these documents and a digital passport-sized photograph
-of yourself ready <em>before</em> you start the online application.</p>
-<p><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 3 July 2026 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.&nbsp;</em>
+of yourself ready <em>before</em> you start the online application.
+<br><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 3 July 2026 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.&nbsp;</em>
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
@@ -68,13 +68,15 @@ or call the General Office at 64485011.</p>
 indicated below.</p>
 </li>
 </ul>
-<table style="minWidth: 25px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="3" colspan="3">
 <p><em>Before you submit your application, please ensure that your parent acknowledges, understands and agrees to the following:</em>
 </p>
 <ul>
@@ -113,11 +115,12 @@ indicated below.</p>
 </p>
 </li>
 </ul>
-</td>
+</th>
 </tr>
+<tr></tr>
+<tr></tr>
 </tbody>
 </table>
-<hr>
 <h3>Performing Arts</h3>
 <p>Selection will be based on a basket of criteria for the respective talent
 area.</p>
@@ -129,20 +132,21 @@ to confirm the date and time allocated.&nbsp;</p>
 <summary><strong>Chinese Orchestra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Audition :</strong> &nbsp;</p>
-<p>11 July 2026, Saturday, 8.30am – 1.00pm</p>
-<p>15 July 2026, Wednesday, 4.30pm – 7.00pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>Chinese Orchestra Music Room</p>
-<p></p>
-<p><strong>Format :</strong> All applicants are required to perform a piece
+<p><strong>Date and Time of Audition :</strong> 
+<br>11 July 2026, Saturday, 8.30am – 1.00pm
+<br>15 July 2026, Wednesday, 4.30pm – 7.00pm
+<br>
+<br><strong>Venue : </strong>Chinese Orchestra Music Room
+<br>
+<br><strong>Format :</strong> All applicants are required to perform a piece
 that contains at least 16 bars each of fast and slow tempo. Applicants
 for percussion instruments are to prepare a piece that showcases contrasting
-tempo as well.</p>
-<p>Applicants will also be given a sight-reading exercise comprising at least
-8 bars of music and undergo an interview after the audition.</p>
-<p></p>
-<p><strong>Selection Criteria :</strong>
+tempo as well.
+<br>
+<br>Applicants will also be given a sight-reading exercise comprising at least
+8 bars of music and undergo an interview after the audition.
+<br>
+<br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -158,12 +162,12 @@ of the JC curriculum.</p>
 <li>
 <p>Priority will be given to players from the wind, plucked strings and bowed
 strings sections, as these are our areas of need. We are not offering DSA
-places for Guzheng.</p>
-</li>
-</ol>
-<p>
+places for Guzheng.
+<br>
 <br><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
 <a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>| 62402138</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
@@ -171,17 +175,16 @@ places for Guzheng.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Audition :&nbsp;</strong>
-</p>
-<p>11 July 2026, Saturday, 9.30am – 1.00pm</p>
-<p>18 July 2026, Saturday, 9.30am – 11.00am</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>LT3</p>
-<p>&nbsp;</p>
-<p><strong>Format : </strong>All applicants are required to undergo an audition
+<br>11 July 2026, Saturday, 9.30am – 1.00pm
+<br>18 July 2026, Saturday, 9.30am – 11.00am
+<br>
+<br><strong>Venue : </strong>LT3
+<br>
+<br><strong>Format : </strong>All applicants are required to undergo an audition
 (vocal testing exercise) conducted by the choir master, as well as an interview.
-No song preparation is required.</p>
-<p>&nbsp;</p>
-<p><strong>Selection Criteria :</strong>
+No song preparation is required.
+<br>
+<br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -196,10 +199,11 @@ of the JC curriculum.</p>
 </li>
 <li>
 <p>Priority will be given to singers from the male chorus as that is our
-area of need.</p>
+area of need.
+<br>
+</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
 | <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
 62402168</p>
@@ -210,18 +214,17 @@ area of need.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Audition :&nbsp;</strong>
-</p>
-<p>7 July 2026, Tuesday, 4.30pm – 6.30pm</p>
-<p>11 July 2026, Saturday, 8.00am – 12.30pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>Band Room</p>
-<p>&nbsp;</p>
-<p><strong>Format : </strong>All applicants are required to play two contrasting
+<br>7 July 2026, Tuesday, 4.30pm – 6.30pm
+<br>11 July 2026, Saturday, 8.00am – 12.30pm
+<br>
+<br><strong>Venue : </strong>Band Room
+<br>
+<br><strong>Format : </strong>All applicants are required to play two contrasting
 pieces of their choice, and to prepare all 12 major scales. Percussionists
 should prepare one piece on mallets and another piece on drums or drum
 set. Applicants will also undergo an interview.</p>
-<p>&nbsp;</p>
-<p><strong>Selection Criteria :</strong>
+<p>
+<br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -240,8 +243,7 @@ area of need. We are not looking for pianists.</p>
 </li>
 </ol>
 <p><strong>&nbsp;</strong>
-</p>
-<p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
+<br><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
 <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
 </div>
 </details>
