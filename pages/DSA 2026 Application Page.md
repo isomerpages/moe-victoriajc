@@ -242,8 +242,7 @@ of the JC curriculum.</p>
 area of need. We are not looking for pianists.</p>
 </li>
 </ol>
-<p>
-<br><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
+<p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
 <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
 </div>
 </details>
