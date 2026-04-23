@@ -14,7 +14,7 @@ us for our Virtual DSA Outreach Session to find out more about VJC and
 our talent areas. Register your interest <a href="https://for.edu.sg/vjcdsa" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>The DSA-JC application opens on 6 May. Dive into the details on required
 documents, selection criteria, and trial dates right <a href="/dsa2026application/" rel="noopener noreferrer nofollow" target="_blank">here</a>!
-Don’t miss the deadline— submit your applications by 3 July 2026 (2359hrs).
+Don’t miss the deadline— submit your applications by 3 July 2026 (1700hrs).
 Wishing you all the best, and we can’t wait to see you in VJC!</p>
 <p>The DSA talent areas for the 2026 DSA-JC Admission Exercise are listed
 below.</p>
