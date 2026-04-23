@@ -276,9 +276,10 @@ given the variety of genres offered in our dance programme — if you’re
 technically strong and ready to grow further, we’d love to see you at auditions.
 <br>
 <br><u>Round 1</u>
+<br>All applicants will be required to prepare a solo dance piece to a song
+of their choice, of <strong>not more than 1 minute</strong>.
+<br>
 </p>
-<p>All applicants will be required to prepare a solo dance piece to a song
-of their choice, of <strong>not more than 1 minute</strong>.</p>
 <p>Please note that candidates must apply based on only <strong>one </strong>of
 the following dance genres:</p>
 <ol data-tight="true" class="tight">
@@ -296,13 +297,13 @@ the following dance genres:</p>
 Locking)</p>
 </li>
 </ol>
-<p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
+<p>
+<br>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
 fusion dance forms or other forms of street dance will<strong> not</strong> be
 eligible for consideration.
 <br>
 <br><u>Round 2</u>
-</p>
-<p>Applicants who pass Round 1 will learn and perform a contemporary choreography
+<br>Applicants who pass Round 1 will learn and perform a contemporary choreography
 taught by our instructor. This round assesses your ability to translate
 instruction into performance effectively, embody and execute choreography
 with precision under time constraints.</p>
@@ -338,7 +339,7 @@ after the audition.
 of the JC curriculum.</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
+<p>
 <br><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
 Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
 62402147</p>
