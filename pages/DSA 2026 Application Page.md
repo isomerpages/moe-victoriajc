@@ -242,7 +242,7 @@ of the JC curriculum.</p>
 area of need. We are not looking for pianists.</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
+<p>
 <br><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
 <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
 </div>
@@ -252,27 +252,30 @@ area of need. We are not looking for pianists.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Audition :&nbsp;</strong>
+<br>09 June 2026, Thursday, 4.30pm – 7.30pm
+<br>10 July 2026, Friday, 4.30pm – 7.30pm
+<br>
 </p>
-<p>09 June 2026, Thursday, 4.30pm – 7.30pm</p>
-<p>10 July 2026, Friday, 4.30pm – 7.30pm</p>
-<p><strong>Venue : </strong>T18, T19</p>
+<p><strong>Venue : </strong>T18, T19
+<br>
+</p>
 <p><strong>Format :</strong>&nbsp; There will be 3 rounds to the auditions.
 Shortlisted candidates who clear each round will complete all 3 rounds
-within the allocated slot.</p>
-<p></p>
-<p><strong>IMPORTANT NOTES</strong>
+within the allocated slot.
+<br>
+<br><strong>IMPORTANT NOTES</strong>
 </p>
 <p>We invite dancers with strong technical foundations, confident performance
 skills, and versatility across genres to audition. We encourage applicants
 to thoughtfully consider their readiness and not treat the audition as
 a trial or exploratory attempt. This ensures that your time and energy
-are respected, and that the audition experience is meaningful for all involved.</p>
-<p>&nbsp;</p>
-<p>We are especially keen to welcome more male dancers into our ensemble
+are respected, and that the audition experience is meaningful for all involved.
+<br>
+<br>We are especially keen to welcome more male dancers into our ensemble
 given the variety of genres offered in our dance programme — if you’re
-technically strong and ready to grow further, we’d love to see you at auditions.</p>
-<p></p>
-<p><u>Round 1</u>
+technically strong and ready to grow further, we’d love to see you at auditions.
+<br>
+<br><u>Round 1</u>
 </p>
 <p>All applicants will be required to prepare a solo dance piece to a song
 of their choice, of <strong>not more than 1 minute</strong>.</p>
@@ -293,12 +296,11 @@ the following dance genres:</p>
 Locking)</p>
 </li>
 </ol>
-<p></p>
 <p>All other dance genres namely, Ethnic dance (Chinese, Malay, Indian dance),
 fusion dance forms or other forms of street dance will<strong> not</strong> be
-eligible for consideration.</p>
-<p></p>
-<p><u>Round 2</u>
+eligible for consideration.
+<br>
+<br><u>Round 2</u>
 </p>
 <p>Applicants who pass Round 1 will learn and perform a contemporary choreography
 taught by our instructor. This round assesses your ability to translate
@@ -311,19 +313,18 @@ with precision under time constraints.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Audition :&nbsp;</strong>
-</p>
-<p>8 July 2026, Wednesday, 3.30pm – 6.30pm</p>
-<p>15 July 2026, Wednesday, 3.30pm – 6.30pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>T16, T17</p>
-<p>&nbsp;</p>
-<p><strong>Format : </strong>All applicants are required to play a solo piece
+<br>8 July 2026, Wednesday, 3.30pm – 6.30pm
+<br>15 July 2026, Wednesday, 3.30pm – 6.30pm
+<br>
+<br><strong>Venue : </strong>T16, T17
+<br>
+<br><strong>Format : </strong>All applicants are required to play a solo piece
 (not section score or ensemble part) of their choice on a classical guitar
 lasting not more than 5 minutes. Applicants are also required to sight
 read a piece provided by the conductor. Applicants will undergo an interview
-after the audition.</p>
-<p>&nbsp;</p>
-<p><strong>Selection Criteria :</strong>
+after the audition.
+<br>
+<br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -338,8 +339,7 @@ of the JC curriculum.</p>
 </li>
 </ol>
 <p><strong>&nbsp;</strong>
-</p>
-<p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
+<br><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
 Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
 62402147</p>
 </div>
@@ -348,19 +348,19 @@ Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferr
 <summary><strong>String Ensemble</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Audition :</strong>&nbsp;</p>
-<p>13 July 2026, Monday, 4.30pm – 7.00pm</p>
-<p>16 July 2026, Thursday, 4.30pm – 7.00pm</p>
-<p>&nbsp;</p>
-<p><strong>Venue : </strong>T14, T15</p>
-<p>&nbsp;</p>
-<p><strong>Format :</strong> All applicants are required to prepare two contrasting <u>solo</u> pieces
+<p><strong>Date and Time of Audition :</strong>&nbsp;
+<br>13 July 2026, Monday, 4.30pm – 7.00pm
+<br>16 July 2026, Thursday, 4.30pm – 7.00pm
+<br>
+<br><strong>Venue : </strong>T14, T15
+<br>
+<br><strong>Format :</strong> All applicants are required to prepare two contrasting <u>solo</u> pieces
 (eg musical periods, tempo) of their choice. <u>No accompaniment</u> will
 be available. Applicants must have experience playing one of the string
 instruments - violin, viola, cello or double bass. Applicants will also
-undergo an interview.</p>
-<p>&nbsp;</p>
-<p><strong>Selection Criteria :</strong>
+undergo an interview.
+<br>
+<br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
