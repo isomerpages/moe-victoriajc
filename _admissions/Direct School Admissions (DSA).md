@@ -18,8 +18,7 @@ Don’t miss the deadline— submit your applications by 3 July 2026 (2359hrs).
 Wishing you all the best, and we can’t wait to see you in VJC!</p>
 <p>The DSA talent areas for the 2026 DSA-JC Admission Exercise are listed
 below.</p>
-<p><strong>Performing Arts</strong>
-</p>
+<h4><strong>Performing Arts</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese Orchestra</p>
@@ -40,8 +39,7 @@ below.</p>
 <p>String Ensemble</p>
 </li>
 </ul>
-<p><strong>Sports</strong>
-</p>
+<h4><strong>Sports</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Badminton</p>
@@ -80,8 +78,7 @@ below.</p>
 <p>Wushu</p>
 </li>
 </ul>
-<p><strong>Niche Academic Programmes</strong>
-</p>
+<h4><strong>Niche Academic Programmes</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Drama Elective Programme (DEP)</p>
