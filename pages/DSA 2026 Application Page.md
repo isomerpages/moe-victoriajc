@@ -395,18 +395,17 @@ for their respective sports trial.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>
-</p>
-<p></p>
-<p>Boys &amp; Girls:&nbsp;</p>
-<p>1<sup>st</sup> trial - 25 May 2026 (Monday) 5.00pm&nbsp;</p>
-<p>2<sup>nd</sup> trial - 13 July 2026 (Monday) 5.00pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
+<br>
+<br>Boys &amp; Girls:&nbsp;
+<br>1<sup>st</sup> trial - 25 May 2026 (Monday) 5.00pm&nbsp;
+<br>2<sup>nd</sup> trial - 13 July 2026 (Monday) 5.00pm
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -429,8 +428,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Persons:</strong>&nbsp;</p>
+<p>
+<br><strong>Contact Persons:</strong>&nbsp;</p>
 <p>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
 64438315</p>
 </div>
@@ -440,18 +439,16 @@ Singapore Schools.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:&nbsp;</strong>
-</p>
-<p></p>
-<p>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00pm&nbsp;</p>
-<p>2<sup>nd</sup> trial - 9 July 2026 (Thursday) 5.00pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Courts</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<br>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00pm&nbsp;
+<br>2<sup>nd</sup> trial - 9 July 2026 (Thursday) 5.00pm
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Sheltered Courts
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -474,8 +471,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person:&nbsp;</strong>
+<p>
+<br><strong>Contact Person:&nbsp;</strong>
 </p>
 <p>Mr Larry Lim |&nbsp;<a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>larry.lim.bengteck@vjc.edu.sg</u></a> |
 62402178
@@ -489,12 +486,11 @@ Singapore Schools.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
-in official competitions for the sport.</p>
-<p></p>
-<p>Shortlisted applicants will be invited for an interview.
+in official competitions for the sport.
 <br>
-</p>
-<p><strong>Selection Criteria:&nbsp;</strong>
+<br>Shortlisted applicants will be invited for an interview.
+<br>
+<br><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -525,18 +521,18 @@ Singapore Schools.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
+<br>Boys &amp; Girls:&nbsp;
+<br>1<sup>st</sup> trial - 25 May (Monday) 6.00pm;&nbsp;
+<br>2<sup>nd</sup> trial - 15 July (Wednesday) 6.00pm
+<br>
+<br><strong>Venue: </strong>VJC Sheltered Netball Court
+<br>
 </p>
-<p>Boys &amp; Girls:&nbsp;</p>
-<p>1<sup>st</sup> trial - 25 May (Monday) 6.00pm;&nbsp;</p>
-<p>2<sup>nd</sup> trial - 15 July (Wednesday) 6.00pm</p>
-<p><strong>&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p><strong>Venue: </strong>VJC Sheltered Netball Court</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -557,12 +553,11 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 <li>
-<p>Selection will consider the school’s needs in specific playing positions.
-<br>
-</p>
+<p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p><strong>Contact Persons:&nbsp;</strong>
+<p>
+<br><strong>Contact Persons:&nbsp;</strong>
 </p>
 <p>Mr Thiruselvan | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thiruselvan@vjc.edu.sg</u></a> |
 64438315</p>
@@ -576,18 +571,18 @@ Singapore Schools.</p>
 <summary><strong>Football</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>Boys &amp; Girls&nbsp;</p>
-<p>1<sup>st</sup> trial - 25 May 2026 (Monday) 4:30pm</p>
-<p>2<sup>nd</sup> trial -&nbsp; 8 July 2026 (Wednesday) 4pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Field</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>Boys &amp; Girls&nbsp;
+<br>1<sup>st</sup> trial - 25 May 2026 (Monday) 4:30pm
+<br>2<sup>nd</sup> trial -&nbsp; 8 July 2026 (Wednesday) 4pm
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Field
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted&nbsp; applicants will also likely undergo
-an interview after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+an interview after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -611,8 +606,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Persons:</strong>&nbsp;</p>
+<p>
+<br><strong>Contact Persons:</strong>&nbsp;</p>
 <p>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.yewhwee@vjc.edu.sg</u></a> |&nbsp;64438315</p>
 <p>Mr Melvin <a href="mailto:Ongmelvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong<u>melvin.ong@vjc.edu.sg</u></a> |
 64438315</p>
@@ -622,18 +617,20 @@ Singapore Schools.</p>
 <summary><strong>Hockey</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>Girls: 1<sup>st</sup> trial - 26 May 2026 (Tuesday) 5pm; 2<sup>nd</sup> trial
-–&nbsp; 8 July (Wednesday) 4:30 pm</p>
-<p>Boys: 1<sup>st</sup> trial - 28 May 2026(Thursday) 5pm; 2<sup>nd</sup> trial
-– 8 July (Wednesday) 4:30 pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Blue hockey D&nbsp;</p>
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>Girls: 1<sup>st</sup> trial - 26 May 2026 (Tuesday) 5pm; 2<sup>nd</sup> trial
+–&nbsp; 8 July (Wednesday) 4:30 pm
+<br>Boys: 1<sup>st</sup> trial - 28 May 2026(Thursday) 5pm; 2<sup>nd</sup> trial
+– 8 July (Wednesday) 4:30 pm
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Blue hockey D
+<br>
+</p>
 <p><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -656,8 +653,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person:</strong>
+<p>
+<br><strong>Contact Person:</strong>
 </p>
 <p>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet.kokwah@vjc.edu.sg</u></a> |&nbsp;64438315</p>
 <p>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee.heanteck.peter@vjc.edu.sg</u></a> I
@@ -669,19 +666,17 @@ Singapore Schools.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:</strong>
-</p>
-<p>1<sup>st</sup> trial - 28 May (Thursday) 5pm&nbsp;</p>
-<p>2<sup>nd</sup> trial - 16 July (Thursday) 5pm&nbsp;</p>
-<p><em>*Shortlisted applicants may be asked to come back for the 2nd trial</em>
-</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<br>1<sup>st</sup> trial - 28 May (Thursday) 5pm&nbsp;
+<br>2<sup>nd</sup> trial - 16 July (Thursday) 5pm&nbsp;
+<br><em>*Shortlisted applicants may be asked to come back for the 2nd trial</em>
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Sheltered Court
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -702,10 +697,10 @@ Singapore Schools.</p>
 </li>
 <li>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
-<p></p>
 </li>
 </ol>
-<p><strong>Contact Person:&nbsp;</strong>Ms Judith Sim |<a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
+<p>
+<br><strong>Contact Person:&nbsp;</strong>Ms Judith Sim |<a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -713,18 +708,18 @@ Singapore Schools.</p>
 <summary><strong>Table Tennis</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>Boys and Girls:&nbsp;&nbsp;</p>
-<p>1<sup>st</sup> trial - 22th May 2026 (Friday) 5pm;&nbsp;</p>
-<p>2<sup>nd</sup> trial - 15 July 2026 (Wednesday) 5pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC<strong> </strong>Hall</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<p><strong>Date and Time of Trial:</strong>
+<br>Boys and Girls:
+<br>1<sup>st</sup> trial - 22th May 2026 (Friday) 5pm;&nbsp;
+<br>2<sup>nd</sup> trial - 15 July 2026 (Wednesday) 5pm
+<br>
+<br><strong>Venue: </strong>VJC<strong> </strong>Hall
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -756,17 +751,17 @@ Singapore Schools.</p>
 <summary><strong>Tennis (Boys Only)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Date and Time of Trial:</strong>&nbsp;</p>
-<p>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00 pm</p>
-<p>2<sup>nd</sup> trial - 10 July 2026 (Friday) 5.00 pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC Tennis Courts</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<p><strong>Date and Time of Trial:</strong>&nbsp;
+<br>1<sup>st</sup> trial - 28 May 2026 (Thursday) 5.00 pm
+<br>2<sup>nd</sup> trial - 10 July 2026 (Friday) 5.00 pm
+<br>
+<br><strong>Venue: </strong>VJC Tennis Courts
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>&nbsp;</p>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>&nbsp;</p>
 <ol>
 <li>
 <p>Applicants should display a high level of technical ability, game awareness
@@ -787,10 +782,10 @@ Singapore Schools.</p>
 </li>
 <li>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
-<p></p>
 </li>
 </ol>
-<p><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
+<p>
+<br><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
 64485011</p>
 </div>
 </details>
@@ -800,12 +795,11 @@ Singapore Schools.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Format:</strong> No trials will be conducted. Applicants will be
 shortlisted based on the quality of their applications including past results
-in official competitions for the sport.</p>
-<p></p>
-<p>Shortlisted applicants will be invited for an interview.
+in official competitions for the sport.
 <br>
-</p>
-<p><strong>Selection Criteria:&nbsp;</strong>
+<br>Shortlisted applicants will be invited for an interview.
+<br>
+<br><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -839,19 +833,18 @@ Singapore Schools.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Trial:&nbsp;</strong>
-</p>
-<p>Girls: 1<sup>st</sup> trial - 26 May (Tuesday) 5.00pm; 2<sup>nd</sup> trial
-- 14 July (Tuesday) 5.00pm</p>
-<p>Boys: 1<sup>st</sup> trial - 28 May (Thursday) 5.00pm; 2<sup>nd</sup> trial
-- 16 July (Thursday) 5.00pm</p>
-<p></p>
-<p><strong>Venue: </strong>VJC Hall</p>
-<p></p>
-<p><strong>Format:</strong>&nbsp;All applicants are required to go through
+<br>Girls: 1<sup>st</sup> trial - 26 May (Tuesday) 5.00pm; 2<sup>nd</sup> trial
+- 14 July (Tuesday) 5.00pm
+<br>Boys: 1<sup>st</sup> trial - 28 May (Thursday) 5.00pm; 2<sup>nd</sup> trial
+- 16 July (Thursday) 5.00pm
+<br>
+<br><strong>Venue: </strong>VJC Hall
+<br>
+<br><strong>Format:</strong>&nbsp;All applicants are required to go through
 a physical trial. Shortlisted applicants will also likely undergo an interview
-after the trial.</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
+after the trial.
+<br>
+<br><strong>Selection Criteria:</strong>
 </p>
 <ol>
 <li>
@@ -875,8 +868,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Contact Person: </strong>Mr Pung Chin Hong | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pung.chin.hong@vjc.edu.sg</u></a> |
+<p>
+<br><strong>Contact Person: </strong>Mr Pung Chin Hong | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pung.chin.hong@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -887,9 +880,9 @@ Singapore Schools.</p>
 <p><strong>Format: </strong>Trials are usually not conducted, as applicants
 will be shortlisted based on the quality of their applications, including
 past results in the National School Games or other official Wushu competitions.
-Shortlisted applicants will be invited for an interview.</p>
-<p></p>
-<p><strong>Selection Criteria:&nbsp;</strong>
+Shortlisted applicants will be invited for an interview.
+<br>
+<br><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -938,7 +931,7 @@ found in the descriptions below.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of&nbsp;Audition:</strong>
 </p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>1 July 2026 (Wednesday) 2.00pm – 7.00pm</p>
 </li>
@@ -946,13 +939,13 @@ found in the descriptions below.</p>
 <p>2 July 2026 (Thursday) 3.00pm – 7.00pm</p>
 </li>
 <li>
-<p>22 July 2026 (Wednesday) 3.00pm – 7.00pm</p>
+<p>22 July 2026 (Wednesday) 3.00pm – 7.00</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Venue: </strong>TSD Studio 1</p>
-<p></p>
-<p><strong>Format:&nbsp;</strong>
+<p>
+<br><strong>Venue: </strong>TSD Studio 1
+<br>
+<br><strong>Format:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -973,10 +966,11 @@ These supporting documents may include:&nbsp;</p>
 activities</p>
 </li>
 <li>
-<p>Links to videos of past performances&nbsp;</p>
+<p>Links to videos of past performances&nbsp;
+<br>
+</p>
 </li>
 </ul>
-<p></p>
 <ol start="2">
 <li>
 <p>Shortlisted applicants will then be notified via email and required to
@@ -995,8 +989,8 @@ on the day of audition,</p>
 <p>Will be interviewed</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Selection Criteria:&nbsp;</strong>
+<p>
+<br><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ul>
 <li>
@@ -1013,8 +1007,8 @@ adaptable and takes direction well</p>
 <p>Ability to cope with the rigour of the A-Level curriculum</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Expectations of students selected into the programme</strong>
+<p>
+<br><strong>Expectations of students selected into the programme</strong>
 </p>
 <p>Students admitted through DSA Drama Elective Programme must</p>
 <ol>
@@ -1029,11 +1023,10 @@ and;</p>
 <p>Be involved in TSD workshops and outreach events</p>
 </li>
 </ol>
-<p></p>
-<p><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
-</p>
-<p></p>
-<p><strong>Contact Persons:&nbsp;</strong>
+<p>
+<br><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
+<br>
+<br><strong>Contact Persons:&nbsp;</strong>
 </p>
 <p>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee.wen.zhi.cheryl@vjc.edu.sg</u></a> |
 64485011 (ext. 128)</p>
@@ -1046,13 +1039,12 @@ and;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Interview:</strong>
-</p>
-<p>7 July 2026, Wednesday:&nbsp; 4 to 6pm</p>
-<p>14 July 2026, Wednesday: 2 to 5pm</p>
-<p></p>
-<p><strong>Venue: </strong>E21, Vantage Point, VJC</p>
-<p></p>
-<p><strong>Format: On the spot short writing task; F2F Group interview</strong>
+<br>7 July 2026, Wednesday:&nbsp; 4 to 6pm
+<br>14 July 2026, Wednesday: 2 to 5pm
+<br>
+<br><strong>Venue: </strong>E21, Vantage Point, VJC
+<br>
+<br><strong>Format: On the spot short writing task; F2F Group interview</strong>
 </p>
 <p>(1) Applicant must submit the following:</p>
 <ul data-tight="true" class="tight">
@@ -1086,26 +1078,25 @@ creative writing programmes, school-based Humanities talent development
 programmes)</p>
 </blockquote>
 <p>(2) Shortlisted applicants will attend a group interview, which includes
-an on the spot writing exercise.&nbsp;</p>
-<p></p>
-<p><strong>*Please note incomplete essay/portfolio submissions will not be entertained.</strong>
-</p>
-<p></p>
-<p><strong>Selection Criteria:</strong>
+an on the spot writing exercise.&nbsp;
+<br>
+<br><strong>*Please note incomplete essay/portfolio submissions will not be entertained.</strong>
+<br>
+<br><strong>Selection Criteria:</strong>
 </p>
 <p>(1) Demonstration of strong interest and aptitude in the Humanities;</p>
 <p>(2) Evidence of participation and/or achievements in Humanities-related
 programmes, competitions and/or events;</p>
-<p>(3) Ability to cope with the rigour of the A-level curriculum.</p>
-<p></p>
-<p><strong>Expectations of students selected into the programme:</strong>
+<p>(3) Ability to cope with the rigour of the A-level curriculum.
+<br>
+<br><strong>Expectations of students selected into the programme:</strong>
 </p>
 <p>Students admitted to VJC via DSA (Humanities Programme) must</p>
 <p>(1) Enrol in the <strong>Arts </strong>course;</p>
 <p>(2) <strong>Offer H2 Literature in English</strong> at the A-level Examinations;</p>
-<p>(3) Be actively involved in the Humanities Programme in VJC.</p>
-<p></p>
-<p><strong>Contact Persons:&nbsp;</strong>
+<p>(3) Be actively involved in the Humanities Programme in VJC.
+<br>
+<br><strong>Contact Persons:&nbsp;</strong>
 </p>
 <p>Ms Audrey Ngerng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngerng.xiuru.audrey@vjc.edu.sg</u></a> |
 64485011 (ext 127)</p>
@@ -1120,11 +1111,10 @@ programmes, competitions and/or events;</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Interview:</strong>
-</p>
-<p>Shortlisted applicants will be provided with the relevant details. Interviews
-are scheduled for the second and third weeks of July.</p>
-<p></p>
-<p><strong>Format:&nbsp;</strong>
+<br>Shortlisted applicants will be provided with the relevant details. Interviews
+are scheduled for the second and third weeks of July.
+<br>
+<br><strong>Format:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -1133,8 +1123,8 @@ their involvement in Computing-related activities, accompanied by relevant
 supporting documents.&nbsp;</p>
 </li>
 </ol>
-<p></p>
-<p>Supporting documents may include:</p>
+<p>
+<br>Supporting documents may include:</p>
 <ul>
 <li>
 <p>Certificates from competitions such as the National Olympiad in Informatics,
@@ -1145,17 +1135,18 @@ National Cybersecurity Olympiad, National Olympiad in AI and other hackathons.</
 or work attachments.</p>
 </li>
 <li>
-<p>Examples of Computing-related projects.</p>
+<p>Examples of Computing-related projects.
+<br>
+</p>
 </li>
 </ul>
-<p></p>
 <ol start="2">
 <li>
 <p>Shortlisted applicants will then be invited for an interview.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Selection Criteria:&nbsp;</strong>
+<p>
+<br><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -1184,8 +1175,9 @@ the rigour of the A-Level curriculum.
 beyond</p>
 </li>
 <li>
-<p>provide peer tutoring to selected H2 Computing students.</p>
-<p></p>
+<p>provide peer tutoring to selected H2 Computing students.
+<br>
+</p>
 </li>
 </ol>
 <p><strong>Contact Persons:&nbsp;</strong>
@@ -1210,8 +1202,8 @@ beyond</p>
 <p>9 July 2026 (Thursday) 3.30pm – 6.30pm</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Format:</strong>
+<p>
+<br><strong>Format:</strong>
 </p>
 <ol>
 <li>
@@ -1235,16 +1227,17 @@ field of STEM/Science research</p>
 </ul>
 </blockquote>
 <p>This personal statement and supporting documents should be submitted as
-an attachment.</p>
-<p></p>
+an attachment.
+<br>
+</p>
 <ol start="2">
 <li>
 <p>Shortlisted applicants will attend an interview which includes an oral
 review of a research article</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Selection Criteria:</strong>
+<p>
+<br><strong>Selection Criteria:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -1260,8 +1253,8 @@ review of a research article</p>
 <p>Ability to cope with the rigour of the A-Level curriculum</p>
 </li>
 </ol>
-<p></p>
-<p><strong>Expectations of students selected into the programme</strong>
+<p>
+<br><strong>Expectations of students selected into the programme</strong>
 </p>
 <p>Students admitted through DSA Science Research must</p>
 <ul data-tight="true" class="tight">
@@ -1275,8 +1268,8 @@ review of a research article</p>
 <p>Be involved in VJC Science and Technology Centre events.</p>
 </li>
 </ul>
-<p></p>
-<p><strong>Contact persons</strong>:&nbsp;</p>
+<p>
+<br><strong>Contact persons</strong>:&nbsp;</p>
 <p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu.jiang@vjc.edu.sg</u></a> |
 64485011</p>
 <p>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim.cherchuan@vjc.edu.sg</u></a> |64485011</p>
