@@ -222,8 +222,8 @@ area of need.
 <br><strong>Format : </strong>All applicants are required to play two contrasting
 pieces of their choice, and to prepare all 12 major scales. Percussionists
 should prepare one piece on mallets and another piece on drums or drum
-set. Applicants will also undergo an interview.</p>
-<p>
+set. Applicants will also undergo an interview.
+<br>
 <br><strong>Selection Criteria :</strong>
 </p>
 <ol data-tight="true" class="tight">
