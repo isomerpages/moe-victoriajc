@@ -44,7 +44,7 @@ of yourself ready <em>before</em> you start the online application.
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
-<p>Applications should reach us latest by&nbsp;<strong>03 July 2026, 1700hr</strong>.
+<p>Applications should reach us latest by&nbsp;<strong>03 July 2026, 1700hrs</strong>.
 Incomplete applications (such as those with incomplete information or without
 a complete set of supporting documents) may not be considered.</p>
 <p>All shortlisted applicants who have participated in the phase 1 selection
