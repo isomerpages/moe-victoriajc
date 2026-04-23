@@ -710,7 +710,7 @@ Singapore Schools.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>
 <br>Boys and Girls:
-<br>1<sup>st</sup> trial - 22th May 2026 (Friday) 5pm;&nbsp;
+<br>1<sup>st</sup> trial - 22 May 2026 (Friday) 5pm;&nbsp;
 <br>2<sup>nd</sup> trial - 15 July 2026 (Wednesday) 5pm
 <br>
 <br><strong>Venue: </strong>VJC<strong> </strong>Hall
@@ -743,7 +743,7 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p>
-<br><strong>Contact Person:</strong> Mr Peter Wee |<a href="mailto:peterwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peterwee@vjc.edu.sg</u></a> &nbsp;|
+<br><strong>Contact Person:</strong> Mr Peter Wee |<a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>&nbsp;|
 64438315</p>
 </div>
 </details>
