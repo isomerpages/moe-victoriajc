@@ -381,7 +381,6 @@ of the JC curriculum.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3>Sports</h3>
 <p>Selection will be considered on a basket of criteria for the respective
 talent area.&nbsp;</p>
@@ -396,7 +395,6 @@ for their respective sports trial.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>
-<br>
 <br>Boys &amp; Girls:&nbsp;
 <br>1<sup>st</sup> trial - 25 May 2026 (Monday) 5.00pm&nbsp;
 <br>2<sup>nd</sup> trial - 13 July 2026 (Monday) 5.00pm
@@ -430,8 +428,8 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p>
-<br><strong>Contact Persons:</strong>&nbsp;</p>
-<p>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+<br><strong>Contact Persons:</strong>
+<br>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
 64438315</p>
 </div>
 </details>
@@ -473,9 +471,8 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p>
-<br><strong>Contact Person:&nbsp;</strong>
-</p>
-<p>Mr Larry Lim |&nbsp;<a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>larry.lim.bengteck@vjc.edu.sg</u></a> |
+<br><strong>Contact Person:</strong>
+<br>Mr Larry Lim |&nbsp;<a href="mailto:larry.lim.bengteck@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>larry.lim.bengteck@vjc.edu.sg</u></a> |
 62402178
 <br>Mr Sean Hoo |&nbsp;<a href="mailto:hoo.kang.sean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hoo.kang.sean@vjc.edu.sg</u></a> |
 64438315&nbsp;</p>
@@ -558,13 +555,12 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p>
-<br><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Mr Thiruselvan | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thiruselvan@vjc.edu.sg</u></a> |
-64438315</p>
-<p>Ms Sharon Tey | <a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tey.li.wei.sharon@vjc.edu.sg</u></a> |
-64438315</p>
-<p>Mr Donavan Low | <a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.wei.jie.donavan@vjc.edu.sg</u></a> |
+<br><strong>Contact Persons:</strong>
+<br>Mr Thiruselvan | <a href="mailto:thiruselvan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>thiruselvan@vjc.edu.sg</u></a> |
+64438315
+<br>Ms Sharon Tey | <a href="mailto:tey.li.wei.sharon@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tey.li.wei.sharon@vjc.edu.sg</u></a> |
+64438315
+<br>Mr Donavan Low | <a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.wei.jie.donavan@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -608,9 +604,9 @@ Singapore Schools.</p>
 </li>
 </ol>
 <p>
-<br><strong>Contact Persons:</strong>&nbsp;</p>
-<p>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.yewhwee@vjc.edu.sg</u></a> |&nbsp;64438315</p>
-<p>Mr Melvin <a href="mailto:Ongmelvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong<u>melvin.ong@vjc.edu.sg</u></a> |
+<br><strong>Contact Persons:</strong>
+<br>Mr Tan Yew Hwee | <a href="mailto:tan.yewhwee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan.yewhwee@vjc.edu.sg</u></a> |&nbsp;64438315
+<br>Mr Melvin <a href="mailto:Ongmelvin.ong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ong<u>melvin.ong@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -652,13 +648,12 @@ Singapore Schools.</p>
 </li>
 <li>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
+<p></p>
 </li>
 </ol>
-<p>
-<br><strong>Contact Person:</strong>
-</p>
-<p>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet.kokwah@vjc.edu.sg</u></a> |&nbsp;64438315</p>
-<p>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee.heanteck.peter@vjc.edu.sg</u></a> I
+<p><strong>Contact Person:</strong>
+<br>Mr Seet Kok Wah | <a href="mailto:seet.kokwah@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>seet.kokwah@vjc.edu.sg</u></a> |&nbsp;64438315
+<br>Mr Peter Wee I <a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee.heanteck.peter@vjc.edu.sg</u></a> I
 64438315</p>
 </div>
 </details>
@@ -783,10 +778,10 @@ Singapore Schools.</p>
 </li>
 <li>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
+<p></p>
 </li>
 </ol>
-<p>
-<br><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
+<p><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
 64485011</p>
 </div>
 </details>
@@ -907,14 +902,13 @@ Singapore Schools.</p>
 <li>
 <p>Selection will consider the school’s needs in specific categories (e.g.
 skillsets / competition routines).</p>
+<p></p>
 </li>
 </ol>
-<p>
-<br><strong>Contact Person:&nbsp;</strong>
-</p>
-<p>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon.lim.jia.yin@vjc.edu.sg</u></a> I
-62402192</p>
-<p>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
+<p><strong>Contact Person:</strong>
+<br>Ms Sharon Lim I <a href="mailto:sharon.lim.jia.yin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sharon.lim.jia.yin@vjc.edu.sg</u></a> I
+62402192
+<br>Mr Teo Zhiye I <a href="mailto:teo.zhiye@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo.zhiye@vjc.edu.sg</u></a> I
 64438315</p>
 </div>
 </details>
@@ -1024,14 +1018,12 @@ and;</p>
 <p>Be involved in TSD workshops and outreach events</p>
 </li>
 </ol>
-<p>
-<br><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
+<p><em>* The student is not expected to join the English Drama Club as their CCA, but is required to participate in the development, rehearsals, and presentation of the SYF AP Drama performance.</em>
 <br>
-<br><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee.wen.zhi.cheryl@vjc.edu.sg</u></a> |
-64485011 (ext. 128)</p>
-<p>Ms Low Mun Fei | <a href="mailto:low.mun.fei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.mun.fei@vjc.edu.sg</u></a> |
+<br><strong>Contact Persons:</strong>
+<br>Ms Cheryl Lee | <a href="mailto:lee.wen.zhi.cheryl@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee.wen.zhi.cheryl@vjc.edu.sg</u></a> |
+64485011 (ext. 128)
+<br>Ms Low Mun Fei | <a href="mailto:low.mun.fei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low.mun.fei@vjc.edu.sg</u></a> |
 64485011 (ext. 128)</p>
 </div>
 </details>
@@ -1097,13 +1089,12 @@ programmes, competitions and/or events;</p>
 <p>(2) <strong>Offer H2 Literature in English</strong> at the A-level Examinations;</p>
 <p>(3) Be actively involved in the Humanities Programme in VJC.
 <br>
-<br><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Ms Audrey Ngerng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngerng.xiuru.audrey@vjc.edu.sg</u></a> |
-64485011 (ext 127)</p>
-<p>Ms Loh Ver-May | <a href="mailto:loh.ver-may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh.ver-may@vjc.edu.sg</u></a> |
-64485011 (ext. 128)</p>
-<p>Mr Shaun Lim | <a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shaun.lim.tyan.gin@vjc.edu.sg</u></a> |
+<br><strong>Contact Persons:</strong>
+<br>Ms Audrey Ngerng | <a href="mailto:ngerng.xiuru.audrey@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngerng.xiuru.audrey@vjc.edu.sg</u></a> |
+64485011 (ext 127)
+<br>Ms Loh Ver-May | <a href="mailto:loh.ver-may@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loh.ver-may@vjc.edu.sg</u></a> |
+64485011 (ext. 128)
+<br>Mr Shaun Lim | <a href="mailto:shaun.lim.tyan.gin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shaun.lim.tyan.gin@vjc.edu.sg</u></a> |
 64485011 (ext. 126)</p>
 </div>
 </details>
@@ -1124,8 +1115,7 @@ their involvement in Computing-related activities, accompanied by relevant
 supporting documents.&nbsp;</p>
 </li>
 </ol>
-<p>
-<br>Supporting documents may include:</p>
+<p>Supporting documents may include:</p>
 <ul>
 <li>
 <p>Certificates from competitions such as the National Olympiad in Informatics,
@@ -1146,8 +1136,7 @@ or work attachments.</p>
 <p>Shortlisted applicants will then be invited for an interview.</p>
 </li>
 </ol>
-<p>
-<br><strong>Selection Criteria:&nbsp;</strong>
+<p><strong>Selection Criteria:&nbsp;</strong>
 </p>
 <ol>
 <li>
@@ -1165,8 +1154,7 @@ the rigour of the A-Level curriculum.
 </li>
 </ol>
 <p><strong>Expectations of students selected into the programme</strong>
-</p>
-<p>Students admitted through the Computing DSA must:</p>
+<br>Students admitted through the Computing DSA must:</p>
 <ol>
 <li>
 <p>offer H2 Computing,</p>
@@ -1181,11 +1169,10 @@ beyond</p>
 </p>
 </li>
 </ol>
-<p><strong>Contact Persons:&nbsp;</strong>
-</p>
-<p>Mr. Ridzwan Suri | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ridzwan.suri@vjc.edu.sg</u></a> |
-64485011</p>
-<p>Mrs. Yong | <a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng.meichan@vjc.edu.sg</u></a> |
+<p><strong>Contact Persons:</strong>
+<br>Mr. Ridzwan Suri | <a href="mailto:ridzwan.suri@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ridzwan.suri@vjc.edu.sg</u></a> |
+64485011
+<br>Mrs. Yong | <a href="mailto:ng.meichan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng.meichan@vjc.edu.sg</u></a> |
 64485011</p>
 </div>
 </details>
@@ -1203,8 +1190,7 @@ beyond</p>
 <p>9 July 2026 (Thursday) 3.30pm – 6.30pm</p>
 </li>
 </ol>
-<p>
-<br><strong>Format:</strong>
+<p><strong>Format:</strong>
 </p>
 <ol>
 <li>
@@ -1254,10 +1240,8 @@ review of a research article</p>
 <p>Ability to cope with the rigour of the A-Level curriculum</p>
 </li>
 </ol>
-<p>
-<br><strong>Expectations of students selected into the programme</strong>
-</p>
-<p>Students admitted through DSA Science Research must</p>
+<p><strong>Expectations of students selected into the programme</strong>
+<br>Students admitted through DSA Science Research must</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Complete a research project under the school-based research programme;</p>
@@ -1270,10 +1254,10 @@ review of a research article</p>
 </li>
 </ul>
 <p>
-<br><strong>Contact persons</strong>:&nbsp;</p>
-<p>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu.jiang@vjc.edu.sg</u></a> |
-64485011</p>
-<p>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim.cherchuan@vjc.edu.sg</u></a> |64485011</p>
+<br><strong>Contact persons</strong>:
+<br>Dr Wu Jiang | <a href="mailto:wu.jiang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu.jiang@vjc.edu.sg</u></a> |
+64485011
+<br>Mr Lim Cher Chuan | <a href="mailto:lim.cherchuan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim.cherchuan@vjc.edu.sg</u></a> |64485011</p>
 </div>
 </details>
 </div>
