@@ -920,7 +920,7 @@ found in the descriptions below.</p>
 <p>2 July 2026 (Thursday) 3.00pm – 7.00pm</p>
 </li>
 <li>
-<p>22 July 2026 (Wednesday) 3.00pm – 7.00</p>
+<p>22 July 2026 (Wednesday) 3.00pm – 7.00pm</p>
 </li>
 </ol>
 <p><strong>Venue: </strong>TSD Studio 1
