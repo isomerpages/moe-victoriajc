@@ -695,7 +695,7 @@ Singapore Schools.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Trial:</strong>
 <br>Boys and Girls:
-<br>1<sup>st</sup> trial - 22 May 2026 (Friday) 5pm;&nbsp;
+<br>1<sup>st</sup> trial - 21 May 2026 (Friday) 5pm;&nbsp;
 <br>2<sup>nd</sup> trial - 15 July 2026 (Wednesday) 5pm
 <br>
 <br><strong>Venue: </strong>VJC<strong> </strong>Hall
