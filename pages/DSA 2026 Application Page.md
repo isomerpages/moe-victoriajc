@@ -504,7 +504,8 @@ awards in the following categories of competition: International / Regional
 Singapore Schools.</p>
 </li>
 </ol>
-<p><strong>Contact Person: </strong>Mrs Lin Yehong I <a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kok.ye.hong@vjc.edu.sg</u></a> I
+<p><strong>Contact Person: </strong>
+<br>Mrs Lin Yehong I <a href="mailto:kok.ye.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kok.ye.hong@vjc.edu.sg</u></a> I
 62402135</p>
 </div>
 </details>
@@ -687,7 +688,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p><strong>Contact Person:&nbsp;</strong>Ms Judith Sim |<a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
+<p><strong>Contact Person:&nbsp;</strong>
+<br>Ms Judith Sim |<a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -729,7 +731,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p><strong>Contact Person:</strong> Mr Peter Wee |<a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>&nbsp;|
+<p><strong>Contact Person:</strong> 
+<br>Mr Peter Wee |<a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>&nbsp;|
 64438315</p>
 </div>
 </details>
@@ -771,7 +774,8 @@ Singapore Schools.</p>
 <p></p>
 </li>
 </ol>
-<p><strong>Contact Person:</strong> Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
+<p><strong>Contact Person:</strong> 
+<br>Mr Chow Siew Foong | <a href="mailto:chow.siewfoong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chow.siewfoong@vjc.edu.sg</u></a> |
 64485011</p>
 </div>
 </details>
@@ -809,7 +813,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific events.</p>
 </li>
 </ol>
-<p><strong>Contact Person: </strong>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
+<p><strong>Contact Person: </strong>
+<br>Ms Judith Sim | <a href="mailto:judith.sim.mingxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>judith.sim.mingxin@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
@@ -853,7 +858,8 @@ Singapore Schools.</p>
 <p>Selection will consider the school’s needs in specific playing positions.</p>
 </li>
 </ol>
-<p><strong>Contact Person: </strong>Mr Pung Chin Hong | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pung.chin.hong@vjc.edu.sg</u></a> |
+<p><strong>Contact Person: </strong>
+<br>Mr Pung Chin Hong | <a href="mailto:pung.chin.hong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pung.chin.hong@vjc.edu.sg</u></a> |
 64438315</p>
 </div>
 </details>
