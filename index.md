@@ -22,6 +22,15 @@ sections:
           url: /happenings-at-vjc/
       variant: center
   - infopic:
+      title: DSA
+      subtitle: Start your next chapter here
+      id: infopic
+      description: Bring what you love. We'll take it further.
+      button: Click for more details
+      url: /admissions/direct-school-admissions/
+      image: /images/DSA__website.png
+      alt: Image alt text
+  - infopic:
       title: 2025 A-Level Results
       id: infopic
       description: The Class of 2025 did us proud! Explore their achievements and
