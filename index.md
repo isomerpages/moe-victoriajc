@@ -48,4 +48,13 @@ sections:
       title: Happenings At VJC
       subtitle: EXPLORE
       button: SEE ALL
+  - infopic:
+      title: DSA
+      subtitle: Your story starts here
+      id: infopic
+      description: Bring what you love. We'll take it further.
+      button: Take your next step here
+      url: /admissions/direct-school-admissions/
+      image: /images/DSA__website.png
+      alt: Image alt text
 ---
