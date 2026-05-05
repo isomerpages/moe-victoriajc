@@ -166,8 +166,9 @@ of the JC curriculum.</p>
 strings sections, as these are our areas of need. We are not offering DSA
 places for Guzheng.
 <br>
-<br><strong>Contact Person, email and number : </strong>Ms Cindy Chan |
-<a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>| 62402138</p>
+<br><strong>Contact Person, email and number : </strong>
+<br>Ms Cindy Chan | <a href="mailto:chan.siew.fun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan.siew.fun@vjc.edu.sg</a>|
+62402138</p>
 </li>
 </ol>
 </div>
@@ -206,9 +207,8 @@ area of need.
 </p>
 </li>
 </ol>
-<p><strong>Contact Person, email and number : </strong>Ms Sandhya P. Singh
-| <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> |
-62402168</p>
+<p><strong>Contact Person, email and number : </strong>
+<br>Ms Sandhya P. Singh | <a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a> | 62402168</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -244,8 +244,8 @@ of the JC curriculum.</p>
 area of need. We are not looking for pianists.</p>
 </li>
 </ol>
-<p><strong>Contact Person, email and number :</strong> Mr Lau Wee Hua |
-<a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
+<p><strong>Contact Person, email and number :</strong> 
+<br>Mr Lau Wee Hua | <a href="mailto:lau.weehua@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau.weehua@vjc.edu.sg</a>| 62402130</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -338,8 +338,8 @@ after the audition.
 of the JC curriculum.</p>
 </li>
 </ol>
-<p><strong>Contact Person, email and number : </strong>Ms Michelle Lee Wang
-Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
+<p><strong>Contact Person, email and number : </strong>
+<br>Ms Michelle Lee Wang Ling | <a href="mailto:michelle.lee.wang.ling@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle.lee.wang.ling@vjc.edu.sg</a> |
 62402147</p>
 </div>
 </details>
@@ -373,8 +373,9 @@ undergo an interview.
 of the JC curriculum.</p>
 </li>
 </ol>
-<p><strong>Contact Person, email and number :</strong> Ms Geraldine Tay |
-<a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp; 62402134</p>
+<p><strong>Contact Person, email and number :</strong> 
+<br>Ms Geraldine Tay | <a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>|&nbsp;
+62402134</p>
 </div>
 </details>
 </div>
