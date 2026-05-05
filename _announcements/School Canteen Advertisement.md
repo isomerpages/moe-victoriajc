@@ -28,7 +28,7 @@ description: ""
 <p>Non-Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 April 2026</strong>
+<p><strong>15 May 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
