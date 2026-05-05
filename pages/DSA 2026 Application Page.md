@@ -40,7 +40,9 @@ specific Talent Area</p>
 </ul>
 <p>You should get these documents and a digital passport-sized photograph
 of yourself ready <em>before</em> you start the online application.
-<br><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 3 July 2026 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.&nbsp;</em>
+<br>
+</p>
+<p><em>* We understand that some secondary schools may not have released the Sec 4 Weighted Assessment results at the time of your application. Affected applicants may submit their DSA application by 3 July 2026 without this set of results. Once you receive the Weighted Assessment results, you may email the results to the teacher-in-charge of your chosen talent area. For Sec 5NA students who are applying, you can attach your Sec 4NA results and any Sec 5NA WA results you might have.&nbsp;</em>
 </p>
 <p>Successful applicants may be asked to show proof of originals of the above
 records during the offer phase.</p>
