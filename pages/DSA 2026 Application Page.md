@@ -326,8 +326,6 @@ in one genre, those with demonstrated strength across multiple styles are
 highly regarded.</p>
 <p>3. &nbsp; &nbsp; Applicants should possess the ability to cope with the
 academic rigour of the JC curriculum.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Contact Person, email and number :</strong> 
 <br>Mr Foo Peow Meng | <a href="mailto:foo.peowmeng@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo.peowmeng@vjc.edu.sg</a>| 62402127</p>
 </div>
