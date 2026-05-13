@@ -66,7 +66,7 @@ in public speaking and event management.</p>
 guidance from their teacher-mentor. These sessions help students reflect
 on their JC experiences, explore potential pathways, and identify opportunities
 aligned with their goals.</p>
-<h4>Alumni Mentoring Programme (Launching in 2025)</h4>
+<h4>VJConnects (Alumni Mentoring Programme)</h4>
 <p>Students will have the opportunity to connect with VJC alumni from various
 fields. This mentorship provides valuable career insights and practical
 advice, helping students prepare for future challenges and opportunities.</p>
