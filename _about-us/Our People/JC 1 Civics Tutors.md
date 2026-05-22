@@ -187,8 +187,8 @@ variant: tiptap
 <p>26S41</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khaw Hwee Ju</p>
-<p><a href="mailto:khaw.hweeju@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaw.hweeju@vjc.edu.sg</a>
+<p>Mdm Khaw Hwee Ju
+<br><a href="mailto:khaw.hweeju@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khaw.hweeju@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -262,7 +262,7 @@ variant: tiptap
 <p>Ms Lim Pei Wen
 <br><a href="mailto:lim.pei.wen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim.pei.wen@vjc.edu.sg</a>
 <br>Mr Siraj Ansari
-<br>
+<br><a href="mailto:siraj.ansari@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siraj.ansari@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -272,9 +272,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Donavan Low
-<br>
+<br><a href="mailto:low.wei.jie.donavan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low.wei.jie.donavan@vjc.edu.sg</a>
 <br>Mdm See Hui Chen
-<br>
+<br><a href="mailto:see.hui.chen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see.hui.chen@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,7 +283,9 @@ variant: tiptap
 <p>26S55</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Yik Tee</p>
+<p>Mr Teo Yik Tee
+<br><a href="mailto:teo.yiktee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo.yiktee@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +293,9 @@ variant: tiptap
 <p>26S56</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kwek Eng Yeow</p>
+<p>Mr Kwek Eng Yeow
+<br><a href="mailto:kwek.engyeow@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwek.engyeow@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -300,9 +304,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Geraldine Tay
-<br>
+<br><a href="mailto:geraldine.tay.rou.jun@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine.tay.rou.jun@vjc.edu.sg</a>
 <br>Mr Chen Yuanxin
-<br>
+<br><a href="mailto:chen.yuanxin@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen.yuanxin@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -312,7 +316,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Low
-<br>
+<br><a href="mailto:joanne.low.shuen@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne.low.shuen@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -322,7 +326,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Joseph Ng
-<br>
+<br><a href="mailto:joseph.ng.zhi.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph.ng.zhi.wei@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
