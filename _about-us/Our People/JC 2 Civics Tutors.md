@@ -101,8 +101,8 @@ variant: tiptap
 <p>25S33</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Siew Hwee June
-<br><a href="mailto:tan.siew.hwee.june@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.siew.hwee.june@vjc.edu.sg</a>
+<p>Ms Sandhya
+<br><a href="mailto:sandhya@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sandhya@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -121,8 +121,8 @@ variant: tiptap
 <p>25S35</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farahdilah bte Abas
-<br><a href="mailto:farahdilah.abas@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farahdilah.abas@vjc.edu.sg</a>
+<p>Ms Esther Lee
+<br><a href="mailto:esther.lee.chia.wei@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther.lee.chia.wei@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -183,6 +183,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Andy Luo Kangshun
 <br><a href="mailto:andy.luo@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">andy.luo@vjc.edu.sg</a>
+<br>Mr Peter Wee
+<br><a href="mailto:wee.heanteck.peter@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee.heanteck.peter@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -241,8 +243,8 @@ variant: tiptap
 <p>25S51</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Siang Hock
-<br><a href="mailto:lee.siang.hock@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee.siang.hock@vjc.edu.sg</a>
+<p>Mr Ng Hak Yee
+<br><a href="mailto:ng.hak.yee@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng.hak.yee@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -261,7 +263,11 @@ variant: tiptap
 <p>25S53</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr Goh Ker Liang
+<br><a href="mailto:goh.kerliang@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh.kerliang@vjc.edu.sg</a>
+<br>Mr Jayesh Kumar
+<br><a href="mailto:jayeshkumar.jasvantlal@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayeshkumar.jasvantlal@vjc.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -313,8 +319,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Han Zong
 <br><a href="mailto:tan.han.zong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan.han.zong@vjc.edu.sg</a>
-<br>Mr Jiang Jing
-<br><a href="mailto:jiang.jing@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jiang.jing@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -325,6 +329,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Loh Han Loong
 <br><a href="mailto:loh.han.loong@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh.han.loong@vjc.edu.sg</a>
+<br>Mr Sean Hoo
+<br><a href="mailto:hoo.kang.sean@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hoo.kang.sean@vjc.edu.sg</a>
 </p>
 </td>
 </tr>
