@@ -140,8 +140,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ramzan Bin Jantan
 <br><a href="mailto:ramzan.binjantan@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramzan.binjantan@vjc.edu.sg</a> 
-<br>Mr Irmady Khalid
-<br><a href="mailto:irmady.khalid@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irmady.khalid@vjc.edu.sg</a> 
 <br>Mdm Mas Diana Bte Abdul Malek
 <br><a href="mailto:mas.diana.abdulmalek@vjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mas.diana.abdulmalek@vjc.edu.sg</a>
 <br>Ms Nurul Syafiqah Binte Ismail
