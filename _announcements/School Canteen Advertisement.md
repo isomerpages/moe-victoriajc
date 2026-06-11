@@ -28,12 +28,11 @@ description: ""
 <p>Non-Halal Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 May 2026</strong>
+<p><strong>26 June 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Non-Halal Food Stall (Preferably Mixed Economy Rice. Open to other food stall proposals that do not include items currently sold in the school canteen).</strong>
-</p>
+<p>Mixed Economy Rice or Open to Other Suitable Proposals</p>
 </td>
 </tr>
 </tbody>
