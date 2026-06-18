@@ -253,8 +253,8 @@ area of need. We are not looking for pianists.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Date and Time of Audition :&nbsp;</strong>
-<br>09 June 2026, Thursday, 4.30pm – 7.30pm
-<br>10 June 2026, Friday, 4.30pm – 7.30pm
+<br>09 July 2026, Thursday, 4.30pm – 7.30pm
+<br>10 July 2026, Friday, 4.30pm – 7.30pm
 <br>
 </p>
 <p><strong>Venue : </strong>T18, T19
