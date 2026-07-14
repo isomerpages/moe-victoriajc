@@ -41,7 +41,7 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#E1E1E1">MrOng Hsien Chih James</td>
+<td bgcolor="#E1E1E1">Mr Ong Hsien Chih James</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr bgcolor="#CDCDCD">
