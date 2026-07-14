@@ -17,23 +17,15 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 <td width="57%" bgcolor="#CDCDCD">Chairman</td>
 </tr>
 <tr>
-<td bgcolor="#e1e1e1">Mr Loh Wai Keong</td>
+<td bgcolor="#e1e1e1">Mr Lim Han Feng</td>
 <td bgcolor="#e1e1e1">Vice-Chairman</td>
 </tr>
 <tr bgcolor="#CDCDCD">
 <td>Mr Tan Choon Seng</td>
-<td>Treasurer</td>
+<td>Honorary Treasurer</td>
 </tr>
 <tr>
 <td bgcolor="#E1E1E1">Mr Kelvin Wong</td>
-<td bgcolor="#E1E1E1">Member</td>
-</tr>
-<tr bgcolor="#CDCDCD">
-<td>Mr Lim Han Feng</td>
-<td>Member</td>
-</tr>
-<tr>
-<td bgcolor="#E1E1E1">Mr Lim Siang Chin</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr bgcolor="#CDCDCD">
@@ -41,20 +33,31 @@ The Victoria Advisory Committee (VAC) serves in a voluntary capacity to support 
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#E1E1E1">Miss Gwenda Fong</td>
+<td bgcolor="#E1E1E1">Ms Gwenda Fong</td>
 <td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr bgcolor="#CDCDCD">
-<td>Mr Tang Shiuh Huei</td>
+<td>Mr How Kwang Hwee</td>
 <td>Member</td>
 </tr>
 <tr>
-<td bgcolor="#E1E1E1">Mr Low Chun Meng</td>
-<td bgcolor="#E1E1E1">Secretary, Principal/Victoria School</td>
+<td bgcolor="#E1E1E1">Mr Ong Hsien Chih James</td>
+<td bgcolor="#E1E1E1">Member</td>
 </tr>
 <tr bgcolor="#CDCDCD">
-<td>Mr Low Swee Heng Jeffrey</td>
-<td>Secretary, Principal/Victoria Junior College</td>
+<td>Mr Yong Yih Ming</td>
+<td>Member</td>
+</tr>
+<tr>
+<td bgcolor="#E1E1E1">Ms Cherine Fok</td>
+<td bgcolor="#E1E1E1">Member</td>
+</tr>
+<tr bgcolor="#CDCDCD">
+<td>Mr Low Chun Meng</td>
+<td>Secretary, Principal/Victoria School</td>
+</tr><tr>
+<td bgcolor="#E1E1E1">Mr Low Swee Heng Jeffrey</td>
+<td bgcolor="#E1E1E1">Secretary, Principal/Victoria Junior College</td>
 </tr>
 </tbody>
 </table>
